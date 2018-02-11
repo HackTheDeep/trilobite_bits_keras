@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+<head>
+  <title>FAQ (Frequently Asked Questions) | NCSU Libraries</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta charset="utf-8" />
+<meta http-equiv="ImageToolbar" content="false" />
+<meta name="google-site-verification" content="vxwfJngqcuxRLZV58ZE38_-_fgcEf3eCqy5aMIp8oGA" />
+<meta name="viewport" id="viewport" content="width=device-width,minimum-scale=1.0,initial-scale=1.0" />
+
+<link rel="shortcut icon" href="//lib.ncsu.edu/sites/all/themes/ncsulibraries/favicon.ico">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="//www.lib.ncsu.edu/sites/all/themes/ncsulib_foundation/images/homescreen-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="//www.lib.ncsu.edu/sites/all/themes/ncsulib_foundation/images/homescreen-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="//www.lib.ncsu.edu/sites/all/themes/ncsulib_foundation/images/homescreen-icon-114x114.png" />
+<link rel="image_src" href="//www.lib.ncsu.edu/sites/all/themes/ncsulib_foundation/images/homescreen-icon-114x114.png" />
+<link href="https://cdn.ncsu.edu/brand-assets/fonts/include.css" rel="stylesheet" type="text/css" />
+<link href="//search.lib.ncsu.edu/typeahead/css/typeahead.css" rel="stylesheet" type="text/css" /> <!--typeahead-->
+
+<!-- this gets written to head.html for non-drupal pages-->
+<!-- css -->
+<link rel="stylesheet" type="text/css" href="//www.lib.ncsu.edu/sites/all/themes/ncsulib_foundation/styles/core/ncsulib_foundation.css">
+<!-- js -->
+<script type="text/javascript" src="//www.lib.ncsu.edu/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.js?v=1.10.2"></script>
+
+<!-- NEW Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-17138302-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+
+<script type="text/javascript" src="//www.lib.ncsu.edu/sites/all/themes/ncsulib_foundation/scripts/ncsulib_website.min.js"></script>
+<script src="https://use.fontawesome.com/50f10933a6.js"></script>
+
+<script type="text/javascript">
+    // instantiate foundation
+    jQuery(function() {
+        jQuery(document).foundation();
+    });
+</script>
+
+<!--[if IE 9]>
+<link rel="stylesheet" type="text/css" href="//www.lib.ncsu.edu/sites/all/themes/ncsulib_foundation/styles/core/layout/ie9.css">
+<![endif]-->
+
+<!--[if lt IE 9]>
+<script type="text/javascript" src="//code.jquery.com/jquery-1.9.min.js"></script>
+<script src="https://code.jquery.com/jquery-migrate-1.1.0.js"></script>
+<link rel="stylesheet" type="text/css" href="//www.lib.ncsu.edu/sites/all/themes/ncsulib_foundation/styles/core/layout/ie8.css">
+<script type="text/javascript" src="//www.lib.ncsu.edu/sites/all/themes/ncsulib_foundation/scripts/ie8.js"></script>
+<script type="text/javascript" src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script type="text/javascript" src="//www.lib.ncsu.edu/sites/all/themes/ncsulib_foundation/scripts/rem.js"></script>
+<![endif]-->
+
+<!-- future typeahead -->
+<script src="//search.lib.ncsu.edu/typeahead/js/typeahead.bundle.min.js" type="text/javascript"></script> <!--typeahead-->
+<script src="//search.lib.ncsu.edu/typeahead/js/quicksearch-typeahead.js" type="text/javascript"></script> <!--typeahead-->
+
+
+</head>
+<body>
+  <div class="skip-link">
+      <a href="#main-content" class="element-focusable">Skip to main contentt</a>
+  </div>
+  <div class="off-canvas-wrap">
+    <div class="inner-wrap">
+
+      <!-- HEADER: do not remove -->
+      <!-- Google Tag Manager -->
+<!-- <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KRZZ85"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KRZZ85');</script> -->
+<!-- End Google Tag Manager -->
+
+<script src="https://cdn.ncsu.edu/brand-assets/utility-bar/ub-php.js?&maxWidth=1100&color=red&showBrick=1"></script>
+
+<div id="think-do-campaign">
+	<div class="row">
+		<div class="columns show-for-medium-up medium-3 right">
+			<a href="https://campaign.ncsu.edu/where-to-give/libraries/" target="_blank"><img src="//www.lib.ncsu.edu/sites/all/themes/ncsulib_foundation/images/think-and-do-sticker.png" /></a>
+		</div>
+	</div>
+</div>
+<header class="contain-to-grid" role="banner">
+	<div class="tab-bar top-bar">
+
+		<div class="title-area">
+
+			<span id="search-toggle">
+				<a href="#"><i class="fa fa-search"></i> &nbsp; </a>
+			</span>
+
+			<div class="name">
+			  	<a href="//www.lib.ncsu.edu" title="NCSU Library" rel="home" id="logo">
+					<img itemprop="logo" src="//www.lib.ncsu.edu/sites/all/themes/ncsulib_foundation/images/ncsu-library-logo-white.png" alt="Home" />
+			  	</a>
+			</div>
+<!-- 			<nav id="nav-toggle" class="right-off-canvas-toggle" role="navigation" aria-label="mobile navigation">
+				<a href="#" id="hamburger-nav" class="hide"><i class="fa fa-bars"></i>menu</a>
+			</nav> -->
+			<section id="nav-toggle" role="navigation" aria-label="mobile navigation" class="right-small">
+        		<a class="right-off-canvas-toggle menu-icon" href="#"><span></span></a>
+      		</section>
+
+		</div>
+
+		<nav class="top-bar-section primary-nav home" role="navigation" aria-label="main navigation">
+			<ul class="primary-nav" tabindex="-1">
+	<li><a href="//www.lib.ncsu.edu/find" data-menu="find" class="primary-menu-item">Find</a></li>
+	<li><a href="//www.lib.ncsu.edu/gethelp" data-menu="help" class="primary-menu-item">Get Help</a></li>
+	<li><a href="//www.lib.ncsu.edu/services" data-menu="services" class="primary-menu-item">Services</a></li>
+	<li><a href="//www.lib.ncsu.edu/hours/hill/general" data-menu="libraries" class="primary-menu-item">Libraries</a></li>
+	<li><a href="//www.lib.ncsu.edu/about" data-menu="about" class="primary-menu-item">About</a></li>
+</ul>
+
+		</nav>
+
+	</div>
+
+	<aside class="right-off-canvas-menu">
+  <nav id="mobile-nav" role="navigation" aria-label="mobile navigation">
+  	<div id="primary-nav-mobile">
+  		<ul class="primary-nav" tabindex="-1">
+	<li><a href="//www.lib.ncsu.edu/find" data-menu="find" class="primary-menu-item">Find</a></li>
+	<li><a href="//www.lib.ncsu.edu/gethelp" data-menu="help" class="primary-menu-item">Get Help</a></li>
+	<li><a href="//www.lib.ncsu.edu/services" data-menu="services" class="primary-menu-item">Services</a></li>
+	<li><a href="//www.lib.ncsu.edu/hours/hill/general" data-menu="libraries" class="primary-menu-item">Libraries</a></li>
+	<li><a href="//www.lib.ncsu.edu/about" data-menu="about" class="primary-menu-item">About</a></li>
+</ul>
+
+  	</div>
+  	<div id="utility-nav-mobile">
+  		<ul id="utility-links">
+	<li><a href="//www.lib.ncsu.edu/askus">ASK US</a></li>
+	<li><a href="//myaccount.lib.ncsu.edu">MY ACCOUNT</a></li>
+	<li><a href="//www.lib.ncsu.edu/hours">HOURS</a></li>
+	<li><a href="//www.lib.ncsu.edu/faq/">FAQ</a></li>
+    <li><a href="https://www.lib.ncsu.edu/website/logout.php">LOG OUT</a></li>
+	<li><a href="#" class="chat-link">-</a></li>
+</ul>
+  	</div>
+  </nav>
+</aside>
+
+
+</header>
+
+<nav id="primary-nav-menus" role="navigation" aria-label="main navigation">
+	<div id="menu-find" class="primary-menu-list" >
+		<ul>
+			<li><a href="//www.lib.ncsu.edu/specialcollections">Special Collections</a></li>
+			<li><a href="//www.lib.ncsu.edu/repository">NC State Publications</a></li>
+			<li><a href="//www.lib.ncsu.edu/repository">Theses &amp; Dissertations</a></li>
+		</ul>
+		<ul>
+			<li><a href="//www.lib.ncsu.edu/data/find-data">Data</a></li>
+			<li><a href="//www.lib.ncsu.edu/gis">GIS</a></li>
+			<li><a href="//www.lib.ncsu.edu/databases/newspaper-databases.html">Newspapers</a></li>
+			<li><a href="//www.lib.ncsu.edu/ptrc">Patents and Trademarks</a></li>
+			<li><a href="//www.lib.ncsu.edu/guides/standards">Standards</a></li>
+			<li><a href="//www.lib.ncsu.edu/tests">Tests and Measurements</a></li>
+		</ul>
+		<ul>
+			<li><a href="//www.lib.ncsu.edu/catalog">Books &amp; Media</a></li>
+			<li><a href="//www.lib.ncsu.edu/articles">Articles</a></li>
+			<li><a href="//www.lib.ncsu.edu/journals">Journal Titles</a></li>
+			<li><a href="//www.lib.ncsu.edu/databases">Databases</a></li>
+			<li><a href="//reserves.lib.ncsu.edu/auth/">Course Reserves</a></li>
+			<li><a href="//www.lib.ncsu.edu/textbookservice/">Textbooks</a></li>
+		</ul>
+	</div>
+	<div id="menu-help" class="primary-menu-list">
+		<ul>
+			<li><a href="//www.lib.ncsu.edu/services/assignment-help">Assignment Help</a></li>
+			<li><a href="//www.lib.ncsu.edu/course">Course Tools</a></li>
+			<li><a href="//www.lib.ncsu.edu/do/cite-sources">Cite Sources</a></li>
+			<li><a href="//www.lib.ncsu.edu/tutorials">Videos and Tutorials</a></li>
+		</ul>
+		<ul>
+			<li><a href="//www.lib.ncsu.edu/askus">Ask Us</a></li>
+			<li><a href="//www.lib.ncsu.edu/services/researcher-support">Researcher Support</a></li>
+			<li><a href="//www.lib.ncsu.edu/digital-media-lab/techconsult">Technology Consultation</a></li>
+			<li><a href="//www.lib.ncsu.edu/workshops">Workshops</a></li>
+			<li><a href="//www.lib.ncsu.edu/cdsc">Copyright Guidance</a></li>
+		</ul>
+	</div>
+	<div id="menu-services" class="primary-menu-list">
+		<ul>
+			<li><a href="//www.lib.ncsu.edu/faculty">Faculty/Instructors</a></li>
+			<li><a href="//www.lib.ncsu.edu/graduatestudents">Graduate Students</a></li>
+			<li><a href="//www.lib.ncsu.edu/distance">Distance Learners</a></li>
+		</ul>
+		<ul>
+			<li><a href="//www.lib.ncsu.edu/services/assignment-help">Assignment Help</a></li>
+			<li><a href="//www.lib.ncsu.edu/services/digital-media-production">Digital Media Production</a></li>
+			<li><a href="//www.lib.ncsu.edu/services/makerspace">Makerspace</a></li>
+			<li><a href="//www.lib.ncsu.edu/services/researcher-support">Researcher Support</a></li>
+			<li><a href="//www.lib.ncsu.edu/services/instructor-support">Instructor Support</a></li>
+		</ul>
+		<ul>
+			<li><a href="//www.lib.ncsu.edu/borrow">Borrow, Renew, Request</a></li>
+			<li><a href="//www.lib.ncsu.edu/computing">Computing &amp; Networks</a></li>
+			<li><a href="//www.lib.ncsu.edu/spaces">Explore Spaces</a></li>
+			<li><a href="//www.lib.ncsu.edu/printing">Print, Copy, Scan</a></li>
+			<li><a href="//rooms.lib.ncsu.edu/">Reserve a Room</a></li>
+			<li><a href="//www.lib.ncsu.edu/collections/suggestpurchase">Suggest a Purchase</a></li>
+			<li><a href="//www.lib.ncsu.edu/techlending">Technology Lending</a></li>
+			<li><a href="//www.lib.ncsu.edu/tripsaver">Tripsaver</a></li>
+		</ul>
+	</div>
+	<div id="menu-libraries" class="primary-menu-list">
+		<ul>
+			<li><a href="//www.lib.ncsu.edu/hours/hill/general">D. H. Hill Library</a></li>
+			<li><a href="//www.lib.ncsu.edu/huntlibrary">James B. Hunt Jr. Library</a></li>
+			<li><a href="//www.lib.ncsu.edu/design">Design Library</a></li>
+			<li><a href="//www.lib.ncsu.edu/nrl">Natural Resources Library</a></li>
+			<li><a href="//www.lib.ncsu.edu/vetmed">Veterinary Medicine Library</a></li>
+		</ul>
+	</div>
+	<div id="menu-about" class="primary-menu-list">
+		<ul>
+			<li><a href="//www.lib.ncsu.edu/staff">Staff</a></li>
+			<li><a href="//www.lib.ncsu.edu/directories">Directories</a></li>
+			<li><a href="//www.lib.ncsu.edu/giving/friends">Friends of the Library</a></li>
+			<li><a href="//www.lib.ncsu.edu/specialcollections">Special Collections</a></li>
+			<li><a href="//www.lib.ncsu.edu/spaces">Explore Spaces</a></li>
+		</ul>
+		<ul>
+			<li><a href="//www.lib.ncsu.edu/contact">Contact Us</a></li>
+			<li><a href="//www.lib.ncsu.edu/parking">Directions &amp; Parking</a></li>
+			<li><a href="//www.lib.ncsu.edu/hours">Hours</a></li>
+			<li><a href="//www.lib.ncsu.edu/jobs">Jobs</a></li>
+			<li><a href="//www.lib.ncsu.edu/giving">Giving</a></li>
+		</ul>
+	</div>
+</nav>
+
+<section id="utility">
+	<div id="utility-bar">
+		
+		<div id="utility-search" role="search">
+			<form id="search-form" accept-charset="utf-8" method="get" action="//search.lib.ncsu.edu">
+				<input type="search" id="search-all" name="q" class="main-search-field search-header quicksearch-typeahead" placeholder="Search books, articles, journals, website" title="Search books, articles, journals, &amp; library website">
+				<button class="search-submit button show-for-small" type="submit">Search</button>
+				<button class="search-submit button hide-for-small" type="submit"><i class="fa fa-search"></i><span class="text-for-fa">Search</span></button>
+			</form>
+		</div>
+				<nav role="navigation" aria-label="utility navigation">
+			<ul id="utility-links">
+	<li><a href="//www.lib.ncsu.edu/askus">ASK US</a></li>
+	<li><a href="//myaccount.lib.ncsu.edu">MY ACCOUNT</a></li>
+	<li><a href="//www.lib.ncsu.edu/hours">HOURS</a></li>
+	<li><a href="//www.lib.ncsu.edu/faq/">FAQ</a></li>
+    <li><a href="https://www.lib.ncsu.edu/website/logout.php">LOG OUT</a></li>
+	<li><a href="#" class="chat-link">-</a></li>
+</ul>
+		</nav>
+	</div>
+</section>
+
+
+<a name="#main-content" class="element-invisible element-focusable" tabindex="-1">Skip Content</a>
+
+
+
+      <div id="content" role="document" class="page">
+        <main id="main-content" role="main" class="row l-main">
+
+          <div class="columns">
+  <h1>Frequently Asked Questions</h1>
+  <form method="get" action="search.php" name="searchbox">
+    <label for="faqsearch"><strong>Search FAQs:</strong></label>
+    <div class="row collapse">
+      <div class="medium-10 columns"><input type="text" name="q" id="faqsearch" size="10" value="" /></div>
+      <div class="medium-2 columns"><input class="button tiny" type="submit" value="SEARCH" /></div>
+    </div>
+  </form>
+</div>
+
+          <div class="columns">
+  <h2>What happened to WolfWikis?</h2>
+  <p>Since 2006, the NCSU Libraries has offered "WolfWikis," a collaborative editing tool available to all students, staff, and faculty. This proved useful for various courses, projects, workshops, events, and other activities.<br />
+<br />
+In recent years, however, interest in WolfWikis has waned, with fewer active users, fewer edits, fewer inquiries being made, and technology instruction services dropping it from their agendas.<br />
+<br />
+Therefore, the Libraries has decided to discontinue the WolfWikis service.<br />
+<br />
+If you have questions or need assistance, please contact <a href="/staff/mramasw">Mohan Ramaswamy</a>.<br />
+</p>
+  <div align="right" class="small">
+    <a href="/faq/admin/editfaq.php?id=611">#0611</a> | 2018-01-05 EP  </div>
+</div>
+<div class="columns">
+<h3>Related Questions:</h3><ul>
+<li><a href="/faq/faq.php?id=248">What happens to my wiki after I leave NCSU?</a> </li>
+</ul>
+</div>
+<div class="columns">
+  <h3>Did you find this answer helpful?</h3>
+  <form method="post" action="faq.php?id=611">
+    <input type="hidden" name="action" value="leave-feedback" />
+    <input type="radio" name="helpful" id="helpfulyes" value="Y" checked="checked" /> <label for="helpfulyes">Yes</label> &nbsp; 
+    <input type="radio" name="helpful" id="helpfulno" value="N" /> <label for="labelno">No</label> &nbsp; 
+    <input type="submit" value="Submit" />
+  </form>
+</div>
+
+          <div class="medium-5 columns">If you need more help, please <strong><a href="/askus/">Ask Us</a></strong>.</div>
+<div class="medium-2 columns"><a href="rss.php"><i class="fa fa-rss" title="RSS Feed"></i> RSS</a></div>
+<div class="medium-5 columns hide-for-small-only"><a href="/faq/admin/">[ Admin Login ]</a></div>
+
+        </main>
+      </div> <!-- end .page -->
+      <!-- FOOTER: do not remove -->
+      <footer role="contentinfo">
+	<div id="footer">
+		<div id="f-address">
+			<h3>Contact</h3>
+			<h2><link href="//www.lib.ncsu.edu/website/images/logo_small.png"><a href="//www.lib.ncsu.edu/" id="f-contact-hill">D. H. Hill Library</a></h2>
+			<p>2 Broughton Drive <br>
+				Campus Box 7111 <br>
+				Raleigh,NC 27695-7111 <br>
+				<a href="tel:9195153364" id="f-hill-phone" data-attr="phone">(919) 515-3364</a>
+			</p>
+			<h2><a href="//www.lib.ncsu.edu/huntlibrary" id="f-contact-hunt">James B. Hunt Jr. Library</a></h2>
+			<p>1070 Partners Way<br>
+				Campus Box 7132<br>
+				Raleigh, NC 27606<br>
+				<a href="tel:9195157110" id="f-hunt-phone">(919) 515-7110</a>
+			</p>
+		</div>
+
+		<div id="f-libraries">
+			<h3><a href="//www.lib.ncsu.edu/hours/hill/general">Libraries</a></h3>
+
+			<nav role="navigation" aria-label="branch libraries navigation">
+				<ul id="f-lib-links">
+					<li><a href="//www.lib.ncsu.edu/">D. H. Hill Library</a></li>
+					<li><a href="//www.lib.ncsu.edu/huntlibrary">James B. Hunt Jr. Library</a></li>
+					<li><a href="//www.lib.ncsu.edu/design">Design Library</a></li>
+					<li><a href="//www.lib.ncsu.edu/nrl">Natural Resources Library</a></li>
+					<li><a href="//www.lib.ncsu.edu/vetmed">Veterinary Medicine Library</a></li>
+				</ul>
+			</nav>
+
+			<ul id="f-util-links" role="contentinfo">
+				<li><a href="//www.lib.ncsu.edu/copyright">Copyright</a></li>
+				<li><a href="//www.lib.ncsu.edu/disabilityservices">Disability Services</a></li>
+				<li><a href="//www.lib.ncsu.edu/privacy">Privacy Statement</a></li>
+				<li><a href="//staff.lib.ncsu.edu/">Staff Only</a></li>
+			</ul>
+		</div>
+
+		<div id="f-social">
+			<h3>Follow NCSU Libraries:</h3>
+
+			<nav role="navigation" aria-label="social navigation">
+				<ul>
+					<li><a rel="noreferrer" href="http://twitter.com/ncsulibraries"><i class="fa fa-twitter"></i> Twitter</a></li>
+					<li><a rel="noreferrer" href="http://www.facebook.com/ncsulibraries"><i class="fa fa-facebook"></i> Facebook</a></li>
+					<li><a rel="noreferrer" href="http://www.youtube.com/view_play_list?p=D55CB2CA2013ACF8"><i class="fa fa-youtube"></i> YouTube</a></li>
+					<li><a rel="noreferrer" href="http://instagram.com/ncsulibraries"><i class="fa fa-instagram"></i> Instagram</a></li>
+					<li><a rel="noreferrer" href="http://www.flickr.com/photos/ncsulibraries/"><i class="fa fa-flickr"></i> Flickr</a></li>
+					<li><a href="//www.lib.ncsu.edu/rss-feeds"><i class="fa fa-rss"></i> Libraries' news</a></li>
+					<li><a  rel="noreferrer" href="#" data-reveal-id="snapchatModal"><i class="fa fa-snapchat"></i> Snapchat</a></li>
+				</ul>
+			</nav>
+			<div id="snapchatModal" class="reveal-modal tiny" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+				<p><img src="https://www.lib.ncsu.edu/sites/default/files/snapcode.png" width="100%" /></p>
+				<a class="close-reveal-modal" aria-label="Close">&#215;</a>
+			</div>
+
+			<a class="giving" href="//www.lib.ncsu.edu/giving" title="Giving to the libraries"><img src="//www.lib.ncsu.edu/sites/all/themes/ncsulib_foundation/images/giving-to-libraries.jpg" alt="Giving To The Libraries"/></a>
+
+		</div>
+
+	</div>
+</footer>
+<a class="exit-off-canvas"></a>
+
+<!-- load this here(last) to prevent conflicts -->
+<script type="text/javascript" src="//www.lib.ncsu.edu/sites/all/themes/ncsulib_foundation/scripts/chat-check.js"></script>
+
+<script type="application/ld+json">
+    {
+      "@context": [
+        "http://schema.org",
+        { "@language": "en-ca" }
+      ],
+      "@type": "Library",
+      "address":  [{
+        "@id": "_:school_edu_library_1",
+        "@type": "PostalAddress",
+        "addressCountry": "USA",
+        "addressLocality": "Raleigh",
+        "addressRegion": "NC",
+        "contactType": "Mailing address",
+        "postalCode": "27695",
+        "streetAddress": "2 Broughton Drive"
+      },
+      {
+        "@id": "_:school_edu_library_2",
+        "@type": "PostalAddress",
+        "addressCountry": "USA",
+        "addressLocality": "Raleigh",
+        "addressRegion": "NC",
+        "contactType": "Mailing address",
+        "postalCode": "27606",
+        "streetAddress": "1070 Partners Way"
+      }],
+      "location": [{ "@id": "_:school_edu_library_1" },{ "@id": "_:school_edu_library_2" }],
+      "name":  "North Carolina State University Libraries",
+      "parentOrganization": "https://www.ncsu.edu",
+      "image" : "https://www.lib.ncsu.edu/sites/all/themes/ncsulib_foundation/images/ncsu-library-logo-white.png"
+    }
+</script>
+
+    </div> <!-- end .inner-wrap -->
+  </div> <!-- end .off-canvas-wrap -->
+</body>
+</html>

@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US"> <!--<!--[endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>San Luis Obispo High School</title>
+    <meta name="keywords" content="San Luis Obispo High School">
+    <meta name="description" content="San Luis Obispo High School">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <!-- base/rest css -->
+    <link href="/css/normalize.css" rel="stylesheet">
+    <link href="/css/bootstrap.css" rel="stylesheet">
+    
+    <!-- main css -->
+    <link href="/css/structure.css?v=4" rel="stylesheet" type="text/css" media="all" />
+    <link href="/css/theme17.css?v=10" rel="stylesheet" type="text/css" media="all" />
+    <link href="/css/nivo-slider.css?v=1" rel="stylesheet" type="text/css" media="all" />
+    <link href="/css/jquery.fancybox.css" rel="stylesheet" type="text/css" media="all" />
+
+    <!-- js -->
+    <script src="/js/jquery-1.11.0.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/jquery.nivo.slider.js"></script>
+    <script src="/js/modernizr-2.6.2.min.js"></script>
+    <script src="/js/respond.src.js"></script>
+    <script src="/js/jquery.fancybox.pack.js"></script>
+    <script src="/js/jquery.main.js?v=20171116"></script>
+	
+    <link rel="shortcut icon" href="/slcusd-favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/slcusd-favicon.ico" type="image/x-icon">
+    
+    
+</head>
+<body class="page_">
+    
+	
+    <div id="row-district" class="clearfix" role="navigation">
+    	<div class="container">
+        
+							<a id="slc-link" href="http://www.slcusd.org" target="_blank"><span id="large-link">San Luis Coastal Unified School District</span><span id="small-link">SLCUSD</span></a>
+
+				<div id="district-links">
+					<ul>
+						<li><a href="http://slcusd.org/schools" target="_blank">District Schools</a></li>
+						<li><a href="http://slcusd.org/district/departments" target="_blank">District Staff</a></li>
+						<li><a href="http://slcusd.org/event-calendar.php" target="_blank">District Calendars</a></li>
+						<li id="phone"><span></span>(805) 596-4040</li>
+
+					</ul>
+				</div><!-- / #district-links -->
+			            
+        </div><!-- / .container -->
+    </div><!-- / #row-district -->
+    
+    <div id="row-branding" class="clearfix">
+        <div class="container">
+            <div id="logo-container">        
+                <a id="logo" href="/">San Luis Obispo High School</a>
+            </div><!-- / #logo-container -->
+            <h1>San Luis Obispo High School                        </h1>
+                
+                        
+            <div id="search-bar" role="search">
+            	<form action="search-results.php" method="get">
+                    <input type="text" title="Search Keywords" name="q" placeholder="search..."/>
+                    <input type="submit" title="Search" value="Search"/>
+                </form>
+            </div>
+            
+                    </div><!-- / .container -->
+    </div><!-- / #row-branding -->
+
+    <div id="row-navigation" class="clearfix head" role="navigaton">
+    	<div class="container">
+        	<a class="menu-link" href="#menu">Navigation <span></span></a>
+        
+            <nav id="menu" class="menu">
+                <ul>
+					<li class="has-submenu">
+    <a href="#">About</a>
+    <ul class="submenu">
+        <!--li><a href="http://www.slohsblackandgold.org/home.html" target="_blank">Black and Gold</a></li-->
+        <li><a href="/principals-message.php">Principal's Message</a></li>
+        <li><a href="/student-resource-details.php?id=358">Bell Schedule</a></li>
+        <li><a href="/about-mission-statement.php">Mission Statement</a></li>
+        <li><a href="/images/cms/files/SLOHIGHMAP 2017 Paint vers jpeg.jpg" target="_blank">Campus Map</a></li>
+    </ul>
+</li>
+
+<li><a href="http://www.slohsasb.com" target="_BLANK">ASB</a></li>
+
+<li><a href="http://wordpress.slcusd.org/slohsathletics/" target="_BLANK">Athletics</a></li>
+
+<li class="has-submenu"><a href="counseling.php">Counseling</a>
+    <ul class="submenu">
+        <li><a href="/counseling.php">Counseling Main Page</a></li>
+        <li><a href="/counseling-admissions-testing.php">Admissions Testing</a></li>
+        <li><a href="https://www.californiacolleges.edu/#/" target="_blank">California Colleges</a></li>
+        <li><a href="/counseling-college-admissions.php">College Admissions</a></li> 
+        <li><a href="/counseling-college-career.php">College &amp; Career Info</a></li>
+        
+        <li><a href="/counseling-graduation-requirements.php">Graduation Requirements</a></li>
+        <li><a href="/counseling-letters-of-recommendation.php">Letters Of Recommendation</a></li>
+        <li><a href="/counseling-resources.php">Resources</a></li>  
+        <li><a href="/counseling-scholarships-financial-aid.php">Scholarships &amp; Financial Aid</a></li>  
+          
+    </ul>  
+</li>
+
+<li><a href="/departments.php">Departments</a></li>
+
+<li><a href="http://wordpress.slcusd.org/slohslibrary/ " target="_blank">Library</a></li>
+
+<li class="has-submenu">
+    <a href="/parent-resources.php">Resources</a>
+    <ul class="submenu">
+        <li><a href="/parent-resources.php">Parent Resources</a></li>
+        <li><a href="/staff-resources.php">Staff Resources</a></li>
+        <li><a href="/student-resources.php">Student Resources</a></li> 
+    </ul>
+</li> 
+
+<li><a href="/staff.php">Staff</a></li>                    
+                    <li class="has-submenu mobile-only"><a href="http://www.slcusd.org">District Links</a>
+                        <ul class="submenu">
+                            <li><a href="http://www.slcusd.org" target="_blank">Homepage</a></li>
+                            <li><a href="http://www.slcusd.org/schools.php" target="_blank">Schools</a></li>
+                            <li><a href="http://www.slcusd.org/staff.php" target="_blank">Staff</a></li>
+                            <li><a href="http://www.slcusd.org/event-calendar.php" target="_blank">Calendars</a></li>
+                        </ul>
+                    </li>
+                    <li class="mobile-only">
+        <form action="search-results.php" method="get" role="search">
+            <input type="text" title="Search Keywords"  name="q" placeholder="search..."/>
+            <input type="submit" title="Search" />
+        </form>
+    </li>
+                </ul>
+                
+            </nav>
+            
+        </div><!-- / .container -->
+    </div><!-- / #row-navigation -->
+    
+    
+    
+        <div id="row-content" class="clearfix">
+    <div class="container clearfix">
+
+        <div id="main-content-wide">
+            <div class="main-content-container clearfix" role="main">
+            
+<h1>Page Not Found</h1>
+<p>The page you're looking for could not be found.  It may have been moved or deleted.  Please use the main navigation to continue or <a href="/">click here</a> to be taken to the home page.</p>
+
+                        </div>
+        </div><!-- / #main-content -->
+        
+        
+        </div><!-- / .container -->
+    </div><!-- / #row-content -->    
+    
+    <div id="row-footer" class="clearfix" role="contentinfo">
+    	<div class="container">
+        	<h2>San Luis Obispo High School</h2>
+           	<p>1499 San Luis Drive | San Luis Obispo, CA 93401 | Tel: (805) 596-4040 | Fax: (805) 542-9075 </p>
+            
+                <ul>
+                <li><a href="/principals-message.php">Principal's Message</a></li>
+<li><a href="http://www.slohsasb.com" target="_BLANK">ASB</a></li>
+<li><a href="http://wordpress.slcusd.org/slohsathletics/" target="_BLANK">Athletics</a></li>
+<li><a href="/counseling.php">Counseling</a></li>
+<li><a href="/departments.php">Departments</a></li>  
+<li><a href="http://wordpress.slcusd.org/slohslibrary/ " target="_blank">Library</a></li>
+<li><a href="/parent-resources.php">Resources</a></li>  
+<li><a href="/staff.php">Staff</a></li>           
+                </ul>
+        </div><!-- / .container -->
+    </div><!-- / #row-footer -->
+    
+    <div id="row-copyright" class="clearfix" role="contentinfo">
+    	<div class="container">
+        	<p>&copy; 2018 San Luis Coastal Unified School District | San Luis Obispo High School |
+			<a href="https://www.gainliftoff.com/managed-website-plans.php?utm_source=footer&utm_medium=web&utm_campaign=footer_links" target="_blank">Website Design and Development</a> by <a href="https://www.gainliftoff.com/?utm_source=footer&utm_medium=web&utm_campaign=footer_links" target="_blank">LIFTOFF Digital</a>			</p>
+        </div><!-- / .container -->
+    </div><!-- / #row-copyright -->
+
+</body>
+</html>

@@ -1,0 +1,2087 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-us">
+<head><title>
+	Cerritos College - Page Not Found
+</title><meta http-equiv="cache-control" content="no-cache" /><meta http-equiv="expires" content="-1" /><meta http-equiv="pragma" content="no-cache" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <script language="javascript" type="text/javascript" src="/_master/includes/jquery-1.7.1.min.js"></script>
+<script language="javascript" type="text/javascript" src="/_master/includes/top_level_2014.js"></script>
+<script language="javascript" type="text/javascript" src="/scripts/calendar/calendar_condensed_years.js"></script>
+    
+<meta name="ROBOTS" content="noindex,nofollow" />
+
+<style type="text/css">
+/*320px(iPhone portrait, default), 480px (iPhone landscape), 600px, 768px(iPad portrait), 900px, 1024px (iPad landscape)*/
+/* ucsd.edu break point: 1200, 960, 755?, 585?, 460, 300  */
+/* updated with ifalcon include styles 
+   updated with no mobile margins left and right */
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, sub, sup, tt, var,
+u, i, center,
+dl, dt, dd,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1.4;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* end reset */
+.strikethrough {text-decoration:line-through;}
+.underline {text-decoration:underline;}
+.italic {font-style:italic;}
+.bold {font-weight:bold;}
+.center {text-align:center;}
+.right {float:right;}
+.left {float:left;}
+.justify {text-align:justify;}
+img.image {margin:.5em; border:.1em solid #333;}
+.bottom {vertical-align: bottom;}
+.AbcGoButton {font-size: inherit;}
+#ccHeading {position:absolute; left:-75em;}
+.searchText {font-size:1em; display:none;}
+.desktopDisplay {position: static; left:0em;}
+.mobileDisplay {  position:absolute; left:-75em;}
+.middle { vertical-align:middle;}
+#headerDiv {display:block;}
+#menuButtonMobileHeader {display:none;}
+.bigFont {font-size:1.2em;}
+#AbcDiv, #EmployeesHeaderDiv {margin-top:.75em;}
+.noscript {margin:0 auto; text-align:center;width:100%;color:#fff;background-color:#009;}
+ul.dateLinks li
+{
+  list-style:none;
+  display:block;
+ }
+ul.dateLinks li
+{
+    font-size:1em;
+ padding:.5em;
+ display: inline-block;
+ }
+ul.dateLinks li a:link, ul.dateLinks li a:visited
+{
+    color:#000;
+    background-color:#fff;
+    padding:.5em;
+    border:.091em solid #000;
+ } 
+ul.dateLinks li a:hover,ul.dateLinks li a:focus,ul.dateLinks li a:active, ul.dateLinks li.selected a:link, ul.dateLinks li.selected a:visited
+{
+    color:#fff;
+    background-color:#009;
+    border:.091em solid #000;
+ }  
+.pageletHeaderImg 
+{
+    max-width:95%;  
+    border:0.091em solid #333;
+    margin:0 .5em .5em .4em;
+}
+#menuStudents img
+{vertical-align:middle;}
+#menuStudents > ul.pageletLinks
+{   margin: 0.455em;
+	padding:0;
+	display:block;
+	text-align:left;
+	font-size:1.1em;
+    list-style-type:none;
+    border-top: solid 0.091em #ccc;
+    overflow:hidden;
+    font-family:Arial, Helvetica, sans-serif;
+    } 
+#menuStudents > ul.pageletLinks li 
+{
+    background-image:none;
+    display:block;
+    overflow:hidden;
+    white-space: nowrap;
+    margin:0;
+    padding:0;
+    border-bottom:0.091em solid #ccc;
+    list-style:none;
+
+    }  
+#menuStudents > ul.pageletLinks li a
+{
+text-decoration:none;
+margin:.1em 0;
+padding:0;
+color:#000;
+background-color:#fff;
+background-image:none;
+
+display:block;
+}
+#menuStudents > ul.pageletLinks a:hover,#menuStudents > ul.pageletLinks a:focus
+{
+text-decoration:none;
+margin:.1em 0;
+padding:0;
+color:#000;
+background-color:#ebb521;
+background-image:none;
+display:block;
+}
+.goButton {vertical-align:middle;}
+ul.menuButton{
+display:none;
+}
+#DisclaimerDiv 
+{
+    margin:1em 0;
+    text-align:center;
+    font-size:.8em;
+    color:#eee;
+    background-color:#009;
+    width:100%;
+    font-family:Arial, Helvetica, sans-serif;
+    } 
+#DisclaimerDiv a:link, #DisclaimerDiv a:visited 
+{
+    color:#eee;
+    background-color:#009;
+    }
+#DisclaimerDiv a:hover, #DisclaimerDiv a:focus, #DisclaimerDiv a:active 
+{
+    color:yellow;
+    background-color:#009;
+    }  
+
+.CalColumnWrapper 
+{
+    min-height:3.125em;
+    padding:.5em 0;
+    border-top:dashed 0.091em #565347;
+    width:100%;
+    margin:0 auto;
+    overflow:visible;
+    float:left;
+    }
+.CalColumn1Of3
+{   /*max-width: 15%;*/
+    min-width: 7%;
+    min-height:1.875em;
+    float:left;
+    margin:0 auto;
+    overflow:hidden;
+    text-align:center;
+    border:solid 0.091em #666;
+    white-space:nowrap;
+    }
+.CalColumn2Of3
+{   
+    width:50%;
+    min-height:3.2em;
+    float:left;
+    margin:0 auto;
+    margin-left:0.714em;
+    overflow:hidden;
+    border:solid 0.091em #549FCC;
+    padding:0.538em;
+    text-align: center;
+    font-family: Tahoma, Arial, Helvetica, Sans-Serif; /* Georgia,Times New Roman,Times, Serif;*/
+    font-size:.9em;
+    font-weight:bold;
+    color:#333;
+    background-color:#fff;
+    background-image:url("/_master/images/pagelet-bg-grad-teal.jpg");
+    background-repeat:repeat-x;
+    }    
+.CalColumn3Of3
+{   width: 50%;
+    min-height:1.875em;
+    float:left;
+    margin:0 auto;
+    margin-top:.5em;
+    overflow:hidden;
+    padding:0 0.714em;
+    font-family:Arial, Helvetica, Sans-Serif; 
+    font-size:.9em;
+   color:#333;
+   background-color:#fff;
+    }   
+ .event_month 
+{
+    font-family: Georgia,Times New Roman,Times, Serif;
+    color: #820000; 
+              font-size: .9em; 
+              display: block;
+              background-color:#ddd;
+              border-bottom:0.091em solid #666;
+              padding:.1em .3em;
+}
+.event_day  
+{
+    font-family: Georgia,Times New Roman,Times, Serif; 
+   font-size: 1.2em; 
+    color: #565347; 
+    display: block;
+    background-color:#FFEAA1;
+    padding:0.182em .25em 0.364em .25em;}
+    
+/* calendar styles */
+
+#hometabs 
+{
+    margin:0;
+    overflow:hidden;
+    text-align:right;
+    float:left;
+    border:0;
+    background-color:#fff;
+    color:#000;
+    border-bottom:0;
+    width:99.5%;
+    }
+    
+.indentmenu {
+font-family: Georgia,Times New Roman,Times, Serif; 
+font-weight:bold;
+font-size:1.1em;
+ border-top:0.1em solid #666;
+ border-left:0.1em solid #666;
+ border-right:0.1em solid #666;
+    border-top-right-radius:0.188em;	
+    -moz-border-radius-topright:0.188em;	
+    -webkit-border-top-right-radius:0.188em;
+    border-top-left-radius:0.188em;	
+    -moz-border-radius-topleft:0.188em;	
+    -webkit-border-top-left-radius:0.188em;
+ margin:0 .5em;
+ padding-top:.3em;
+ color:#000;
+ background-color:#ddd; 
+}
+
+.indentmenu ul {
+margin: 0;
+padding: 0;
+float: left;
+}
+
+.indentmenu ul li {
+display: inline;
+margin: 0;
+padding: 0;
+}
+
+.indentmenu ul li a:link, .indentmenu ul li a:visited {
+float: left;
+ border-top:0.1em solid #666;
+ border-left:0.1em solid #666;
+ border-right:0.1em solid #666;
+ border-top-right-radius:0.188em;	
+    -moz-border-radius-topright:0.188em;	
+    -webkit-border-top-right-radius:0.188em;
+    border-top-left-radius:0.188em;	
+    -moz-border-radius-topleft:0.188em;	
+    -webkit-border-top-left-radius:0.188em;
+  text-decoration:none;
+  color:#000;
+  background-color:#ddd;
+  padding:0 0.500em;
+  margin:0em 0 0 .5em;
+}
+
+.indentmenu ul li a:hover,.indentmenu ul li a:focus, .indentmenu ul li a:active {
+ color:#000 !important;
+ background-color:#fff;
+ padding:0 0.500em;
+ margin:0em 0 0 .5em;
+}
+
+.indentmenu ul li a.selected {
+ border-top:0.1em solid #666;
+ border-left:0.1em solid #666;
+ border-right:0.1em solid #666;
+border-top-right-radius:0.188em;	
+    -moz-border-radius-topright:0.188em;	
+    -webkit-border-top-right-radius:0.188em;
+    border-top-left-radius:0.188em;	
+    -moz-border-radius-topleft:0.188em;	
+    -webkit-border-top-left-radius:0.188em;
+  text-decoration:none;
+  color:#000 !important;
+  background-color:#fff;
+  padding:0 0.500em;
+  margin:0em 0 0 .5em;
+}
+
+.tabcontentstyle { 
+border-left: 0.1em solid #5770BC;
+border-right: 0.1em solid #5770BC;
+border-bottom: 0.1em solid #5770BC;
+border-top: .15em solid #009;
+width: 98%;
+width:auto;
+padding:.5em;
+background-color:#fff;
+color:#000;
+background-image:url("/_master/images/pagelet-bg-grad-teal.jpg");
+background-repeat:repeat-x;
+float:left;
+margin:0 auto;
+font-size:1em;
+}
+
+.tabcontent
+{
+display:none;
+overflow: auto;
+}
+
+.CalendarBlock {
+	border:0.091em solid gray;
+	background-color: #FCF5D6; 
+	color:#000;
+	font-size:1em;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	margin:0 5em 0 0;
+	padding:.5em;
+	text-align:left;
+	min-height:1em;
+	width:97.5%;
+	}
+.CalendarTitle {
+	margin:1em 0 1em 0;
+	font-size:1em;
+	font-weight:bold;
+	}
+body 
+{
+    color:#000;
+    background-color: #009;
+    margin:0;
+    font-family: Georgia,Times New Roman,Times, Serif; 
+}
+.orange{background-color:#ffc64a;color:#000;}
+.green{background-color:#bbd95f;color:#000;}
+.blue{background-color:#80dbf4;color:#000;}
+.button,.button:visited {display:inline-block;
+                         padding:0.455em 0.714em;
+                           margin-right:0.188em;
+                           margin-bottom:1.5em;
+                           /*color:#000;
+                           background-color:*/
+                           font-weight:bold;
+                           text-decoration:none;
+                           border-radius:0.188em;
+                           box-shadow:0 0.182em 0.182em rgba(0,0,0,0.2);
+                           border-bottom:0.182em solid rgba(0,0,0,0.2);
+                           position:relative;
+                           cursor:pointer}
+                           
+.button:hover,.button:focus{background-color:#009;
+                            color:#fff}
+.button:active{top:0.091em;}
+/* abc, employees */
+.CorporateIMG {display:block;margin:2em;}
+/*.EmployeeItem
+{
+    border-bottom:solid 0.091em #ccc;
+    padding:.2em 0;
+    text-align:left;
+    } 
+.EmployeeItem a,.EmployeeItem a:visited
+{
+    color:#009;
+    background-color:Transparent;
+    text-decoration:underline;
+    }    
+.EmployeeItem a:hover,.EmployeeItem a:active,.EmployeeItem a:focus
+{
+    color:#fff;
+    background-color:#009;
+    }  */     
+ul.AbcItem 
+{
+    list-style:none;
+    padding:0;
+    margin:0;
+    }  
+ul.AbcItem li 
+{
+    text-align:left;
+    overflow:hidden;
+    white-space:nowrap;
+    font-size:1.05em;
+    line-height:1.75em;
+    border-bottom:solid 0.091em #ccc;
+    }
+ul.AbcItem li a 
+{
+    text-decoration:none;
+    font-weight:normal;
+     line-height:1.75em;
+    }
+ul.AbcItem li a:link, ul.AbcItem li a:visited 
+{
+    color:#000;
+    background-color:#fff;
+    padding:1em 100% 1em 0;
+    } 
+ul.AbcItem li a:hover, ul.AbcItem li a:focus
+{
+    color:#fff;
+    background-color:#009;
+    padding:1em 100% 1em 0;
+    }
+   
+ul.AbcItem li a:active 
+{
+    color:#FFED7C;
+    background-color:#009;
+    padding:1em 100% 1em 0;
+    } 
+ul.emplItem 
+{
+    list-style:none;
+    padding:0;
+    margin:0;
+    }  
+ul.emplItem li 
+{
+    text-align:left;
+    white-space: normal;
+    font-size:1.05em;
+    line-height:1.75em;
+    border-bottom:solid 0.091em #ccc;
+    }
+ul.emplItem li a 
+{
+    text-decoration:underline;
+    font-weight:normal;
+    }
+ul.emplItem li a:link, ul.emplItem li a:visited 
+{
+    color:#009;
+    background-color:#fff;
+    } 
+ul.emplItem li a:hover, ul.emplItem li a:focus
+{
+    color:#fff;
+    background-color:#009;
+    }
+   
+ul.emplItem li a:active 
+{
+    color:#FFED7C;
+    background-color:#009;
+    } 
+.ItemIndexHeading 
+{
+    border-bottom:solid 0.091em #ccc;
+    text-align:center;
+    padding:.2em 0;
+    font-weight:bold;
+    color:#fff;
+    background-color:#009;
+    }
+.IndexHeading
+{   
+    list-style:none;
+    display:block;
+    padding:0;
+    font-weight:bold;
+    font-size:1em;
+    color:#000;
+    background-color:#fff;
+    margin:.5em 0;
+    text-align:left; 
+    line-height:1.5em;
+    }
+.IndexHeading li
+{   
+    display:inline-block;
+    margin:.25em;
+    padding:0em;
+    } 
+.IndexHeading li a:link, .IndexHeading li a:visited
+{   
+    display:inline-block;
+    background-color: #FFED56;
+    color:#000;
+    padding:0 .4em;
+    margin:0 ;
+    } 
+.IndexHeading li a:active, .IndexHeading li a:hover, .IndexHeading li a:focus
+{   
+    display:inline-block;
+    background-color: #009;
+    color:#fff;
+    padding:0 .4em;
+    margin:0;
+    } 
+li.IndexHeadingSelected 
+{
+    padding:0 .4em;
+    margin:0;
+    border:solid 0.091em #000;
+    }
+ul.HeadingTab
+{
+    padding:0;
+    margin:.5em 0 0 0;
+    white-space:nowrap;
+    list-style:none;
+    display:block;
+    }
+ul.HeadingTab li
+{
+    white-space:nowrap;
+    display:inline-block;
+    text-decoration:none;
+     border-top-right-radius:0.188em;	
+    -moz-border-radius-topright:0.188em;	
+    -webkit-border-top-right-radius:0.188em;
+    border-top-left-radius:0.188em;	
+    -moz-border-radius-topleft:0.188em;	
+    -webkit-border-top-left-radius:0.188em;
+  border-top:solid 0.091em #009;
+  border-left:solid 0.091em #009;
+  border-right:solid 0.091em #009;
+  color:#000;
+  background-color:#fff;
+  padding:0;
+  margin:0;
+    }
+ul.HeadingTab li.selected
+{
+  color:#000;
+  background-color:#fff;
+  padding:0 .5em;
+  margin:0 0 0 0;
+ } 
+ul.HeadingTab li.linked a:link, ul.HeadingTab li.linked a:visited
+{
+  color:#000;
+  background-color:#ddd;
+  padding:.15em .5em;
+  margin:0 0 0 0;
+  
+   border-top-right-radius:0.188em;	
+    -moz-border-radius-topright:0.188em;	
+    -webkit-border-top-right-radius:0.188em;
+    border-top-left-radius:0.188em;	
+    -moz-border-radius-topleft:0.188em;	
+    -webkit-border-top-left-radius:0.188em;
+ }  
+ul.HeadingTab li.linked a:hover, ul.HeadingTab li.linked a:focus, ul.HeadingTab li.linked a:active
+{
+ color:#000;
+  background-color:#fff;
+  padding:.15em .5em;
+  margin:0 0 0 0;
+  
+   border-top-right-radius:0.188em;	
+    -moz-border-radius-topright:0.188em;	
+    -webkit-border-top-right-radius:0.188em;
+    border-top-left-radius:0.188em;	
+    -moz-border-radius-topleft:0.188em;	
+    -webkit-border-top-left-radius:0.188em;
+ }  
+
+ /*.HeadingTabClear {    float:none;
+  clear:none;}*/
+
+.searchHilite {background-color:Yellow;color:#000;} 
+.tabH4
+{
+   width:97%;
+   color:#fff;
+   font-family:Arial, Helvetica, sans-serif;
+   font-weight:bold;
+   font-size:.8em;
+   padding:0.091em 0.714em 0.182em 0.714em;
+   background-image:url(/_master/images/indentbg-prp-off-invert.jpg);
+   background-position:  left  center;
+   background-repeat:  repeat-x;
+   background-color:#702A9A;
+   border:solid 0.091em #5770BC;
+   display:block;
+   margin:0 0 .5em 0;
+   overflow:hidden;
+    }
+#page 
+{
+    border:0.091em solid #006;
+    background-color:#fcf5d6;
+    color:#000;
+    margin: 0 auto;
+    display: block;
+    overflow: hidden;
+    border-radius: 0;
+    box-shadow: 0 0 0.714em 0em  #fcf5d6 ; /* box-shadow: h-shadow v-shadow blur spread color inset; */
+    -webkit-box-shadow: 0 0 0.538em 0em  #fcf5d6;
+    -moz-box-shadow: 0 0 0.538em 0em  #fcf5d6;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0; 
+}
+.FormFieldSearch
+{
+  font-family: Arial,Helvetica,sans-serif;
+  font-style:italic;
+  font-weight: normal;
+  background-color: #eee;
+  color:#000; 
+  vertical-align: bottom;
+  height:.9em;
+  width:8em;
+  font-size:inherit;
+}
+.announcementsItem 
+{
+    /*background-image:url("http://www.cerritos.edu/_master/images/pagelet-bg-grad-teal.jpg");*/
+    background-image:url("/images/grad-bg-yel.jpg");
+    background-repeat:repeat-x;
+    border:0.091em solid #999;
+    width:90%;
+    padding:0.714em;
+    color:#006;
+    background-color:#fff;
+    margin:0 .2em .7em .2em;
+    float:left;
+    font-size:.85em;
+    text-align:left;
+    font-family: georgia,"times new roman",times,serif;
+    }
+.announcementsItem a
+{
+    font-weight:bold;
+   /*color:#009;
+    background-color:transparent;*/
+    }
+.announcementsItem a:hover, .announcementsItem a:active, .announcementsItem a:focus
+{
+    font-weight:bold;
+    color:#fff;
+    background-color:#009;
+    }
+
+.tabcontent a:link,.tabcontent a:visited   {
+	text-decoration:underline;  
+	color: #009;
+	background-color:#fff;
+	}
+.tabcontent a:hover, .tabcontent a:active, .tabcontent a:focus    {
+	text-decoration:underline; 
+	color:#fff;
+	background-color:#009; 
+	}
+.tabcontent > .dateLinks  {
+		padding:.4em; 
+		
+	}	
+.tabcontent > .dateLinks a:link,.tabcontent > .dateLinks a:visited   {
+	text-decoration:underline;  
+	/*color: #009;
+	background-color:transparent; */
+	padding:.4em; 
+	}
+.tabcontent > .dateLinks a:hover, .tabcontent > .dateLinks a:active, .tabcontent > .dateLinks a:focus    {
+	text-decoration:underline; 
+	color:#fff;
+	background-color:#009; 
+	}	
+#headerDiv 
+{   
+     background-image:url("/_master/images/ribbon-trans-1200x.png");
+    /*background-image:url("/images/New-homepage-banner_nologo.jpg");ribbon2.jpgNew-homepage-banner_nologo.jpg
+   background-image:url("/images/ribbon-trans-bg3.png");*/
+    background-position: bottom;
+    background-repeat:no-repeat;
+     height:5.625em;
+   /* background-color:transparent;
+    color:#eee;*/
+    text-align:center;
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+    }
+
+#headingDiv 
+{
+
+    white-space:nowrap;
+    margin:0 auto;
+    height:3.750em;
+    /*z-index:300;
+    position:relative;*/
+    float:left;
+    }
+#cclogo 
+{
+    height:5em;
+   /* z-index:300;
+    position:absolute;*/
+    margin:0;
+    padding:0;
+    text-align:left;
+    float:left;
+          }
+ul.mobileHeaderLinks 
+{
+    display:block;
+   /* text-align:left;
+    width:100%;
+    font-size:1.2em;
+    overflow:hidden;*/
+    margin:.7em 0 0 0;
+}
+ul.mobileHeaderLinks li
+{
+    display:inline-block;
+   /* font-size:1.5em;
+    white-space:nowrap;
+    padding:.25em 0 .25em 0;*/
+    padding:0;
+}
+#searchBoxDiv 
+{
+    width:70%;
+    /*color:#eee;
+    background-color:transparent;*/
+    margin:0 auto;
+   /* padding:0.8em 0 0 1em;*/
+    padding:0;
+    vertical-align:bottom;
+    text-align:right;
+    font-size:.9em;
+    float:left;
+    }
+#searchBoxDiv a:link, #searchBoxDiv a:visited 
+{
+    color:#fff;
+    background-color:transparent;
+    
+    text-decoration:none;
+    }
+#searchBoxDiv a:hover, #searchBoxDiv a:active, #searchBoxDiv a:focus
+{
+    color:yellow;
+    background-color:#009;
+
+    text-decoration:underline;
+    } 
+#sidebarLeft, #sidebarRight
+{
+    float:left;
+    width: 20%;
+    padding:0 1% 2% 1%;
+   /* background-color:transparent;*/
+    font-size:.9em;
+    margin:0;
+}
+/*#sidebarLeft > .pageletSmall
+{
+    min-height:25em;
+}*/
+
+#contentDiv {
+    margin: 0 auto;
+   /* background-color:transparent;*/
+    display: block;
+    float: left;
+    padding:0;
+    width:77%;
+}
+
+.pageletMedium 
+{
+   /* background-image:url("http://www.cerritos.edu/_master/images/pagelet-bg-grad-teal.jpg");
+    background-repeat:repeat-x;*/
+    background-position:0 0;
+    overflow:hidden;
+    text-align:left;
+    font-size:.9em;
+    background-color: #fff;
+    color:#000;
+    border: 0.091em solid #666;
+    padding:1%;
+    margin:-.3em 2% 1em 0;
+    display:block;
+    width:97.5%;
+    min-height:0;
+    float: left;
+border-radius: 0;
+box-shadow: 0 0 0.714em 0em  #666 ; /* box-shadow: h-shadow v-shadow blur spread color inset; */
+-webkit-box-shadow: 0 0 0.538em 0em  #666;
+-moz-box-shadow: 0 0 0.538em 0em  #666;
+-webkit-border-radius: 0;
+-moz-border-radius: 0;
+}
+.pageletSmall
+{
+    background-image:url("http://www.cerritos.edu/_master/images/pagelet-bg-grad-teal.jpg");
+    background-repeat:repeat-x;
+    background-position:0 1.188em;
+    overflow:visible;
+    white-space:normal;
+    font-size:0.9em;
+    background-color: #fff;
+    color:#000;
+    border: 0.091em solid #666;
+    padding: 1%;
+    margin: -.3em 1% 0 1%;
+    width:95%;
+    float: left;
+border-radius: 0;
+box-shadow: 0 0 0.714em 0em  #666 ; /* box-shadow: h-shadow v-shadow blur spread color inset; */
+-webkit-box-shadow: 0 0 0.538em 0em  #666;
+-moz-box-shadow: 0 0 0.538em 0em  #666;
+-webkit-border-radius: 0;
+-moz-border-radius: 0; 
+    }
+
+#footer 
+{
+    clear:left;
+    color:#000;
+    background-color:#fff;
+    text-align:center;
+    padding:1%;
+    font-size:0.8em;
+    background-image:url("/images/footer-tri-yellow-grad3.jpg");
+    border-top:0.091em solid #006;
+    
+    }
+#footer a:link, #footer a:visited
+{
+    color:#000;
+    background-color:transparent;
+    }
+#footer a:hover, #footer a:active
+{
+    color:#eee;
+    background-color:#009;
+    }
+#announcementsDiv ul.pageletLinks 
+{
+    margin: 0.455em;
+	padding:0;
+	display:block;
+	text-align:left;
+    list-style-type:none;
+   border-top:solid 0em #999;
+    }
+#announcementsDiv ul.pageletLinks li
+{
+    background-image:url('http://www.cerritos.edu/_master/images/caret-6pt-blu.gif');
+    background-position:right center;
+    background-repeat:no-repeat;
+    white-space:normal;
+    border-bottom:solid 0.091em #999;
+    padding:0;
+    margin:0 auto;
+     overflow:visible;
+     display:inline-block;
+     width:100%;
+     font-family: georgia,"times new roman",times,serif;
+     font-size:1em;
+    }
+#announcementsDiv ul.pageletLinks li a
+{
+    white-space:normal;
+    width:100%;
+    padding:.25em 0;
+  text-decoration:none;
+  color:#000;
+  background-color:#fff;
+  display:block;
+  font-weight:normal;
+    }  
+#announcementsDiv ul.pageletLinks li a:hover,#announcementsDiv ul.pageletLinks li a:active,#announcementsDiv ul.pageletLinks li a:focus
+{
+  padding:.25em 0;
+  background-color:#009;
+  color:#fff;
+}
+ul.searchList
+{
+    margin: 0.455em;
+	padding:0;
+	display:block;
+	text-align:left;
+    list-style-type:none;
+    border-top: dotted 0.091em #999;
+    overflow:hidden;
+    }
+ul.searchList li
+{
+     border-bottom:dotted 0.091em #999;
+    padding:.2em 0;
+    margin:0 auto;
+     white-space:nowrap;
+     overflow:hidden;
+     display:inline-block;
+     width:100%;
+     font-family: georgia,"times new roman",times,serif; 
+     font-size:1em;
+    }
+ul.searchList li a
+{
+
+  text-decoration:underline;
+ /* color:#009;
+  background-color:transparent;*/
+
+    }
+ul.searchList li a:active, ul.searchList li a:hover,ul.searchList li a:focus
+{
+
+  background-color:#009;
+  color:#fff;
+
+    }
+
+ul.pageletLinks
+{   margin: 0.455em;
+	padding:0;
+	display:block;
+	text-align:left;
+    list-style-type:none;
+    border-top: dotted 0.091em #999;
+    overflow:hidden;
+    }
+ul.pageletLinks li
+{   
+    border-bottom:dotted 0.091em #999;
+    padding:0;
+    background-image:url('http://www.cerritos.edu/_master/images/caret-6pt-blu.gif');
+    background-position:right center;
+    background-repeat:no-repeat;
+    margin:0 auto;
+     white-space:nowrap;
+     overflow:hidden;
+     display:inline-block;
+     width:100%;
+    }
+.pageletSmall ul.pageletLinks li a
+{
+  padding:0.364em 100% 0.364em 0;
+  text-decoration:none;
+  /*color:#000;
+  background-color:transparent;*/
+  display:block;
+}
+ul.pageletLinks li a:hover, ul.pageletLinks li a:active, ul.pageletLinks li a:focus
+{
+    padding:0.364em 100% 0.364em 0;
+  background-color:#009;
+  color:#fff;
+  background-image:url('/images/caret-6pt-wht.png');
+    background-position:right center;
+    background-repeat:no-repeat;
+}
+
+.pageletHeadingMedium 
+{
+    width:97%;   
+      
+    font-family: georgia,"times new roman",times,serif;  
+    font-weight:bold;   
+    font-size:1.2em;   
+    padding:0.091em 0.714em 0 0.714em;      
+   background-color:#fff; color:#000;  
+    color:#000; 
+    border-bottom:solid 0.188em #339;   
+    display:block;   
+    margin:0 0 0 0;  
+    overflow:hidden;
+    text-align:left;
+    }
+.pageletHeadingSmall 
+{
+    background-color: #009;
+    background-image:url(http://www.cerritos.edu/_master/tabs/indentbg-blu-off.jpg);
+    background-repeat:repeat-x;
+    font-size:1em;
+    font-weight:bold;
+    color:White;
+    margin:-0.2em -0.2em 0.714em -0.2em;
+    padding:0.188em 0.455em;
+    }   
+.pageletSubHeading 
+{
+   /* background-color:transparent;color:#000;*/
+    border-bottom: 0.188em solid #339;
+    font-size:1em;
+    font-weight:bold;
+    font-family: georgia,"times new roman",times,serif;
+    
+    margin:1em 0 .5em 0;
+    padding:0 0 0 .5em;
+    width:96%;
+    text-align:left;
+    } 
+
+.left {float:left; clear:left;}
+.image {max-width:100%;border:0.091em solid #333;margin:0;}
+
+.pageletMedium > a:link,.pageletMedium > a:visited 
+{
+    /*color:#009; background-color:transparent; */
+    font-size:.9em;}
+.pageletMedium > a:hover,.pageletMedium > a:active,.pageletMedium > a:focus {color:#fff; background-color:#009; font-size:.9em;}
+#TripleCols1 
+{
+    float:left;
+    width:32%;
+    }
+#TripleCols2 
+{
+    float:left;
+    width:32%;
+    margin-left:1.5%;
+    }
+#TripleCols3 
+{
+    float:left;
+    width:32%;
+    margin-left:1.5%;
+    }
+#doubleCols1 
+{
+    float:left;
+    max-width:48%;
+    }
+#doubleCols2 
+{
+    float:left;
+    width:40%;
+    margin-left:1.5%;
+    }  
+
+#translations {
+             
+               margin:0 auto;
+               text-align:center;
+               width:100%;
+               }
+.gs-promotion-text-cell {
+    padding-left: 1em;
+}
+                
+/* reformatting */
+@media all and (min-width: 1200px) /* desktop 1200 ------------------------*/
+    {
+        #page {
+    width:75em;
+}
+
+
+}
+@media all and (max-width: 1199px) 
+    {
+        #page {
+    width:99.8%;
+}
+#searchBoxDiv 
+{
+    width:70%;
+    float:right;
+    text-align:center;
+    }
+.tabcontentstyle { 
+width: 98%;
+}/**/
+        }
+@media all and (max-width: 925px) /* 925, 3 column ------------------------*/
+    {
+.tabcontentstyle { 
+width: 97%;
+}/**/
+#headerDiv{min-height:6.250em;}
+#translations {
+               float:left;
+               margin:0 auto;
+               text-align:right;
+                }
+#searchBoxDiv 
+{
+    width:65%;
+    text-align:center;
+    float:right;
+    }
+#page {
+    width:99.7%;
+}
+ 
+#sidebarRight
+{
+    clear:left;
+    float:left;
+    width: 99.8%;
+    padding:0 1% 2% 1%;
+}
+#sidebarRight > .pageletSmall
+{
+    font-size:0.9em;
+    background-color: #fff;
+    color:#000;
+    border: 0.091em solid #666;
+    padding:0 1%;
+    margin: 0 1% 0 1%;
+    width:45%;
+    float: left;
+border-radius: 0;
+box-shadow: 0 0 0.714em 0em  #666 ; /* box-shadow: h-shadow v-shadow blur spread color inset; */
+-webkit-box-shadow: 0 0 0.538em 0em  #666;
+-moz-box-shadow: 0 0 0.538em 0em  #666;
+-webkit-border-radius: 0;
+-moz-border-radius: 0; 
+    }
+#sidebarRight > .pageletSmall > .pageletHeadingSmall 
+{
+    margin:0 -0.692em 0.714em -0.692em;
+    } 
+
+ul.pageletLinks li a
+{   
+   margin:0;
+   padding:0.364em 100% 0.364em 0;
+   text-decoration:none;
+   font-weight:normal;
+   /*color:#000;*/
+   display:block;
+    }
+ul.pageletLinks li a:hover, ul.pageletLinks li a:active, ul.pageletLinks li a:focus
+{
+    margin:0;
+padding:0.364em 100% 0.364em 0;
+background-color: #009;
+color:#fff;
+}
+#announcementsDiv a {font-size:1em;}
+
+        }
+@media all and (max-width: 768px) /* 768, 2 column ---------------------------------*/
+    {
+/*
+note--gatewayNav: ul uses block, li uses inline-block, li a uses block
+}*/
+/*style of tab content container
+
+ .HeadingTabClear     
+ {
+     float:left;
+  clear:left;}*/
+#headingDiv 
+{
+
+    white-space:nowrap;
+    margin:0 auto;
+    height:3.750em;
+    float:left;
+    }
+#hometabs 
+{
+    width: 100%;
+    }
+.tabcontentstyle { 
+width: 97%;
+}
+.CalColumnWrapper 
+{
+
+    padding:.5em 0 0 0;
+    border-top:dashed 0.091em #565347;
+    width:100%;
+    margin:0 auto;
+    overflow:hidden;
+    float:left;
+    }
+.CalColumn1Of3
+{   min-width: 10%;
+    min-height:1.875em;
+    float:left;
+    margin:0 auto;
+    overflow:hidden;
+    text-align:center;
+    border:solid 0.091em #666;
+    
+    }
+.CalColumn2Of3
+{   
+    width: 80%;
+    min-height:3.2em;
+    float:left;
+    margin:0 auto;
+    margin-left:0.714em;
+    overflow:hidden;
+    border:solid 0.091em #549FCC;
+    padding:0.538em;
+    text-align: center;
+    font-family: Tahoma, Arial, Helvetica, Sans-Serif; /* Georgia,Times New Roman,Times, Serif;*/
+    font-size:.9em;
+    font-weight:bold;
+    color:#333;
+    background-image:url("/_master/images/pagelet-bg-grad-teal.jpg");
+    background-repeat:repeat-x;
+    
+    }    
+.CalColumn3Of3
+{   width: 95%;
+    min-height:1.875em;
+    float:left;
+    margin:0 auto;
+    overflow:hidden;
+    padding:.5em 0;
+    font-family:Arial, Helvetica, Sans-Serif; 
+    font-size:.9em;
+    color:#333;
+    background-color:#fff;
+    }  
+#headerDiv{min-height:6.875em;}
+#translations {
+               float:left;
+               margin:0 auto;
+                }
+#announcementsDiv ul.pageletLinks li a
+{
+    white-space:normal;
+    width:100%;
+    padding:.25em 0;
+  text-decoration:none;
+  color:#000;
+  background-color:#fff;
+  display:block;
+
+    }  
+#announcementsDiv ul.pageletLinks li a:hover,#announcementsDiv ul.pageletLinks li a:focus
+{
+    padding:.25em 0;
+ 
+    }  
+#sidebarLeft ul.pageletLinks li a  
+{
+    font-size:1.1em;
+    }
+#searchBoxDiv 
+{
+    width:55%;
+    text-align:center;
+    float:right;
+    }
+.pageletHeadingSmall {font-size:1.3em;}
+#footer {font-size:1em;}
+#contentDiv {width:94%;} 
+.pageletMedium 
+{
+    width:100%;
+    min-height:0;
+    padding:1%;
+    margin:0 2% 2% 2%;
+    text-align:left;
+    }   
+#sidebarLeft
+{
+    clear:left;
+    float:left;
+    width: 99.8%;
+    padding:0 1% 2% 1%;
+}
+#sidebarLeft > .pageletSmall 
+{
+    
+    background-color: #fff;
+    border: 0.091em solid #666;
+    padding:0 1%;
+    margin: 0 1% 1% 1%;
+    width:94%;
+    float: left;
+border-radius: 0;
+box-shadow: 0 0 0.714em 0em  #666 ; /* box-shadow: h-shadow v-shadow blur spread color inset; */
+-webkit-box-shadow: 0 0 0.538em 0em  #666;
+-moz-box-shadow: 0 0 0.538em 0em  #666;
+-webkit-border-radius: 0;
+-moz-border-radius: 0; 
+    }
+   #sidebarLeft > .pageletSmall > .pageletHeadingSmall,
+   #sidebarRight > .pageletSmall > .pageletHeadingSmall
+{
+    margin:0 -0.615em 0.714em -0.615em;
+    } 
+ul.menuButton 
+{
+display:block;   
+padding:.2em 90% .2em 1em; 
+list-style:none;
+width:100%;
+padding:0;
+margin:0;
+background-color:#f9e381;
+    color:#000;
+    background-image:url("/images/gateways-bg-gld-yel.jpg");
+    background-repeat:repeat-x;
+    background-position:0 0;
+text-align:left;
+font-size:1.5em;
+text-decoration:none;
+border-bottom:0.091em solid #000;
+overflow:hidden;
+font-family:Arial, Helvetica, sans-serif;
+}
+ul.menuButton li img {vertical-align:middle;}
+ul.menuButton li a:link, ul.menuButton li a:visited
+{
+display:inline-block;
+width:100%;
+padding:.2em 90% .2em .75em;
+margin:0 auto;
+background-color:#f9e381;
+    color:#000;
+    background-image:url("/images/gateways-bg-gld-yel.jpg");
+    background-repeat:repeat-x;
+    background-position:0 -0.091em;
+text-align:left;
+text-decoration:none;
+}
+ul.menuButton li a:hover, ul.menuButton li a:focus 
+{
+ display:inline-block;   
+margin:0 auto;
+background-color:#ebb521;
+    color:#000;
+    background-image:none;
+text-align:left;
+text-decoration:none;
+}
+.menuButton {margin:0;padding:0;}
+#menuStudents {display:none;}
+#sidebarLeft > .pageletSmall
+      {clear:left;
+       width:96%;
+       margin-bottom:0;
+       font-size:1em;
+       padding:0;
+       }
+   #sidebarLeft > .pageletSmall > .pageletHeadingSmall
+{
+    margin:0 -0.364em 0.714em -0.455em;
+    display:none;
+    } 
+.eventDescrButton {display:block;}
+    }  
+@media all and (max-width: 600px)  /* 600 one column ---------------------------------*/
+    {
+.event_date_range_1 {width:49.8%;}
+.event_date_range_2 {width:49.8%;}
+#contentDiv 
+{
+    width:100%;
+    margin-right:0;
+    } 
+#sidebarLeft 
+      {
+       width:100%;
+       }
+.AbcGoButton {font-size:1.5em;}
+ul.pageletLinks, .columnLinks 
+{
+    margin:0;
+    font-size:1.3em;
+    }
+#TripleCols1 
+{
+    float:left;
+    clear:left;
+    width:98%;
+    max-width:98%;
+    margin:0;
+    }
+#TripleCols2 
+{
+    float:left;
+    width:98%;
+    max-width:98%;
+    clear:left;
+    margin:0;
+    }
+#TripleCols3 
+{
+    float:left;
+    clear:left;
+    width:98%;
+    max-width:98%;
+    margin:0;
+    }
+#doubleCols1 
+{
+    float:left;
+    clear:left;
+    width:98%;
+    max-width:98%;
+    margin:0;
+    text-align:center;
+    }
+#doubleCols2 
+{
+    float:left;
+    clear:left;
+    width:98%;
+    max-width:98%;
+    margin:0;
+    }  
+
+ul.emplItem li 
+{
+    text-align:left;
+    white-space: normal;
+    font-size:1.2em;
+    line-height:1.75em;
+    border-bottom:solid 0.091em #ccc;
+    }
+.searchText {font-size:1.4em;}
+.ItemIndexHeading 
+{
+    font-size:1.4em;
+    }
+ul.AbcItem {
+    font-size:1.4em;
+    } 
+ul.AbcItem li a 
+{
+    text-decoration:none;
+    padding:.5em 100% .5em 0;
+    font-weight:normal;
+    }
+.IndexHeading
+{   
+    list-style:none;
+    display:block;
+    font-size:1.6em;
+    margin:.5em 0;
+    padding:0;
+    line-height:1.5em;
+    }
+ul.IndexHeading li
+{   
+    display:inline-block;
+    margin:.25em .1em;
+    }    
+ul.IndexHeading li.IndexHeadingSelected 
+{
+    padding:0 .4em;
+    margin:0em .25em 0 0;
+    border:solid 0.091em #000;
+    }
+.desktopDisplay {position:absolute; left:-75em;}
+.mobileDisplay {position: static; left:0em;}
+
+ul.mobileHeaderLinks 
+{
+    display:block;
+    text-align:left;
+    width:95%;
+    font-size:1.2em;
+    overflow:hidden;
+    margin:.5em 0 0 -1.5em;
+}
+ul.mobileHeaderLinks li
+{
+    display:block;
+    font-size:1.2em;
+    white-space:nowrap;
+    padding:0 0 .75em 0;
+} 
+.pageletSubHeading 
+{
+    font-size:1.3em;
+    width:96%;
+    } 
+.announcementsItem a
+{
+   font-size:1.1em;}
+#DisclaimerDiv 
+{
+    font-size:1.1em;
+    }
+ .event_month 
+{
+ font-size:1.2em; 
+}
+.event_day  
+{
+   font-size: 1.4em; 
+    }
+#highlightsDiv {min-height:0;}
+
+#translations {
+float:left;
+position:relative;
+margin:0;
+text-align:left;
+color:#eee;
+background-color:transparent;
+width:100%;
+}
+.specialLogos {max-width:100%;border:0.091em solid #333;margin:.5em 0 0 .3em;float:left; }
+#NewsDiv {font-size:.9em;}
+.pageletHeaderImg 
+{
+    max-width:100%;  
+    border:0.091em solid #333;
+    margin:0 0 0 0;
+}
+#sidebarMobile > .pageletSmall > ul.menuButton 
+{
+width:100%;
+padding:0;
+display:block;
+margin:0;
+background-color:#f9e381;
+color:#000;
+background-image:url("http://www.cerritos.edu/_master/images/pagelet-bg-grad-teal.jpg");
+background-repeat:repeat-x;
+background-position:0 0;
+text-align:left;
+/* font-size:1.6em; */
+text-decoration:none;
+border-bottom:0.091em solid #000;
+overflow:hidden;
+}
+ul.menuButton li a:link, ul.menuButton li a:visited {
+width:100%;
+padding:.3em 90% .3em .5em;
+display:inline-block;
+margin:0 auto;
+background-color:#f9e381;
+color:#000;
+text-align:left;
+text-decoration:none;
+}
+ul.menuButton li a:hover, ul.menuButton li a:focus {
+width:100%;
+padding:.3em 90% .3em .5em;
+display:inline-block;
+margin:0 auto;
+background-color:#ebb521;
+    color:#000;
+    background-image:none;
+text-align:left;
+text-decoration:none;
+}
+.FormFieldSearchBody
+{
+    font-size:1.5em;
+    font-style:italic;
+    /*height:1em;*/
+    width:7em;
+}
+#searchBoxDiv 
+{
+    width:100%;
+    background-color:#009; 
+    color:#eee;
+    margin:-1.3em 0 0 0;
+    padding:0 0 1em 0;
+    text-align:left;
+    border-bottom:.09em solid #000;
+    border-radius: 0;
+    box-shadow: 0 0 0.714em 0  #000 ; 
+    -webkit-box-shadow: 0 0 0.714em 0  #000;
+    -moz-box-shadow: 0 0 0.538em 0  #000;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0; 
+    }
+#headerDiv
+{   
+    z-index: auto;
+    position: static;
+    height:8.6em;
+    background-image:none;
+    /*background-color:#009;
+    color:#eee;
+    text-align:center;
+    
+    margin:0 0 .5em -.5em;
+    padding:0 0 0 1em;
+    left:0;*/
+   font-size:1em;
+    width:100%;
+    display:none;
+    
+    }
+#menuButtonMobileHeader
+{
+z-index: 200;
+width:100%;
+padding:0;
+display:block;
+background-color:#009;
+color:#eee;
+text-align:left;
+font-size:2em;
+text-decoration:none;
+border:0.09em solid #000;
+overflow:hidden;
+margin:0 0 .5em 0;
+}
+#menuButtonMobileHeader a:link, #menuButtonMobileHeader a:visited,  #menuButtonMobileHeader a:active
+{
+    background-image:url("/images/nav-icon-wht-25.png");
+    background-position:center center;
+    background-repeat:no-repeat;
+width:85%;
+padding:.3em 90% .3em .5em;
+display:inline-block;
+margin:0 auto;
+background-color:#009;
+color:#eee;
+text-align:left;
+text-decoration:none;
+}
+#menuButtonMobileHeader a:hover, #menuButtonMobileHeader a:focus {
+width:85%;
+padding:.3em 90% .3em .5em;
+display:inline-block;
+margin:0 auto;
+background-color:#00c;
+color:#eee;
+text-align:left;
+text-decoration:none;
+}
+.menuButton {margin:0;padding:0;}
+/*#sidebarRight {display:none;}*/
+/*.pageletSmall > .pageletHeadingSmall,
+.pageletSmall > .pageletLinks,*/
+
+#sidebarMobile
+{
+    display:block;
+    margin:0 0 0 .5em;
+    width:100%;
+}
+#sidebarLeft {margin:0 0 .5em .25em;padding-bottom:0;}
+
+.CalColumnWrapper 
+{
+    width:100%;
+    overflow:hidden;
+    }
+.CalColumn1Of3  
+{
+    clear:left;
+    font-size:1em;
+    width: 99%;
+    margin:0 ;
+    white-space: nowrap;
+    } 
+.CalColumn2Of3  
+{
+    clear:left;
+    font-size:1.1em;
+    width: 96%;
+    border:0.091em solid #549FCC;
+    margin:0 ;
+    }   
+.CalColumn3Of3
+{   
+    font-size:1.2em;
+    } 
+.AdmissionsContentItemDiv{font-size:.9em;}
+#cclogo {display:none;}
+
+#footer {font-size:1.1em;}
+#sidebarLeft > .pageletSmall, #sidebarRight > .pageletSmall
+      {clear:left;
+       width:96%;
+       margin:0 0 2% 0;
+       }
+#sidebarMobile > .pageletSmall
+      {clear:left;
+       width:96%;
+       margin:0 0 2% .5%;
+       font-size:1.2em;
+       }
+   #sidebarLeft > .pageletSmall > .pageletHeadingSmall,
+   #sidebarRight > .pageletSmall > .pageletHeadingSmall,
+   #sidebarMobile > .pageletSmall > .pageletHeadingSmall
+{
+    margin:0 -0.364em 0.714em -0.455em;
+    } 
+   #sidebarMobile 
+{
+    margin:-1em 0 0 .3em;
+    padding:0;
+    float:left;
+    } 
+.pageletMedium     
+    {
+    width:93.5%;
+    clear:left;
+    padding:.5em;
+    }
+.pageletHeadingMedium 
+{
+    margin:0 -0.2em 0.714em .1em;
+    padding:0 .5em 0 .5em;
+    font-size:1.5em;
+    width:94%;
+}
+ul.HeadingTab
+{
+    padding:0;
+    margin:.5em 0 0 0;
+    white-space:normal;
+    list-style:none;
+    display:block;
+    }
+ul.HeadingTab li
+{
+    white-space:nowrap;
+    display:inline-block;
+    text-decoration:none;
+     border-top-right-radius:0.188em;	
+    -moz-border-radius-topright:0.188em;	
+    -webkit-border-top-right-radius:0.188em;
+    border-top-left-radius:0.188em;	
+    -moz-border-radius-topleft:0.188em;	
+    -webkit-border-top-left-radius:0.188em;
+  border-top:solid 0.091em #009;
+  border-left:solid 0.091em #009;
+  border-right:solid 0.091em #009;
+  color:#000;
+  background-color:#fff;
+  padding:0;
+  margin:0 .5em .25em 0;
+    }
+ul.HeadingTab li.selected
+{
+  color:#000;
+  background-color:#fff;
+  padding:0 .5em;
+  margin:0 .5em 0 0;
+ } 
+ul.HeadingTab li.linked a:link, ul.HeadingTab li.linked a:visited
+{
+  color:#000;
+  background-color:#ddd;
+  padding:0 .7em;
+  margin:0 0 0 0;
+  
+   border-top-right-radius:0.188em;	
+    -moz-border-radius-topright:0.188em;	
+    -webkit-border-top-right-radius:0.188em;
+    border-top-left-radius:0.188em;	
+    -moz-border-radius-topleft:0.188em;	
+    -webkit-border-top-left-radius:0.188em;
+ }  
+ul.HeadingTab li.linked a:hover, ul.HeadingTab li.linked a:focus, ul.HeadingTab li.linked a:active
+{
+ color:#000;
+  background-color:#fff;
+  padding:0 .7em;
+  margin:0 0 0 0;
+  
+   border-top-right-radius:0.188em;	
+    -moz-border-radius-topright:0.188em;	
+    -webkit-border-top-right-radius:0.188em;
+    border-top-left-radius:0.188em;	
+    -moz-border-radius-topleft:0.188em;	
+    -webkit-border-top-left-radius:0.188em;
+ }  
+
+/*ul.HeadingTab li:nth-child(2n+0) {
+    float:left;
+}*/
+#photoDiv {margin-top:-2%;}
+.spacer, #photoDiv {display:none;}
+ul.dateLinks
+{
+  list-style:none;
+  display:block;
+ }
+ul.dateLinks li
+{
+    font-size:1.2em;
+ margin:.3em;
+ display: inline-block;
+ padding:0;
+
+ }
+ul.dateLinks li a:link, ul.dateLinks li a:visited
+{
+    color:#000;
+    padding:0;
+    margin:0;
+     background-color:#ddd;
+     border:.091em solid #000;
+     display:block;
+ } 
+ul.dateLinks li a:hover,ul.dateLinks li a:focus,ul.dateLinks li a:active
+{
+    color:#fff;
+    background-color:#009;
+    padding:0;
+    margin:0;
+    display:block;
+    border:.091em solid #000;
+ } 
+
+.indentmenu ul li {
+display: inline;
+margin: .3em 0 0 0;
+padding: .2em .2em 0 .2em;
+float: left;
+font-size:1.3em;
+}
+
+ }  
+@media all and (max-width: 480px)  /* 480 one column ---------------------------------*/
+    {
+.CalColumn2Of3  
+{
+    width: 93.5%;
+
+    }   
+.tabcontentstyle { 
+width: 95%;
+}
+       .pageletMedium     
+    {
+    width:91.5%;
+    clear:left;
+    padding:.5em;
+    }
+    ul.AbcItem li 
+{
+    font-size:.9em;
+    } 
+    #sidebarLeft 
+      {
+       width:99.5%;
+       }
+        }    
+@media all and (max-width: 320px) /* 320 one column ---------------------------------*/
+{
+    #menuButtonMobileHeader a:link, #menuButtonMobileHeader a:visited,  #menuButtonMobileHeader a:active
+{
+    background-image:url("/images/nav-icon-wht-25.png");
+    background-position:center center;
+    background-repeat:no-repeat;
+width:90%;
+padding:.3em 90% .3em .25em;
+display:inline-block;
+margin:0 auto;
+background-color:#009;
+color:#eee;
+text-align:left;
+text-decoration:none;
+}
+#menuButtonMobileHeader a:hover, #menuButtonMobileHeader a:focus {
+width:90%;
+padding:.3em 90% .3em .25em;
+display:inline-block;
+margin:0 auto;
+background-color:#00c;
+color:#eee;
+text-align:left;
+text-decoration:none;
+}
+#cclogo {display:none;}
+#translations {clear:left;
+               float:left;
+               margin:0 auto;
+               text-align:left;
+               color:#eee;
+                background-color:transparent;
+                }
+
+    #pageDiv, .CalColumn1Of3 {min-width:20em;}
+
+    .spacer, #photoDiv {display:none;}
+#headerDiv
+{   
+    z-index: auto;
+    position: static;
+    height:8.6em;
+    background-image:none;
+    /*background-color:#009;
+    color:#eee;
+    text-align:center;
+    margin:0 0 .5em -.5em;
+    padding:0 0 0 1em;
+    left:0;
+    border:1px solid red;*/
+    width:100%;
+    display:none;
+    font-size:.9em;
+    }  
+    }  
+</style>
+<!--[if lte IE 8]>
+<style type="text/css">
+#page {
+    width:1200px;
+}
+</style>
+<![endif]-->
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1422354-1', 'auto');
+  ga('send', 'pageview');
+  ga('require', 'linkid');
+</script>
+</head>
+<body>
+<noscript><div class="noscript">This page requires javascript enabled.</div></noscript>
+    <form name="aspnetForm" method="post" action="404.aspx?404%3bhttp%3a%2f%2fwww.cerritos.edu%3a80%2fearth-science%2fimages%2fESCI_110_Lecture_notes_images%2ftrilobite.jpg" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFEmN0bDAwJEltYWdlQnV0dG9uMQUSY3RsMDAkSW1hZ2VCdXR0b24ybdXb69ufxXrZFATWWvBUxC/sftk=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="34C0E9F0" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAKx+NS3BQKakcPUBQLssvLQAwLssu7QA5yOB95y8DnyaDo3dQhgSQhseHDO" />
+    <!-- reformat for mobile/full web -->
+<script type="text/javascript">//<![CDATA[
+//    $(document).ready(function () { reformatPage(); });
+//    function reformatPage() {
+//        document.body.style.overflow = "hidden";
+//        if ($(window).width() > 768) {
+//            if (document.getElementById("menuStudents") != 'undefined' && document.getElementById("menuStudents") != null) {
+//                $("#menuStudents").css('display', 'block');
+//            }
+//        } else {
+//            if (document.getElementById("menuStudents") != 'undefined' && document.getElementById("menuStudents") != null) {
+//                $("#menuStudents").css('display', 'none');
+//            }
+//        }
+//        document.body.style.overflow = "";
+//    }
+//]]></script>
+<!-- end reformat for mobile/full web -->
+    <!--page wrapper-->
+    <div id="page">
+    <!--header-->
+    <div id="menuButtonMobileHeader"><a href="javascript:void(0);" onclick="javascript:ShowHideLayer2('headerDiv','menuButtonMobileHeader','',0);">
+        <img src="/_master/images/CerritosCollegeWordMark-260-eee.png" alt="Cerritos College" /></a></div>
+        <div id="headerDiv">
+      <div id="headingDiv"><a href="/"><img id="cclogo" alt="Cerritos College" src="/images/second-level_e.png" class="left" /></a>
+        </div>
+        <div id="searchBoxDiv">
+        <ul class="mobileHeaderLinks"><li><a href="/"><img class="middle mobileDisplay" src="/images/home-icon-26x.png" alt="Cerritos home" /><img class="middle desktopDisplay" src="/images/home-icon-16x.gif" alt="Cerritos home" /></a> | <label for="ctl00_q"><input name="ctl00$q" type="text" value="Search" id="ctl00_q" title="Search" class="FormFieldSearch" OnFocus="this.value=''" /></label>
+    <input type="image" name="ctl00$ImageButton1" id="ctl00_ImageButton1" title="Search" class="goButton desktopDisplay" src="/_master/images/magnifying-glass-16.png" alt="submit search" border="0" />
+    <input type="image" name="ctl00$ImageButton2" id="ctl00_ImageButton2" title="Search" class="goButton mobileDisplay" src="/images/Magnifying-glass-26x.png" alt="submit search" border="0" />
+     | <a href="http://www.cerritos.edu/default/abc-help.aspx" class="AccessLink">Help</a> | </li>
+     <li><a href="/default/abc-index.xml">ABC Index</a> | <a href="#content" class="AccessLink"  accesskey="n">Skip Navigation</a> | 
+    <a href="/dsps/"><img alt="wheelchair" src="/_master/images/wheelchair_icon16h.png" style="vertical-align: baseline;" /></a> | </li>
+    <li><span id="translations"><a href="http://translate.google.com/translate?u=http://www.cerritos.edu/errors/404.aspx%3Fhl%3Den&amp;hl=en&amp;langpair=en|es&amp;tbb=1&amp;ie=utf-8" class="AccessLink">Español</a>
+| <a href="http://translate.google.com/translate?u=http://www.cerritos.edu/errors/404.aspx%3Fhl%3Den&amp;hl=en&amp;langpair=en|ko&amp;tbb=1&amp;ie=utf-8" class="AccessLink">한국</a>
+| <a href="http://translate.google.com/translate?u=http://www.cerritos.edu/errors/404.aspx%3Fhl%3Den&amp;hl=en&amp;langpair=en|zh-CN&amp;tbb=1&amp;ie=utf-8" class="AccessLink">中国版</a>
+| <a href="http://translate.google.com/translate?u=http://www.cerritos.edu/errors/404.aspx%3Fhl%3Den&amp;hl=en&amp;langpair=en|ar&amp;tbb=1&amp;ie=utf-8" class="AccessLink">العربية</a>
+ </span></li></ul></div>
+<h1 id="ccHeading">Cerritos College</h1>
+        </div>
+        <!--end header-->
+        <!--left column-->
+        <div id="sidebarLeft"><div id="studentsNav" class="pageletSmall"><ul id="menuButtonStudents" class="menuButton"><li><a href="javascript:void(0);" onclick="javascript:ShowHideLayer2('menuStudents','menuButtonStudents','',200);"><img class="menuIcon" src="/images/nav-icon-blk.png" alt="drop-down menu" /> &nbsp;Students</a></li></ul>
+        <h2 class="pageletHeadingSmall">Students</h2>
+            <div id="menuStudents">
+         <img alt="cheerleaders" src="/images/cheerleaders.jpg" class="pageletHeaderImg" />
+         <ul class="pageletLinks">
+           <li><a href="/futurestudents/"><img alt="Future Students info" src="/images/studenticons/fs.png" class="noBorder" /> Future Students / Apply</a></li>
+            <li><a href="http://my.cerritos.edu/"><img alt="MyCerritos login" src="/images/studenticons/myc2.png" class="noBorder" /> MyCerritos</a></li>
+            <li><a href="http://talonnet.cerritos.edu/"><img alt="TalonNet login" src="/images/studenticons/talnet.png" class="noBorder" /> TalonNet</a></li>
+            <li><a href="/catalog/"><img alt="Catalog &amp; Schedule info" src="/images/studenticons/catalogs.png" class="noBorder" /> Catalog &amp; Schedule</a></li>
+            <li><a href="/schedule/"><img alt="Schedule Plus info" src="/images/studenticons/splus.png" class="noBorder" /> Schedule Plus</a></li>
+            <li><a href="/bookstore/"><img alt="Bookstore online" src="/images/studenticons/books.png" class="noBorder" /> Bookstore</a></li>
+            <li><a href="/library/"><img alt="Library info" src="/images/studenticons/li.png" class="noBorder" /> Library</a></li>
+            <li><a href="/ifalcon/"><img alt="iFALCON info" src="/images/studenticons/ifalcon.png" class="noBorder" /> iFALCON</a></li>
+            <li><a href="/safezone/"><img alt="Safe Zone info" src="/images/SafeZone.png" class="noBorder" /> Safe Zone</a></li>
+            <li><a href="/sc/"><img alt="Success Center info" src="/images/studenticons/studentsu.png" class="noBorder" /> Success Center</a></li>
+            <li><a href="/ascc/"><img alt="Student Activities/Clubs info" src="/images/studenticons/sa_b.png" class="noBorder" /> Student Activities / Clubs</a></li>
+            <li><a href="http://cerritosfalcons.com"><img alt="Athletics/Team News info" src="/images/studenticons/ath.png" class="noBorder" /> Athletics/Team News</a></li>
+            
+             <li><a href="/default/students.aspx"><strong>More Student Links...</strong></a></li>
+              </ul>
+            </div>
+         </div>
+         </div><!--end left column-->
+        
+<div id="contentDiv">
+<a name="content"></a>
+<div id="announcementsDiv" class="pageletMedium">
+<h2 class="pageletHeadingMedium">Cerritos College Page Not Found</h2>
+
+ <p />
+    <!-- Error executing child request for /go/earth-science/images/ESCI_110_Lecture_notes_images/trilobite.jpg/default.aspx.-->
+      Sorry, there is no 
+	Cerritos College Web page or file matching your request.
+      The address may be typed incorrectly or the page may no longer exist
+       or the page may have been 
+		moved or renamed. Alternately you may visit any of the 
+		pages below for more information about Cerritos College. 
+           
+                <p />
+                    <a href="http://www.cerritos.edu/">Home Page<br /></a>Start from the Cerritos College home page to find what you need.
+                <p />
+                    <a href="http://www.cerritos.edu/default/abc-index.xml">ABC Index</a>
+                    <br />Alphabetical listing for most Cerritos College programs and services.
+      <p /><a href="http://www.cerritos.edu/default/employees.xml">Faculty &amp; Staff Directory with Webs</a>
+                    <br />Alphabetical listing of Cerritos College employees.
+                <p />
+                    <a href="http://www.cerritos.edu/webadministrator/">Web Administrator Support Page</a><br />Contact information and a support form for the Web Administrator.
+                    
+     
+
+</div>
+</div>
+
+                <!--footer-->
+        <div id="footer">
+             Cerritos College, <a href="http://maps.google.com/maps?q=11110+Alondra+Boulevard,+Norwalk,+CA&amp;hl=en&amp;sll=37.269174,-119.306607&amp;sspn=28.513119,15.358887&amp;oq=11110+alondra&amp;hnear=11110+Alondra+Blvd,+Norwalk,+Los+Angeles,+California+90650&amp;t=m&amp;z=17">11110 Alondra Blvd., Norwalk, CA 90650</a> (562) 860-2451
+        </div>
+
+    </div>
+    <!--end page wrapper-->
+            <div id="DisclaimerDiv">
+                <a class="DisclaimerLink" href="http://www.cerritos.edu/report508">Report Accessibility Issues</a> |
+<a class="DisclaimerLink" href="http://www.cerritos.edu/sitemap">Site Map</a> 
+| <a class="DisclaimerLink" href="http://cms.cerritos.edu/web-handbook/disclaimer.htm">Disclaimer</a> 
+| <a class="DisclaimerLink" href="/web-administrator/">Web Administrator</a> 
+<p><a href="http://get.adobe.com/reader/">Download Adobe Reader</a></p>
+</div>
+    </form>
+</body>
+</html>

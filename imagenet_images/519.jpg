@@ -1,0 +1,919 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://www.fossils-uk.com/xmlrpc.php">
+<title>Page not found &#8211; Fossils for sale &#8211; Fossils-UK.com, Britain&#039;s First Online Fossil Shop</title>
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Fossils for sale - Fossils-UK.com, Britain&#039;s First Online Fossil Shop &raquo; Feed" href="http://www.fossils-uk.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Fossils for sale - Fossils-UK.com, Britain&#039;s First Online Fossil Shop &raquo; Comments Feed" href="http://www.fossils-uk.com/comments/feed/" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.fossils-uk.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=35e220312a80ad1d4a118ecebb7bdcbf"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='storefront-style-css' href='http://www.fossils-uk.com/wp-content/themes/storefront/style.css?ver=2.2.7' type='text/css' media='all' />
+<style id='storefront-style-inline-css' type='text/css'>
+
+			.plus,
+			.minus {
+				background: none !important;
+			}
+
+			.sd-fixed-width .site {
+				background-color:#fcfcfc;
+			}
+
+			.sticky-wrapper,
+			.sd-sticky-navigation,
+			.sd-sticky-navigation:before,
+			.sd-sticky-navigation:after {
+				background-color:#bcbcbc;
+			}
+		
+
+			.main-navigation ul li a,
+			.site-title a,
+			ul.menu li a,
+			.site-branding h1 a,
+			.site-footer .storefront-handheld-footer-bar a:not(.button),
+			button.menu-toggle,
+			button.menu-toggle:hover {
+				color: #333333;
+			}
+
+			button.menu-toggle,
+			button.menu-toggle:hover {
+				border-color: #333333;
+			}
+
+			.main-navigation ul li a:hover,
+			.main-navigation ul li:hover > a,
+			.site-title a:hover,
+			a.cart-contents:hover,
+			.site-header-cart .widget_shopping_cart a:hover,
+			.site-header-cart:hover > li > a,
+			.site-header ul.menu li.current-menu-item > a {
+				color: #747474;
+			}
+
+			table th {
+				background-color: #f8f8f8;
+			}
+
+			table tbody td {
+				background-color: #fdfdfd;
+			}
+
+			table tbody tr:nth-child(2n) td,
+			fieldset,
+			fieldset legend {
+				background-color: #fbfbfb;
+			}
+
+			.site-header,
+			.secondary-navigation ul ul,
+			.main-navigation ul.menu > li.menu-item-has-children:after,
+			.secondary-navigation ul.menu ul,
+			.storefront-handheld-footer-bar,
+			.storefront-handheld-footer-bar ul li > a,
+			.storefront-handheld-footer-bar ul li.search .site-search,
+			button.menu-toggle,
+			button.menu-toggle:hover {
+				background-color: #bcbcbc;
+			}
+
+			p.site-description,
+			.site-header,
+			.storefront-handheld-footer-bar {
+				color: #000000;
+			}
+
+			.storefront-handheld-footer-bar ul li.cart .count,
+			button.menu-toggle:after,
+			button.menu-toggle:before,
+			button.menu-toggle span:before {
+				background-color: #333333;
+			}
+
+			.storefront-handheld-footer-bar ul li.cart .count {
+				color: #bcbcbc;
+			}
+
+			.storefront-handheld-footer-bar ul li.cart .count {
+				border-color: #bcbcbc;
+			}
+
+			h1, h2, h3, h4, h5, h6 {
+				color: #333333;
+			}
+
+			.widget h1 {
+				border-bottom-color: #333333;
+			}
+
+			body,
+			.secondary-navigation a,
+			.onsale,
+			.pagination .page-numbers li .page-numbers:not(.current), .woocommerce-pagination .page-numbers li .page-numbers:not(.current) {
+				color: #000000;
+			}
+
+			.widget-area .widget a,
+			.hentry .entry-header .posted-on a,
+			.hentry .entry-header .byline a {
+				color: #050505;
+			}
+
+			a  {
+				color: #96588a;
+			}
+
+			a:focus,
+			.button:focus,
+			.button.alt:focus,
+			.button.added_to_cart:focus,
+			.button.wc-forward:focus,
+			button:focus,
+			input[type="button"]:focus,
+			input[type="reset"]:focus,
+			input[type="submit"]:focus {
+				outline-color: #96588a;
+			}
+
+			button, input[type="button"], input[type="reset"], input[type="submit"], .button, .added_to_cart, .widget a.button, .site-header-cart .widget_shopping_cart a.button {
+				background-color: #eeeeee;
+				border-color: #eeeeee;
+				color: #333333;
+			}
+
+			button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, .button:hover, .added_to_cart:hover, .widget a.button:hover, .site-header-cart .widget_shopping_cart a.button:hover {
+				background-color: #d5d5d5;
+				border-color: #d5d5d5;
+				color: #333333;
+			}
+
+			button.alt, input[type="button"].alt, input[type="reset"].alt, input[type="submit"].alt, .button.alt, .added_to_cart.alt, .widget-area .widget a.button.alt, .added_to_cart, .widget a.button.checkout {
+				background-color: #333333;
+				border-color: #333333;
+				color: #ffffff;
+			}
+
+			button.alt:hover, input[type="button"].alt:hover, input[type="reset"].alt:hover, input[type="submit"].alt:hover, .button.alt:hover, .added_to_cart.alt:hover, .widget-area .widget a.button.alt:hover, .added_to_cart:hover, .widget a.button.checkout:hover {
+				background-color: #1a1a1a;
+				border-color: #1a1a1a;
+				color: #ffffff;
+			}
+
+			.pagination .page-numbers li .page-numbers.current, .woocommerce-pagination .page-numbers li .page-numbers.current {
+				background-color: #e6e6e6;
+				color: #000000;
+			}
+
+			#comments .comment-list .comment-content .comment-text {
+				background-color: #f8f8f8;
+			}
+
+			.site-footer {
+				background-color: #f0f0f0;
+				color: #6d6d6d;
+			}
+
+			.site-footer a:not(.button) {
+				color: #333333;
+			}
+
+			.site-footer h1, .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5, .site-footer h6 {
+				color: #333333;
+			}
+
+			#order_review {
+				background-color: #ffffff;
+			}
+
+			#payment .payment_methods > li .payment_box,
+			#payment .place-order {
+				background-color: #fafafa;
+			}
+
+			#payment .payment_methods > li:not(.woocommerce-notice) {
+				background-color: #f5f5f5;
+			}
+
+			#payment .payment_methods > li:not(.woocommerce-notice):hover {
+				background-color: #f0f0f0;
+			}
+
+			@media screen and ( min-width: 768px ) {
+				.secondary-navigation ul.menu a:hover {
+					color: #191919;
+				}
+
+				.secondary-navigation ul.menu a {
+					color: #000000;
+				}
+
+				.site-header-cart .widget_shopping_cart,
+				.main-navigation ul.menu ul.sub-menu,
+				.main-navigation ul.nav-menu ul.children {
+					background-color: #adadad;
+				}
+
+				.site-header-cart .widget_shopping_cart .buttons,
+				.site-header-cart .widget_shopping_cart .total {
+					background-color: #b2b2b2;
+				}
+
+				.site-header {
+					border-bottom-color: #adadad;
+				}
+			}
+
+				.sp-fixed-width .site {
+					background-color:#ffffff;
+				}
+			
+
+				.checkout-slides .sp-checkout-control-nav li a:after {
+					background-color:#ffffff;
+					border: 4px solid #d7d7d7;
+				}
+
+				.checkout-slides .sp-checkout-control-nav li:nth-child(2) a.flex-active:after {
+					border: 4px solid #d7d7d7;
+				}
+
+				.checkout-slides .sp-checkout-control-nav li a:before,
+				.checkout-slides .sp-checkout-control-nav li:nth-child(2) a.flex-active:before  {
+					background-color:#d7d7d7;
+				}
+
+				.checkout-slides .sp-checkout-control-nav li:nth-child(2) a:before {
+					background-color:#ebebeb;
+				}
+
+				.checkout-slides .sp-checkout-control-nav li:nth-child(2) a:after {
+					border: 4px solid #ebebeb;
+				}
+			
+
+			@media screen and (max-width: 768px) {
+				.menu-toggle {
+					color: #333333;
+				}
+
+				.menu-toggle:hover {
+					color: #000000;
+				}
+
+				.main-navigation div.menu,
+				.main-navigation .handheld-navigation {
+					background-color: #bcbcbc;
+				}
+
+				.main-navigation ul li a,
+				ul.menu li a,
+				.storefront-hamburger-menu-active .shm-close {
+					color: #333333;
+				}
+			}
+		
+</style>
+<link rel='stylesheet' id='storefront-icons-css' href='http://www.fossils-uk.com/wp-content/themes/storefront/assets/sass/base/icons.css?ver=2.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='storefront-fonts-css' href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,300italic,400italic,600,700,900&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='storefront-jetpack-style-css' href='http://www.fossils-uk.com/wp-content/themes/storefront/assets/sass/jetpack/jetpack.css?ver=2.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='sp-google-fonts-css' href='//fonts.googleapis.com/css?family=Open+Sans:regular' type='text/css' media='all' />
+<link rel='stylesheet' id='sbc-styles-css' href='http://www.fossils-uk.com/wp-content/plugins/storefront-blog-customiser/assets/css/style.css?ver=35e220312a80ad1d4a118ecebb7bdcbf' type='text/css' media='all' />
+<link rel='stylesheet' id='sd-styles-css' href='http://www.fossils-uk.com/wp-content/plugins/storefront-designer/assets/css/style.css?ver=35e220312a80ad1d4a118ecebb7bdcbf' type='text/css' media='all' />
+<link rel='stylesheet' id='sd-styles-2-css' href='http://www.fossils-uk.com/wp-content/plugins/storefront-designer/assets/css/style-2.css?ver=35e220312a80ad1d4a118ecebb7bdcbf' type='text/css' media='all' />
+<link rel='stylesheet' id='shm-styles-css' href='http://www.fossils-uk.com/wp-content/plugins/storefront-hamburger-menu/assets/css/style.css?ver=1.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sph-styles-css' href='http://www.fossils-uk.com/wp-content/plugins/storefront-parallax-hero/assets/css/style.css?ver=35e220312a80ad1d4a118ecebb7bdcbf' type='text/css' media='all' />
+<style id='sph-styles-inline-css' type='text/css'>
+
+		.sph-hero a:not(.button) {
+			color: #96588a;
+		}
+
+		.overlay.animated h1:after {
+			color: #ffffff;
+		}
+
+		.overlay.animated span:before {
+			background-color: #96588a;
+		}
+</style>
+<link rel='stylesheet' id='swc-styles-css' href='http://www.fossils-uk.com/wp-content/plugins/storefront-woocommerce-customiser/assets/css/style.css?ver=1.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='storefront-woocommerce-style-css' href='http://www.fossils-uk.com/wp-content/themes/storefront/assets/sass/woocommerce/woocommerce.css?ver=2.2.7' type='text/css' media='all' />
+<style id='storefront-woocommerce-style-inline-css' type='text/css'>
+
+			a.cart-contents,
+			.site-header-cart .widget_shopping_cart a {
+				color: #333333;
+			}
+
+			table.cart td.product-remove,
+			table.cart td.actions {
+				border-top-color: #ffffff;
+			}
+
+			.woocommerce-tabs ul.tabs li.active a,
+			ul.products li.product .price,
+			.onsale,
+			.widget_search form:before,
+			.widget_product_search form:before {
+				color: #000000;
+			}
+
+			.woocommerce-breadcrumb a,
+			a.woocommerce-review-link,
+			.product_meta a {
+				color: #050505;
+			}
+
+			.onsale {
+				border-color: #000000;
+			}
+
+			.star-rating span:before,
+			.quantity .plus, .quantity .minus,
+			p.stars a:hover:after,
+			p.stars a:after,
+			.star-rating span:before,
+			#payment .payment_methods li input[type=radio]:first-child:checked+label:before {
+				color: #96588a;
+			}
+
+			.widget_price_filter .ui-slider .ui-slider-range,
+			.widget_price_filter .ui-slider .ui-slider-handle {
+				background-color: #96588a;
+			}
+
+			.order_details {
+				background-color: #f8f8f8;
+			}
+
+			.order_details > li {
+				border-bottom: 1px dotted #e3e3e3;
+			}
+
+			.order_details:before,
+			.order_details:after {
+				background: -webkit-linear-gradient(transparent 0,transparent 0),-webkit-linear-gradient(135deg,#f8f8f8 33.33%,transparent 33.33%),-webkit-linear-gradient(45deg,#f8f8f8 33.33%,transparent 33.33%)
+			}
+
+			p.stars a:before,
+			p.stars a:hover~a:before,
+			p.stars.selected a.active~a:before {
+				color: #000000;
+			}
+
+			p.stars.selected a.active:before,
+			p.stars:hover a:before,
+			p.stars.selected a:not(.active):before,
+			p.stars.selected a.active:before {
+				color: #96588a;
+			}
+
+			.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger {
+				background-color: #eeeeee;
+				color: #333333;
+			}
+
+			.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger:hover {
+				background-color: #d5d5d5;
+				border-color: #d5d5d5;
+				color: #333333;
+			}
+
+			.button.loading {
+				color: #eeeeee;
+			}
+
+			.button.loading:hover {
+				background-color: #eeeeee;
+			}
+
+			.button.loading:after {
+				color: #333333;
+			}
+
+			@media screen and ( min-width: 768px ) {
+				.site-header-cart .widget_shopping_cart,
+				.site-header .product_list_widget li .quantity {
+					color: #000000;
+				}
+			}
+
+				.woocommerce-message {
+					background-color: #0f834d !important;
+					color: #ffffff !important;
+				}
+
+				.woocommerce-message a,
+				.woocommerce-message a:hover,
+				.woocommerce-message .button,
+				.woocommerce-message .button:hover {
+					color: #ffffff !important;
+				}
+
+				.woocommerce-info {
+					background-color: #3D9CD2 !important;
+					color: #ffffff !important;
+				}
+
+				.woocommerce-info a,
+				.woocommerce-info a:hover,
+				.woocommerce-info .button,
+				.woocommerce-info .button:hover {
+					color: #ffffff !important;
+				}
+
+				.woocommerce-error {
+					background-color: #e2401c !important;
+					color: #ffffff !important;
+				}
+
+				.woocommerce-error a,
+				.woocommerce-error a:hover,
+				.woocommerce-error .button,
+				.woocommerce-error .button:hover {
+					color: #ffffff !important;
+				}
+
+			
+
+				.star-rating span:before,
+				.star-rating:before {
+					color: #FFA200;
+				}
+
+				.star-rating:before {
+					opacity: 0.25;
+				}
+			
+
+			.woocommerce-message {
+				background-color: #0f834d !important;
+				color: #ffffff !important;
+			}
+
+			.woocommerce-message a,
+			.woocommerce-message a:hover,
+			.woocommerce-message .button,
+			.woocommerce-message .button:hover {
+				color: #ffffff !important;
+			}
+
+			.woocommerce-info {
+				background-color: #3D9CD2 !important;
+				color: #ffffff !important;
+			}
+
+			.woocommerce-info a,
+			.woocommerce-info a:hover,
+			.woocommerce-info .button,
+			.woocommerce-info .button:hover {
+				color: #ffffff !important;
+			}
+
+			.woocommerce-error {
+				background-color: #e2401c !important;
+				color: #ffffff !important;
+			}
+
+			.woocommerce-error a,
+			.woocommerce-error a:hover,
+			.woocommerce-error .button,
+			.woocommerce-error .button:hover {
+				color: #ffffff !important;
+			}
+
+		
+</style>
+<link rel='stylesheet' id='sp-header-frontend-css' href='http://www.fossils-uk.com/wp-content/plugins/storefront-powerpack/includes/customizer/header/assets/css/sp-header-frontend.css?ver=1.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='sp-sticky-header-css' href='http://www.fossils-uk.com/wp-content/plugins/storefront-powerpack/includes/customizer/header/assets/css/sp-sticky-header.css?ver=1.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='sp-styles-css' href='http://www.fossils-uk.com/wp-content/plugins/storefront-powerpack/assets/css/style.css?ver=1.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='shcs-styles-css' href='http://www.fossils-uk.com/wp-content/plugins/storefront-homepage-contact-section/assets/css/style.css?ver=35e220312a80ad1d4a118ecebb7bdcbf' type='text/css' media='all' />
+<style id='shcs-styles-inline-css' type='text/css'>
+
+		.storefront-homepage-contact-section .shcs-overlay {
+			background-color: rgba(255, 255, 255, 0.8);
+		}
+
+		.storefront-homepage-contact-section .shcs-contact-details ul li:before {
+			color: #96588a;
+		}
+</style>
+<link rel='stylesheet' id='spt-styles-css' href='http://www.fossils-uk.com/wp-content/plugins/storefront-pricing-tables/assets/css/style.css?ver=35e220312a80ad1d4a118ecebb7bdcbf' type='text/css' media='all' />
+<style id='spt-styles-inline-css' type='text/css'>
+
+		.storefront-pricing-column h2.column-title {
+			background-color: #2c2d33;
+			color: #ffffff;
+		}
+
+		.storefront-pricing-column.highlight h2.column-title {
+			background-color: #96588a;
+			color: #ffffff;
+		}
+</style>
+<link rel='stylesheet' id='spp-styles-css' href='http://www.fossils-uk.com/wp-content/plugins/storefront-product-pagination/assets/css/style.css?ver=35e220312a80ad1d4a118ecebb7bdcbf' type='text/css' media='all' />
+<style id='spp-styles-inline-css' type='text/css'>
+
+		.storefront-single-product-pagination a {
+			background-color: #ffffff;
+		}
+</style>
+<link rel='stylesheet' id='sr-styles-css' href='http://www.fossils-uk.com/wp-content/plugins/storefront-reviews/assets/css/style.css?ver=35e220312a80ad1d4a118ecebb7bdcbf' type='text/css' media='all' />
+<style id='sr-styles-inline-css' type='text/css'>
+
+		.style-2 .sr-review-content {
+			background-color: #ffffff;
+		}
+
+		.style-2 .sr-review-content:after {
+			border-top-color: #ffffff !important;
+		}
+
+		.star-rating span:before,
+		.star-rating:before {
+			color: #96588a;
+		}
+
+		.star-rating:before {
+			opacity: 0.25;
+		}
+
+		.sr-carousel .owl-prev:before, .sr-carousel .owl-next:before {
+			color: #96588a;
+		}
+
+		ul.product-reviews li.product-review.style-3 .inner {
+			background-color: rgba( 255, 255, 255,0.8 );
+		}
+</style>
+<link rel='stylesheet' id='storefront-mega-menus-frontend-css' href='http://www.fossils-uk.com/wp-content/plugins/storefront-mega-menus/assets/css/frontend.css?ver=1.6.0' type='text/css' media='all' />
+<style id='storefront-mega-menus-frontend-inline-css' type='text/css'>
+
+			.smm-mega-menu {
+				background-color: #bcbcbc;
+			}
+
+			.main-navigation ul li.smm-active .smm-mega-menu a.button {
+				background-color: #eeeeee !important;
+				border-color: #eeeeee !important;
+				color: #333333 !important;
+			}
+
+			.main-navigation ul li.smm-active .smm-mega-menu a.button:hover {
+				background-color: #d5d5d5 !important;
+				border-color: #d5d5d5 !important;
+				color: #333333 !important;
+			}
+
+			.main-navigation ul li.smm-active .smm-mega-menu a.added_to_cart {
+				background-color: #333333 !important;
+				border-color: #333333 !important;
+				color: #ffffff !important;
+			}
+
+			.main-navigation ul li.smm-active .smm-mega-menu a.added_to_cart:hover {
+				background-color: #1a1a1a !important;
+				border-color: #1a1a1a !important;
+				color: #ffffff !important;
+			}
+
+			.main-navigation ul li.smm-active .widget h3.widget-title,
+			.main-navigation ul li.smm-active li ul.products li.product h3 {
+				color: #000000;
+			}
+
+			.main-navigation ul li.smm-active ul.sub-menu li a {
+				color: #333333;
+			}
+</style>
+<link rel='stylesheet' id='jetpack_css-css' href='http://www.fossils-uk.com/wp-content/plugins/jetpack/css/jetpack.css?ver=5.8' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.fossils-uk.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.fossils-uk.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mailchimp_public_data = {"site_url":"http:\/\/www.fossils-uk.com","ajax_url":"http:\/\/www.fossils-uk.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.fossils-uk.com/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=2.1.4'></script>
+<script type='text/javascript' src='http://www.fossils-uk.com/wp-content/plugins/storefront-powerpack/includes/customizer/header/assets/js/sp-sticky-header.min.js?ver=1.4.4'></script>
+<link rel='https://api.w.org/' href='http://www.fossils-uk.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.fossils-uk.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.fossils-uk.com/wp-includes/wlwmanifest.xml" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.fossils-uk.com/?wordfence_lh=1&hid=A8852ED5D1ACBCF6CB2F8F756EC001B1');
+</script><meta name="referrer" content="always" />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//i1.wp.com' />
+<link rel='dns-prefetch' href='//i2.wp.com' />
+<style type='text/css'>img#wpstats{display:none}</style> <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+<link rel="icon" href="https://i0.wp.com/www.fossils-uk.com/wp-content/uploads/2015/04/cropped-Logo.jpg?fit=32%2C32" sizes="32x32" />
+<link rel="icon" href="https://i0.wp.com/www.fossils-uk.com/wp-content/uploads/2015/04/cropped-Logo.jpg?fit=192%2C192" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://i0.wp.com/www.fossils-uk.com/wp-content/uploads/2015/04/cropped-Logo.jpg?fit=180%2C180" />
+<meta name="msapplication-TileImage" content="https://i0.wp.com/www.fossils-uk.com/wp-content/uploads/2015/04/cropped-Logo.jpg?fit=270%2C270" />
+<style type="text/css" media="screen">.sp-designer .site-header{font-size:16px;font-family:inherit;letter-spacing:0px;line-height:25px;font-style:normal;font-weight:400;text-decoration:none;margin-top:0px;margin-bottom:0px;margin-left:0px;margin-right:0px;padding-top:25px;padding-bottom:0px;padding-left:0px;padding-right:0px;color:#000000;border-width:1px;border-radius:0px;border-style:none;border-color:#000000;background-color:#eaeaea;}.sp-designer .site-main h1{font-size:40px;font-family:Open Sans;letter-spacing:-1px;line-height:71px;font-style:normal;font-weight:400;text-decoration:none;margin-top:0px;margin-bottom:14px;margin-left:0px;margin-right:0px;padding-top:0px;padding-bottom:0px;padding-left:0px;padding-right:0px;color:#333333;border-width:1px;border-radius:0px;border-style:none;border-color:#333333;}.sp-designer .site-main h2{font-size:34px;font-family:inherit;letter-spacing:0px;line-height:40px;font-style:normal;font-weight:400;text-decoration:none;margin-top:0px;margin-bottom:33px;margin-left:0px;margin-right:0px;padding-top:0px;padding-bottom:0px;padding-left:0px;padding-right:0px;color:#333333;border-width:1px;border-radius:0px;border-style:none;border-color:#333333;}</style></head>
+<body class="error404 storefront-full-width-content right-sidebar woocommerce-active sp-header-sticky sp-designer sp-shop-alignment-center sd-scale-larger sd-header-expanded sd-typography-helvetica storefront-hamburger-menu-active storefront-pricing-tables-active swc-shop-alignment-center swc-header-no-search">
+<div id="page" class="hfeed site">
+<header id="masthead" class="site-header" role="banner" style="">
+<div class="col-full">
+<a class="skip-link screen-reader-text" href="#site-navigation">Skip to navigation</a>
+<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+<div class="site-branding">
+<div class="beta site-title"><a href="http://www.fossils-uk.com/" rel="home">Fossils for sale - Fossils-UK.com, Britain&#039;s First Online Fossil Shop</a></div><p class="site-description">Biggest Range of Museum Quality UK Fossils For Sale Direct from Britain&#039;s First Online Fossil Shop</p> </div>
+<div class="storefront-primary-navigation"> <nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Primary Navigation">
+<button class="menu-toggle" aria-controls="site-navigation" aria-expanded="false"><span>Menu</span></button>
+<div class="primary-navigation"><ul id="menu-menu" class="menu"><li id="menu-item-11759" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11759"><a href="http://www.fossils-uk.com/shop/">FOSSILS FOR SALE</a>
+<ul class="sub-menu">
+<li id="menu-item-11761" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11761"><a href="http://www.fossils-uk.com/product-category/new-additions/">NEW ADDITIONS</a></li>
+<li id="menu-item-11762" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11762"><a href="http://www.fossils-uk.com/product-category/museum-quality-fossils-for-sale/">PREMIER FOSSILS</a></li>
+<li id="menu-item-14831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14831"><a href="http://www.fossils-uk.com/product-category/ammonites-fossils-for-sale/">AMMONITE FOSSILS FOR SALE</a>
+<ul class="sub-menu">
+<li id="menu-item-11760" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11760"><a href="http://www.fossils-uk.com/product-category/ammonites-fossils-for-sale/">AMMONITES FOR SALE</a></li>
+<li id="menu-item-11763" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11763"><a href="http://www.fossils-uk.com/product-category/polished-ammonites-for-sale/">CUT AND POLISHED AMMONITES FOR SALE</a></li>
+</ul>
+</li>
+<li id="menu-item-11764" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11764"><a href="http://www.fossils-uk.com/product-category/trilobite-fossils-for-sale/">TRILOBITES FOR SALE</a></li>
+<li id="menu-item-14830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14830"><a href="http://www.fossils-uk.com/product-category/vertebrate-fossils-for-sale/">VERTEBRATE FOSSILS FOR SALE</a>
+<ul class="sub-menu">
+<li id="menu-item-11765" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11765"><a href="http://www.fossils-uk.com/product-category/vertebrate-fossils-for-sale/">VERTEBRATE FOSSILS FOR SALE</a></li>
+<li id="menu-item-11784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11784"><a href="http://www.fossils-uk.com/product-category/dinosaur-fossils-for-sale/">DINOSAUR FOSSILS FOR SALE</a></li>
+<li id="menu-item-11786" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11786"><a href="http://www.fossils-uk.com/product-category/fish-and-shark-fossils-for-sale/">FISH AND SHARK FOSSILS FOR SALE</a></li>
+</ul>
+</li>
+<li id="menu-item-14832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14832"><a href="http://www.fossils-uk.com/product-category/other-fossils-for-sale/">OTHER FOSSILS FOR SALE</a>
+<ul class="sub-menu">
+<li id="menu-item-11768" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11768"><a href="http://www.fossils-uk.com/product-category/other-fossils-for-sale/">OTHER FOSSILS FOR SALE</a></li>
+<li id="menu-item-11787" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11787"><a href="http://www.fossils-uk.com/product-category/plant-fossils-for-sale/">PLANT FOSSILS FOR SALE</a></li>
+</ul>
+</li>
+<li id="menu-item-11770" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11770"><a href="http://www.fossils-uk.com/product-category/fossils-for-sale-under-50/">FOSSILS FOR SALE UNDER £50</a></li>
+<li id="menu-item-14833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14833"><a href="http://www.fossils-uk.com/product-category/fossils-for-sale-under-£20/">FOSSILS FOR SALE UNDER £20</a></li>
+<li id="menu-item-11771" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11771"><a href="http://www.fossils-uk.com/product-category/fossil-gift-ideas/">FOSSIL GIFT IDEAS</a></li>
+</ul>
+</li>
+<li id="menu-item-4782" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4782"><a href="http://www.fossils-uk.com/whitby-fossil-hunting-trips/">2018 FOSSIL HUNTING TRIPS</a>
+<ul class="sub-menu">
+<li id="menu-item-11773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11773"><a href="http://www.fossils-uk.com/whitby-fossil-hunting-trips/">2018 FOSSIL HUNTING</a></li>
+</ul>
+</li>
+<li id="menu-item-4781" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4781"><a href="http://www.fossils-uk.com/contact-us/">Contact us</a></li>
+<li id="menu-item-5242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5242"><a href="http://www.fossils-uk.com/about-us/">About us</a></li>
+<li id="menu-item-5410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5410"><a href="http://www.fossils-uk.com/show-schedule/">Show Schedule</a></li>
+</ul></div><div class="handheld-navigation"><ul id="menu-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11759"><a href="http://www.fossils-uk.com/shop/">FOSSILS FOR SALE</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11761"><a href="http://www.fossils-uk.com/product-category/new-additions/">NEW ADDITIONS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11762"><a href="http://www.fossils-uk.com/product-category/museum-quality-fossils-for-sale/">PREMIER FOSSILS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14831"><a href="http://www.fossils-uk.com/product-category/ammonites-fossils-for-sale/">AMMONITE FOSSILS FOR SALE</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11760"><a href="http://www.fossils-uk.com/product-category/ammonites-fossils-for-sale/">AMMONITES FOR SALE</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11763"><a href="http://www.fossils-uk.com/product-category/polished-ammonites-for-sale/">CUT AND POLISHED AMMONITES FOR SALE</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11764"><a href="http://www.fossils-uk.com/product-category/trilobite-fossils-for-sale/">TRILOBITES FOR SALE</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14830"><a href="http://www.fossils-uk.com/product-category/vertebrate-fossils-for-sale/">VERTEBRATE FOSSILS FOR SALE</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11765"><a href="http://www.fossils-uk.com/product-category/vertebrate-fossils-for-sale/">VERTEBRATE FOSSILS FOR SALE</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11784"><a href="http://www.fossils-uk.com/product-category/dinosaur-fossils-for-sale/">DINOSAUR FOSSILS FOR SALE</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11786"><a href="http://www.fossils-uk.com/product-category/fish-and-shark-fossils-for-sale/">FISH AND SHARK FOSSILS FOR SALE</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14832"><a href="http://www.fossils-uk.com/product-category/other-fossils-for-sale/">OTHER FOSSILS FOR SALE</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11768"><a href="http://www.fossils-uk.com/product-category/other-fossils-for-sale/">OTHER FOSSILS FOR SALE</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11787"><a href="http://www.fossils-uk.com/product-category/plant-fossils-for-sale/">PLANT FOSSILS FOR SALE</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11770"><a href="http://www.fossils-uk.com/product-category/fossils-for-sale-under-50/">FOSSILS FOR SALE UNDER £50</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14833"><a href="http://www.fossils-uk.com/product-category/fossils-for-sale-under-£20/">FOSSILS FOR SALE UNDER £20</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11771"><a href="http://www.fossils-uk.com/product-category/fossil-gift-ideas/">FOSSIL GIFT IDEAS</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4782"><a href="http://www.fossils-uk.com/whitby-fossil-hunting-trips/">2018 FOSSIL HUNTING TRIPS</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11773"><a href="http://www.fossils-uk.com/whitby-fossil-hunting-trips/">2018 FOSSIL HUNTING</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4781"><a href="http://www.fossils-uk.com/contact-us/">Contact us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5242"><a href="http://www.fossils-uk.com/about-us/">About us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5410"><a href="http://www.fossils-uk.com/show-schedule/">Show Schedule</a></li>
+</ul></div> </nav>
+<ul id="site-header-cart" class="site-header-cart menu">
+<li class="">
+<a class="cart-contents" href="http://www.fossils-uk.com/cart/" title="View your shopping cart">
+<span class="amount">&pound;0.00</span> <span class="count">0 items</span>
+</a>
+</li>
+<li>
+<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div> </li>
+</ul>
+</div>
+</div>
+</header>
+<div id="content" class="site-content" tabindex="-1">
+<div class="col-full">
+<nav class="woocommerce-breadcrumb"><a href="http://www.fossils-uk.com">Home</a><span class="breadcrumb-separator"> / </span>Error 404</nav><div class="woocommerce"></div>
+<div id="primary" class="content-area">
+<main id="main" class="site-main" role="main">
+<div class="error-404 not-found">
+<div class="page-content">
+<header class="page-header">
+<h1 class="page-title">Oops! That page can&rsquo;t be found.</h1>
+</header>
+<p>Nothing was found at this location. Try searching, or check out the links below.</p>
+<section aria-label="Search"><div class="widget woocommerce widget_product_search"><form role="search" method="get" class="woocommerce-product-search" action="http://www.fossils-uk.com/">
+<label class="screen-reader-text" for="woocommerce-product-search-field-0">Search for:</label>
+<input type="search" id="woocommerce-product-search-field-0" class="search-field" placeholder="Search products&hellip;" value="" name="s" />
+<button type="submit" value="Search">Search</button>
+<input type="hidden" name="post_type" value="product" />
+</form>
+</div></section><div class="fourohfour-columns-2"><section class="col-1" aria-label="Promoted Products"><h2>Featured Products</h2><div class="woocommerce columns-2 "><ul class="products columns-2">
+<li class="post-6219 product type-product status-publish has-post-thumbnail product_cat-new-additions product_cat-ammonites-fossils-for-sale product_cat-other-fossils-for-sale product_cat-fossils-for-sale-under-50 product_cat-fossil-gift-ideas first outofstock featured sold-individually shipping-taxable purchasable product-type-simple">
+<a href="http://www.fossils-uk.com/product/new-famous-genuine-whitby-snakestone-classic-british-folklore-a-lower-jurassic-upper-lias-ammonite-with-carved-snakeshead-from-whitby-north-yorkshire-dactylioceras-commune/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="//www.fossils-uk.com/wp-content/uploads/2015/11/RIMG1108-324x324.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" data-attachment-id="6150" data-permalink="//www.fossils-uk.com/?attachment_id=6150" data-orig-file="//i1.wp.com/www.fossils-uk.com/wp-content/uploads/2015/11/RIMG1108.jpg?fit=2469%2C3088" data-orig-size="2469,3088" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;RICOH WG-30&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1448032016&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.1&quot;,&quot;iso&quot;:&quot;640&quot;,&quot;shutter_speed&quot;:&quot;0.02&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="" data-image-description="" data-medium-file="//i1.wp.com/www.fossils-uk.com/wp-content/uploads/2015/11/RIMG1108.jpg?fit=240%2C300" data-large-file="//i1.wp.com/www.fossils-uk.com/wp-content/uploads/2015/11/RIMG1108.jpg?fit=819%2C1024" /><h2 class="woocommerce-loop-product__title">NEW Famous Genuine Whitby Snakestone (Classic British Folklore). A Lower Jurassic, Upper Lias Ammonite with Carved Snakeshead from Whitby, North Yorkshire:- Dactylioceras commune</h2>
+<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>25.00</span></span>
+</a><a href="http://www.fossils-uk.com/product/new-famous-genuine-whitby-snakestone-classic-british-folklore-a-lower-jurassic-upper-lias-ammonite-with-carved-snakeshead-from-whitby-north-yorkshire-dactylioceras-commune/" data-quantity="1" class="button product_type_simple ajax_add_to_cart" data-product_id="6219" data-product_sku="363" aria-label="Read more about &ldquo;NEW Famous Genuine Whitby Snakestone (Classic British Folklore). A Lower Jurassic, Upper Lias Ammonite with Carved Snakeshead from Whitby, North Yorkshire:- Dactylioceras commune&rdquo;" rel="nofollow">Read more</a></li>
+</ul>
+</div></section><nav class="col-2" aria-label="Product Categories"><h2>Product Categories</h2><div class="widget woocommerce widget_product_categories"><ul class="product-categories"><li class="cat-item cat-item-9"><a href="http://www.fossils-uk.com/product-category/ammonites-fossils-for-sale/">Ammonites fossils for sale</a> <span class="count">(65)</span></li>
+<li class="cat-item cat-item-61"><a href="http://www.fossils-uk.com/product-category/polished-ammonites-for-sale/">Cut and Polished Ammonites For Sale</a> <span class="count">(3)</span></li>
+<li class="cat-item cat-item-47"><a href="http://www.fossils-uk.com/product-category/dinosaur-fossils-for-sale/">Dinosaur fossils for sale</a> <span class="count">(42)</span></li>
+<li class="cat-item cat-item-49"><a href="http://www.fossils-uk.com/product-category/fish-and-shark-fossils-for-sale/">Fish and Shark fossils for sale</a> <span class="count">(45)</span></li>
+<li class="cat-item cat-item-44"><a href="http://www.fossils-uk.com/product-category/fossil-gift-ideas/">Fossil Gift Ideas</a> <span class="count">(24)</span></li>
+<li class="cat-item cat-item-71"><a href="http://www.fossils-uk.com/product-category/fossils-for-sale-under-20/">Fossils for sale under £20</a> <span class="count">(31)</span></li>
+<li class="cat-item cat-item-42"><a href="http://www.fossils-uk.com/product-category/fossils-for-sale-under-50/">Fossils for sale under £50</a> <span class="count">(92)</span></li>
+<li class="cat-item cat-item-8"><a href="http://www.fossils-uk.com/product-category/museum-quality-fossils-for-sale/">Museum Quality Fossils for sale and Premium Fossils for sale</a> <span class="count">(46)</span></li>
+<li class="cat-item cat-item-45"><a href="http://www.fossils-uk.com/product-category/new-additions/">New Fossil Additions</a> <span class="count">(300)</span></li>
+<li class="cat-item cat-item-40"><a href="http://www.fossils-uk.com/product-category/other-fossils-for-sale/">Other fossils for sale</a> <span class="count">(70)</span></li>
+<li class="cat-item cat-item-41"><a href="http://www.fossils-uk.com/product-category/trilobite-fossils-for-sale/">Trilobites fossils for sale</a> <span class="count">(38)</span></li>
+<li class="cat-item cat-item-72"><a href="http://www.fossils-uk.com/product-category/uncategorized/">Uncategorized</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-39"><a href="http://www.fossils-uk.com/product-category/vertebrate-fossils-for-sale/">Vertebrate fossils for sale</a> <span class="count">(114)</span></li>
+</ul></div></nav></div><section aria-label="Popular Products"><h2>Popular Products</h2><div class="woocommerce columns-4 "><ul class="products columns-4">
+<li class="post-10977 product type-product status-publish has-post-thumbnail product_cat-new-additions product_cat-ammonites-fossils-for-sale product_cat-polished-ammonites-for-sale product_cat-fossils-for-sale-under-50 product_cat-fossils-for-sale-under-20 product_cat-fossil-gift-ideas first instock shipping-taxable purchasable product-type-simple">
+<a href="http://www.fossils-uk.com/product/new-genuine-middle-jurassic-ammonite-keyring-sku-1400/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="//www.fossils-uk.com/wp-content/uploads/2017/03/RIMG3882-e1489761135157-324x324.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" data-attachment-id="10976" data-permalink="//www.fossils-uk.com/?attachment_id=10976" data-orig-file="//i2.wp.com/www.fossils-uk.com/wp-content/uploads/2017/03/RIMG3882-e1489761135157.jpg?fit=2332%2C3713" data-orig-size="2332,3713" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;RICOH WG-30&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1489760189&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.1&quot;,&quot;iso&quot;:&quot;125&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="" data-image-description="" data-medium-file="//i2.wp.com/www.fossils-uk.com/wp-content/uploads/2017/03/RIMG3882-e1489761135157.jpg?fit=188%2C300" data-large-file="//i2.wp.com/www.fossils-uk.com/wp-content/uploads/2017/03/RIMG3882-e1489761135157.jpg?fit=643%2C1024" /><h2 class="woocommerce-loop-product__title">NEW Genuine Middle Jurassic Ammonite Keyring (SKU G19)</h2>
+<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>6.00</span></span>
+</a><a href="/images/inverts/Large_T7.jpg?add-to-cart=10977" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="10977" data-product_sku="G19" aria-label="Add &ldquo;NEW Genuine Middle Jurassic Ammonite Keyring (SKU G19)&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+<li class="post-7103 product type-product status-publish has-post-thumbnail product_cat-new-additions product_cat-vertebrate-fossils-for-sale product_cat-fish-and-shark-fossils-for-sale product_cat-fossils-for-sale-under-50 product_cat-fossils-for-sale-under-20 product_cat-fossil-gift-ideas  instock shipping-taxable purchasable product-type-simple">
+<a href="http://www.fossils-uk.com/product/new-eocene-fossil-fish-from-green-river-formation-wyoming-usa-knightia-eocenea/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="//www.fossils-uk.com/wp-content/uploads/2016/03/RIMG1574-324x324.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" data-attachment-id="7041" data-permalink="//www.fossils-uk.com/?attachment_id=7041" data-orig-file="//i0.wp.com/www.fossils-uk.com/wp-content/uploads/2016/03/RIMG1574.jpg?fit=3984%2C2536" data-orig-size="3984,2536" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;RICOH WG-30&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1456838069&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.1&quot;,&quot;iso&quot;:&quot;125&quot;,&quot;shutter_speed&quot;:&quot;0.00625&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="" data-image-description="" data-medium-file="//i0.wp.com/www.fossils-uk.com/wp-content/uploads/2016/03/RIMG1574.jpg?fit=300%2C191" data-large-file="//i0.wp.com/www.fossils-uk.com/wp-content/uploads/2016/03/RIMG1574.jpg?fit=980%2C624" /><h2 class="woocommerce-loop-product__title">NEW Eocene Fossil Fish from Green River Formation, Wyoming, USA:- Knightia eocenea</h2>
+<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>20.00</span></span>
+</a><a href="/images/inverts/Large_T7.jpg?add-to-cart=7103" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="7103" data-product_sku="G16" aria-label="Add &ldquo;NEW Eocene Fossil Fish from Green River Formation, Wyoming, USA:- Knightia eocenea&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+<li class="post-3769 product type-product status-publish has-post-thumbnail product_cat-new-additions product_cat-trilobite-fossils-for-sale product_cat-fossils-for-sale-under-50 product_cat-fossils-for-sale-under-20 product_cat-fossil-gift-ideas  instock shipping-taxable purchasable product-type-simple">
+<a href="http://www.fossils-uk.com/product/trilobite-from-the-devonian-of-morocco-gerastos-granulous/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="//www.fossils-uk.com/wp-content/uploads/2017/11/RIMG5563-324x324.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" data-attachment-id="14167" data-permalink="//www.fossils-uk.com/?attachment_id=14167" data-orig-file="//i2.wp.com/www.fossils-uk.com/wp-content/uploads/2017/11/RIMG5563.jpg?fit=2519%2C3245" data-orig-size="2519,3245" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;RICOH WG-30&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1511956903&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.1&quot;,&quot;iso&quot;:&quot;125&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="" data-image-description="" data-medium-file="//i2.wp.com/www.fossils-uk.com/wp-content/uploads/2017/11/RIMG5563.jpg?fit=233%2C300" data-large-file="//i2.wp.com/www.fossils-uk.com/wp-content/uploads/2017/11/RIMG5563.jpg?fit=795%2C1024" /><h2 class="woocommerce-loop-product__title">Trilobite from the Devonian of Morocco:- Gerastos granulous</h2>
+<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>10.00</span></span>
+</a><a href="/images/inverts/Large_T7.jpg?add-to-cart=3769" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="3769" data-product_sku="G11" aria-label="Add &ldquo;Trilobite from the Devonian of Morocco:- Gerastos granulous&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+<li class="post-3764 product type-product status-publish has-post-thumbnail product_cat-new-additions product_cat-other-fossils-for-sale product_cat-fossils-for-sale-under-50 product_cat-fossils-for-sale-under-20 product_cat-fossil-gift-ideas last instock shipping-taxable purchasable product-type-simple">
+<a href="http://www.fossils-uk.com/product/fossil-insect-fly-in-baltic-amber/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="//www.fossils-uk.com/wp-content/uploads/2017/07/IMG_2121-324x324.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" data-attachment-id="12184" data-permalink="//www.fossils-uk.com/?attachment_id=12184" data-orig-file="//i1.wp.com/www.fossils-uk.com/wp-content/uploads/2017/07/IMG_2121.jpg?fit=4032%2C3024" data-orig-size="4032,3024" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.2&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 6s&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1500905991&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4.15&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.03030303030303&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;3&quot;}" data-image-title="" data-image-description="" data-medium-file="//i1.wp.com/www.fossils-uk.com/wp-content/uploads/2017/07/IMG_2121.jpg?fit=300%2C225" data-large-file="//i1.wp.com/www.fossils-uk.com/wp-content/uploads/2017/07/IMG_2121.jpg?fit=980%2C735" /><h2 class="woocommerce-loop-product__title">Fossil Insect (Fly) in Baltic Amber</h2>
+<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>20.00</span></span>
+</a><a href="/images/inverts/Large_T7.jpg?add-to-cart=3764" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="3764" data-product_sku="G6" aria-label="Add &ldquo;Fossil Insect (Fly) in Baltic Amber&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+</ul>
+</div></section>
+</div>
+</div>
+</main>
+</div>
+</div>
+</div>
+<footer id="colophon" class="site-footer" role="contentinfo">
+<div class="col-full">
+<div class="footer-widgets row-1 col-1 fix">
+<div class="block footer-widget-1">
+<div id="text-3" class="widget widget_text"> <div class="textwidget"><p><link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css"> #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; } /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */</style>
+<div id="mc_embed_signup">
+<form action="//fossils-uk.us16.list-manage.com/subscribe/post?u=7f4600fa7fa0eb2966ad195ba&amp;id=7e13764464" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>    </p>
+<div id="mc_embed_signup_scroll">
+<h2>Subscribe to our mailing list</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group"> <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label> <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL"></div>
+<div class="mc-field-group"> <label for="mce-FNAME">First Name  <span class="asterisk">*</span></label> <input type="text" value="" name="FNAME" class="required" id="mce-FNAME"></div>
+<div class="mc-field-group"> <label for="mce-LNAME">Last Name  <span class="asterisk">*</span></label> <input type="text" value="" name="LNAME" class="required" id="mce-LNAME"></div>
+<div id="mce-responses" class="clear">
+<div class="response" id="mce-error-response" style="display:none"></div>
+<div class="response" id="mce-success-response" style="display:none"></div>
+</p></div>
+<p>        </p>
+<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7f4600fa7fa0eb2966ad195ba_7e13764464" tabindex="-1" value=""></div>
+<p>    </p>
+<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+<p>    </p></div>
+</form>
+</div>
+<p></p>
+</div>
+</div> </div>
+</div> <div class="site-info">
+&copy; Fossils for sale - Fossils-UK.com, Britain&#039;s First Online Fossil Shop 2018 </div>
+<div class="storefront-handheld-footer-bar">
+<ul class="columns-3">
+<li class="my-account">
+<a href="http://www.fossils-uk.com/my-account-2/">My Account</a> </li>
+<li class="search">
+<a href="">Search</a> <div class="site-search">
+<div class="widget woocommerce widget_product_search"><form role="search" method="get" class="woocommerce-product-search" action="http://www.fossils-uk.com/">
+<label class="screen-reader-text" for="woocommerce-product-search-field-1">Search for:</label>
+<input type="search" id="woocommerce-product-search-field-1" class="search-field" placeholder="Search products&hellip;" value="" name="s" />
+<button type="submit" value="Search">Search</button>
+<input type="hidden" name="post_type" value="product" />
+</form>
+</div> </div>
+</li>
+<li class="cart">
+<a class="footer-cart-contents" href="http://www.fossils-uk.com/cart/" title="View your shopping cart">
+<span class="count">0</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</footer>
+</div>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":"1","item":{"name":"Home","@id":"http:\/\/www.fossils-uk.com"}},{"@type":"ListItem","position":"2","item":{"name":"Error 404"}}]}</script><script type='text/javascript' src='http://www.fossils-uk.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201806'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"http:\/\/www.fossils-uk.com\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/www.fossils-uk.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.fossils-uk.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.3.1'></script>
+<script type='text/javascript' src='http://www.fossils-uk.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript' src='http://www.fossils-uk.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"http:\/\/www.fossils-uk.com\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.fossils-uk.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"http:\/\/www.fossils-uk.com\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_5fc293d72d5d73f47c163f7c41c04f15","fragment_name":"wc_fragments_5fc293d72d5d73f47c163f7c41c04f15"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.fossils-uk.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.3.1'></script>
+<script type='text/javascript' src='http://www.fossils-uk.com/wp-content/themes/storefront/assets/js/navigation.min.js?ver=2.2.7'></script>
+<script type='text/javascript' src='http://www.fossils-uk.com/wp-content/themes/storefront/assets/js/skip-link-focus-fix.min.js?ver=20130115'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var shm_i18n = {"close":"Close"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.fossils-uk.com/wp-content/plugins/storefront-hamburger-menu/assets/js/frontend.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.fossils-uk.com/wp-content/themes/storefront/assets/js/woocommerce/header-cart.min.js?ver=2.2.7'></script>
+<script type='text/javascript' src='http://www.fossils-uk.com/wp-includes/js/wp-embed.min.js?ver=35e220312a80ad1d4a118ecebb7bdcbf'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201806.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.8',blog:'87878411',post:'0',tz:'0',srv:'www.fossils-uk.com'} ]);
+	_stq.push([ 'clickTrackerInit', '87878411', '0' ]);
+</script>
+</body>
+</html>
