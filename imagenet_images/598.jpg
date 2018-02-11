@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/error.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" --><title> - UNC School of Education</title><!-- InstanceEndEditable -->
+<link rel="stylesheet" href="http://soe.unc.edu/elements/site.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://soe.unc.edu/elements/internal.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://soe.unc.edu/elements/print.css" type="text/css" media="print" />
+
+
+<script language="javascript" type="text/javascript" src="http://soe.unc.edu/elements/site.js"></script>
+
+<!--[if (IE 5 | IE 6)]>
+	<style type="text/css">
+	#content ul.navigation-primary ul { /*filter:alpha(opacity=80);*/ }
+	#content ul.navigation-primary ul ul{ filter:alpha(opacity=80); }
+	</style>
+<![endif]-->
+
+</head>
+<!-- InstanceBeginEditable name="PHP" --><!-- InstanceEndEditable -->
+
+<body id="www-uncsoe-com" class="resources"><a name="top" id="top"></a><div id="container">
+  <div id="header"><!-- #BeginLibraryItem "/Library/header-error.lbi" -->
+
+		<h1><a href="index.php">UNC School of Education</a></h1>
+		<ul class="navigation-utility">
+			<li><a href="">SOE Home</a></li>
+			<li><a href="http://soe.unc.edu/resources/directory">Directory</a></li>
+			<li><a href="http://soe.unc.edu/resources/contact.php">Contact</a></li>
+			<li class="last"><a href="http://www.unc.edu/" class="external">UNC Home</a></li>
+		</ul>
+		<form action="http://www.unc.edu/search/" method="GET" id="gs" name="gs">
+        <label for="criteria">Search</label>
+  <input type="hidden" name="cx" value="014532668884084418890:jyc_iub1byy" />
+  <input type="hidden" name="cof" value="FORID:10" />
+  <input type="hidden" name="ie" value="UTF-8" />
+  <input type="text" name="q" size="25" class="text" id="search" />
+  <input type="submit" name="sa" value="GO" class="submit" />
+</form>
+<!-- #EndLibraryItem --></div>
+
+	<div id="content" class="clearfix">
+		
+		
+		 <div id="navigation-primary"><!-- #BeginLibraryItem "/Library/navigation-primary-error.lbi" -->
+<div id="primary_nav">
+ <ul style="list-style-type:none;">
+	<li><a href="http://soe.unc.edu/about">About</a></li>
+	<li><a href="http://soe.unc.edu/academics">Academics</a></li>
+	<li><a href="http://soe.unc.edu/services/apply">Admissions</a></li>
+	<li><a href="http://soe.unc.edu/alumni">Alumni</a></li>
+	<li><a href="http://soe.unc.edu/fac_research">Faculty &amp; Research</a></li>
+	<li><a href="http://soe.unc.edu/news_events">News &amp; Events</a></li>
+	<li><a href="http://soe.unc.edu/outreach">Outreach</a> </li>
+    <li class="last_li"><a href="http://soe.unc.edu/resources">Resources</a></li>
+ </ul>
+ </div><!-- #EndLibraryItem --></div>
+		
+		
+		
+		
+		<!-- InstanceBeginEditable name="PageContent" -->
+		
+		
+		
+		<div id="sidebar">
+	  </div>
+		
+		<div id="content-main">
+		
+	 <div id="navigation-breadcrumb">
+<div class="hidden-msg">You are here:</div>
+<p><a href="/">Home</a>
+ &gt; <span class='on'><a href="/error.php"></a></span></p></div>   
+       
+		<h2>File Not Found</h2>
+		<p><strong>The URL you requested was not found  on this server.</strong> </p>
+		<p>If you entered the URL manually, please  check that the <br />
+		  capitalization and punctuation are  correct  and try again. </p>
+		<p>If you are unsure of what you are  looking  for, choose one
+		  of the appropriate categories from the navigation menu or try entering a search topic.</p>
+		</div>
+		<!-- InstanceEndEditable -->	</div>
+	<div id="footer"><!-- #BeginLibraryItem "/Library/footer-error.lbi" -->
+	    <ul class="navigation-primary">
+	      <li><a href="http://soe.unc.edu/about">About</a></li>
+	      <li><a href="http://soe.unc.edu/academics">Academics</a></li>
+          <li><a href="http://soe.unc.edu/services/apply">Admissions</a></li>
+          <li><a href="http://soe.unc.edu/alumni">Alumni</a></li>
+	      <li><a href="http://soe.unc.edu/fac_research">Faculty &amp; Research</a></li>
+        
+	      <li><a href="http://soe.unc.edu/news_events">News &amp; Events</a></li>
+          <li><a href="http://soe.unc.edu/outreach">Outreach</a></li>
+	      <li class="last"><a href="http://soe.unc.edu/resources">Resources</a></li>
+        </ul>
+		  
+		<ul class="navigation-utility">
+		  <li><a href="">SOE Home</a></li>
+		  <li><a href="http://soe.unc.edu/resources/directory">Directory</a></li>
+		  <li><a href="http://soe.unc.edu/resources/contact.php">Contact</a></li>
+		  <li class="last"><a href="http://www.unc.edu/" class="external">UNC Home</a></li>
+	    </ul>
+		  
+		<span id="address-mail">The University of North Carolina at Chapel Hill / School of Education / CB 3500 Peabody Hall / Chapel Hill, NC / 27599-3500 | &copy; 2013</span><!-- #EndLibraryItem --></div>
+
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-45772727-1', 'unc.edu');
+  ga('send', 'pageview');
+
+</script>
+</body>
+<!-- InstanceEnd --></html>

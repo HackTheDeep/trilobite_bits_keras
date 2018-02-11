@@ -1,0 +1,1483 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<title>404 Not Found 1</title>
+<meta name="description" content="Page description" />
+<meta name="keywords" content="Page keywords" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<link rel="icon" href="https://www.adventistbookcenter.com/media/favicon/default/Untitled-1.png" type="image/x-icon" />
+<link rel="shortcut icon" href="https://www.adventistbookcenter.com/media/favicon/default/Untitled-1.png" type="image/x-icon" />
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'https://www.adventistbookcenter.com/js/blank.html';
+    var BLANK_IMG = 'https://www.adventistbookcenter.com/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="https://www.adventistbookcenter.com/media/css_secure/1bb5a883c3cf14040b9f2bd8c093844d.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.adventistbookcenter.com/media/css_secure/7916ee8b742afddeac4caea57532e4f6.css" media="print" />
+<script type="text/javascript" src="https://www.adventistbookcenter.com/media/js/680fde9341de00d0601f411e2019c42a.js"></script>
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="https://www.adventistbookcenter.com/media/css_secure/31779c03bdc5ca07b933e5bcfc339456.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="https://www.adventistbookcenter.com/media/js/57e6d60655a86600a0602c37d81d8426.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.adventistbookcenter.com';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["AF","AX","AL","DZ","AS","AD","AO","AI","AQ","AG","AR","AM","AW","AU","AT","AZ","BS","BH","BD","BB","BY","BE","BZ","BJ","BM","BT","BO","BA","BW","BV","BR","IO","VG","BN","BG","BF","BI","KH","CM","CV","KY","CF","TD","CL","CN","CX","CC","CO","KM","CG","CD","CK","CR","CI","HR","CU","CY","CZ","DK","DJ","DM","DO","EC","EG","SV","GQ","ER","EE","ET","FK","FO","FJ","FI","FR","GF","PF","TF","GA","GM","GE","DE","GH","GI","GR","GL","GD","GP","GU","GT","GG","GN","GW","GY","HT","HM","HN","HK","HU","IS","IN","ID","IR","IQ","IE","IM","IL","IT","JM","JP","JE","JO","KZ","KE","KI","KW","KG","LA","LV","LB","LS","LR","LY","LI","LT","LU","MO","MK","MG","MW","MY","MV","ML","MT","MH","MQ","MR","MU","YT","MX","FM","MD","MC","MN","ME","MS","MA","MZ","MM","NA","NR","NP","NL","AN","NC","NZ","NI","NE","NG","NU","NF","MP","KP","NO","OM","PK","PW","PS","PA","PG","PY","PE","PH","PN","PL","PT","PR","QA","RE","RO","RU","RW","BL","SH","KN","LC","MF","PM","VC","WS","SM","ST","SA","SN","RS","SC","SL","SG","SK","SI","SB","SO","ZA","GS","KR","ES","LK","SD","SR","SJ","SZ","SE","CH","SY","TW","TJ","TZ","TH","TL","TG","TK","TO","TT","TN","TR","TM","TC","TV","UG","UA","AE","GB","UY","UM","VI","UZ","VU","VA","VE","VN","WF","EH","YE","ZM","ZW"];
+//]]>
+</script>
+<!-- Please get configuration from SLI Systems !--><!-- SLI Tracking code -->
+<script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i[r]=i[r]||function(){
+    (i[r].a=i[r].a||[]).push(arguments)};i[r].t=1;a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//adventistbookcenter.resultspage.com/js/sli-spark.js', 'sliSpark');
+
+	sliSpark('send', 'pageview');
+</script>
+    
+
+
+<meta name="viewport" content="width=device-width"><script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script><script language="javascript" type="text/javascript">
+//<![CDATA[
+var tl_loc0=(window.location.protocol == "https:")? "https://secure.comodo.net/trustlogo/javascript/trustlogo.js" :
+"http://www.trustlogo.com/trustlogo/javascript/trustlogo.js";
+document.writeln('<scr' + 'ipt language="JavaScript" src="'+tl_loc0+'" type="text\/javascript">' + '<\/scr' + 'ipt>');
+//]]>
+</script>
+<style type="text/css" media="print">body {display:block!important}</style></head>
+<body class=" cms-index-noroute cms-no-route">
+
+<!-- BEGIN GOOGLE ANALYTICS CODE -->
+<script type="text/javascript">
+//<![CDATA[
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+    })();
+
+    var _gaq = _gaq || [];
+
+_gaq.push(['_setAccount', 'UA-672768-13']);
+_gaq.push(['_trackPageview']);
+
+
+//]]>
+</script>
+<!-- END GOOGLE ANALYTICS CODE -->    <div class="newsletter-popup-container">
+        <button class="newsletter-close">
+            <img src="https://www.adventistbookcenter.com/skin/frontend/enterprise/abc/images/close.svg" alt="Newsletter close button">
+        </button>
+        <!-- TODO implement method to fetch action url from admin -->
+<form action="https://adventistbookcenter.us4.list-manage.com/subscribe/post?u=4ec216972bda09ed33ce74e0a&id=20f8b9d972" method="post" id="newsletter-validate-detail" name="mc-embedded-subscribe-form" target="_blank">
+    <div class="form-subscribe">
+        <input type="email" value="" name="EMAIL" class="email input-text required-entry validate-email" id="mce-EMAIL" placeholder="Enter your email" required>
+        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        <div style="position: absolute; left: -5000px;" aria-hidden="true">
+            <input type="text" name="b_4ec216972bda09ed33ce74e0a_20f8b9d972" tabindex="-1" value="">
+        </div>
+        <input type="submit" class="button" value="Sign Up" name="Sign Up" id="mc-embedded-subscribe" title="Sign Up">
+    </div>
+</form>
+<script type="text/javascript">
+//<![CDATA[
+    var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+//]]>
+</script>
+
+
+<style>
+.newsletter-popup-container {
+/****** MOBILE IMG GOES HERE ******/
+    background-image: url("https://www.adventistbookcenter.com/media/wysiwyg/newsletter-popup-mobile-bg.png");
+}
+
+@media (min-width: 768px) {
+    .newsletter-popup-container {
+/****** DESKTOP IMG GOES HERE ******/
+        background-image: url("https://www.adventistbookcenter.com/media/wysiwyg/newsletter-popup-desktop.png");
+    }
+}
+</style>    </div>
+<div class="wrapper">
+        <noscript>
+        <div class="noscript">
+            <div class="noscript-inner">
+                <p><strong>JavaScript seem to be disabled in your browser.</strong></p>
+                <p>You must have JavaScript enabled in your browser to utilize the functionality of this website.</p>
+            </div>
+        </div>
+    </noscript>
+    <div class="page">
+        
+
+<div class="header-container">
+    <div class="header">
+        <div class="top">
+            <div class="r">
+                <div class="inner">
+                    <ul id="top-links" class="links">
+<li style="display:none" class="first">
+
+</li>
+<li class="first"><a title="My Account" href="/customer/account/">My Account</a></li>
+<li class="last"><a title="Frequently Asked Questions" href="/faq">F.A.Q.</a></li>
+</ul>                </div>
+            </div>
+            <div class="l">
+                <p class="welcome-msg"></p>
+            </div>
+
+        </div>
+                <a href="https://www.adventistbookcenter.com/" title="Magento Commerce" class="logo"><strong>Magento Commerce</strong><img src="https://www.adventistbookcenter.com/skin/frontend/enterprise/abc/images/logo.png" alt="Magento Commerce" /></a>
+                <div class="quick-access">
+            <script>
+   function ajaxsearchsubmit(event){
+     if (event.keyCode == 13 || event.type == 'click') {
+       event.returnValue = false;
+       event.cancel = true;
+       var w = jQuery('#sli_search_1').val();
+       w = (jQuery('#search-filter').val().length!=0)? w+'&af='+jQuery('#search-filter').val():w;
+       window.location = 'http://products.adventistbookcenter.com/search?w=' + encodeURIComponent(w);
+       return false;
+     }
+     return true;
+    }
+</script>
+<form id="search_mini_form" action="//products.adventistbookcenter.com/search" method="get" onsubmit="javascript:return ajaxsearchsubmit(event);">
+   <div class="form-search">
+      <select id="search-filter" name="af" class="sli-extraParams">
+        <option value="">All Languages</option>
+        <option value="lang:english">English</option>
+        <option value="lang:spanish">Español</option>
+        <option value="lang:portuguese">Português</option>
+        <option value="lang:french">français</option>
+        <option value="lang:others">Others</option>
+      </select>
+      <input type="text" name="w" value="" class="input-text" id="sli_search_1" autocomplete="off" onkeydown="javascript:return ajaxsearchsubmit(event);" data-provide="rac" data-rac-loaded="true">
+      <button type="submit" title="Search" class="button" onclick="javascript: return ajaxsearchsubmit(event);">
+      <img src="/media/search-go.png" alt="Search"></button>&nbsp;
+      <a style="display:inline" title="Search" href="http://products.adventistbookcenter.com/search?w=*&amp;ts=parametric"><img alt="Advanced Search" style="margin-top:3px" src="/media/btn-adv-search.png"></a>
+   </div>
+</form>            <span class="phone">1.800.765.6955</span>
+            <!--{CART_SIDEBAR_2a4b84faa9de1e6d6d276414e2c0d9ce}--><p class="welcome-msg-container" style="display:none">
+    &nbsp;&nbsp;&nbsp;Please sign in 
+<a class="loginout" href="https://www.adventistbookcenter.com/customer/account/login/">( LOGIN )</a>
+
+
+</p>
+<script type="text/javascript">
+    jQuery('.header-container .header .l .welcome-msg').html(jQuery('.welcome-msg-container').html());
+</script>
+<div class="the-cart">
+    <ul class="h-list">
+        <li style="width:47px" id="cart-bag">
+            &nbsp;
+                        <img class="bag" alt="Shopping Bag" src="/media/bag.png"/>
+                        <div class="mini-cart top-cart">
+                <div class="top-cart">
+                                                                                                    <div class="block-title no-items">
+                        <strong id="cartHeader">My Cart (<span>0</span>)</strong>
+                    </div>
+                    <div id="topCartContent" class="block-content">
+                        <div class="inner-wrapper">                                                                                        <p class="block-subtitle">
+                                    <span onclick="Enterprise.TopCart.hideCart()"
+                                          class="close-btn">Close</span>
+                                    Recently added item(s)                                </p>
+                                <p class="cart-empty">
+                                    You have no items in your shopping bag.                                </p>
+                                                                                    </div>
+                    </div>
+                    <script type="text/javascript">
+                        Enterprise.TopCart.initialize('topCartContent');
+                        // Below can be used to show minicart after item added
+                        // Enterprise.TopCart.showCart(7);
+                    </script>
+                                    </div>
+            </div>
+        </li>
+                <li style="padding-top:0px; width:80px">
+            0 items <br/> in your bag
+        </li>
+    </ul>
+</div>
+<!--/{CART_SIDEBAR_2a4b84faa9de1e6d6d276414e2c0d9ce}-->        </div>
+    </div>
+</div>
+<!--{CATALOG_NAVIGATION_f095b07f5ac60120f33f654c971a5bf5}--><div class="nav-container">
+    <ul id="nav">
+        <li class="level0 nav-1 level-top first parent">
+<a href="https://www.adventistbookcenter.com/books.html" class="level-top">
+<span>Books</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-1-1 first parent">
+<a href="https://www.adventistbookcenter.com/books/beliefs.html">
+<span>Beliefs</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-1-1-1 first">
+<a href="https://www.adventistbookcenter.com/books/beliefs/angels.html">
+<span>Angels</span>
+</a>
+</li><li class="level2 nav-1-1-2">
+<a href="https://www.adventistbookcenter.com/books/beliefs/church.html">
+<span>Church</span>
+</a>
+</li><li class="level2 nav-1-1-3">
+<a href="https://www.adventistbookcenter.com/books/beliefs/end-time-events.html">
+<span>End Time Events</span>
+</a>
+</li><li class="level2 nav-1-1-4">
+<a href="https://www.adventistbookcenter.com/books/beliefs/general.html">
+<span>General</span>
+</a>
+</li><li class="level2 nav-1-1-5">
+<a href="https://www.adventistbookcenter.com/books/beliefs/god-jesus.html">
+<span>God &amp; Jesus</span>
+</a>
+</li><li class="level2 nav-1-1-6">
+<a href="https://www.adventistbookcenter.com/books/beliefs/grace.html">
+<span>Grace</span>
+</a>
+</li><li class="level2 nav-1-1-7">
+<a href="https://www.adventistbookcenter.com/books/beliefs/holy-spirit.html">
+<span>Holy Spirit</span>
+</a>
+</li><li class="level2 nav-1-1-8">
+<a href="https://www.adventistbookcenter.com/books/beliefs/new-age-occult.html">
+<span>New Age &amp; Occult</span>
+</a>
+</li><li class="level2 nav-1-1-9">
+<a href="https://www.adventistbookcenter.com/books/beliefs/prophecy.html">
+<span>Prophecy</span>
+</a>
+</li><li class="level2 nav-1-1-10">
+<a href="https://www.adventistbookcenter.com/books/beliefs/sabbath.html">
+<span>Sabbath</span>
+</a>
+</li><li class="level2 nav-1-1-11">
+<a href="https://www.adventistbookcenter.com/books/beliefs/salvation.html">
+<span>Salvation</span>
+</a>
+</li><li class="level2 nav-1-1-12">
+<a href="https://www.adventistbookcenter.com/books/beliefs/sanctuary.html">
+<span>Sanctuary</span>
+</a>
+</li><li class="level2 nav-1-1-13">
+<a href="https://www.adventistbookcenter.com/books/beliefs/science-religion.html">
+<span>Science &amp; Religion</span>
+</a>
+</li><li class="level2 nav-1-1-14">
+<a href="https://www.adventistbookcenter.com/books/beliefs/second-coming.html">
+<span>Second Coming</span>
+</a>
+</li><li class="level2 nav-1-1-15 last">
+<a href="https://www.adventistbookcenter.com/books/beliefs/state-of-the-dead.html">
+<span>State of the Dead</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-1-2 parent">
+<a href="https://www.adventistbookcenter.com/books/bible-study.html">
+<span>Bible Study</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-1-2-16 first">
+<a href="https://www.adventistbookcenter.com/books/bible-study/about-the-bible.html">
+<span>About the Bible</span>
+</a>
+</li><li class="level2 nav-1-2-17">
+<a href="https://www.adventistbookcenter.com/books/bible-study/general.html">
+<span>General</span>
+</a>
+</li><li class="level2 nav-1-2-18">
+<a href="https://www.adventistbookcenter.com/books/bible-study/new-testament.html">
+<span>New Testament</span>
+</a>
+</li><li class="level2 nav-1-2-19 last">
+<a href="https://www.adventistbookcenter.com/books/bible-study/old-testament.html">
+<span>Old Testament</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-1-3 parent">
+<a href="https://www.adventistbookcenter.com/books/christian-living.html">
+<span>Christian Living</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-1-3-20 first">
+<a href="https://www.adventistbookcenter.com/books/christian-living/education.html">
+<span>Education</span>
+</a>
+</li><li class="level2 nav-1-3-21">
+<a href="https://www.adventistbookcenter.com/books/christian-living/emotional-health.html">
+<span>Emotional Health</span>
+</a>
+</li><li class="level2 nav-1-3-22">
+<a href="https://www.adventistbookcenter.com/books/christian-living/family.html">
+<span>Family</span>
+</a>
+</li><li class="level2 nav-1-3-23">
+<a href="https://www.adventistbookcenter.com/books/christian-living/finances.html">
+<span>Finances</span>
+</a>
+</li><li class="level2 nav-1-3-24">
+<a href="https://www.adventistbookcenter.com/books/christian-living/leadership.html">
+<span>Leadership</span>
+</a>
+</li><li class="level2 nav-1-3-25">
+<a href="https://www.adventistbookcenter.com/books/christian-living/mens-interests.html">
+<span>Mens interests</span>
+</a>
+</li><li class="level2 nav-1-3-26">
+<a href="https://www.adventistbookcenter.com/books/christian-living/spiritual-growth.html">
+<span>Spiritual Growth</span>
+</a>
+</li><li class="level2 nav-1-3-27">
+<a href="https://www.adventistbookcenter.com/books/christian-living/witnessing-how-to.html">
+<span>Witnessing - How to</span>
+</a>
+</li><li class="level2 nav-1-3-28 last">
+<a href="https://www.adventistbookcenter.com/books/christian-living/womens-interests.html">
+<span>Womens interests</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-1-4">
+<a href="https://www.adventistbookcenter.com/books/church-history.html">
+<span>Church History</span>
+</a>
+</li><li class="level1 nav-1-5">
+<a href="https://www.adventistbookcenter.com/books/church-life.html">
+<span>Church Life</span>
+</a>
+</li><li class="level1 nav-1-6">
+<a href="https://www.adventistbookcenter.com/books/cookbooks.html">
+<span>Cookbooks</span>
+</a>
+</li><li class="level1 nav-1-7 parent">
+<a href="https://www.adventistbookcenter.com/books/devotionals.html">
+<span>Devotionals</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-1-7-29 first">
+<a href="https://www.adventistbookcenter.com/books/devotionals/2018-devotionals.html">
+<span>2018 Devotionals</span>
+</a>
+</li><li class="level2 nav-1-7-30">
+<a href="https://www.adventistbookcenter.com/books/devotionals/2017-devotionals.html">
+<span>2017 Devotionals</span>
+</a>
+</li><li class="level2 nav-1-7-31">
+<a href="https://www.adventistbookcenter.com/books/devotionals/adult.html">
+<span>Adult</span>
+</a>
+</li><li class="level2 nav-1-7-32">
+<a href="https://www.adventistbookcenter.com/books/devotionals/junior.html">
+<span>Junior/Earliteen</span>
+</a>
+</li><li class="level2 nav-1-7-33">
+<a href="https://www.adventistbookcenter.com/books/devotionals/preschool.html">
+<span>Preschool</span>
+</a>
+</li><li class="level2 nav-1-7-34">
+<a href="https://www.adventistbookcenter.com/books/devotionals/primary.html">
+<span>Primary</span>
+</a>
+</li><li class="level2 nav-1-7-35">
+<a href="https://www.adventistbookcenter.com/books/devotionals/teen.html">
+<span>Teen</span>
+</a>
+</li><li class="level2 nav-1-7-36">
+<a href="https://www.adventistbookcenter.com/books/devotionals/women.html">
+<span>Women</span>
+</a>
+</li><li class="level2 nav-1-7-37 last">
+<a href="https://www.adventistbookcenter.com/books/devotionals/young-adult.html">
+<span>Young Adult</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-1-8 parent">
+<a href="https://www.adventistbookcenter.com/books/ellen-g-white-life-work.html">
+<span>Ellen G. White Life &amp; Work</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-1-8-38 first">
+<a href="https://www.adventistbookcenter.com/books/ellen-g-white-life-work/about-her-life-and-works.html">
+<span>About her life and works</span>
+</a>
+</li><li class="level2 nav-1-8-39 last">
+<a href="https://www.adventistbookcenter.com/books/ellen-g-white-life-work/ellen-g-white-writings.html">
+<span>Ellen G. White writings</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-1-9 parent">
+<a href="https://www.adventistbookcenter.com/books/family.html">
+<span>Family</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-1-9-40 first">
+<a href="https://www.adventistbookcenter.com/books/family/general.html">
+<span>General</span>
+</a>
+</li><li class="level2 nav-1-9-41">
+<a href="https://www.adventistbookcenter.com/books/family/marriage-relationships.html">
+<span>Marriage &amp; relationships</span>
+</a>
+</li><li class="level2 nav-1-9-42 last">
+<a href="https://www.adventistbookcenter.com/books/family/parenting.html">
+<span>Parenting</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-1-10">
+<a href="https://www.adventistbookcenter.com/books/health-nutrition.html">
+<span>Health &amp; Nutrition</span>
+</a>
+</li><li class="level1 nav-1-11">
+<a href="https://www.adventistbookcenter.com/books/hymnals-songbooks.html">
+<span>Hymnals &amp; Songbooks</span>
+</a>
+</li><li class="level1 nav-1-12 parent">
+<a href="https://www.adventistbookcenter.com/books/kids.html">
+<span>Kids</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-1-12-43 first">
+<a href="https://www.adventistbookcenter.com/books/kids/ages-00-05-preschool.html">
+<span>Ages 00--05 Preschool</span>
+</a>
+</li><li class="level2 nav-1-12-44">
+<a href="https://www.adventistbookcenter.com/books/kids/ages-06-09-early-elementary.html">
+<span>Ages 06--09 Early Elementary</span>
+</a>
+</li><li class="level2 nav-1-12-45">
+<a href="https://www.adventistbookcenter.com/books/kids/ages-10-14-mid-elementary.html">
+<span>Ages 10--14 Mid Elementary</span>
+</a>
+</li><li class="level2 nav-1-12-46">
+<a href="https://www.adventistbookcenter.com/books/kids/ages-15-18-teen.html">
+<span>Ages 15--18 Teen</span>
+</a>
+</li><li class="level2 nav-1-12-47">
+<a href="https://www.adventistbookcenter.com/books/kids/bibles.html">
+<span>Bibles</span>
+</a>
+</li><li class="level2 nav-1-12-48 last">
+<a href="https://www.adventistbookcenter.com/books/kids/devotionals.html">
+<span>Devotionals</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-1-13">
+<a href="https://www.adventistbookcenter.com/books/prayer.html">
+<span>Prayer</span>
+</a>
+</li><li class="level1 nav-1-14 parent">
+<a href="https://www.adventistbookcenter.com/books/sharing.html">
+<span>Sharing</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-1-14-49 first">
+<a href="https://www.adventistbookcenter.com/books/sharing/beliefs.html">
+<span>Beliefs</span>
+</a>
+</li><li class="level2 nav-1-14-50">
+<a href="https://www.adventistbookcenter.com/books/sharing/christian-life.html">
+<span>Christian Life</span>
+</a>
+</li><li class="level2 nav-1-14-51">
+<a href="https://www.adventistbookcenter.com/books/sharing/kids-teens.html">
+<span>Kids/Teens</span>
+</a>
+</li><li class="level2 nav-1-14-52 last">
+<a href="https://www.adventistbookcenter.com/books/sharing/tracts.html">
+<span>Tracts</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-1-15 parent">
+<a href="https://www.adventistbookcenter.com/books/stories.html">
+<span>Stories</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-1-15-53 first">
+<a href="https://www.adventistbookcenter.com/books/stories/adult.html">
+<span>Adult</span>
+</a>
+</li><li class="level2 nav-1-15-54">
+<a href="https://www.adventistbookcenter.com/books/stories/biblical-narrative.html">
+<span>Biblical Narrative</span>
+</a>
+</li><li class="level2 nav-1-15-55">
+<a href="https://www.adventistbookcenter.com/books/stories/biographies.html">
+<span>Biographies</span>
+</a>
+</li><li class="level2 nav-1-15-56">
+<a href="https://www.adventistbookcenter.com/books/stories/christmas.html">
+<span>Christmas</span>
+</a>
+</li><li class="level2 nav-1-15-57">
+<a href="https://www.adventistbookcenter.com/books/stories/collections.html">
+<span>Collections</span>
+</a>
+</li><li class="level2 nav-1-15-58">
+<a href="https://www.adventistbookcenter.com/books/stories/family-sagas.html">
+<span>Family Sagas</span>
+</a>
+</li><li class="level2 nav-1-15-59 last">
+<a href="https://www.adventistbookcenter.com/books/stories/missions.html">
+<span>Missions</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-1-16 last parent">
+<a href="https://www.adventistbookcenter.com/books/teens.html">
+<span>Teens</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-1-16-60 first">
+<a href="https://www.adventistbookcenter.com/books/teens/ages-10-14-mid-elementary.html">
+<span>Ages 10--14 Mid Elementary</span>
+</a>
+</li><li class="level2 nav-1-16-61">
+<a href="https://www.adventistbookcenter.com/books/teens/ages-15-18-teen.html">
+<span>Ages 15--18 Teen</span>
+</a>
+</li><li class="level2 nav-1-16-62 last">
+<a href="https://www.adventistbookcenter.com/books/teens/devotionals.html">
+<span>Devotionals</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li><li class="level0 nav-2 level-top parent">
+<a href="https://www.adventistbookcenter.com/ebooks.html" class="level-top">
+<span>eBOOKS</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-2-1 first parent">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-beliefs.html">
+<span>Beliefs</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-2-1-1 first">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-beliefs/ebook-church.html">
+<span>Church</span>
+</a>
+</li><li class="level2 nav-2-1-2">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-beliefs/ebook-endtimeevents.html">
+<span>End Time Events</span>
+</a>
+</li><li class="level2 nav-2-1-3">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-beliefs/ebook-godjesus.html">
+<span>God &amp; Jesus</span>
+</a>
+</li><li class="level2 nav-2-1-4">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-beliefs/ebook-grace.html">
+<span>Grace</span>
+</a>
+</li><li class="level2 nav-2-1-5">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-beliefs/ebook-newage.html">
+<span>New Age &amp; Occult</span>
+</a>
+</li><li class="level2 nav-2-1-6">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-beliefs/ebook-prophecy.html">
+<span>Prophecy</span>
+</a>
+</li><li class="level2 nav-2-1-7">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-beliefs/ebook-sabbath.html">
+<span>Sabbath</span>
+</a>
+</li><li class="level2 nav-2-1-8">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-beliefs/ebook-salvation.html">
+<span>Salvation</span>
+</a>
+</li><li class="level2 nav-2-1-9">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-beliefs/ebook-science.html">
+<span>Science &amp; Religion</span>
+</a>
+</li><li class="level2 nav-2-1-10">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-beliefs/ebook-secondcoming.html">
+<span>Second Coming</span>
+</a>
+</li><li class="level2 nav-2-1-11 last">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-beliefs/ebook-dead.html">
+<span>State of the Dead</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-2-2">
+<a href="https://www.adventistbookcenter.com/ebooks/ebooks-biblestudy.html">
+<span>Bible Study</span>
+</a>
+</li><li class="level1 nav-2-3 parent">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-christianliving.html">
+<span>Christian Living</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-2-3-12 first">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-christianliving/ebook-education.html">
+<span>Education</span>
+</a>
+</li><li class="level2 nav-2-3-13">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-christianliving/ebook-emotionalhealth.html">
+<span>Emotional Health</span>
+</a>
+</li><li class="level2 nav-2-3-14">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-christianliving/ebook-family.html">
+<span>Family</span>
+</a>
+</li><li class="level2 nav-2-3-15">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-christianliving/ebook-finances.html">
+<span>Finances</span>
+</a>
+</li><li class="level2 nav-2-3-16">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-christianliving/ebook-leadership.html">
+<span>Leadership</span>
+</a>
+</li><li class="level2 nav-2-3-17">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-christianliving/ebook-men.html">
+<span>Men's Interests</span>
+</a>
+</li><li class="level2 nav-2-3-18">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-christianliving/ebook-spiritualgrowth.html">
+<span>Spiritual Growth</span>
+</a>
+</li><li class="level2 nav-2-3-19 last">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-christianliving/ebook-women.html">
+<span>Women's Interests</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-2-4">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-churchhistory.html">
+<span>Church History</span>
+</a>
+</li><li class="level1 nav-2-5">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-churchlife.html">
+<span>Church Life</span>
+</a>
+</li><li class="level1 nav-2-6">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-cookbooks.html">
+<span>Cookbooks</span>
+</a>
+</li><li class="level1 nav-2-7 parent">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-devotionals.html">
+<span>Devotionals</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-2-7-20 first">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-devotionals/ebook-devoadult.html">
+<span>Adult</span>
+</a>
+</li><li class="level2 nav-2-7-21">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-devotionals/ebook-devojunior.html">
+<span>Junior/Earliteen</span>
+</a>
+</li><li class="level2 nav-2-7-22">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-devotionals/ebook-devoprimary.html">
+<span>Primary</span>
+</a>
+</li><li class="level2 nav-2-7-23">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-devotionals/ebook-devoteen.html">
+<span>Teen</span>
+</a>
+</li><li class="level2 nav-2-7-24">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-devotionals/ebook-devowomen.html">
+<span>Women</span>
+</a>
+</li><li class="level2 nav-2-7-25 last">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-devotionals/ebook-devoyoungadult.html">
+<span>Young Adult</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-2-8 parent">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-egw.html">
+<span>Ellen G. White Life &amp; Works</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-2-8-26 first">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-egw/ebook-egwabout.html">
+<span>About her life and work</span>
+</a>
+</li><li class="level2 nav-2-8-27 last">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-egw/ebook-egwbooks.html">
+<span>Ellen G. White writings</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-2-9 parent">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-family.html">
+<span>Family</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-2-9-28 first">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-family/ebook-family.html">
+<span>General</span>
+</a>
+</li><li class="level2 nav-2-9-29">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-family/ebook-relationships.html">
+<span>Marriage &amp; Relationships</span>
+</a>
+</li><li class="level2 nav-2-9-30 last">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-family/ebook-parenting.html">
+<span>Parenting</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-2-10">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-health.html">
+<span>Health &amp; Nutrition</span>
+</a>
+</li><li class="level1 nav-2-11 parent">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-kids.html">
+<span>Kids</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-2-11-31 first">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-kids/ebooks-preschool.html">
+<span>Ages 00--05 Preschool</span>
+</a>
+</li><li class="level2 nav-2-11-32">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-kids/ebooks-earlyelementary.html">
+<span>Ages 06--09 Early Elementary</span>
+</a>
+</li><li class="level2 nav-2-11-33">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-kids/ebook-midelementary.html">
+<span>Ages 10--14 Mid Elementary</span>
+</a>
+</li><li class="level2 nav-2-11-34">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-kids/ebook-teen.html">
+<span>Ages 15--18 Teen</span>
+</a>
+</li><li class="level2 nav-2-11-35 last">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-kids/ebook-kidsdevotionals.html">
+<span>Devotionals</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-2-12">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-prayer.html">
+<span>Prayer</span>
+</a>
+</li><li class="level1 nav-2-13 parent">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-resources.html">
+<span>Resources</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-2-13-36 first">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-resources/ebook-missions.html">
+<span>Missions</span>
+</a>
+</li><li class="level2 nav-2-13-37">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-resources/ebook-pastors.html">
+<span>Pastors</span>
+</a>
+</li><li class="level2 nav-2-13-38">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-resources/ebook-smallgroups.html">
+<span>Small Groups</span>
+</a>
+</li><li class="level2 nav-2-13-39 last">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-resources/ebook-teachers.html">
+<span>Teachers</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-2-14 parent">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-stories.html">
+<span>Stories</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-2-14-40 first">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-stories/ebook-adult.html">
+<span>Adult</span>
+</a>
+</li><li class="level2 nav-2-14-41">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-stories/ebook-narrative.html">
+<span>Biblical Narrative</span>
+</a>
+</li><li class="level2 nav-2-14-42">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-stories/ebook-biographies.html">
+<span>Biographies</span>
+</a>
+</li><li class="level2 nav-2-14-43">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-stories/ebook-christmas.html">
+<span>Christmas</span>
+</a>
+</li><li class="level2 nav-2-14-44">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-stories/ebook-collections.html">
+<span>Collections</span>
+</a>
+</li><li class="level2 nav-2-14-45">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-stories/ebook-missionstories.html">
+<span>Mission Stories</span>
+</a>
+</li><li class="level2 nav-2-14-46 last">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-stories/ebook-family-sagas.html">
+<span>Family Sagas</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-2-15 last">
+<a href="https://www.adventistbookcenter.com/ebooks/ebook-teens.html">
+<span>Teens</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-3 level-top parent">
+<a href="https://www.adventistbookcenter.com/bibles.html" class="level-top">
+<span>Bibles</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-3-1 first">
+<a href="https://www.adventistbookcenter.com/bibles/bible-hymnal-sets.html">
+<span>Bible/Hymnal Sets</span>
+</a>
+</li><li class="level1 nav-3-2">
+<a href="https://www.adventistbookcenter.com/bibles/bibles.html">
+<span>Bibles</span>
+</a>
+</li><li class="level1 nav-3-3">
+<a href="https://www.adventistbookcenter.com/bibles/kids.html">
+<span>Kids</span>
+</a>
+</li><li class="level1 nav-3-4">
+<a href="https://www.adventistbookcenter.com/bibles/spanish.html">
+<span>Spanish</span>
+</a>
+</li><li class="level1 nav-3-5 last parent">
+<a href="https://www.adventistbookcenter.com/bibles/versions.html">
+<span>Versions</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-3-5-1 first">
+<a href="https://www.adventistbookcenter.com/bibles/versions/clear-word.html">
+<span>The Clear Word</span>
+</a>
+</li><li class="level2 nav-3-5-2">
+<a href="https://www.adventistbookcenter.com/bibles/versions/king-james.html">
+<span>King James</span>
+</a>
+</li><li class="level2 nav-3-5-3 last">
+<a href="https://www.adventistbookcenter.com/bibles/versions/new-king-james.html">
+<span>New King James</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li><li class="level0 nav-4 level-top parent">
+<a href="https://www.adventistbookcenter.com/kids-teens.html" class="level-top">
+<span>Kids/Teens</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-4-1 first">
+<a href="https://www.adventistbookcenter.com/kids-teens/audio-spoken-words.html">
+<span>Audio/Spoken words</span>
+</a>
+</li><li class="level1 nav-4-2">
+<a href="https://www.adventistbookcenter.com/kids-teens/bible-lessons.html">
+<span>Bible Lessons</span>
+</a>
+</li><li class="level1 nav-4-3">
+<a href="https://www.adventistbookcenter.com/kids-teens/bibles.html">
+<span>Bibles</span>
+</a>
+</li><li class="level1 nav-4-4 parent">
+<a href="https://www.adventistbookcenter.com/kids-teens/books.html">
+<span>Books</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-4-4-1 first">
+<a href="https://www.adventistbookcenter.com/kids-teens/books/ages-00-05-preschool.html">
+<span>Ages 00--05 Preschool</span>
+</a>
+</li><li class="level2 nav-4-4-2">
+<a href="https://www.adventistbookcenter.com/kids-teens/books/ages-06-09-early-elementary.html">
+<span>Ages 06--09 Early Elementary</span>
+</a>
+</li><li class="level2 nav-4-4-3">
+<a href="https://www.adventistbookcenter.com/kids-teens/books/ages-10-14-mid-elementary.html">
+<span>Ages 10--14 Mid Elementary</span>
+</a>
+</li><li class="level2 nav-4-4-4 last">
+<a href="https://www.adventistbookcenter.com/kids-teens/books/ages-15-18-teen.html">
+<span>Ages 15--18 Teen</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-4-5">
+<a href="https://www.adventistbookcenter.com/kids-teens/devotionals.html">
+<span>Devotionals</span>
+</a>
+</li><li class="level1 nav-4-6">
+<a href="https://www.adventistbookcenter.com/kids-teens/dvds.html">
+<span>DVDs</span>
+</a>
+</li><li class="level1 nav-4-7">
+<a href="https://www.adventistbookcenter.com/kids-teens/games-puzzles.html">
+<span>Games &amp; Puzzles</span>
+</a>
+</li><li class="level1 nav-4-8">
+<a href="https://www.adventistbookcenter.com/kids-teens/music.html">
+<span>Music</span>
+</a>
+</li><li class="level1 nav-4-9">
+<a href="https://www.adventistbookcenter.com/kids-teens/pathfinder-adventure.html">
+<span>Pathfinder / Adventure</span>
+</a>
+</li><li class="level1 nav-4-10">
+<a href="https://www.adventistbookcenter.com/kids-teens/sabbath-school.html">
+<span>Sabbath School</span>
+</a>
+</li><li class="level1 nav-4-11 last parent">
+<a href="https://www.adventistbookcenter.com/kids-teens/textbooks.html">
+<span>Textbooks</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-4-11-5 first">
+<a href="https://www.adventistbookcenter.com/kids-teens/textbooks/bible.html">
+<span>Bible</span>
+</a>
+</li><li class="level2 nav-4-11-6">
+<a href="https://www.adventistbookcenter.com/kids-teens/textbooks/college.html">
+<span>College</span>
+</a>
+</li><li class="level2 nav-4-11-7">
+<a href="https://www.adventistbookcenter.com/kids-teens/textbooks/grades-3-4.html">
+<span>Grades 3-4</span>
+</a>
+</li><li class="level2 nav-4-11-8">
+<a href="https://www.adventistbookcenter.com/kids-teens/textbooks/grades-5-6.html">
+<span>Grades 5-6</span>
+</a>
+</li><li class="level2 nav-4-11-9">
+<a href="https://www.adventistbookcenter.com/kids-teens/textbooks/grades-7-8.html">
+<span>Grades 7-8</span>
+</a>
+</li><li class="level2 nav-4-11-10">
+<a href="https://www.adventistbookcenter.com/kids-teens/textbooks/grades-9-12.html">
+<span>Grades 9-12</span>
+</a>
+</li><li class="level2 nav-4-11-11">
+<a href="https://www.adventistbookcenter.com/kids-teens/textbooks/grades-k-2.html">
+<span>Grades K-2</span>
+</a>
+</li><li class="level2 nav-4-11-12">
+<a href="https://www.adventistbookcenter.com/kids-teens/textbooks/reading.html">
+<span>Reading</span>
+</a>
+</li><li class="level2 nav-4-11-13 last">
+<a href="https://www.adventistbookcenter.com/kids-teens/textbooks/science.html">
+<span>Science</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li><li class="level0 nav-5 level-top parent">
+<a href="https://www.adventistbookcenter.com/magazines.html" class="level-top">
+<span>Magazines</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-5-1 first">
+<a href="https://www.adventistbookcenter.com/magazines/bible-study-guides.html">
+<span>Bible Study Guides</span>
+</a>
+</li><li class="level1 nav-5-2">
+<a href="https://www.adventistbookcenter.com/magazines/health.html">
+<span>Health</span>
+</a>
+</li><li class="level1 nav-5-3">
+<a href="https://www.adventistbookcenter.com/magazines/missionary.html">
+<span>Missionary</span>
+</a>
+</li><li class="level1 nav-5-4">
+<a href="https://www.adventistbookcenter.com/magazines/news.html">
+<span>News</span>
+</a>
+</li><li class="level1 nav-5-5 last parent">
+<a href="https://www.adventistbookcenter.com/magazines/sabbath-school.html">
+<span>Sabbath School</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-5-5-1 first">
+<a href="https://www.adventistbookcenter.com/magazines/sabbath-school/bible-study-guides.html">
+<span>Bible Study Guides</span>
+</a>
+</li><li class="level2 nav-5-5-2 last">
+<a href="https://www.adventistbookcenter.com/magazines/sabbath-school/kids.html">
+<span>Kids</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li><li class="level0 nav-6 level-top parent">
+<a href="https://www.adventistbookcenter.com/abc-media.html" class="level-top">
+<span>Media</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-6-1 first parent">
+<a href="https://www.adventistbookcenter.com/abc-media/audio-spoken-words.html">
+<span>Audio/Spoken words</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-6-1-1 first">
+<a href="https://www.adventistbookcenter.com/abc-media/audio-spoken-words/ellen-g-white.html">
+<span>Ellen G. White</span>
+</a>
+</li><li class="level2 nav-6-1-2">
+<a href="https://www.adventistbookcenter.com/abc-media/audio-spoken-words/general.html">
+<span>General</span>
+</a>
+</li><li class="level2 nav-6-1-3 last">
+<a href="https://www.adventistbookcenter.com/abc-media/audio-spoken-words/kids-teens.html">
+<span>Kids/Teens</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-6-2 parent">
+<a href="https://www.adventistbookcenter.com/abc-media/chapel-music.html">
+<span>Chapel Music</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-6-2-4 first">
+<a href="https://www.adventistbookcenter.com/abc-media/chapel-music/christmas.html">
+<span>Christmas</span>
+</a>
+</li><li class="level2 nav-6-2-5">
+<a href="https://www.adventistbookcenter.com/abc-media/chapel-music/contemporary.html">
+<span>Contemporary</span>
+</a>
+</li><li class="level2 nav-6-2-6">
+<a href="https://www.adventistbookcenter.com/abc-media/chapel-music/dvds.html">
+<span>DVDs</span>
+</a>
+</li><li class="level2 nav-6-2-7">
+<a href="https://www.adventistbookcenter.com/abc-media/chapel-music/instrumental.html">
+<span>Instrumental</span>
+</a>
+</li><li class="level2 nav-6-2-8">
+<a href="https://www.adventistbookcenter.com/abc-media/chapel-music/kids.html">
+<span>Kids</span>
+</a>
+</li><li class="level2 nav-6-2-9">
+<a href="https://www.adventistbookcenter.com/abc-media/chapel-music/spanish.html">
+<span>Spanish</span>
+</a>
+</li><li class="level2 nav-6-2-10 last">
+<a href="https://www.adventistbookcenter.com/abc-media/chapel-music/traditional.html">
+<span>Traditional</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-6-3 parent">
+<a href="https://www.adventistbookcenter.com/abc-media/dvds.html">
+<span>DVDs</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-6-3-11 first">
+<a href="https://www.adventistbookcenter.com/abc-media/dvds/health.html">
+<span>Health</span>
+</a>
+</li><li class="level2 nav-6-3-12">
+<a href="https://www.adventistbookcenter.com/abc-media/dvds/history.html">
+<span>History</span>
+</a>
+</li><li class="level2 nav-6-3-13">
+<a href="https://www.adventistbookcenter.com/abc-media/dvds/inspiration.html">
+<span>Inspiration</span>
+</a>
+</li><li class="level2 nav-6-3-14">
+<a href="https://www.adventistbookcenter.com/abc-media/dvds/kids.html">
+<span>Kids</span>
+</a>
+</li><li class="level2 nav-6-3-15">
+<a href="https://www.adventistbookcenter.com/abc-media/dvds/music.html">
+<span>Music</span>
+</a>
+</li><li class="level2 nav-6-3-16 last">
+<a href="https://www.adventistbookcenter.com/abc-media/dvds/stories-biographies.html">
+<span>Stories &amp; Biographies</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-6-4">
+<a href="https://www.adventistbookcenter.com/abc-media/hymnals-songbooks.html">
+<span>Hymnals/Songbooks</span>
+</a>
+</li><li class="level1 nav-6-5 last parent">
+<a href="https://www.adventistbookcenter.com/abc-media/software.html">
+<span>Software</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-6-5-17 first">
+<a href="https://www.adventistbookcenter.com/abc-media/software/computer-games.html">
+<span>Computer Games</span>
+</a>
+</li><li class="level2 nav-6-5-18 last">
+<a href="https://www.adventistbookcenter.com/abc-media/software/resources.html">
+<span>Resources</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li><li class="level0 nav-7 level-top parent">
+<a href="https://www.adventistbookcenter.com/sabbath-school.html" class="level-top">
+<span>Sabbath School</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-7-1 first">
+<a href="https://www.adventistbookcenter.com/sabbath-school/bible-book-shelf.html">
+<span>Bible Book Shelf</span>
+</a>
+</li><li class="level1 nav-7-2 parent">
+<a href="https://www.adventistbookcenter.com/sabbath-school/bible-study-guides.html">
+<span>Bible Study Guides</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-7-2-1 first">
+<a href="https://www.adventistbookcenter.com/sabbath-school/bible-study-guides/adult.html">
+<span>Adult</span>
+</a>
+</li><li class="level2 nav-7-2-2">
+<a href="https://www.adventistbookcenter.com/sabbath-school/bible-study-guides/ages-00-05-preschool.html">
+<span>Ages 00--05 Preschool</span>
+</a>
+</li><li class="level2 nav-7-2-3">
+<a href="https://www.adventistbookcenter.com/sabbath-school/bible-study-guides/ages-06-09-early-elementary.html">
+<span>Ages 06--09 Early Elementary</span>
+</a>
+</li><li class="level2 nav-7-2-4">
+<a href="https://www.adventistbookcenter.com/sabbath-school/bible-study-guides/ages-10-14-mid-elementary.html">
+<span>Ages 10--14 Mid Elementary</span>
+</a>
+</li><li class="level2 nav-7-2-5 last">
+<a href="https://www.adventistbookcenter.com/sabbath-school/bible-study-guides/ages-15-18-teen.html">
+<span>Ages 15--18 Teen</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-7-3 last">
+<a href="https://www.adventistbookcenter.com/sabbath-school/resources.html">
+<span>Resources</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-8 level-top last parent">
+<a href="https://www.adventistbookcenter.com/resources.html" class="level-top">
+<span>Resources</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-8-1 first parent">
+<a href="https://www.adventistbookcenter.com/resources/audio-spoken-words.html">
+<span>Audio/Spoken words</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-8-1-1 first">
+<a href="https://www.adventistbookcenter.com/resources/audio-spoken-words/general.html">
+<span>General</span>
+</a>
+</li><li class="level2 nav-8-1-2">
+<a href="https://www.adventistbookcenter.com/resources/audio-spoken-words/kids-teens.html">
+<span>Kids/Teens</span>
+</a>
+</li><li class="level2 nav-8-1-3 last">
+<a href="https://www.adventistbookcenter.com/resources/audio-spoken-words/ellen-g-white.html">
+<span>Ellen G. White</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-8-2">
+<a href="https://www.adventistbookcenter.com/resources/baptism.html">
+<span>Baptism</span>
+</a>
+</li><li class="level1 nav-8-3">
+<a href="https://www.adventistbookcenter.com/resources/bible-lessons.html">
+<span>Bible Lessons</span>
+</a>
+</li><li class="level1 nav-8-4">
+<a href="https://www.adventistbookcenter.com/resources/church-bulletins.html">
+<span>Church Bulletins</span>
+</a>
+</li><li class="level1 nav-8-5">
+<a href="https://www.adventistbookcenter.com/resources/health-connection.html">
+<span>Health Connection</span>
+</a>
+</li><li class="level1 nav-8-6">
+<a href="https://www.adventistbookcenter.com/resources/pathfinder-adventure.html">
+<span>Pathfinder / Adventure</span>
+</a>
+</li><li class="level1 nav-8-7">
+<a href="https://www.adventistbookcenter.com/resources/pictures-maps.html">
+<span>Pictures/Maps</span>
+</a>
+</li><li class="level1 nav-8-8">
+<a href="https://www.adventistbookcenter.com/resources/seminars-small-groups.html">
+<span>Seminars &amp; Small Groups</span>
+</a>
+</li><li class="level1 nav-8-9">
+<a href="https://www.adventistbookcenter.com/resources/software.html">
+<span>Software</span>
+</a>
+</li><li class="level1 nav-8-10 parent">
+<a href="https://www.adventistbookcenter.com/resources/textbooks.html">
+<span>Textbooks</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-8-10-4 first">
+<a href="https://www.adventistbookcenter.com/resources/textbooks/grades-3-4.html">
+<span>Grades 3-4</span>
+</a>
+</li><li class="level2 nav-8-10-5">
+<a href="https://www.adventistbookcenter.com/resources/textbooks/reading.html">
+<span>Reading</span>
+</a>
+</li><li class="level2 nav-8-10-6">
+<a href="https://www.adventistbookcenter.com/resources/textbooks/grades-7-8.html">
+<span>Grades 7-8</span>
+</a>
+</li><li class="level2 nav-8-10-7">
+<a href="https://www.adventistbookcenter.com/resources/textbooks/grades-9-12.html">
+<span>Grades 9-12</span>
+</a>
+</li><li class="level2 nav-8-10-8">
+<a href="https://www.adventistbookcenter.com/resources/textbooks/bible.html">
+<span>Bible</span>
+</a>
+</li><li class="level2 nav-8-10-9">
+<a href="https://www.adventistbookcenter.com/resources/textbooks/grades-5-6.html">
+<span>Grades 5-6</span>
+</a>
+</li><li class="level2 nav-8-10-10">
+<a href="https://www.adventistbookcenter.com/resources/textbooks/grades-k-2.html">
+<span>Grades K-2</span>
+</a>
+</li><li class="level2 nav-8-10-11">
+<a href="https://www.adventistbookcenter.com/resources/textbooks/science.html">
+<span>Science</span>
+</a>
+</li><li class="level2 nav-8-10-12 last">
+<a href="https://www.adventistbookcenter.com/resources/textbooks/college.html">
+<span>College</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-8-11 last">
+<a href="https://www.adventistbookcenter.com/resources/vbs.html">
+<span>VBS</span>
+</a>
+</li>
+</ul>
+</li>    </ul>
+</div>
+<!--/{CATALOG_NAVIGATION_f095b07f5ac60120f33f654c971a5bf5}-->        <div class="main-container col1-layout">
+            <div class="main">
+                <!--{PAGE_BREADCRUMBS_5a1b3bdd10c35bc46ced3cab5b7c6b33}--><!--/{PAGE_BREADCRUMBS_5a1b3bdd10c35bc46ced3cab5b7c6b33}-->                <div class="col-main">
+                    <!--{GLOBAL_MESSAGES_3e966cafdcb3f0c9cd9f8bc6a0021644}--><!--/{GLOBAL_MESSAGES_3e966cafdcb3f0c9cd9f8bc6a0021644}-->                    <div class="std"><div class="page-head-alt">
+<h3>We are sorry, but the page you are looking for cannot be found.</h3>
+</div>
+<div>
+<ul class="disc">
+<li>If you typed the URL directly, please make sure the spelling is correct.</li>
+<li>If you clicked on a link to get here, we must have moved the content.<br />Please try our store search box above to search for an item.</li>
+<li>If you are not sure how you got here, <a onclick="history.go(-1);" href="#">go back</a> to the previous page or return to our <a href="https://www.adventistbookcenter.com/">store homepage</a>.</li>
+</ul>
+</div>
+<!--
+<div class="page-title">
+<h1>Whoops, our bad...</h1>
+</div>
+<dl> <dt>The page you requested was not found, and we have a fine guess why.</dt> <dd> 
+<ul class="disc">
+<li>If you typed the URL directly, please make sure the spelling is correct.</li>
+<li>If you clicked on a link to get here, the link is outdated.</li>
+</ul>
+</dd> </dl> <dl> <dt>What can you do?</dt> <dd>Have no fear, help is near! There are many ways you can get back on track with Magento Store.</dd> <dd> 
+<ul class="disc">
+<li><a href="#" _mce_href="#" onclick="history.go(-1); return false;">Go back</a> to the previous page.</li>
+<li>Use the search bar at the top of the page to search for your products.</li>
+<li>Follow these links to get you back on track!<br /><a href="https://www.adventistbookcenter.com/" _mce_href="https://www.adventistbookcenter.com/">Store Home</a> <span class="separator">|</span> <a href="https://www.adventistbookcenter.com/customer/account/" _mce_href="https://www.adventistbookcenter.com/customer/account/">My Account</a></li>
+</ul>
+</dd></dl> --></div>                </div>
+            </div>
+        </div>
+
+    </div>
+    <div class="footer-container">
+    <div class="footer">
+        <div class="f-cats">
+                                     
+                            <ul class="parent-ul h-list">
+                                <li class="first"><strong>Featured Categories:</strong></li>
+                                                                                                        
+                                        <li><a href="https://www.adventistbookcenter.com/books.html">Books</a></li>
+                                                                                                                                            
+                                        <li><a href="https://www.adventistbookcenter.com/ebooks.html">eBOOKS</a></li>
+                                                                                                                                            
+                                        <li><a href="https://www.adventistbookcenter.com/bibles.html">Bibles</a></li>
+                                                                                                                                            
+                                        <li><a href="https://www.adventistbookcenter.com/kids-teens.html">Kids/Teens</a></li>
+                                                                                                                                            
+                                        <li><a href="https://www.adventistbookcenter.com/magazines.html">Magazines</a></li>
+                                                                                                                                            
+                                        <li><a href="https://www.adventistbookcenter.com/abc-media.html">Media</a></li>
+                                                                                                                                            
+                                        <li><a href="https://www.adventistbookcenter.com/sabbath-school.html">Sabbath School</a></li>
+                                                                                                                                            
+                                        <li><a href="https://www.adventistbookcenter.com/resources.html">Resources</a></li>
+                                                                                                </ul>
+
+                    <div class="clear"></div>
+        </div>
+
+        <div class="footer-links-container">
+            <ul class="h-list parent-ul">
+<li> 
+<ul class="v-list">
+<li><span><a title="About ABC.com" href="/about-us" target="_self">About AdventistBookCenter.com</a></span></li>
+</ul>
+<ul class="v-list">
+<li><a title="Which Adventist Book Center handles on your online orders?" href="/storelocator">Store Locator</a>&nbsp;| <a title="Listing of All Adventist Book Centers World Wide" href="/directory">Store Directory</a></li>
+<li><span><a title="Contact Us" href="/contacts">Contact Us</a></span></li>
+</ul>
+</li>
+<li> 
+<ul class="v-list">
+<li><span><a title="Privacy/Usage Policies" href="/privacy">Privacy Policies</a></span></li>
+<li><span><a title="International Orders" href="/international-orders">International Orders</a></span></li>
+<li><a href="/address-change">Address Change Form</a></li>
+<li><a href="https://products.adventistbookcenter.com">Popular Searches</a></li>
+</ul>
+</li>
+<li class="last"> 
+<ul class="v-list">
+<li><span><a title="Terms of Service" href="/terms-of-service ">Terms of Service</a></span></li>
+</ul>
+<ul class="v-list">
+<li><span><a title="Returns/Exchanges" href="/returns">Returns/Exchanges</a></span></li>
+<li><span><a title="Shipping" href="/shipping">Free Shipping Offer</a></span></li>
+</ul>
+<ul class="v-list">
+</ul>
+</li>
+</ul>            <div class="connect">
+<ul class="v-list">
+<li> <span class="keep">Keep Connected</span> </li>
+<li> 
+<ul class="h-list">
+<li><a title="Facebook" href="/m-social-media#facebook" target="_self"><img src="/media/ico-fb.png" alt="" /></a></li>
+<li><a title="Twitter" href="/m-social-media#Twitter" target="_self"><img src="/media/ico-twit.png" alt="" /></a></li>
+<li><a title="YouTube" href="/m-social-media#YouTube" target="_self"><img src="/media/ico-yt.png" alt="" /></a></li>
+<li><a title="RSS" href="/rss"><img src="/media/ico-rss.png" alt="" /></a></li>
+</ul>
+</li>
+<li> <span class="phone">1.800.765.6955</span> <br /> <span class="send">Send us a Message</span></li>
+<li><!-- TrustLogo Html Builder Code: Shows the logo at URL http://www.adventistbookcenter.com/media/wysiwyg/tl_transp.gif Logo type is  ("SC4") Not Floating //--> <a id="comodoTL" href="http://www.instantssl.com"></a>
+<script>// <![CDATA[
+TrustLogo("https://www.adventistbookcenter.com/media/wysiwyg/tl_transp.gif", "SC4", "none");
+// ]]></script>
+</li>
+</ul>
+                <div class="clear">&nbsp;</div>
+
+            </div>
+
+        </div>
+        <div class="logos-container">
+            <ul class="h-list logos">
+<li><a href="http://www.pacificpress.com" target="_blank"><img src="/media/pp.png" alt="" /></a></li>
+<li><a href="http://adventist.org/" target="_blank"><img src="/media/sac.png" alt="" /></a></li>
+</ul>            <div class="clear">&nbsp;</div>
+        </div>
+        <div style="display:none"><div class="store-switcher">
+    <label for="select-store">Select Store:</label>
+    <select id="select-store" title="Select Store" onchange="location.href=this.value">
+                        <option value="https://www.adventistbookcenter.com/?___store=florida_1013_eng">A Better Choice - Florida ABC (Altamonte Springs, FL) </option>
+                    <option value="" selected="selected">AdventistBookCenter.com</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=alberta_1063_eng">Alberta ABC (Lacombe, AB)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=arizona_1004_eng">Arizona ABC (Scottsdale, AZ)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=carolina_abc_1009_eng">Carolina ABC (Charlotte, NC)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=central_california_1010_eng">Central California ABC (Clovis, CA)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=eastern_canada_1012_eng">Eastern Canada ABC (Oshawa, ON)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=georgia_cumberland_1014_eng">Georgia-Cumberland ABC (Collegedale, TN)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=greater_newyork_1016_eng">Greater New York ABC (New York, NY)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=guam_1018_eng">Guam ABC (Agana Heights)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=gulf_states_1019_eng">Gulf States ABC (Montgomery, AL)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=iowa_missouri_1025_eng">Iowa-Missouri ABC (W. Des Moines, IA)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=kansas_nebraska_1026_eng">Kansas-Nebraska ABC (Lincoln, NE)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=kentucky_tennessee_1027_eng">Kentucky-Tennessee ABC (Goodlettsville, TN)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=michigan_1030_eng">Michigan ABC (Berrien Springs, MI)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=northeastern_1038_eng">Northeastern ABC (Jamaica, NY)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=nothern_california_1040_eng">Northern California ABC (Sacramento, CA)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=oregon_1046_eng">Oregon ABC (Gladstone, OR)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=potomac_1048_eng">Potomac Adventist Book and Health Food (Silver Springs, MD)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=rocky_mountain_1050_eng">Rocky Mountain ABC (Denver, CO)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=signs_publishing_2001_eng">Signs Publishing (Warburton, Victoria Australia)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=southeastern_california_1054_eng">Southeastern California ABC (Riverside, CA)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=glendale_1055_eng">Southern California Adventist Book Center (Glendale,CA)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=southern_new_england_1056_eng">Southern New England ABC (S. Lancaster, MA)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=stanborough_press_2027_eng">Stanborough Press (Grantham, Lincs  UK)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=texas_1058_eng">Texas ABC (Keene, TX)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=upper_columbia_1059_eng">Upper Columbia ABC (Spokane, WA)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=british_columbia_1007_eng">zzABC Christian Store (Abbotsford, BC)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=bermuda_1006_eng">zzBermuda ABC (Hamilton, HMEX)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=indiana_1023_eng">zzIndiana ABC (Cicero, IN)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=pennsylvania_1047_eng">zzPennsylvania ABC (Hamburg, PA)</option>
+                    <option value="https://www.adventistbookcenter.com/?___store=washington_1061_eng">zzWashington ABC (Auburn, WA)</option>
+        </select>
+</div>
+</div>
+        <address class="copyright">All information and content on this web site is copyrighted by Paciﬁc Press Publishing Association, Inc. ("Paciﬁc Press®") and/or
+<br/>
+Review and Herald Publishing Association("Review and Herald®"), the owners of this web site.</address>
+    </div>
+</div>
+
+	<script type="text/javascript">
+var page = 'category';
+	   var google_tag_params = {
+		   ecomm_pagetype: page,
+		   ecomm_prodid: '',
+		   ecomm_totalvalue: 0
+	   };
+	</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1018537833;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1018537833/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>    <!-- Please get configuration from SLI Systems !-->
+<script type="text/javascript" src="//adventistbookcenter.resultspage.com/autocomplete/custom/sli-rac.config.js"></script></div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6393bc8bb1","applicationID":"42709936","transactionName":"YFQGN0BWXBJVAEVRDFkeJQBGXl0PGwBcS0xeXwAGShhcDmYMREwG","queueTime":0,"applicationTime":242,"atts":"TBMFQQhMTxw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

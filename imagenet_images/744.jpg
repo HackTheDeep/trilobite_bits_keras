@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Page not found | Chemoptix Microanalysis</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://chemoptix.com/chemoptix/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://chemoptix.com/chemoptix/wp-content/themes/expound/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Chemoptix Microanalysis &raquo; Feed" href="http://chemoptix.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Chemoptix Microanalysis &raquo; Comments Feed" href="http://chemoptix.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/chemoptix.com\/chemoptix\/wp-includes\/js\/wp-emoji-release.min.js?ver=3da8f566fb9cd78139de54f8a2f1988d"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://chemoptix.com/chemoptix/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='expound-style-css'  href='http://chemoptix.com/chemoptix/wp-content/themes/chemoptix/style.css?ver=20140129' type='text/css' media='all' />
+<script type='text/javascript' src='http://chemoptix.com/chemoptix/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://chemoptix.com/chemoptix/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://chemoptix.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://chemoptix.com/chemoptix/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://chemoptix.com/chemoptix/wp-includes/wlwmanifest.xml" /> 
+
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//chemoptix.com/?wordfence_lh=1&hid=9459F68C3FB8954E7DE06CA883EE3CEE');
+</script>	<style type="text/css">
+			.site-title,
+        .site-description {
+            position: absolute !important;
+            clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+            clip: rect(1px, 1px, 1px, 1px);
+        }
+
+        			.site-header .site-branding {
+				min-height: 0;
+				height: 0;
+				height: 0;
+			}
+        
+	
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #222222; }
+</style>
+</head>
+
+<body class="error404 custom-background">
+<div id="page" class="hfeed site">
+		<header id="masthead" class="site-header" role="banner">
+		<div class="site-branding">
+			<div class="site-title-group">
+            	            <a href="http://chemoptix.com/" title="Chemoptix Microanalysis" rel="home"><img src="http://chemoptix.com/chemoptix/wp-content/uploads/2014/05/chemoptix-header-logo-w-images.jpg" /></a>
+            				
+			</div>
+		</div>
+
+		<nav id="site-navigation" class="navigation-main" role="navigation">
+			<h1 class="menu-toggle">Menu</h1>
+			<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+			<div class="menu-main-container"><ul id="menu-main" class="menu"><li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-82"><a href="http://chemoptix.com/">Home</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="http://chemoptix.com/about/">About</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="http://chemoptix.com/services/">Services</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="http://chemoptix.com/photomicrography/">Photomicrography</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="http://chemoptix.com/contact/">Contact</a></li>
+</ul></div>								</nav><!-- #site-navigation -->
+	</header><!-- #masthead -->
+	
+	<div id="main" class="site-main">
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+			<article id="post-0" class="post error404 not-found">
+				<header class="entry-header">
+					<h1 class="entry-title">Oops! That page can&rsquo;t be found.</h1>
+				</header><!-- .entry-header -->
+
+				<div class="entry-content">
+					<p>It looks like nothing was found at this location. Maybe try one of the links below or a search?</p>
+
+						<form method="get" id="searchform" class="searchform" action="http://chemoptix.com/" role="search">
+		<label for="s" class="screen-reader-text">Search</label>
+		<input type="search" class="field" name="s" value="" id="s" placeholder="Search &hellip;" />
+		<input type="submit" class="submit" id="searchsubmit" value="Search" />
+	</form>
+<div class="widget widget_pages"><h2 class="widgettitle">Pages</h2>		<ul>
+			<li class="page_item page-item-50"><a href="http://chemoptix.com/">Home</a></li>
+<li class="page_item page-item-4"><a href="http://chemoptix.com/about/">About</a></li>
+<li class="page_item page-item-8"><a href="http://chemoptix.com/services/">Services</a></li>
+<li class="page_item page-item-56"><a href="http://chemoptix.com/clients/">Clients</a></li>
+<li class="page_item page-item-10"><a href="http://chemoptix.com/photomicrography/">Photomicrography</a></li>
+<li class="page_item page-item-11"><a href="http://chemoptix.com/contact/">Contact</a></li>
+		</ul>
+		</div>							<div class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Posts</h2>		<ul>
+											<li>
+					<a href="http://chemoptix.com/welcome-to-chemoptix-microanalysis/">Welcome to Chemoptix Microanalysis</a>
+									</li>
+					</ul>
+		</div>
+					
+					<div class="widget widget_archive"><h2 class="widgettitle">Archives</h2><p>Try looking in the monthly archives. 🙂</p>		<label class="screen-reader-text" for="archives-dropdown--1">Archives</label>
+		<select id="archives-dropdown--1" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='http://chemoptix.com/2014/07/'> July 2014 </option>
+
+		</select>
+		</div>
+					<div class="widget widget_tag_cloud"><h2 class="widgettitle">Tags</h2><div class="tagcloud"><a href="http://chemoptix.com/tag/asbestos/" class="tag-cloud-link tag-link-5 tag-link-position-1" style="font-size: 8pt;" aria-label="asbestos (1 item)">asbestos</a>
+<a href="http://chemoptix.com/tag/microanalysis/" class="tag-cloud-link tag-link-3 tag-link-position-2" style="font-size: 8pt;" aria-label="microanalysis (1 item)">microanalysis</a>
+<a href="http://chemoptix.com/tag/microscopy/" class="tag-cloud-link tag-link-6 tag-link-position-3" style="font-size: 8pt;" aria-label="microscopy (1 item)">microscopy</a>
+<a href="http://chemoptix.com/tag/photomicrography/" class="tag-cloud-link tag-link-7 tag-link-position-4" style="font-size: 8pt;" aria-label="photomicrography (1 item)">photomicrography</a>
+<a href="http://chemoptix.com/tag/welcome/" class="tag-cloud-link tag-link-4 tag-link-position-5" style="font-size: 8pt;" aria-label="welcome (1 item)">welcome</a></div>
+</div>
+				</div><!-- .entry-content -->
+			</article><!-- #post-0 .post .error404 .not-found -->
+
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+	</div><!-- #main -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-info">
+			            <a href="http://chemoptix.com/about">Chemoptix Microanalysis</a> &copy; 2018<br />
+
+		</div><!-- .site-info -->
+            website: <a href="http://xlcrdevelopment.com">XLCR Development</a>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/chemoptix.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://chemoptix.com/chemoptix/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.1'></script>
+<script type='text/javascript' src='http://chemoptix.com/chemoptix/wp-content/themes/expound/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='http://chemoptix.com/chemoptix/wp-content/themes/expound/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='http://chemoptix.com/chemoptix/wp-includes/js/wp-embed.min.js?ver=3da8f566fb9cd78139de54f8a2f1988d'></script>
+
+</body>
+</html>

@@ -1,0 +1,22 @@
+﻿<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<META name="robots" content= "noindex"> 
+<title>Error 404 - Page  not found</title>
+</head>
+
+<body>
+
+<div style ="height:25%"></div>
+	<div align="center">
+		<div dir="ltr" align="center" style="line-height:150%;BORDER-RIGHT: #cccccc 1px solid;  BORDER-TOP: #cccccc 1px solid; MARGIN-TOP: 32px;  PADDING-BOTTOM: 24px; BORDER-LEFT: #cccccc 1px solid; COLOR: #333333; PADDING-TOP: 24px; BORDER-BOTTOM: #cccccc 1px solid; ; BACKGROUND-COLOR: #ffffcc; FONT-SIZE: 9pt; WIDTH: 80%; FONT-FAMILY: Tahoma">
+			<b><font color="#800000">Page Not Found!<br></font></b>
+			<br>
+			<span dir=rtl>صفحه ای با این آدرس پیدا نشد!</span>
+		</div>
+	</div>
+
+
+</body>
+
+</html>

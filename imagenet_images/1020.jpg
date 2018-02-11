@@ -1,0 +1,807 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:fb="http://www.facebook.com/2008/fbml"
+      xmlns:og="http://ogp.me/ns#"
+      lang="en-us">
+    <head>
+      <script>
+        var mp_global = {"section": null, "urlname": "404", "type": "page", "instance": "chicagoparent", "author": null, "tag": [], "subsection": null};
+      </script>
+      
+      
+      <title>Page Not Found - Chicago Parent</title>
+      <meta name="generator" content="Metro Publisher (www.metropublisher.com)" />
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <meta itemprop="name" id="publisher-name" content="ChicagoParent.com" />
+      
+        <script type="text/javascript">var _mp_require = {"baseUrl": "https:\/\/d2az0yupc2akbm.cloudfront.net\/vanguardistas.publicview\/4.101\/static\/", "paths": {"facebook": "\/\/connect.facebook.net\/en_US\/sdk"}, "shim": {"facebook": {"exports": "FB"}}};</script>
+<script
+  id="requirejs"
+  src="https://d3t13abgv0q40.cloudfront.net/mp-public/js/require-jquery.bbdcab34b563441ac2b91d548bf4ab20.js"></script>
+
+
+        
+      
+      
+      
+      <link rel="manifest" href="/manifest.json">
+      
+      
+      
+
+      <link href="http://www.chicagoparent.com/api/rss/content.rss" rel="alternate" type="application/rss+xml" title="Page Not Found - Chicago Parent" />
+      
+
+      <link rel="stylesheet" type="text/css" href="https://d3t13abgv0q40.cloudfront.net/mp-public/css/theme-vibrant.6ae83458f28172c5df1e510021a1b728.css"/>
+      <link rel="stylesheet" type="text/css" href="http://www.chicagoparent.com/api/design-d0f3ddffc1d1ddda01ec1cdb0152e1fb/screen.css"/>
+      
+      <script src="https://d3t13abgv0q40.cloudfront.net/mp-public/js/mp.7fb28ecc4f2fa7f7997e8892074563fc.js" async="true"></script>
+      <link rel="shortcut icon" href="http://www.chicagoparent.com/api/design-d0f3ddffc1d1ddda01ec1cdb0152e1fb/favicon.png"/>
+
+      <!-- Google Analytics -->
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-11062628-1', 'auto');
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+<!-- End Google Analytics -->
+      
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+
+
+
+(function() {
+  var resizeTimer;
+  var windowwidth = window.innerWidth;
+  function resizer() {
+      googletag.pubads().refresh();
+  }
+
+  window.addEventListener("resize", function(){ 
+      if (window.innerWidth != windowwidth) {
+          windowwidth = window.innerWidth;
+          clearTimeout(resizeTimer);
+          resizeTimer = setTimeout(resizer, 250);
+      }
+  });
+})();
+
+
+googletag.cmd.push(function() {
+  var target_keys = ['tag', 'type', 'instance', 'section', 'subsection', 'urlname'],
+        i;
+  for (i = 0; i < target_keys.length; i++) {
+      googletag.pubads().setTargeting(target_keys[i], mp_global[target_keys[i]]);
+  }
+
+  var billboard_mapping = googletag.sizeMapping().
+addSize([0, 0], []).
+addSize([970, 250], [970, 250]).
+build();
+
+var leaderboard_mapping = googletag.sizeMapping().
+addSize([0, 0], []).
+addSize([320, 0], [[320, 100], [320, 50], [320, 200], [320, 400]]).
+addSize([728, 0], [[728, 90], [728, 250], [728, 500]]).
+addSize([1000, 0], [[970, 90], [728, 90], [970, 250], [728, 250], [970, 500], [728, 500]]).
+build();
+
+var mpu_mapping = googletag.sizeMapping().
+addSize([0, 0], []).
+addSize([300, 0], [[300, 250], [300, 600], [300, 1050]]).
+build();
+
+var wallpaper_left_mapping = googletag.sizeMapping().
+addSize([0, 0], []).
+addSize([1250, 0], [160, 600]).
+build();
+
+var wallpaper_right_mapping = googletag.sizeMapping().
+addSize([0, 0], []).
+addSize([1250, 0], [160, 600]).
+build();
+
+
+  
+  
+  googletag.defineSlot('1030548/mp_leaderboard_top', [728, 90], 'leaderboard_top').defineSizeMapping(leaderboard_mapping).addService(googletag.pubads());
+  googletag.defineSlot('1030548/mp_wallpaper_left', [160, 600], 'wallpaper_left').defineSizeMapping(wallpaper_left_mapping).addService(googletag.pubads());
+  googletag.defineSlot('1030548/mp_leaderboard_nav', [728, 90], 'leaderboard_nav').defineSizeMapping(leaderboard_mapping).addService(googletag.pubads());
+  googletag.defineSlot('1030548/mp_wallpaper_right', [160, 600], 'wallpaper_right').defineSizeMapping(wallpaper_right_mapping).addService(googletag.pubads());
+  googletag.defineSlot('1030548/mp_leaderboard_bottom', [728, 90], 'leaderboard_bottom').defineSizeMapping(leaderboard_mapping).addService(googletag.pubads());
+
+  googletag.defineSlot('1030548/mp_mpu_custom_01', [728, 90], '5b6f6cf6-0ec5-11e8-9d5b-12a2fb17aa66').defineSizeMapping(mpu_mapping).addService(googletag.pubads());
+googletag.defineSlot('1030548/mp_mpu_custom_02', [728, 90], '5b716178-0ec5-11e8-9d5b-12a2fb17aa66').defineSizeMapping(mpu_mapping).addService(googletag.pubads());
+googletag.defineSlot('1030548/mp_mpu_custom_03', [728, 90], '5b7307e4-0ec5-11e8-9d5b-12a2fb17aa66').defineSizeMapping(mpu_mapping).addService(googletag.pubads());
+
+  
+
+  googletag.pubads().enableSingleRequest();
+
+
+  googletag.pubads().collapseEmptyDivs(true);
+  googletag.enableServices();
+
+
+  var last_refresh = Date.now();
+  document.addEventListener('refresh_ads', function () {
+    if (Date.now() - last_refresh > 1000) {
+        last_refresh = Date.now();
+        googletag.pubads().refresh();
+    }
+  });
+
+
+});
+</script>
+
+      <meta property="og:url" content="http://www.chicagoparent.com/404"/><meta property="og:type" content="article"/><meta property="og:description" content="Chicagoland's award-winning parenting resource. Find the best things to do and places to go, plus advice, humor and more."/><meta property="og:title" content="Page Not Found"/><meta property="og:image" content="http://www.chicagoparent.com/api/design-d0f3ddffc1d1ddda01ec1cdb0152e1fb/CPlogo2010_.jpg"/><meta property="og:site_name" content="Chicago Parent"/>
+      
+      
+
+      
+      <link rel="apple-touch-icon" href="http://www.chicagoparent.com/api/design-d0f3ddffc1d1ddda01ec1cdb0152e1fb/CPlogo2010_.jpg" />
+      
+
+      
+
+      
+
+      
+      
+      <script> 
+
+//	console.log(document.title);
+// 	console.log(location.pathname);
+
+	if(document.title == 'Page Not Found - Chicago Parent') {
+  
+  		location.href = 'http://www2.chicagoparent.com' + location.pathname;
+  
+	}
+  
+</script>
+
+<script>
+    var unruly = window.unruly || {};
+    unruly.native = unruly.native || {};
+    unruly.native.siteId = 1037971;
+</script>
+<script src="//video.unrulymedia.com/native/native-loader.js"></script>
+
+                                                                               
+
+<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Roboto:400,700" rel="stylesheet">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+<!-- Facebook Pixel Code please insert inside just before the </head> tag -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '459122594285830');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=459122594285830&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+        
+        
+        
+
+      <meta id="worstRating" itemprop="worstRating" content="0" />
+      <meta id="bestRating" itemprop="bestRating" content="5" />
+    </head>
+  <body class="mp-type-page mp-sidebar">
+      
+
+    <div id="body">
+    <a class="skip-to-main" href="#maincontent">Skip to main content</a>
+    <div id="wallpaper_left">
+ <script type="text/javascript">
+     googletag.cmd.push(function() { googletag.display('wallpaper_left'); });
+ </script>
+</div>
+
+    
+      
+        <div id="section_website">
+          <div id="subsection_website">
+      <div id="page">
+
+
+
+
+        <div id="top">
+          <div id="topads">
+
+            <div id="topad1">
+              <div id="leaderboard_top">
+ <script type="text/javascript">
+     googletag.cmd.push(function() { googletag.display('leaderboard_top'); });
+ </script>
+</div>
+
+            </div>
+
+            
+
+          </div>
+          
+<div id="logo">
+  <div id="CSE">
+<form action="/api/searchresults.html" id="cse-search-box">
+
+    <div>
+
+        <input type="hidden" name="cx" value="009298528619788467392:x24_z-86dde" />
+        <input type="hidden" name="cof" value="FORID:11" />
+        <input type="hidden" name="ie" value="UTF-8" />
+        <input type="text" name="q" size="20" title="Enter Search Words" />
+
+    <button class="search submit" type="submit" name="sa">Search</button>
+
+        </div>
+
+</form>
+<script async type="text/javascript" src="//www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+</div>
+  
+  <div class="logo">
+  <!--div class="header_links" tal:condition="python: header_links or socialmedia_urls"-->
+    <div class="header_links">
+        
+            <a href="http://www.chicagoparent.com/topics/winter-wonderland/">Winter Wonderland</a>
+        
+            <a href="http://www.chicagoparent.com/search/location/camps/#letter_filter=all&amp;ord=last_modified&amp;page=1">Camp Guide</a>
+        
+            <a href="https://new.chicagoparent.com/shop/steals-deals">Coupons &amp; Contests</a>
+        
+            <a href="http://www.chicagoparent.com/local-guides">Local Guides</a>
+        
+            <a href="http://www.newchicagoparent.com/explore/city-faves">City</a>
+        
+            <a href="http://www.newchicagoparent.com/explore/best-of-the-burbs">Suburbs</a>
+        
+    </div>
+    <div class="chicklets">
+        
+        <a href="https://www.facebook.com/chicagoparent" class="chicklet facebook" target="_blank">facebook</a>
+        <a href="https://twitter.com/chicagoparent" class="chicklet twitter" target="_blank">twitter</a>
+        <a href="https://www.youtube.com/c/chicagoparentmedia" class="chicklet youtube" target="_blank">youtube</a>
+        <a href="https://www.pinterest.com/chiparent/" class="chicklet pinterest" target="_blank">pinterest</a>
+        <a href="https://www.instagram.com/chicagoparent/" class="chicklet instagram" target="_blank">instagram</a>
+    </div>
+  <a rel="home" href="http://www.chicagoparent.com" title="Chicago Parent"><img src="http://www.chicagoparent.com/api/design-d0f3ddffc1d1ddda01ec1cdb0152e1fb/CPlogo2010_.jpg" class="standard" alt="Chicago Parent" title="Chicago Parent" />
+    <meta id="logo-url" itemprop="url" content="http://www.chicagoparent.com/api/design-d0f3ddffc1d1ddda01ec1cdb0152e1fb/CPlogo2010_.jpg" />
+    <meta id="logo-width" itemprop="width" content="359" />
+    <meta id="logo-height" itemprop="height" content="145" />
+    <meta id="publisher-logo" itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject"
+        itemref="logo-url logo-width logo-height" />
+                                                                       <img src="http://www.chicagoparent.com/api/design-d0f3ddffc1d1ddda01ec1cdb0152e1fb/CPlogo2010_.jpg" class="responsive" alt="Chicago Parent" title="Chicago Parent" /></a>
+</div>
+
+</div>
+
+<nav id="topnav">
+  <a href="#" class="pull">Menu</a>
+  
+<ul class="mainnav">
+  <li class="menu_section_start menu_section_sticky-nav-button">
+	<a href="/">Home</a>
+    
+  </li>
+  <li class="menu_section_eat">
+	<a href="http://www.chicagoparent.com/eat">EAT<span class="nav_handle"></span></a>
+    <ul class="subnav_nested">
+      <li class="menu_subsection_start menu_subsection_recipes">
+        <a href="http://www.chicagoparent.com/eat/recipes">Recipes</a>
+      </li>
+      <li class="menu_subsection_restaurant-picks">
+        <a href="http://www.chicagoparent.com/eat/restaurant-picks">Restaurant Picks</a>
+      </li>
+      <li class="menu_subsection_end menu_subsection_sweet-treats">
+        <a href="http://www.chicagoparent.com/eat/sweet-treats">Sweet Treats</a>
+      </li>
+    </ul>
+  </li>
+  <li class="menu_section_play">
+	<a href="http://www.chicagoparent.com/play">PLAY<span class="nav_handle"></span></a>
+    <ul class="subnav_nested">
+      <li class="menu_subsection_start menu_subsection_indoor-fun">
+        <a href="http://www.chicagoparent.com/play/indoor-fun">Indoor Fun</a>
+      </li>
+      <li class="menu_subsection_outdoor-fun">
+        <a href="http://www.chicagoparent.com/play/outdoor-fun">Outdoor Fun</a>
+      </li>
+      <li class="menu_subsection_water-fun">
+        <a href="http://www.chicagoparent.com/play/water-fun">Water Fun</a>
+      </li>
+      <li class="menu_subsection_fairs-fests">
+        <a href="http://www.chicagoparent.com/play/fairs-fests">Fairs &amp; Fests</a>
+      </li>
+      <li class="menu_subsection_date-night-ideas">
+        <a href="http://www.chicagoparent.com/play/date-night-ideas">Date Night Ideas</a>
+      </li>
+      <li class="menu_subsection_end menu_subsection_holiday-fun">
+        <a href="http://www.chicagoparent.com/play/holiday-fun">Holiday Fun</a>
+      </li>
+    </ul>
+  </li>
+  <li class="menu_section_learn">
+	<a href="http://www.chicagoparent.com/learn">LEARN<span class="nav_handle"></span></a>
+    <ul class="subnav_nested">
+      <li class="menu_subsection_start menu_subsection_museums">
+        <a href="http://www.chicagoparent.com/learn/museums">Museums</a>
+      </li>
+      <li class="menu_subsection_arts-culture">
+        <a href="http://www.chicagoparent.com/learn/arts-culture">Arts &amp; Culture</a>
+      </li>
+      <li class="menu_subsection_education-workshops">
+        <a href="http://www.chicagoparent.com/learn/education-workshops">Education &amp; Workshops</a>
+      </li>
+      <li class="menu_subsection_health-fitness">
+        <a href="http://www.chicagoparent.com/learn/health-fitness">Health &amp; Fitness</a>
+      </li>
+      <li class="menu_subsection_end menu_subsection_crafts">
+        <a href="http://www.chicagoparent.com/learn/crafts">Crafts</a>
+      </li>
+    </ul>
+  </li>
+  <li class="menu_section_shop">
+	<a href="http://www.chicagoparent.com/shop">SHOP<span class="nav_handle"></span></a>
+    <ul class="subnav_nested">
+      <li class="menu_subsection_start menu_subsection_local-gems">
+        <a href="http://www.chicagoparent.com/shop/local-gems">Local Gems</a>
+      </li>
+      <li class="menu_subsection_stuff-we-love">
+        <a href="http://www.chicagoparent.com/shop/stuff-we-love">Stuff We Love</a>
+      </li>
+      <li class="menu_subsection_end menu_subsection_steals-deals">
+        <a href="http://www2.chicagoparent.com/contests" target="_blank">Steals &amp; Deals</a>
+      </li>
+    </ul>
+  </li>
+  <li class="menu_section_explore">
+	<a href="http://www.chicagoparent.com/explore">EXPLORE<span class="nav_handle"></span></a>
+    <ul class="subnav_nested">
+      <li class="menu_subsection_start menu_subsection_travel">
+        <a href="http://www.chicagoparent.com/explore/travel">Travel</a>
+      </li>
+      <li class="menu_subsection_neighborhood-guides">
+        <a href="http://www.chicagoparent.com/explore/neighborhood-guides">Neighborhood Guides</a>
+      </li>
+      <li class="menu_subsection_end menu_subsection_nature">
+        <a href="http://www.chicagoparent.com/explore/nature">Nature</a>
+      </li>
+    </ul>
+  </li>
+  <li class="menu_section_end menu_section_subscribe">
+	<a href="http://www2.chicagoparent.com/newsletters" target="_blank">Subscribe</a>
+    
+  </li>
+</ul>
+
+
+
+</nav>
+
+
+        </div>
+        <div id="leaderboard_nav">
+ <script type="text/javascript">
+     googletag.cmd.push(function() { googletag.display('leaderboard_nav'); });
+ </script>
+</div>
+
+        <div id="breadcrumbs"><a href="http://www.chicagoparent.com">Home</a> <a href="http://www.chicagoparent.com/404">Page Not Found</a></div>
+        <main id="maincontent" role="main" tabindex="-1">
+<div id="pagetype_page">
+<div id="main"> 
+
+  <div id="title"><div class="title">
+      <h1>Page Not Found</h1>
+  </div></div>
+
+  <div id="content" class="content"><p>
+	The page you are looking for could not be found.</p>
+
+<p>
+	(404 error)</p>
+</div>
+
+</div>
+
+<aside id="side">
+
+
+  <div id="rightads"><div id="mpu_right">
+ <script type="text/javascript">
+     googletag.cmd.push(function() { googletag.display('mpu_right'); });
+ </script>
+</div>
+</div>
+
+  <div id="5b6f6cf6-0ec5-11e8-9d5b-12a2fb17aa66" class="mp-ad-sprocket ">
+ <script type="text/javascript">
+     googletag.cmd.push(function() {
+        "use strict";
+        var div_id = '5b6f6cf6-0ec5-11e8-9d5b-12a2fb17aa66';
+        var ad_nr = 1,
+    breakpoint = 768,
+    word_margin = 300,
+    w = window,
+    d = document,
+    e = d.documentElement,
+    g = d.getElementsByTagName('body')[0],
+    win_width = w.innerWidth||e.clientWidth||g.clientWidth;
+
+
+function init_ad() {
+        var ps_in_content,
+        ad_div,
+        p,
+        added = false,
+        wc = 0,
+        ad_word_margin = ad_nr * word_margin;
+    if (mp_global !== undefined && ['article', 'review', 'roundup'].indexOf(mp_global.type) > -1) {
+        ps_in_content = document.querySelectorAll('#content > div > p');
+        ad_div = document.querySelector("[id='" + div_id + "']");
+
+        [].some.call(ps_in_content, function (p) {
+            wc += p.innerHTML.split(' ').length;
+            if (wc >= ad_word_margin) {
+                p.parentNode.insertBefore(ad_div, p.nextElementSibling);
+                googletag.display(div_id);
+                added = true;
+                return true;
+            }
+        });
+
+        if (added === false) {
+             // the Article is too short so we add the ad at the end
+            p = ps_in_content[ps_in_content.length-1];
+            p.parentNode.appendChild(ad_div);
+            googletag.display(div_id);
+        }
+    }
+
+}
+
+if (win_width < breakpoint) {
+    if (document.readyState != 'loading') {
+        setTimeout( init_ad, 1);
+    }
+    document.addEventListener("DOMContentLoaded", init_ad, false);
+}
+        googletag.display('5b6f6cf6-0ec5-11e8-9d5b-12a2fb17aa66');
+     });
+ </script>
+</div>
+
+<div id="5b716178-0ec5-11e8-9d5b-12a2fb17aa66" class="mp-ad-sprocket ">
+ <script type="text/javascript">
+     googletag.cmd.push(function() {
+        "use strict";
+        var div_id = '5b716178-0ec5-11e8-9d5b-12a2fb17aa66';
+        var ad_nr = 2,
+    breakpoint = 768,
+    word_margin = 300,
+    w = window,
+    d = document,
+    e = d.documentElement,
+    g = d.getElementsByTagName('body')[0],
+    win_width = w.innerWidth||e.clientWidth||g.clientWidth;
+
+
+function init_ad() {
+        var ps_in_content,
+        ad_div,
+        p,
+        added = false,
+        wc = 0,
+        ad_word_margin = ad_nr * word_margin;
+    if (mp_global !== undefined && ['article', 'review', 'roundup'].indexOf(mp_global.type) > -1) {
+        ps_in_content = document.querySelectorAll('#content > div > p');
+        ad_div = document.querySelector("[id='" + div_id + "']");
+
+        [].some.call(ps_in_content, function (p) {
+            wc += p.innerHTML.split(' ').length;
+            if (wc >= ad_word_margin) {
+                p.parentNode.insertBefore(ad_div, p.nextElementSibling);
+                added = true;
+                return true;
+            }
+        });
+
+        if (added === false) {
+             // the Article is too short so we add the ad at the end
+            p = ps_in_content[ps_in_content.length-1];
+            p.parentNode.appendChild(ad_div);
+        }
+    }
+
+}
+
+if (win_width < breakpoint) {
+    if (document.readyState != 'loading') {
+        setTimeout( init_ad, 1);
+    }
+    document.addEventListener("DOMContentLoaded", init_ad, false);
+}
+        googletag.display('5b716178-0ec5-11e8-9d5b-12a2fb17aa66');
+     });
+ </script>
+</div>
+
+<div id="5b7307e4-0ec5-11e8-9d5b-12a2fb17aa66" class="mp-ad-sprocket ">
+ <script type="text/javascript">
+     googletag.cmd.push(function() {
+        "use strict";
+        var div_id = '5b7307e4-0ec5-11e8-9d5b-12a2fb17aa66';
+        var ad_nr = 3,
+    breakpoint = 768,
+    word_margin = 300,
+    w = window,
+    d = document,
+    e = d.documentElement,
+    g = d.getElementsByTagName('body')[0],
+    win_width = w.innerWidth||e.clientWidth||g.clientWidth;
+
+
+function init_ad() {
+        var ps_in_content,
+        ad_div,
+        p,
+        added = false,
+        wc = 0,
+        ad_word_margin = ad_nr * word_margin;
+    if (mp_global !== undefined && ['article', 'review', 'roundup'].indexOf(mp_global.type) > -1) {
+        ps_in_content = document.querySelectorAll('#content > div > p');
+        ad_div = document.querySelector("[id='" + div_id + "']");
+
+        [].some.call(ps_in_content, function (p) {
+            wc += p.innerHTML.split(' ').length;
+            if (wc >= ad_word_margin) {
+                p.parentNode.insertBefore(ad_div, p.nextElementSibling);
+                added = true;
+                return true;
+            }
+        });
+
+        if (added === false) {
+             // the Article is too short so we add the ad at the end
+            p = ps_in_content[ps_in_content.length-1];
+            p.parentNode.appendChild(ad_div);
+        }
+    }
+
+}
+
+if (win_width < breakpoint) {
+    if (document.readyState != 'loading') {
+        setTimeout( init_ad, 1);
+    }
+    document.addEventListener("DOMContentLoaded", init_ad, false);
+}
+        googletag.display('5b7307e4-0ec5-11e8-9d5b-12a2fb17aa66');
+     });
+ </script>
+</div>
+
+<div class="mp-sprocket-ajax-lazy" data-url="http://www.chicagoparent.com/api/sprockets/cal/273/?context=section.0"></div>
+<div class="mp-html newsletter-signup">
+  <!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css" />
+<div id="mc_embed_signup">
+<div class="mc_title">
+<h2>Subscribe today and never miss a story!</h2>
+</div>
+
+<form action="//chicagoparent.us1.list-manage.com/subscribe/post?u=bb9bd5f257c20c8982f1ef30b&amp;id=ecd1179b57" class="validate" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+<div id="mc_embed_signup_scroll">
+<ul>
+	<li><input id="mce-group[41]-41-0" name="group[41][1]" type="checkbox" value="1" checked /><strong>Weekend Picks</strong>
+
+	<p>Let us plan your weekend with the best family events and activities in Chicagoland.</p>
+	</li>
+	<li><input id="mce-group[41]-41-1" name="group[41][2]" type="checkbox" value="2" checked /><strong>Monday Lifesavers</strong>
+	<p>Start the week right with deals, prizes, parent life hacks and more delivered straight to your inbox.</p>
+	</li>
+	<li><input id="mce-group[41]-41-2" name="group[41][32]" type="checkbox" value="32" checked /><strong>Saturday Stuck</strong>
+	<p>Need last-minute ideas for a weekend of family fun? No worries. We&#39;ve got you.</p>
+	</li>
+	<li><input id="mce-group[41]-41-5" name="group[41][8]" type="checkbox" value="8" /><strong>Special Needs</strong>
+	<p>Resources, tips, inspiration and more for parents of children with special needs.</p>
+	</li>
+	<li><input id="mce-group[41]-41-6" name="group[41][4]" type="checkbox" value="4" checked /><strong>Special Offers from Advertisers</strong>
+	<p>Score exclusive offers from our fabulous advertisers.</p>
+	</li>
+</ul>
+
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+
+<div class="mc-field-group"><input class="required email" id="mce-EMAIL" name="EMAIL" placeholder="Email Address *" type="email" value="" /><input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Subscribe" /></div>
+
+<div class="clear" id="mce-responses">
+<div class="response" id="mce-error-response" style="display:none"></div>
+
+<div class="response" id="mce-success-response" style="display:none"></div>
+</div>
+<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+
+<div aria-hidden="true" style="position: absolute; left: -5000px;"><input name="b_bb9bd5f257c20c8982f1ef30b_ecd1179b57" tabindex="-1" type="text" value="" /></div>
+</div>
+</form>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='text';fnames[4]='SOURCE';ftypes[4]='text';fnames[5]='MMERGE5';ftypes[5]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script><!--End mc_embed_signup--></div>
+
+</div>
+
+
+  
+
+</aside>
+</div>
+
+</main>
+
+        <div id="bottom">
+          <div id="bottomads">
+            <div id="leaderboard_bottom">
+ <script type="text/javascript">
+     googletag.cmd.push(function() { googletag.display('leaderboard_bottom'); });
+ </script>
+</div>
+
+          </div>
+          
+  
+  
+    <div class="custom-footer-html">
+  <div class="column">
+    <h3>Contact Us</h3>
+    <ul>
+      <li>
+        <a href="/about-us">About Us</a>
+      </li>
+      <li>
+        <a href="/staff">Meet the Staff</a>
+      </li>
+      <li>
+        <a href="/faq">Frequently Asked Questions</a>
+      </li>
+      <li>
+        <a href="/terms-and-conditions">Terms &amp; Conditions</a>
+      </li>
+      <li>
+        <a href="/privacy">Privacy Policy</a>
+      </li>
+    </ul>
+  </div>
+  <div class="column">
+    <h3>Company</h3>
+    <ul>
+      <li>
+        <a href="/advertise">Advertise with us</a>
+      </li>
+      <li>
+        <a href="/events/submit.html">Submit an event</a>
+      </li>
+      <li>
+        <a href="http://www2.chicagoparent.com/about-chicago-parent/find-a-copy">Find a copy</a>
+      </li>
+    </ul>
+  </div>
+  <div class="column">
+    <h3>Digital Editions</h3>
+    <ul>
+      <li>
+        <a href="https://issuu.com/chicagoparent/stacks/0e75c58b9fc441d58d60b7a2202e5f7f">Chicago Parent</a>
+      </li>
+      <li>
+        <a href="https://issuu.com/chicagoparent/stacks/096cbd14e42945789a05d4aece4d411b">Going Places</a>
+      </li>
+      <li>
+        <a href="https://issuu.com/chicagoparent/stacks/bc32873ad4f1420f9f47724aadeebf93">Special Parent</a>
+      </li>
+      <li>
+        <a href="https://issuu.com/chicagoparent/stacks/9f1285452c004cecad72df1b4e803988">Hey Baby Chicago</a>
+      </li>
+    </ul>
+  </div>
+  <div class="column footer-logo">
+    <img src="/api/design-0102805e6de09b75dc3c2362f495172a/footer-logo.jpg" alt="Chicago Parent" title="Chicago Parent">
+    <div class="chicklets">
+      <a class="chicklet facebook" href="https://www.facebook.com/chicagoparent/">Facebook</a>
+      <a class="chicklet twitter" href="https://twitter.com/chicagoparent">Twitter</a>
+      <a class="chicklet youtube" href="https://www.youtube.com/c/chicagoparentmedia">Youtube</a>
+<a class="chicklet pinterest" href="https://www.pinterest.com/chiparent/">Pinterest</a>
+<a class="chicklet instagram" href="https://www.instagram.com/chicagoparent/">Instagram</a>
+      <a class="chicklet rss" href="/api/rss/content.rss">RSS</a>
+    </div>
+  </div>
+</div>
+  
+
+  <div id="copyright">
+    <p>Copyright 2018 ChicagoParent.com. All rights reserved. | 141 S. Oak Park. Ave., Oak Park, IL 60302 | 708.386.5555</p>
+  </div>
+
+  <div id="mp_credits">
+    Built with <a href="https://www.metropublisher.com" target="new">Metro Publisher&#8482;</a>
+  </div>
+
+
+
+
+        </div>
+
+      </div>
+      </div>
+      </div>
+      
+    
+    <div id="wallpaper_right">
+ <script type="text/javascript">
+     googletag.cmd.push(function() { googletag.display('wallpaper_right'); });
+ </script>
+</div>
+
+    </div>
+  
+  
+  <!--
+<h2>Footer HTML</h2>
+
+
+<script src="http://www2.chicagoparent.com/content/parent/js/jquery.confetti.js"></script>
+
+-->
+
+<!-- Google Code for Chicago Parent Please insert before the </body> tag -->
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1015124156;
+var google_conversion_label = "6S29CMm9-nUQvKGG5AM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1015124156/?value=1.00&amp;label=6S29CMm9-nUQvKGG5AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+  
+    <script async src="http://www.chicagoparent.com/api/design-d0f3ddffc1d1ddda01ec1cdb0152e1fb/footer.js"></script>
+  
+
+    
+
+    
+
+    
+
+    <span id="mp-config" data-js="{&quot;_mp_sprocket_loader&quot;: true, &quot;_mp_cal_sprocket&quot;: true}"/><script async src="https://d3t13abgv0q40.cloudfront.net/mp-public/js/sprocket_loader.5111d2bb89749eda9702412555c5be17.js" id="_mp_sprocket_loader"></script>
+
+  </body>
+</html>

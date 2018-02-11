@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Western University | 404 Error - file not found</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<style type="text/css">
+
+body {
+    background: #eee;
+    background-image:url(http://www.uwo.ca/web_standards/img/bkg/bigshield.gif);
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    color: #333;
+    height: auto;
+    padding-bottom: 20px;
+    font-family: arial, sans-serif;
+    }
+#topbar {
+  display:block;
+  padding:2px 0px 3px 30px;
+  margin:0px;
+  background-color:#cccccc;
+  font-size:12px;
+}
+#middle {
+  margin:34px 0px 0px 150px;
+  width:60%;
+  padding: 10px;
+}
+#logo {
+  position:absolute;
+  top:120px;
+  left:32px;
+}
+p, li, input {
+  font-size:85%;
+  line-height:160%;
+}
+ul {
+  margin-left:0px;
+  padding-left:20px;
+  padding-bottom:0.75em;
+}
+li {
+  margin-left:0px;
+  padding-left:0px;
+}
+input {
+	vertical-align:middle;
+	margin: 1px 0px 1px 0px;
+    font-family: arial, sans-serif;
+    padding: 10px;
+}
+label {
+  font-size:70%;
+  text-transform:capitalize;
+  vertical-align:middle;
+  letter-spacing:0.05em;
+}
+form {
+  padding-bottom:5em;
+}
+a {
+    color: #015b86;
+    text-decoration: none;
+    font-weight: bold;
+    }
+a:hover {
+    color:#029feb;
+    }
+</style>
+</head>
+
+<body>
+<div id="middle"> 
+	<p><img src="http://uwo.ca/img/homepage/2017/ttl-westernlogo.svg" /></p>
+	<br />
+
+  <p>The page you are looking for may have been removed, had its name changed, has no access rights, or is temporarily 
+unavailable.</p>
+
+  <ul>
+    <li>If you typed the URL, check that the spelling, capitalization, and punctuation are correct and try 
+again.</li>
+    <li>Return to <a href="http://www.westernu.ca">Western</a>, and look for links to the information you want. </li>
+    <li>Click the <a href="javascript:history.back(1);">Back</a> button to try another link.</li>
+	<li>Email <a href="mailto:webadm@uwo.ca">web admin</a> about the missing page.
+	<li>Check <a href="http://www.uwo.ca/its/systemstatus//">Current System Health Status</a></li>
+	<li>Search using the form below:</li>
+  </ul>
+
+	<br />
+
+<div >
+
+<form action="https://www.google.com/cse" id="cse-search-box" class="search">
+<div><input name="cx" value="013266746113315494840:xq6zhlrbloa" type="hidden" /> <input name="as_sitesearch" value="uwo.ca" type="hidden" /> <input aria-label="search" name="q" size="27" type="text" /> <input name="sa" value="Go" type="submit" /></div>
+</form><script src="//www.google.com/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript"></script>
+
+  <b>HTTP 404 - File not found</b>
+ </div> 
+
+</div>
+
+</body>
+</html>

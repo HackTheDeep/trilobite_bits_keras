@@ -1,0 +1,720 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!--[if IE]><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<link rel="shortcut icon" href="https://www.hgs.org/sites/all/themes/hgsnew/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.hgs.org/" />
+<link rel="shortlink" href="https://www.hgs.org/" />
+<meta property="og:site_name" content="Houston Geological Society" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.hgs.org/" />
+<meta property="og:title" content="Houston Geological Society" />
+<meta itemprop="name" content="Houston Geological Society" />
+<meta name="dcterms.title" content="Houston Geological Society" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.format" content="text/html" />
+<meta name="dcterms.identifier" content="https://www.hgs.org/" />
+  <title>Page not found | Houston Geological Society</title>
+  <style>
+@import url("https://www.hgs.org/modules/system/system.base.css?p3wioe");
+</style>
+<style media="screen">
+@import url("https://www.hgs.org/sites/all/modules/tipsy/stylesheets/tipsy.css?p3wioe");
+</style>
+<style>
+@import url("https://www.hgs.org/sites/all/modules/calendar/css/calendar_multiday.css?p3wioe");
+@import url("https://www.hgs.org/sites/all/modules/date/date_api/date.css?p3wioe");
+@import url("https://www.hgs.org/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?p3wioe");
+@import url("https://www.hgs.org/modules/field/theme/field.css?p3wioe");
+@import url("https://www.hgs.org/modules/node/node.css?p3wioe");
+@import url("https://www.hgs.org/sites/all/modules/simpleads/simpleads.css?p3wioe");
+@import url("https://www.hgs.org/sites/all/modules/extlink/extlink.css?p3wioe");
+@import url("https://www.hgs.org/sites/all/modules/views/css/views.css?p3wioe");
+</style>
+<style>
+@import url("https://www.hgs.org/sites/all/modules/colorbox/styles/default/colorbox_default_style.css?p3wioe");
+@import url("https://www.hgs.org/sites/all/modules/ctools/css/ctools.css?p3wioe");
+@import url("https://www.hgs.org/sites/all/modules/panels/css/panels.css?p3wioe");
+@import url("https://www.hgs.org/sites/all/modules/views_tooltip/views_tooltip.css?p3wioe");
+@import url("https://www.hgs.org/sites/all/modules/civicrm/css/civicrm.css?p3wioe");
+@import url("https://www.hgs.org/sites/all/modules/civicrm/css/extras.css?p3wioe");
+</style>
+<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.7/css/bootstrap.css" media="all" />
+<style>
+@import url("https://www.hgs.org/sites/all/themes/bootstrap/css/3.3.7/overrides.min.css?p3wioe");
+@import url("https://www.hgs.org/sites/all/themes/hgsnew/css/bootstrap-theme.css.map?p3wioe");
+@import url("https://www.hgs.org/sites/all/themes/hgsnew/css/bootstrap.css.map?p3wioe");
+@import url("https://www.hgs.org/sites/all/themes/hgsnew/css/bootstrap-theme.min.css?p3wioe");
+@import url("https://www.hgs.org/sites/all/themes/hgsnew/css/ie-ancient.min.css?p3wioe");
+@import url("https://www.hgs.org/sites/all/themes/hgsnew/css/reset.min.css?p3wioe");
+@import url("https://www.hgs.org/sites/all/themes/hgsnew/css/font-awesome.min.css?p3wioe");
+@import url("https://www.hgs.org/sites/all/themes/hgsnew/css/owl.carousel.css?p3wioe");
+@import url("https://www.hgs.org/sites/all/themes/hgsnew/css/animate.css?p3wioe");
+@import url("https://www.hgs.org/sites/all/themes/hgsnew/css/main-stylesheet.min.css?p3wioe");
+@import url("https://www.hgs.org/sites/all/themes/hgsnew/css/ot-lightbox.min.css?p3wioe");
+@import url("https://www.hgs.org/sites/all/themes/hgsnew/css/shortcodes.min.css?p3wioe");
+@import url("https://www.hgs.org/sites/all/themes/hgsnew/css/responsive.min.css?p3wioe");
+</style>
+<style>
+@import url("https://www.hgs.org/sites/default/files/css_injector/css_injector_27.css?p3wioe");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+
+  <script src="https://www.hgs.org/sites/all/modules/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1"></script>
+<script src="https://www.hgs.org/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.hgs.org/misc/drupal.js?p3wioe"></script>
+<script src="https://www.hgs.org/sites/all/modules/tipsy/javascripts/jquery.tipsy.js?v=0.1.7"></script>
+<script src="https://www.hgs.org/sites/all/modules/tipsy/javascripts/tipsy.js?v=0.1.7"></script>
+<script src="https://www.hgs.org/sites/all/modules/wysiwyg/wysiwyg.init.js?p3wioe"></script>
+<script src="//cdn.jsdelivr.net/bootstrap/3.3.7/js/bootstrap.js"></script>
+<script src="https://www.hgs.org/sites/all/modules/hgs/hgsmisc.js?p3wioe"></script>
+<script src="https://www.hgs.org/sites/all/modules/simpleads/simpleads.js?p3wioe"></script>
+<script src="https://www.hgs.org/sites/all/modules/simpleads/modules/simpleads_campaigns/simpleads_campaigns.js?p3wioe"></script>
+<script src="https://www.hgs.org/sites/all/modules/extlink/extlink.js?p3wioe"></script>
+<script src="https://www.hgs.org/sites/all/libraries/colorbox/?p3wioe"></script>
+<script src="https://www.hgs.org/sites/all/modules/colorbox/js/colorbox.js?p3wioe"></script>
+<script src="https://www.hgs.org/sites/all/modules/colorbox/styles/default/colorbox_default_style.js?p3wioe"></script>
+<script src="https://www.hgs.org/sites/all/modules/colorbox/js/colorbox_inline.js?p3wioe"></script>
+<script src="https://www.hgs.org/sites/default/files/js/wysiwyg/wysiwyg_ckeditor_uWMoMQ7qlhtyf-cFJlMTazsAxhCeS88weKBiAtXujAQ.js?p3wioe"></script>
+<script src="https://www.hgs.org/sites/all/libraries/ckeditor/ckeditor.js?p3wioe"></script>
+<script src="https://www.hgs.org/sites/all/modules/wysiwyg/editors/js/ckeditor-3.0.js?p3wioe"></script>
+<script src="https://www.hgs.org/sites/all/modules/wysiwyg/editors/js/none.js?p3wioe"></script>
+<script src="https://www.hgs.org/modules/filter/filter.js?p3wioe"></script>
+<script src="https://www.hgs.org/sites/all/modules/google_analytics/googleanalytics.js?p3wioe"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-90596183-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("set", "page", "/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer);ga("send", "pageview");</script>
+<script src="https://www.hgs.org/sites/all/themes/hgsnew/js/theia-sticky-sidebar.min.js?p3wioe"></script>
+<script src="https://www.hgs.org/sites/all/themes/hgsnew/js/modernizr.js?p3wioe"></script>
+<script src="https://www.hgs.org/sites/all/themes/hgsnew/js/owl.carousel.min.js?p3wioe"></script>
+<script src="https://www.hgs.org/sites/all/themes/hgsnew/js/shortcode-scripts.min.js?p3wioe"></script>
+<script src="https://www.hgs.org/sites/all/themes/hgsnew/js/theme-scripts.min.js?p3wioe"></script>
+<script src="https://www.hgs.org/sites/all/themes/hgsnew/js/ot-lightbox.min.js?p3wioe"></script>
+<script src="https://www.hgs.org/sites/all/themes/bootstrap/js/modules/filter/filter.js?p3wioe"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"hgsnew","theme_token":"0SNdXRbabJtMSLdDg1cdrGWGoWXpRDadeTvuQgtLLpM","js":{"sites\/all\/modules\/wysiwyg\/wysiwyg.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.9\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/tipsy\/javascripts\/jquery.tipsy.js":1,"sites\/all\/modules\/tipsy\/javascripts\/tipsy.js":1,"sites\/all\/modules\/wysiwyg\/wysiwyg.init.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/js\/bootstrap.js":1,"sites\/all\/modules\/hgs\/hgsmisc.js":1,"sites\/all\/modules\/simpleads\/simpleads.js":1,"sites\/all\/modules\/simpleads\/modules\/simpleads_campaigns\/simpleads_campaigns.js":1,"sites\/all\/modules\/extlink\/extlink.js":1,"sites\/all\/libraries\/colorbox\/":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"public:\/\/js\/wysiwyg\/wysiwyg_ckeditor_uWMoMQ7qlhtyf-cFJlMTazsAxhCeS88weKBiAtXujAQ.js":1,"sites\/all\/libraries\/ckeditor\/ckeditor.js":1,"sites\/all\/modules\/wysiwyg\/editors\/js\/ckeditor-3.0.js":1,"sites\/all\/modules\/wysiwyg\/editors\/js\/none.js":1,"modules\/filter\/filter.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/hgsnew\/js\/theia-sticky-sidebar.min.js":1,"sites\/all\/themes\/hgsnew\/js\/modernizr.js":1,"sites\/all\/themes\/hgsnew\/js\/owl.carousel.min.js":1,"sites\/all\/themes\/hgsnew\/js\/shortcode-scripts.min.js":1,"sites\/all\/themes\/hgsnew\/js\/theme-scripts.min.js":1,"sites\/all\/themes\/hgsnew\/js\/ot-lightbox.min.js":1,"sites\/all\/themes\/bootstrap\/js\/modules\/filter\/filter.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/tipsy\/stylesheets\/tipsy.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/simpleads\/simpleads.css":1,"sites\/all\/modules\/extlink\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/views_tooltip\/views_tooltip.css":1,"sites\/all\/modules\/civicrm\/css\/civicrm.css":1,"sites\/all\/modules\/civicrm\/css\/extras.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.7\/overrides.min.css":1,"sites\/all\/themes\/hgsnew\/css\/bootstrap-theme.css.map":1,"sites\/all\/themes\/hgsnew\/css\/bootstrap.css.map":1,"sites\/all\/themes\/hgsnew\/css\/bootstrap-theme.min.css":1,"sites\/all\/themes\/hgsnew\/css\/ie-ancient.min.css":1,"sites\/all\/themes\/hgsnew\/css\/reset.min.css":1,"sites\/all\/themes\/hgsnew\/css\/font-awesome.min.css":1,"sites\/all\/themes\/hgsnew\/css\/owl.carousel.css":1,"sites\/all\/themes\/hgsnew\/css\/animate.css":1,"sites\/all\/themes\/hgsnew\/css\/main-stylesheet.min.css":1,"sites\/all\/themes\/hgsnew\/css\/ot-lightbox.min.css":1,"sites\/all\/themes\/hgsnew\/css\/shortcodes.min.css":1,"sites\/all\/themes\/hgsnew\/css\/responsive.min.css":1,"public:\/\/css_injector\/css_injector_11.css":1,"public:\/\/css_injector\/css_injector_14.css":1,"public:\/\/css_injector\/css_injector_15.css":1,"public:\/\/css_injector\/css_injector_16.css":1,"public:\/\/css_injector\/css_injector_21.css":1,"public:\/\/css_injector\/css_injector_25.css":1,"public:\/\/css_injector\/css_injector_27.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"100%","maxHeight":"100%","fixed":true},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"tipsy":{"custom_selectors":[{"selector":".tipsy","options":{"fade":1,"gravity":"autoWE","trigger":"hover","delayIn":"0","delayOut":"0","opacity":"0.8","offset":"0","html":0,"tooltip_content":{"source":"child","selector":"title"}}},{"selector":".views-tooltip","options":{"fade":1,"gravity":"autoWE","trigger":"hover","delayIn":"0","delayOut":"0","opacity":"0.8","offset":"0","html":1,"tooltip_content":{"source":"attribute","selector":"tooltip-content"}}}]},"wysiwyg":{"configs":[],"plugins":[],"disable":"Disable rich-text","enable":"Enable rich-text"},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":"1","popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":"1","tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-attachments page-attachments-articles page-attachments-articles- page-attachments-articles-313 page-attachments-articles-forteyillustrationjpg">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="boxed">   
+  <!-- BEGIN .header -->
+  <div class="header">
+    <!-- BEGIN .wrapper -->
+    <div class="wrapper">
+      <nav class="header-top">
+           <div class="region region-header">
+    <section id="block-block-11" class="block block-block clearfix">
+
+      
+   <div class="header-top-socials">
+
+<a href="/user/login?destination=attachments/articles/313/ForteyIllustration.jpg" class="top-button">Login</a><a href="/civicrm/contribute/transact?reset=1&id=8" class="top-button">Donate</a>
+         <a href="http://www.facebook.com/hgs.org" class="ot-color-hover-facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+<a href="http://twitter.com/HouGeoSoc" class="ot-color-hover-twitter" target="_blank"><i class="fa fa-twitter"></i></a>
+<a href="http://www.linkedin.com/groups?mostPopular=&gid=2455924" class="ot-color-hover-google-plus" target="_blank"><i class="fa fa-linkedin"></i></a>
+</div>
+<ul><li><a href="/">Home</a></li> <li><a href="/?q=user">My Account</a> </li> 
+<li><a href="/aboutOfficeStaff">Contact Us</a></li><li><a href="/membershipApplication">Join HGS</a></li>
+<li> <a href="#"><span>HGS Supporters</span></a>
+<ul class="sub-menu">
+  <li><a href="/node/6291">Business Cards</a></li>
+  <li><a href="/GeoJobs_Opportunities">Geo Jobs</a></li>
+  <li><a href="#">Prospect Corner</a></li>
+</ul>
+</li>
+</ul>
+</section>
+  </div>
+      </nav>
+      <div class="header-content">
+        <div class="header-content-logo">
+                         <a href="/" title="Home" rel="home" id="logo">
+                <img src="https://www.hgs.org/sites/all/themes/hgsnew/logo.png" alt="Home" />
+              </a>
+                                       <a class="site-name" href="/" title="Home">Houston Geological Society</a>
+                    </div>
+        <div class="header-content-o">
+           <div class="region region-top-banner">
+    <section id="block-block-66" class="block block-block clearfix">
+
+      
+   <div class="header-top-socials responsive">
+<a href="/user/login?destination=attachments/articles/313/ForteyIllustration.jpg" class="top-button">Login</a><a href="/civicrm/contribute/transact?reset=1&id=8" class="top-button">Donate</a>
+         <a href="http://www.facebook.com/hgs.org" class="ot-color-hover-facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+<a href="http://twitter.com/HouGeoSoc" class="ot-color-hover-twitter" target="_blank"><i class="fa fa-twitter"></i></a>
+<a href="http://www.linkedin.com/groups?mostPopular=&gid=2455924" class="ot-color-hover-google-plus" target="_blank"><i class="fa fa-linkedin"></i></a>
+</div>
+</section>
+<section id="block-simpleads-ad-groups-48" class="block block-simpleads clearfix">
+
+      
+  <div class="header">
+  <div class="ad-link"></div>
+</div>
+<div class="adslist">
+  <script type="text/javascript">
+    _simpelads_load('.simpleads-48', 48, 1);
+  </script>
+    <div class="simpleads-48"></div>
+
+    
+</div>
+
+</section>
+  </div>
+        </div>
+      </div>
+      <div class="main-menu-placeholder wrapper">
+               </div>
+    <!-- END .wrapper -->
+    </div>
+  <!-- END .header -->
+  </div>
+ 
+  <!-- BEGIN .content -->
+  <div class="content">
+    <!-- BEGIN .wrapper -->
+    <div class="wrapper">
+      <div class="content-wrapper">
+                               <!-- <div id="breadcrumb"></div> -->
+          <?php// endif; ?>
+
+                  <!-- BEGIN .composs-main-content -->
+                <div class="composs-main-content composs-main-content-s-1">
+                            <a id="main-content"></a>
+                                      <h1 class="title" id="page-title">
+                Page not found              </h1>
+                                                  <div class="tabs">
+                              </div>
+                                                  <div class="region region-content">
+    <section id="block-block-20" class="block block-block clearfix">
+
+      
+  <style>
+input {
+    margin: 2px 5px;
+    padding: 4px;
+}
+#crm-container .crm-section, .crm-section {
+    margin-bottom: 0em;
+}
+#crm-container .crm-section .label, .crm-section .label {
+   width: 20%;
+}
+#crm-container .crm-section .content, .crm-section .content {
+   margin-left: 25%;
+}
+#crm-container select {
+   margin-left: 5px;
+}
+</style>
+<input type="hidden" id="hgsmemtype" value="mt"><input type="hidden" id="hgsvalidmember" value="no"><input type="hidden" id="hgslabel" value=""><input type="hidden" id="hgsCpgID" name="hgsCpgID" value="0"><input type="hidden" id="regDiffMem" value="false">
+
+<script>
+   
+o = document.getElementById('hgsmemtype');
+v = document.getElementById('hgsvalidmember');
+l = document.getElementById('hgslabel');
+var ltest = "";
+var hideID = ""; 
+//document.getElementById('hgsroledebug').title = o.value + ', ' + v.value + ', ' + l.value 
+
+memType =  document.getElementById('hgsmemtype').value;    
+
+
+
+jQuery(document).ready(function() 
+{
+    // now hide radio buttons of event prices this user cannot choose:
+    // if this user is not a member - hide "Hgs-Member" and "Member" pricing radio buttons 
+    // if this user is not a student, hide "Student" prices
+    
+  
+
+    
+
+
+    jQuery("input[type=radio]").each(function() 
+    {
+      
+    //Exclude these events.  Yes, this is lame.
+      if ( document.getElementById('hgsCpgID').value == 1299 ) {
+        return;
+      }
+   if ( document.getElementById('hgsCpgID').value == 1452) {
+        return;
+      }
+   if ( document.getElementById('hgsCpgID').value == 1476) {
+        return;
+      }
+ if ( document.getElementById('hgsCpgID').value == 1442) {
+        return;
+      }
+ if ( document.getElementById('hgsCpgID').value == 1467) {
+        return;
+      }
+     // don't run script on jobs form 
+      if ( document.getElementById('hgsCpgID').value == 2 ) {
+        return;
+      }
+    // don't run on membership sign-up form
+      if ( document.getElementById('hgsCpgID').value == 1 ) {
+        return;
+      }
+// don't run on contribution form
+      if ( document.getElementById('hgsCpgID').value == 5 ) {
+        return;
+      }
+    // don't run on membership sign-up form for students
+      if ( document.getElementById('hgsCpgID').value == 4 ) {
+        jQuery("#CIVICRM_QFID_557_4").attr('checked', 'checked');
+        return;
+      }
+      
+//Exclude these events.  Yes, this is lame.
+      if ( document.getElementById('hgsCpgID').value == 1399 ) {
+        return;
+      }
+
+//Exclude these events.  Yes, this is lame.
+      if ( document.getElementById('hgsCpgID').value == 1496 ) {
+        return;
+      }
+
+//Exclude these events.  Yes, this is lame.
+      if ( document.getElementById('hgsCpgID').value == 1445) {
+        return;
+      }
+
+      
+      var thisPrice = jQuery(this).attr('id');      
+      var thisLbl = "label[for="+thisPrice+"]";
+      txt = jQuery(thisLbl).text();
+   
+      //hides event fee radio buttons
+      jQuery(thisLbl).prev("#" + thisPrice).hide();  // hides the radio button previous to the label
+      jQuery(thisLbl).hide();  // hides label
+      //jQuery(thisLbl + ":contains('Non')").prev("#" + thisPrice).hide(); // hides radio buttons prev to label if it contains containing Non
+      
+      
+      //gets text of hidden input field
+      console =  document.getElementById('hgsmemtype').value;    
+      mvalid = document.getElementById('hgsvalidmember').value;
+      diffmem = document.getElementById('regDiffMem').value; //registering a different member
+      
+      //alert(memType);
+      
+      
+      //Show the correct radio button
+      if(((mvalid == "no") && (txt.indexOf("Non-Member") >= 0)) || (txt.indexOf("Non-Member") >= 0 && diffmem == "true")) {
+           jQuery(thisLbl).prev("#" + thisPrice).show();  // shows the radio button for non-members and expired
+           jQuery(thisLbl).show();  // shows the label for non-members and expired
+           jQuery(thisLbl).prev("#" + thisPrice).attr('checked', 'checked');  // checks radio button
+           //alert(diffmem);
+           //return;
+        }
+      else if((mvalid == "yes") && diffmem == "false" && (memType == "Active" || memType.indexOf("Associate") >= 0) && (txt.indexOf("HGS Member") >= 0)) {
+           jQuery(thisLbl).prev("#" + thisPrice).show();  // shows the radio button for active members
+           jQuery(thisLbl).show();  // shows the label for active members
+           jQuery(thisLbl).prev("#" + thisPrice).attr('checked', 'checked');  // checks radio button
+        }
+      else if((mvalid == "yes") && diffmem == "false" && (memType.indexOf("Student") >= 0) && (txt.indexOf("Student") >= 0)) {
+           jQuery(thisLbl).prev("#" + thisPrice).show();  // shows the radio button for students
+           jQuery(thisLbl).show();  // shows the label for students
+           jQuery(thisLbl).prev("#" + thisPrice).attr('checked', 'checked');  // checks radio button
+        } 
+      else if((mvalid == "yes") && diffmem == "false" && (memType == "Emeritus" || memType.indexOf("Life") >= 0 || memType.indexOf("BOD") >= 0 || memType.indexOf("Honorary") >= 0) && (txt.indexOf("Emeritus") >= 0)) {
+           jQuery(thisLbl).prev("#" + thisPrice).show();  // shows the radio button for emeritus
+           jQuery(thisLbl).show();  // shows the label for emeritus
+           jQuery(thisLbl).prev("#" + thisPrice).attr('checked', 'checked');  // checks radio button
+        }    
+    }
+); // end of each function
+
+// removed because it won't load on the form validation error page.
+//if ( document.getElementById('hgsCpgID').value != 3 )
+//{
+   //return;
+//}
+
+//Below is only for renewal forms.
+
+
+  // don't run script on sign-up form    
+    if ( document.getElementById('hgsvalidmember').value == "no" ) {
+        return;
+    }
+    
+
+    
+ 
+
+    // now only show the radio button of the renewal membership type this user can choose:
+    // hide them all:
+    jQuery('#CIVICRM_QFID_4_2').hide();   // 'Active'  
+    jQuery('#CIVICRM_QFID_5_4').hide();   // 'Emeritus' 
+    jQuery('#CIVICRM_QFID_6_6').hide();   // 'Full Time Student' 
+    jQuery('#CIVICRM_QFID_8_10').hide(); // 'Associate'  
+    jQuery('#CIVICRM_QFID_8_8').hide(); // 'Associate'  
+    jQuery('#CIVICRM_QFID_7_8').hide();    //  'Honorary Life Membership'
+
+    memType =  document.getElementById('hgsmemtype').value;    
+      
+    if(memType == 'Active') {  jQuery('#CIVICRM_QFID_522_12').show(); jQuery("label[for='CIVICRM_QFID_522_12']").show(); }
+    if(memType == 'Emeritus') {  jQuery('#CIVICRM_QFID_523_14').show(); jQuery("label[for='CIVICRM_QFID_523_14']").show(); }    
+    if(memType == 'Full Time Student') {  jQuery('#CIVICRM_QFID_524_16').show(); jQuery("label[for='CIVICRM_QFID_524_16']").show(); }
+    if(memType == 'Associate') {  jQuery('#CIVICRM_QFID_526_20').show(); jQuery("label[for='CIVICRM_QFID_526_20']").show(); }
+    //if(memType == 'Associate') {  jQuery('#CIVICRM_QFID_8_8').show(); jQuery("label[for='CIVICRM_QFID_522_12']").show(); }
+    //if(memType == 'Honorary Life Membership') {  jQuery('#CIVICRM_QFID_7_8').show(); jQuery("label[for='CIVICRM_QFID_522_12']").show(); }
+
+    //document.getElementById('hgsroledebug').title += ', ' + ltest;
+    
+    
+}
+); // end of document ready function
+
+</script>
+</section>
+<section id="block-system-main" class="block block-system clearfix">
+
+      
+  The requested page "/attachments/articles/313/ForteyIllustration.jpg" could not be found.
+</section>
+  </div>
+                    <!-- END .composs-main-content -->
+        </div>
+                      <aside id="sidebar">
+              <div class="region region-sidebar-second">
+    <section id="block-views-bulletin-sidebar-image-block" class="block block-views clearfix">
+
+      
+  <div class="view view-bulletin-sidebar-image view-id-bulletin_sidebar_image view-display-id-block view-dom-id-cedc4ef6c6b670799b78db29bcac0d0b">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="widget">
+<h3>February 2018</h3>
+<div class="widget-content"><a href="https://www.hgs.org/hgs-bulletin" target="_blank"><img typeof="foaf:Image" class="img-responsive" src="https://www.hgs.org/sites/default/files/styles/sidebar_bulletin_image/public/Feb_2018.PNG?itok=QDqKfciz" width="250" height="325" alt="" /></a></div>
+</div></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+<section id="block-simpleads-ad-groups-46" class="block block-simpleads clearfix">
+
+      
+  <div class="header">
+  <div class="ad-link"></div>
+</div>
+<div class="adslist">
+  <script type="text/javascript">
+    _simpelads_load('.simpleads-46', 46, 1);
+  </script>
+    <div class="simpleads-46"></div>
+
+    
+</div>
+
+</section>
+<section id="block-views-tag-clouds-block" class="block block-views clearfix">
+
+      
+  <div class="view view-tag-clouds view-id-tag_clouds view-display-id-block view-dom-id-8e3bd2679bc75f4935d5fe82f1275e81">
+            <div class="view-header">
+      <style> 
+
+.tagcloud .view-content div {
+    display: inline;
+}
+</style> 
+<div class="widget">
+<h3>Tag Cloud</h3>
+<div class="tagcloud"><div>    </div>
+  
+  
+  
+      <div class="view-content">
+        <div>
+      
+          <a href="/tags/editor%E2%80%99s-letter">Editor’s Letter</a>    </div>
+  <div>
+      
+          <a href="/tags/february-2018">February 2018</a>    </div>
+  <div>
+      
+          <a href="/tags/editor">From the Editor</a>    </div>
+  <div>
+      
+          <a href="/tags/president">from the President</a>    </div>
+  <div>
+      
+          <a href="/tags/secretary">From the Secretary</a>    </div>
+  <div>
+      
+          <a href="/tags/vice-president-0">from the vice president</a>    </div>
+  <div>
+      
+          <a href="/tags/geoscientists-without-borders">Geoscientists without Borders</a>    </div>
+  <div>
+      
+          <a href="/tags/hgs-bulletin">HGS Bulletin</a>    </div>
+  <div>
+      
+          <a href="/tags/january-2018">January 2018</a>    </div>
+  <div>
+      
+          <a href="/tags/president%E2%80%99s-letter">President’s Letter</a>    </div>
+  <div>
+      
+          <a href="/tags/vice-president">Vice-President</a>    </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      </div>
+							<!-- END .widget -->
+							</div>    </div>
+  
+  
+</div>
+</section>
+<section id="block-block-60" class="block block-block clearfix">
+
+      
+  <div class="widget">
+  <h3>Latest Photo Gallery</h3>
+  <div class="widget-content ot-w-gallery-list">
+    <div class="item">
+      <div class="item-header">
+<div class="item-photo"><img src="https://www.hgs.org/" alt="" width="auto" height="220"/></div><div class="item-photo"><img src="https://www.hgs.org/sites/default/files/photos/john%20adamick%20and%20art%20berman.jpg" alt="" width="auto" height="220"/></div><div class="item-photo"><img src="https://www.hgs.org/sites/default/files/photos/steve%20get%20and%20justin%20vanden%20brink.jpg" alt="" width="auto" height="220"/></div><div class="item-photo"><img src="https://www.hgs.org/sites/default/files/photos/img_3843_35074150282_o%5B1%5D.jpg" alt="" width="auto" height="220"/></div><div class="item-photo"><img src="https://www.hgs.org/sites/default/files/photos/IMG_2790.JPG" alt="" width="auto" height="220"/></div><div class="item-photo"><img src="https://www.hgs.org/sites/default/files/photos/IMG_2640%5B1%5D.JPG" alt="" width="auto" height="220"/></div><div class="item-photo"><img src="https://www.hgs.org/sites/default/files/photos/Calvert_Graduate_Student_Scholarship_winners%5B1%5D.jpg" alt="" width="auto" height="220"/></div><div class="item-photo"><img src="https://www.hgs.org/sites/default/files/photos/group%20pres%20photo.jpg" alt="" width="auto" height="220"/></div><div class="item-photo"><img src="https://www.hgs.org/sites/default/files/photos/image004.jpg" alt="" width="auto" height="220"/></div><div class="item-photo"><img src="https://www.hgs.org/sites/default/files/photos/image_0001.jpg" alt="" width="auto" height="220"/></div></div>
+</div>
+</div>
+<!-- END .widget -->
+<center><a href="/multimedia_PhotoAlbums" class="go-to-next-view">Go to Photo Albums</a></center>
+</div>
+</section>
+  </div>
+            </aside> <!-- /.section, /#sidebar-second -->
+                </div>
+    <!-- END .wrapper -->
+    </div>
+  <!-- END .content -->
+  </div>
+  <!-- BEGIN #footer -->
+  <hr>
+<footer id="footer">
+    <!-- BEGIN .wrapper -->
+    <div class="wrapper">
+          <!--  <ul>
+        <li><a href="category.html">Timeam delicatissimi</a></li>
+        <li><a href="category.html">Viderer salutatus eiusmel ea</a></li>
+        <li><a href="category.html">Mei debet quaeque et</a></li>
+        <li><a href="category.html">Ne his adhuc meliore</a></li>
+        <li><a href="category.html">Scaevola postulant essent</a></li>
+        <li><a href="category.html">Summo vivendum</a></li>
+      </ul> -->
+                <div class="footer-widgets lets-do-4">
+          <div class="widget-split item">
+              <div class="widget">
+              <div class="region region-footer-firstcolumn">
+    <section id="block-block-52" class="block block-block clearfix">
+
+      
+  		<div class="footer-text">
+			<p><a href="index.html"><img src="/sites/all/themes/hgsnew/logo.png" data-ot-retina="/sites/all/themes/hgsnew/logo.png" alt="" class="footer-logo"></a><a class="site-name-footer" href="/" title="Home">Houston Geological Society</a></p>
+			<p>The Houston Geological Society is a professional society for petroleum, energy and environmental geoscientists. The HGS supports continuing education, networking, outreach to students, student scholarships and young professional activities. The HGS will celebrate its 100th year in 2023!</p>
+		</div>
+	
+</section>
+  </div>
+            </div>
+          </div>
+            <div class="widget-split item">
+              <div class="widget">
+              <div class="region region-footer-secondcolumn">
+    <section id="block-block-54" class="block block-block clearfix">
+
+      
+  <h3>Committees</h3>
+<ul class="menu">
+	<li><a href="/committee?committee=Exhibits%20Committee">Exhibits</a></li>
+	<li><a href="/committee?committee=Mudrocks">Mudrocks</a></li>
+        <li><a href="/committee?cmtegrp=sci&committee=Earth%20Science%20Outreach%20Committee">HGS Earth Science Outreach</a></li>
+	<li><a href="/committee?committee=HPAC">HPAC</a></li>
+	<li><a href="/committee?cmtegrp=sci&committee=NeoGeos">NeoGeos</a></li>
+        <li><a href="/committee?committee=North%20American%20Explorationists">North American Group</a></li>
+	<li><a href="/committee?committee=Northsiders">Northsiders Group</a></li>
+         <li><a href="/committee?committee=Vendor%20Corner%20Committee">Vendor Corners</a></li>
+</ul>
+</section>
+  </div>
+            </div>
+          </div>
+            <div class="widget-split item">
+              <div class="widget">
+              <div class="region region-footer-thirdcolumn">
+    <section id="block-block-58" class="block block-block clearfix">
+
+      
+  <div class="widget">
+<h3>Recent Tweets</h3>
+<a class="twitter-timeline" data-width="300" data-height="350" href="https://twitter.com/HouGeoSoc">Tweets by HGS</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+</section>
+  </div>
+            </div>
+          </div>
+            <div class="widget-split item">
+              <div class="widget">
+              <div class="region region-footer-fourthcolumn">
+    <section id="block-block-56" class="block block-block clearfix">
+
+      
+  <p></p>
+</section>
+<section id="block-block-64" class="block block-block clearfix">
+
+      
+  <div class="widget">
+<h3>Facebook</h3>
+<div id="fb-root"> </div>
+<script>
+<!--//--><![CDATA[// ><!--
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.10";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+//--><!]]>
+</script><div class="fb-page" data-adapt-container-width="true" data-height="350" data-hide-cover="false" data-href="https://www.facebook.com/hgs.org/" data-show-facepile="true" data-small-header="false" data-tabs="timeline" data-width="300">
+<blockquote cite="https://www.facebook.com/hgs.org/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/hgs.org/">Houston Geological Society</a></blockquote>
+</div>
+</div>
+
+</section>
+  </div>
+            </div>
+          </div>
+          </div> <!-- /#footer-columns -->
+        
+                <div class="footer-copyright">
+              <div class="region region-footer">
+    <section id="block-views-website-sponsors-block" class="block block-views clearfix">
+
+      
+  <div class="view view-website-sponsors view-id-website_sponsors view-display-id-block view-dom-id-5fd39e8c748e0ee9e0966d23a014edad">
+            <div class="view-header">
+      <div class="composs-panel">
+<div class="composs-panel-title">
+	<strong>Website Sponsors</strong>
+</div>
+<div class="composs-panel-inner">
+<div class="composs-panel-tab active">
+<div class="composs-article-list lets-do-3"><div>    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="site-sponsors">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><div class="item">
+		<div class="item-header">
+			<img typeof="foaf:Image" class="img-responsive" src="https://www.hgs.org/sites/default/files/styles/website_sponsors/public/emunlogo%20180px%20Wide.png?itok=MR9RSyLc" width="150" height="53" alt="" />
+		</div>
+		<div class="item-content">
+		</div>
+	</div></div>  </div>  </div>
+  <div class="site-sponsors">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><div class="item">
+		<div class="item-header">
+			<img typeof="foaf:Image" class="img-responsive" src="https://www.hgs.org/sites/default/files/styles/website_sponsors/public/logo.png?itok=zHR-IUJT" width="150" height="146" alt="" />
+		</div>
+		<div class="item-content">
+		</div>
+	</div></div>  </div>  </div>
+  <div class="site-sponsors">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><div class="item">
+		<div class="item-header">
+			<img typeof="foaf:Image" class="img-responsive" src="https://www.hgs.org/sites/default/files/styles/website_sponsors/public/thunder%20expl_3.PNG?itok=9sT5eiGU" width="150" height="80" alt="" />
+		</div>
+		<div class="item-content">
+		</div>
+	</div></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      </div>	
+</div>
+</div>
+<!-- END .composs-panel -->
+</div>    </div>
+  
+  
+</div>
+</section>
+<section id="block-block-12" class="block block-block clearfix">
+
+      
+  <div id="bottomLinks" style="width: 100%; margin: 20px auto; text-align: center;">
+  	<p><a href="/Termsofuse">Terms of Use</a> <a href="/privacyPolicy">Privacy Notice</a> 
+  	<a href="/node/131">Site Feedback</a> <a href="/aboutOfficeStaff">Contact Us</a></p>
+ 
+  <p style="color: rgb(0, 0, 0);">© 2014 Houston Geological Society | 14811 St.Marys Lane, Ste 250 | Houston, TX 77079 | Tel: 713-463-9476 | All Rights Reserved</p> 
+</div>
+</section>
+  </div>
+          </div> <!-- /#footer -->
+            <!-- END .wrapper -->
+    </div>
+  <!-- END #footer -->
+  </footer>
+  <div class="ot-responsive-menu-header">
+    <a href="#" class="ot-responsive-menu-header-burger"><i class="fa fa-bars"></i></a>
+                  <a href="/" class="ot-responsive-menu-header-logo" rel="home" id="logo">
+                <img src="https://www.hgs.org/sites/all/themes/hgsnew/logo.png" alt="Home" />
+                <h2>Houston Geological Society</h2>
+              </a>
+              </div>
+<!-- END .boxed -->
+</div>
+<div class="ot-responsive-menu-content-c-header">
+  <a href="#" class="ot-responsive-menu-header-burger"><i class="fa fa-bars"></i></a>
+</div>
+<div class="ot-responsive-menu-content">
+  <div class="ot-responsive-menu-content-inner has-search">
+    <form action="#" method="get">
+     <!--  <input type="text" value="" placeholder="Search" />
+      <button type="submit"><i class="fa fa-search"></i></button> -->
+    </form>
+        <!--  <ul id="responsive-menu-holder"></ul> -->
+  </div>
+</div>
+<div class="ot-responsive-menu-background"></div>  <script src="https://www.hgs.org/sites/all/modules/wysiwyg/wysiwyg.js?p3wioe"></script>
+<script src="https://www.hgs.org/sites/all/themes/bootstrap/js/bootstrap.js?p3wioe"></script>
+  
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"25d1ebf0e0","applicationID":"31787242","transactionName":"NQBQNUICWxBZUkdbXwxKZxNZTBoKVlVWSh4SDUI=","queueTime":0,"applicationTime":671,"atts":"GUdTQwoYSB4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

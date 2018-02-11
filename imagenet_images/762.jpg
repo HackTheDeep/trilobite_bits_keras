@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="http://www.ecclectica.ca/xmlrpc.php">
+
+<title>Ecclectica</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='bootstrap-css-css'  href='http://www.ecclectica.ca/wp-content/themes/shaped-blog/assets/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css-css'  href='http://www.ecclectica.ca/wp-content/themes/shaped-blog/assets/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='shaped-blog-stylesheet-css'  href='http://www.ecclectica.ca/wp-content/themes/shaped-blog/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css-css'  href='http://www.ecclectica.ca/wp-content/themes/shaped-blog/assets/css/responsive.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.ecclectica.ca/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://www.ecclectica.ca/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<link rel='https://api.w.org/' href='http://www.ecclectica.ca/wp-json/' />
+
+	<style>
+
+		/* Border Color */
+		.btn-social:hover,
+		blockquote,
+		#respond input:focus[type="text"], 
+	    #respond input:focus[type="email"], 
+	    #respond input:focus[type="url"],
+	    #respond textarea:focus,
+	    #comments .comment-reply a:hover
+		{
+			border-color: ;
+		}
+
+		
+		/* Background Color */
+		.scroll-up a,
+		.btn-social:hover,
+		button,
+		input[type="button"],
+		input[type="reset"],
+		input[type="submit"],
+		.navbar-default .navbar-nav .dropdown-menu li a:hover, .dropdown-menu li a:focus, .navbar-default .navbar-nav .dropdown-menu .active a,
+		.pagination>li>a:focus, .pagination>li>a:hover, .pagination>li>span:focus, .pagination>li>span:hover, .pagination li .current,
+		.next-previous-posts .next-post a:hover,
+		.next-previous-posts .previous-post a:hover,
+		.btn-goback,
+		.btn-submit,
+		a.more-link,
+		.featured-post .fa,
+		#comments .comment-reply a:hover,
+		.widget .tagcloud a
+		{
+			background-color: ;
+		}
+
+		
+		/* Color */
+		.text-logo a,
+		.navbar-default .navbar-nav .active a, .navbar-default .navbar-nav .active a:hover, .navbar-default .navbar-nav .active a:focus,
+		.navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li a:focus,
+		a:hover,
+    	a:focus,
+		.next-previous-posts .previous-post a,
+		.next-previous-posts .next-post a,
+		.pagination>li>a, .pagination>li>span,
+		#comments .comment-author a:hover, 
+    	#respond .logged-in-as a:hover,
+    	#wp-calendar a,
+    	h2.entry-title a:hover
+		{
+			color: ;
+		}
+
+
+		/* A Color */
+		a{
+			color: ;
+		}
+
+		/* a:hover Color */
+		a:hover,
+		a:focus,
+		a:active,
+		.widget a:hover,
+		.post .post-content .entry-meta ul li a:hover
+		{
+			color: ;
+		}
+
+		/* .featured-post .fa:after*/
+		.featured-post .fa:after{
+			border-color:   transparent ;
+		}
+
+
+		
+
+	</style>
+</head>
+
+<body class="home blog group-blog">
+
+    <div id="st-preloader">
+        <div id="pre-status">
+            <div class="preload-placeholder"></div>
+        </div>
+    </div>
+<!-- /Preloader -->
+
+<header id="header">	
+	<div id="trueHeader">
+    	<div class="wrapper">
+            <div class="container">
+            	<!-- Menu -->
+            	<div class="menu_main">
+                	<div class="navbar blogx-navbar navbar-default">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#st-navber-collapse">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+
+                                                            <div class="text-logo">
+                                    <a href="http://www.ecclectica.ca">Ecclectica</a>
+                                    <p></p>
+                                </div><!-- /Logo -->
+                                                    </div>
+                      
+                        <div id="st-navber-collapse" class="navbar-collapse collapse pull-right">
+                             
+                        </div>
+                    </div>
+            	</div><!-- end menu -->
+        	</div> <!-- /.container -->
+    	</div>
+	</div>
+</header>
+	<!-- Main content -->
+	<div id="content" class="site-content">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8">
+					<div id="primary" class="content-area">
+						<main id="main" class="site-main" role="main">
+
+						
+														
+								<article id="post-72" class="post-72 post type-post status-publish format-standard has-post-thumbnail hentry category-literature category-writers tag-book-do-not-say-we-have-nothing tag-famous-canadian-litetary-prize-winner tag-novel-portraying-tragic-china-history">
+    <header class="entry-header">
+        
+                <div class="entry-thumbnail">
+            <img width="1000" height="560" src="http://www.ecclectica.ca/wp-content/uploads/2017/08/Madeleine-Thien-Wins-Literary-Awards-for-her-Novel-1000x560.jpg" class="img-responsive wp-post-image" alt="" />        </div>
+        
+    </header> <!--/.entry-header -->
+
+    <div class="clearfix post-content media">
+
+        <h2 class="entry-title">
+            <a href="http://www.ecclectica.ca/madeleine-thien-wins-literary-awards-for-her-novel/" rel="bookmark">Madeleine Thien Wins Literary Awards for her Novel</a>
+        </h2> <!-- //.entry-title -->
+
+        <div class="clearfix entry-meta">
+            
+            <ul class="list-inline">
+                <li>
+                    <span class="author vcard">
+                        By <a class="url fn n" href="http://www.ecclectica.ca/author/charles-simmons/">Charles Simmons</a>                    </span>
+                </li>
+                <li>
+                    on <span class="posted-on">Oct 22, 2017</span>
+                </li>
+                                    <li>
+                        in <span class="posted-in">
+                            <a href="http://www.ecclectica.ca/category/literature/" rel="category tag">Literature</a>, <a href="http://www.ecclectica.ca/category/writers/" rel="category tag">Writers</a>                        </span>
+                    </li>
+                            </ul>
+                </div> <!--/.entry-meta -->
+        
+        <div class="entry-summary">
+            <p>Novelist Madeleine Thien won Canada&#8217;s literary awards for fiction with her work Do Not Say We Have Nothing. The book also was nominated for the Man Booker prize sometime back and won <a href="http://www.scotiabankgillerprize.ca/">the Scotiabank Giller Prize</a> and the Governor General&#8217;s Literary Award in 2016.</p>
+<p>For Thien, the journey has been nothing short of amazing. Thien and her family are Malaysian-Chinese immigrants and live in Montreal. The novel portrays the life of a family of musicians in China’s tragic and tumultuous 20<sup>th</sup> Century history based on the incident of the 1989 Tiananmen Square.</p>
+<p>But before the incident becomes integrated with the main plot of the story, the reader is taken back in time spanning over hundred pages. The extraordinary novel is more than 450 pages and the plot progresses in a complicated manner with a nonlinear approach. But the flow is smooth and the readers sail fluently as the story develops. As for today, there are a lot of activities apart from books reading, for example, if you are fond of games playing you can try out one of the trusted Canadian source <a href="https://www.valleygames.ca/">ValleyGames entertainment advisor</a>. This website provides a wide variety of popular Canadian <a href="https://www.valleygames.ca/">online casino</a> reviews. But still, if your hobby is book reading, you will certainly like the plot of the Do Not Say We Have Nothing.</p>
+<h2>What is the Story About?</h2>
+<p><img class="size-medium wp-image-74 alignright" src="http://www.ecclectica.ca/wp-content/uploads/2017/08/do-not-say-we-have-nothing-209x300.jpg" alt="" width="209" height="300" srcset="http://www.ecclectica.ca/wp-content/uploads/2017/08/do-not-say-we-have-nothing-209x300.jpg 209w, http://www.ecclectica.ca/wp-content/uploads/2017/08/do-not-say-we-have-nothing.jpg 370w" sizes="(max-width: 209px) 100vw, 209px" />The main characters of the story feature multiple generations of the musician family who face the sad upheavals of the time. They are convicted as Rightists at the time of the Cultural Revolution when the red squad unleashed terror on culture and attacked everything Western. The European music style and instruments utilized by the musicians burn under red fury and in 1966 more than 500 pianos were destroyed in the Shanghai Conservatory.</p>
+<p>Sparrow, the son of the patriarch and former communist soldier Ba Lute must stop his brilliant musical compositions and join as a factory worker producing radios. He has to give up on music which makes him numb and cold to life and everything that is happening around him. Sparrow turns into a bird with broken wings.</p>
+<p>The situation is really oppressive and tragic for China with hundreds of musicians being sent to prison camps or getting compelled to take their own lives on the face of communist harassments.</p>
+<p>The story progresses with sheer brilliance and the reader is taken on a journey twenty years later into the Tiananmen Square demonstrations. This rekindles a beat within Sparrow and he is caught in a moment of heroism which leads to a series of heart-wrenching consequences. The joyful anticipation that one gets from protesting was soon devastated by the mayhem that was unleashed upon the student activists.</p>
+<h2>What would you love about the book?</h2>
+<p>Thein crafts the situation like an expert and the right amount of emotion which does not take the reader away from the important parts of the plot.</p>
+<p>Her story flows like a music which gives a forbidding mood to the plot like a background score. History is presented accurately over the plot of the story and she weaves fiction with reality to produce a sublime work of truth and conscience. Behind the lines of the story, there is a message to embrace personal freedom as best as one can. It’s a message that we all can identify with more than ever today.</p>
+        </div> <!-- //.entry-summary -->
+
+    </div>
+
+</article> <!--/#post-->
+							
+								<article id="post-19" class="post-19 post type-post status-publish format-standard has-post-thumbnail hentry category-events category-literature tag-canadian-literature-society tag-literary-awardings-in-canada tag-modern-canadian-prose tag-prestigious-rewards-of-canadian-poetry">
+    <header class="entry-header">
+        
+                <div class="entry-thumbnail">
+            <img width="1000" height="560" src="http://www.ecclectica.ca/wp-content/uploads/2017/07/Canadian-Literary-Awards-1000x560.jpg" class="img-responsive wp-post-image" alt="" />        </div>
+        
+    </header> <!--/.entry-header -->
+
+    <div class="clearfix post-content media">
+
+        <h2 class="entry-title">
+            <a href="http://www.ecclectica.ca/canadian-literary-awards/" rel="bookmark">Canadian Literary Awards</a>
+        </h2> <!-- //.entry-title -->
+
+        <div class="clearfix entry-meta">
+            
+            <ul class="list-inline">
+                <li>
+                    <span class="author vcard">
+                        By <a class="url fn n" href="http://www.ecclectica.ca/author/joseph-lucas/">Joseph Lucas</a>                    </span>
+                </li>
+                <li>
+                    on <span class="posted-on">Aug 13, 2017</span>
+                </li>
+                                    <li>
+                        in <span class="posted-in">
+                            <a href="http://www.ecclectica.ca/category/events/" rel="category tag">Events</a>, <a href="http://www.ecclectica.ca/category/literature/" rel="category tag">Literature</a>                        </span>
+                    </li>
+                            </ul>
+                </div> <!--/.entry-meta -->
+        
+        <div class="entry-summary">
+            <p>Canada is a country that loves reading books. State of the art libraries and abundance of literary awards make Canada a literature loving society. The literary awards in Canada are awarded every year to ensure that the writers new to this field are encouraged. This also propagates the Canadian culture as it is regarded as one of the best ones in the world. The main thing about the literary awards in Canada is that it is awarded to specific pieces of writings. The book&#8217;s prose and novels which present a better image of Canada to the outsiders are the ones on the list. Another great thing about the literary awards of Canada is that these are not mere certificates and trophies but are also accompanied with cash. This makes them work even harder if they want to get what they want. Some of the literary awards which are presented to Canadian writers are mentioned as follows:</p>
+<h2>Arthur Ellis Awards</h2>
+<p><img class="size-medium wp-image-28 alignright" src="http://www.ecclectica.ca/wp-content/uploads/2017/07/Arthur-Ellis-Awards-300x256.jpg" alt="" width="300" height="256" srcset="http://www.ecclectica.ca/wp-content/uploads/2017/07/Arthur-Ellis-Awards-300x256.jpg 300w, http://www.ecclectica.ca/wp-content/uploads/2017/07/Arthur-Ellis-Awards.jpg 488w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>The suspense in the most read genre in Canada. <a href="http://www.crimewriterscanada.com/awards/arthur-ellis-awards/about">This award</a> is presented to the writer with the best crime or suspense book of that year. The best part is that this award is not just tied to English language only. The writers of other languages can also submit their books for reviews. Canada is a versatile society and this award wants to keep it that way. Some of the branches of Canadian literature covered by this novel are as follows:</p>
+<ul>
+<li>Crime novel</li>
+<li>First novel</li>
+<li>Best Play</li>
+<li>Young Adult Crime book</li>
+</ul>
+<p>These awards were started in 1984 and since then numerous Canadians and outsider have won this awesome award.</p>
+<h2>Burt Award for First Nations, Métis and Inuit Literature</h2>
+<p><img class="alignnone size-full wp-image-26" src="http://www.ecclectica.ca/wp-content/uploads/2017/07/Burt-Award-for-First-Nations-Métis-and-Inuit-Literature.jpg" alt="" width="800" height="450" srcset="http://www.ecclectica.ca/wp-content/uploads/2017/07/Burt-Award-for-First-Nations-Métis-and-Inuit-Literature.jpg 800w, http://www.ecclectica.ca/wp-content/uploads/2017/07/Burt-Award-for-First-Nations-Métis-and-Inuit-Literature-300x169.jpg 300w, http://www.ecclectica.ca/wp-content/uploads/2017/07/Burt-Award-for-First-Nations-Métis-and-Inuit-Literature-768x432.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>Youngsters should come forward and be a part of the Canadian literature society is all that this award is about. Though it is not as old as the other awards in Canada still it is a great way to encourage young literature writers. <a href="https://www.codecan.org/burt-award-canada">Burt Award for First Nations, Métis and Inuit Literature</a> was started in 2013 and since then there is a wish in young Canadian writers to get this prestige. Three prizes are given each year to the young writing talent of Canada. Canadian Organization for Development through Education is the governing body. The cash prices are hefty as the first writer gets $12,000 followed by $8000 and $5000. This award is a great way to make sure that the best talent comes forward. These writers will definitely become the future of Canadian prose.</p>
+<h2>Griffin Poetry Prize</h2>
+<p><img class="alignnone wp-image-25 size-full" src="http://www.ecclectica.ca/wp-content/uploads/2017/07/griffin-poetry-prize.jpg" alt="" width="800" height="546" srcset="http://www.ecclectica.ca/wp-content/uploads/2017/07/griffin-poetry-prize.jpg 800w, http://www.ecclectica.ca/wp-content/uploads/2017/07/griffin-poetry-prize-300x205.jpg 300w, http://www.ecclectica.ca/wp-content/uploads/2017/07/griffin-poetry-prize-768x524.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>Established and awarded in the year 2000 for the first time <a href="http://www.griffinpoetryprize.com/">Griffin Poetry Prize</a> is founded by Scott Griffin who was a Canadian businessman. Here the good news for writers is that from 2010 the price money of this awesome award has been doubled. Two poets one from Canada and one internationally get this award each year. It is regarded as the most prestigious award of Canadian poetry. Getting is award means that a poet has achieved all that he wanted in his life. It is presented by Griffin Trust for Excellence in Poetry.</p>
+        </div> <!-- //.entry-summary -->
+
+    </div>
+
+</article> <!--/#post-->
+							
+								<article id="post-30" class="post-30 post type-post status-publish format-standard has-post-thumbnail hentry category-literature category-writers tag-canadian-writing-industry tag-modern-literature-in-canada tag-outstanding-canadian-authors">
+    <header class="entry-header">
+        
+                <div class="entry-thumbnail">
+            <img width="1000" height="560" src="http://www.ecclectica.ca/wp-content/uploads/2017/07/modern-canadian-writers-1000x560.jpg" class="img-responsive wp-post-image" alt="" />        </div>
+        
+    </header> <!--/.entry-header -->
+
+    <div class="clearfix post-content media">
+
+        <h2 class="entry-title">
+            <a href="http://www.ecclectica.ca/famous-modern-autors/" rel="bookmark">Famous modern autors</a>
+        </h2> <!-- //.entry-title -->
+
+        <div class="clearfix entry-meta">
+            
+            <ul class="list-inline">
+                <li>
+                    <span class="author vcard">
+                        By <a class="url fn n" href="http://www.ecclectica.ca/author/morgan-wells/">Morgan Wells</a>                    </span>
+                </li>
+                <li>
+                    on <span class="posted-on">Aug 09, 2017</span>
+                </li>
+                                    <li>
+                        in <span class="posted-in">
+                            <a href="http://www.ecclectica.ca/category/literature/" rel="category tag">Literature</a>, <a href="http://www.ecclectica.ca/category/writers/" rel="category tag">Writers</a>                        </span>
+                    </li>
+                            </ul>
+                </div> <!--/.entry-meta -->
+        
+        <div class="entry-summary">
+            <p>There are several Canadian writers who have written masterpieces. They are not only recognized nationally but also internationally. Their work has influenced the lives of millions from all over the world. For good novels and prose work, a writer should not necessarily belong to Shakespeare&#8217;s era. The fact is that despite intense digitalized world we live in there are some book lovers who are continuously leaving their mark on the related industry. We all know that many entertainment activities become online-oriented, that is why today you can easily while the time away dropping in <a href="https://www.nbso.ca/">NBSO online casino games listing website</a>, providing reviews on best gambling sources, or watch Netflix series, or whatever. But there are still people who prefer meaningful pastime (et il existe des informations plus détaillées sur la <a href="https://www.nbso.ca/casino-en-ligne/">liste des jeux casino en ligne</a> de pour les visiteurs francophones). The modern writers of Canada are influenced indigenously and therefore their writing also depicts the same. These writers make sure that a large audience is influenced. It is also worth mentioning that these writers are very much successful in this endeavor. Some of the modern Canadian prose writers are mentioned as below:</p>
+<h2>Alissa York</h2>
+<p><img class="aligncenter wp-image-33 size-full" src="http://www.ecclectica.ca/wp-content/uploads/2017/07/Alissa-York.jpg" alt="" width="800" height="532" srcset="http://www.ecclectica.ca/wp-content/uploads/2017/07/Alissa-York.jpg 800w, http://www.ecclectica.ca/wp-content/uploads/2017/07/Alissa-York-300x200.jpg 300w, http://www.ecclectica.ca/wp-content/uploads/2017/07/Alissa-York-768x511.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>Everyone has read the novels effigy and mercy. These are not only internationally recognized but have changed the lives of people. Immense fan following has been enjoyed by Alissa York after these writings which give her a unique place in Canadian writing industry. Another awesome piece of art which has been written by her is The Naturalist that has won several international and national awards such as Canadian Literary Awards. Apart from prose and novel writing her articles also appear on HuffPost and Guardian.</p>
+<h2>Charlotte Gray</h2>
+<p><img class="size-medium wp-image-34 alignright" src="http://www.ecclectica.ca/wp-content/uploads/2017/07/Charlotte-Gray-300x200.jpg" alt="" width="300" height="200" srcset="http://www.ecclectica.ca/wp-content/uploads/2017/07/Charlotte-Gray-300x200.jpg 300w, http://www.ecclectica.ca/wp-content/uploads/2017/07/Charlotte-Gray.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" />She has written 10 internationally acclaimed books which include Gold Diggers, The Massy Murders, and Sisters in the Wilderness. She has been awarded several international awards and is given the honorary membership of Canadian Writing Association. Popular history and biography writing are the main genres she focuses on. Before becoming a writer she worked as political commentator and book reviewer. Charlotte Gray is perhaps the only Canadian writer on this list who has not studied in Canada. Her alma maters include London School of Economics and Oxford University. She also enjoys membership of the Order of Canada.</p>
+<h2>Pamela Van Der Woude</h2>
+<p>She has won The Writers Union of Canada award in 2015 as one of the most promising and upcoming writers. Since then she has made writing her full-time job. There are several national awards which she has won and according to recent press talk targets The Giller. She is a student of the University of Toronto. According to the Writers Union of Canada, she knows how to play with words and the same prowess can also be seen when she wrote her first diary. Among the 19 finalists, her story was the one which influenced the jury.</p>
+<h2>Johanna Skibsrud</h2>
+<p>Poetry is the main genre which is targeted by <a href="http://www.johannaskibsrud.com/">Johanna Skibsrud</a> and she loves to do it that way. I Do Not Think that I Could Love a Human Being is one of the best-selling poetry collections of all time. She is the only writer on this list who has won Giller award and $100,000 cash award for her novel The Sentimentalists. Though she spends most of her time in the USA as Assistant Professor of English at Arizona State University she is a Canadian by birth. Sources say that her new novel will be out soon.</p>
+<p><img class="alignnone wp-image-35 size-full" src="http://www.ecclectica.ca/wp-content/uploads/2017/07/Johanna-Skibsrud.jpg" alt="" width="800" height="532" srcset="http://www.ecclectica.ca/wp-content/uploads/2017/07/Johanna-Skibsrud.jpg 800w, http://www.ecclectica.ca/wp-content/uploads/2017/07/Johanna-Skibsrud-300x200.jpg 300w, http://www.ecclectica.ca/wp-content/uploads/2017/07/Johanna-Skibsrud-768x511.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+        </div> <!-- //.entry-summary -->
+
+    </div>
+
+</article> <!--/#post-->
+							
+								<article id="post-10" class="post-10 post type-post status-publish format-standard has-post-thumbnail hentry category-festivals category-literature tag-book-fairs-in-canada tag-canadian-literary-meetings tag-modern-canadian-literature">
+    <header class="entry-header">
+        
+                <div class="entry-thumbnail">
+            <img width="1000" height="560" src="http://www.ecclectica.ca/wp-content/uploads/2017/07/Literary-events-in-Canada-1000x560.jpg" class="img-responsive wp-post-image" alt="" />        </div>
+        
+    </header> <!--/.entry-header -->
+
+    <div class="clearfix post-content media">
+
+        <h2 class="entry-title">
+            <a href="http://www.ecclectica.ca/literary-events-in-canada/" rel="bookmark">Literary events in Canada</a>
+        </h2> <!-- //.entry-title -->
+
+        <div class="clearfix entry-meta">
+            
+            <ul class="list-inline">
+                <li>
+                    <span class="author vcard">
+                        By <a class="url fn n" href="http://www.ecclectica.ca/author/charles-simmons/">Charles Simmons</a>                    </span>
+                </li>
+                <li>
+                    on <span class="posted-on">Jul 30, 2017</span>
+                </li>
+                                    <li>
+                        in <span class="posted-in">
+                            <a href="http://www.ecclectica.ca/category/festivals/" rel="category tag">Festivals</a>, <a href="http://www.ecclectica.ca/category/literature/" rel="category tag">Literature</a>                        </span>
+                    </li>
+                            </ul>
+                </div> <!--/.entry-meta -->
+        
+        <div class="entry-summary">
+            <p>The Writers Union of Canada is the sole organization which funds different small and large literary events in Canada. This is one of the best ways to promote cultural harmony according to the organization. It is because such events keep everyone closer and people from different backgrounds mingle. There are many such events which take place throughout Canada. If an event is being planned privately then too it is important to get NOC from the Writers Union of Canada. These events also planned in such a manner that the best talent comes forth. From crime story listening to poetry gatherings, there are several types of such events which take place in Canada. Not all literary events in Canada are national in nature. There are some events which are state or province based. Such events surpass national events in number. Some of the important events which are worth mentioning in this regard are stated as under:</p>
+<h2>Elephant Mountain Literary Festival (Nelson)</h2>
+<p><img class="size-medium wp-image-14 alignright" src="http://www.ecclectica.ca/wp-content/uploads/2017/07/Elephant-Mountain-Literary-Festival-300x207.jpg" alt="" width="300" height="207" srcset="http://www.ecclectica.ca/wp-content/uploads/2017/07/Elephant-Mountain-Literary-Festival-300x207.jpg 300w, http://www.ecclectica.ca/wp-content/uploads/2017/07/Elephant-Mountain-Literary-Festival-768x531.jpg 768w, http://www.ecclectica.ca/wp-content/uploads/2017/07/Elephant-Mountain-Literary-Festival.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" />It is a small event which takes place at British Columbia. The local writers get exposure as every year it is surely attended by one of the renowned artists. The local writing community comes together to share ideas and get manuscripts proof read. There are many auxiliary events which take place at the same time. <a href="http://emlfestival.com/">Elephant Mountain Literary Festival</a> is a real boon for upcoming writers because it is limited to a certain area and also lets the writers put forward proposals. This event is also known for its lightning ambiance which is done in a striking manner.</p>
+<h2>Wordfest</h2>
+<p>It is the best event which Canadian writers enjoy and take full advantage of over the course of 10 days. The best part is that not only national but international writers come together for a better Canadian writing culture. The Canadian youth is thought to be away from reading and writing.</p>
+<p><img class="size-full wp-image-15 aligncenter" src="http://www.ecclectica.ca/wp-content/uploads/2017/07/Wordfest.jpg" alt="" width="800" height="531" srcset="http://www.ecclectica.ca/wp-content/uploads/2017/07/Wordfest.jpg 800w, http://www.ecclectica.ca/wp-content/uploads/2017/07/Wordfest-300x199.jpg 300w, http://www.ecclectica.ca/wp-content/uploads/2017/07/Wordfest-768x510.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />This event makes sure that this gap is filled effectively. <a href="http://wordfest.com/">Wordfest</a> also hosts several book fairs which increase sales and revenue of renowned Canadian publishing companies. The festival is geared towards Canadian youth. In total 70 events take place over the course of time which means abundant opportunities for all looking to quench their literary thirst.</p>
+<h2>Word on the Street</h2>
+<p><img class=" wp-image-16 alignleft" src="http://www.ecclectica.ca/wp-content/uploads/2017/07/Word-on-the-street-festival-300x202.jpg" alt="" width="293" height="197" srcset="http://www.ecclectica.ca/wp-content/uploads/2017/07/Word-on-the-street-festival-300x202.jpg 300w, http://www.ecclectica.ca/wp-content/uploads/2017/07/Word-on-the-street-festival.jpg 619w" sizes="(max-width: 293px) 100vw, 293px" />Though this one is not as old as the other ones on the list the impact it has is significant. <a href="http://www.tourismsaskatoon.com/includes/calendar-of-events/The-Word-on-the-Street-Saskatoon/21142/">Word on the street</a> takes place in Saskatoon each year and is attended by writers from all over the world. The roster of the event is made in such a manner that each and every writer gets ample time for discussion and idea sharing. The publishing companies also sign contracts with new writers and make sure that good pay scales are offered. Also known as WOTS this event gathers book lovers from all over Canada. The exhibitions in this regard also pave a way for the book lovers to get their hands on the best literary work of new writers. It is surely a platform which enables the writers to find their best side. It also creates a level of trust between the publishers and writers.</p>
+        </div> <!-- //.entry-summary -->
+
+    </div>
+
+</article> <!--/#post-->
+							
+							
+						
+						</main><!-- #main -->
+					</div><!-- #primary -->
+				</div> <!-- /col -->
+				<!-- Blogsidebar -->			
+				
+	<div class="col-md-4">
+	    <div class="primary-sidebar widget-area" role="complementary">
+	        <div id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="http://www.ecclectica.ca/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></div><div id="categories-2" class="widget widget_categories"><h2 class="widget-title">Categories</h2>		<ul>
+	<li class="cat-item cat-item-2"><a href="http://www.ecclectica.ca/category/events/" >Events</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="http://www.ecclectica.ca/category/festivals/" >Festivals</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.ecclectica.ca/category/literature/" >Literature</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://www.ecclectica.ca/category/writers/" >Writers</a>
+</li>
+		</ul>
+</div>		<div id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widget-title">Recent Posts</h2>		<ul>
+					<li>
+				<a href="http://www.ecclectica.ca/madeleine-thien-wins-literary-awards-for-her-novel/">Madeleine Thien Wins Literary Awards for her Novel</a>
+						</li>
+					<li>
+				<a href="http://www.ecclectica.ca/canadian-literary-awards/">Canadian Literary Awards</a>
+						</li>
+					<li>
+				<a href="http://www.ecclectica.ca/famous-modern-autors/">Famous modern autors</a>
+						</li>
+					<li>
+				<a href="http://www.ecclectica.ca/literary-events-in-canada/">Literary events in Canada</a>
+						</li>
+				</ul>
+		</div>		<div id="tag_cloud-2" class="widget widget_tag_cloud"><h2 class="widget-title">Tags</h2><div class="tagcloud"><a href="http://www.ecclectica.ca/tag/book-do-not-say-we-have-nothing/" class="tag-cloud-link tag-link-20 tag-link-position-1" style="font-size: 8pt;" aria-label="book Do Not Say We Have Nothing (1 item)">book Do Not Say We Have Nothing</a>
+<a href="http://www.ecclectica.ca/tag/book-fairs-in-canada/" class="tag-cloud-link tag-link-5 tag-link-position-2" style="font-size: 8pt;" aria-label="book fairs in Canada (1 item)">book fairs in Canada</a>
+<a href="http://www.ecclectica.ca/tag/canadian-literary-meetings/" class="tag-cloud-link tag-link-4 tag-link-position-3" style="font-size: 8pt;" aria-label="Canadian literary meetings (1 item)">Canadian literary meetings</a>
+<a href="http://www.ecclectica.ca/tag/canadian-literature-society/" class="tag-cloud-link tag-link-8 tag-link-position-4" style="font-size: 8pt;" aria-label="Canadian literature society (1 item)">Canadian literature society</a>
+<a href="http://www.ecclectica.ca/tag/canadian-writing-industry/" class="tag-cloud-link tag-link-15 tag-link-position-5" style="font-size: 8pt;" aria-label="Canadian writing industry (1 item)">Canadian writing industry</a>
+<a href="http://www.ecclectica.ca/tag/famous-canadian-litetary-prize-winner/" class="tag-cloud-link tag-link-19 tag-link-position-6" style="font-size: 8pt;" aria-label="famous Canadian litetary prize winner (1 item)">famous Canadian litetary prize winner</a>
+<a href="http://www.ecclectica.ca/tag/literary-awardings-in-canada/" class="tag-cloud-link tag-link-7 tag-link-position-7" style="font-size: 8pt;" aria-label="literary awardings in Canada (1 item)">literary awardings in Canada</a>
+<a href="http://www.ecclectica.ca/tag/modern-canadian-literature/" class="tag-cloud-link tag-link-6 tag-link-position-8" style="font-size: 8pt;" aria-label="modern Canadian literature (1 item)">modern Canadian literature</a>
+<a href="http://www.ecclectica.ca/tag/modern-canadian-prose/" class="tag-cloud-link tag-link-17 tag-link-position-9" style="font-size: 8pt;" aria-label="modern Canadian prose (1 item)">modern Canadian prose</a>
+<a href="http://www.ecclectica.ca/tag/modern-literature-in-canada/" class="tag-cloud-link tag-link-14 tag-link-position-10" style="font-size: 8pt;" aria-label="modern literature in Canada (1 item)">modern literature in Canada</a>
+<a href="http://www.ecclectica.ca/tag/novel-portraying-tragic-china-history/" class="tag-cloud-link tag-link-21 tag-link-position-11" style="font-size: 8pt;" aria-label="novel portraying tragic China history (1 item)">novel portraying tragic China history</a>
+<a href="http://www.ecclectica.ca/tag/outstanding-canadian-authors/" class="tag-cloud-link tag-link-13 tag-link-position-12" style="font-size: 8pt;" aria-label="outstanding Canadian authors (1 item)">outstanding Canadian authors</a>
+<a href="http://www.ecclectica.ca/tag/prestigious-rewards-of-canadian-poetry/" class="tag-cloud-link tag-link-18 tag-link-position-13" style="font-size: 8pt;" aria-label="prestigious rewards of Canadian poetry (1 item)">prestigious rewards of Canadian poetry</a></div>
+</div>	    </div>
+	</div>
+			</div> <!-- /.row -->
+		</div>
+	</div><!-- #content -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <hr>
+        </div>
+    </div>
+</div>
+<footer class="site-footer" role="contentinfo">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 text-center">
+                &copy; Copyright 2017 - Ecclectica. All Rights Reserved.</div>
+        </div>
+    </div>
+</footer>
+
+    <div class="scroll-up">
+        <a href="#"><i class="fa fa-angle-up"></i></a>
+    </div>
+<!-- Scroll Up -->
+
+<script type='text/javascript' src='http://www.ecclectica.ca/wp-content/themes/shaped-blog/assets/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://www.ecclectica.ca/wp-content/themes/shaped-blog/assets/js/scripts.js'></script>
+<script type='text/javascript' src='http://www.ecclectica.ca/wp-content/themes/shaped-blog/assets/js/jquery.fitvids.js'></script>
+<script type='text/javascript' src='http://www.ecclectica.ca/wp-content/themes/shaped-blog/assets/js/smoothscroll.js'></script>
+</body>
+</html>
+<!-- Dynamic page generated in 0.758 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2017-10-23 08:38:03 -->
+
+<!-- Compression = gzip -->

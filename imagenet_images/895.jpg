@@ -1,0 +1,1119 @@
+﻿<!doctype html>
+<html class="no-js" lang="en">
+<head>
+<!-- Google Tag Manager -->
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TNGH6M7');
+</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110496576-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110496576-1');
+</script>
+
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<title>University of Iowa Center for Advancement - University of Iowa Center for Advancement</title>
+<meta name="description" content=""><!-- need this -->
+<meta name="keywords" content=""><!-- need this -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="expires" content="0">
+<meta http-equiv="cache-control" content="public">
+
+<!--[if IE]><link rel="shortcut icon" href="/uploads/favicon/favicon.png"><![endif]-->
+<link rel="apple-touch-icon" href="/uploads/favicon/apple-touch-icon.png">
+<link rel="icon" href="/uploads/favicon/favicon.png">
+<link rel="icon" href="/uploads/favicon/favicon-16x16.png" sizes="16x16" type="image/png">
+<link rel="icon" href="/uploads/favicon/favicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="/uploads/favicon/android-chrome-96x96.png" sizes="96x96" type="image/png">
+
+<link rel="stylesheet" href="/css/bootstrap.min.css">
+<link rel="stylesheet" href="/css/style.css">
+<link rel="stylesheet" href="/css/global-style.css">
+<link rel="stylesheet" href="/css/global-resize-control.css">
+<link rel="stylesheet" href="/css/font-awesome.min.css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,400i,700" rel="stylesheet">
+<link rel="stylesheet" href="/css/resize-control.css">
+<link rel="stylesheet" href="">
+<link rel="stylesheet" href="">
+
+<script src="/js/jquery-3.1.1.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/jquery.waypoints.min.js"></script>
+<script src="/js/header-control.js"></script>
+<script src="/js/functions.js"></script>
+</head>
+<body>
+	
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TNGH6M7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->	
+	<div class="container-fluid">
+		
+		﻿<div class="row header">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-1 ui-logo-container">
+				<!--<div class="ui-logo"></div>-->
+				<a id="desktop-LogoHome" href="https://www.foriowa.org" onclick="dataLayer.push({'event': 'logo-home-click'});">
+					<img class="img-responsive center-block ui-logo" alt="" src="https://www.foriowa.org/images/logo-top.png">
+				</a>
+			</div>
+			<div class="col-sm-11 menu-items">
+				<div class="container-fluid">
+					<div class="row topLevel">
+						<div class="col-sm-4 col-sm-offset-8 topLevelOptions">
+							<div class="col-sm-5">
+								<div class="magazineSearch">
+									<a id="desktop-SearchIcon" class="magSearch" data-toggle="modal" data-target="#searchPop" onclick="dataLayer.push({'event': 'desktop-search-click'});">
+										<img class="img-responsive searchGlass" alt="" src="https://www.foriowa.org/images/search.png">
+									</a>
+								</div>
+							</div>
+							<div class="col-sm-4 text-center">
+								<div class="magazine-button">
+									<a id="desktop-Magazine" class="magSearch" href="http://magazine.foriowa.org" onclick="dataLayer.push({'event': 'desktop-magazine-header-click'});">
+										MAGAZINE
+									</a>
+								</div>
+							</div>
+							<div class="col-sm-3 giveNowOption">
+								<a id="desktop-GiveNow" href="https://www.givetoiowa.org" onclick="dataLayer.push({'event': 'desktop-give-now-click'});">
+									<button class="topLevelGive pull-right">
+										GIVE NOW
+									</button>
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="row bottomLevel">
+						<div class="col-sm-6 cfaNameContainer">
+							<div class="cfaName">
+								Center for <span>&nbsp;Advancement</span>
+							</div>
+						</div>
+						<div class="col-sm-6 cfaMenuItems">
+							<div class="container-fluid">
+								<div class="row">
+									<div class="col-sm-3 menuItem">
+										<div class="container-fluid">
+											<div id="aboutItem" class="row item">
+												About
+											</div>
+											<div class="row">
+												<img id="aboutTraingle" class="menuTriangle center-block img-responsive" alt="" src="https://www.foriowa.org/images/menu-triangle.png">
+											</div>
+										</div>
+									</div>
+									<div class="col-sm-3 menuItem">
+										<div class="container-fluid">
+											<div id="getInvolvedItem" class="row item">
+												Get Involved
+											</div>
+											<div class="row">
+												<img id="involvedTraingle" class="menuTriangle center-block img-responsive" alt="" src="https://www.foriowa.org/images/menu-triangle.png">
+											</div>
+										</div>
+									</div>
+									<div class="col-sm-3 menuItem">
+										<div class="container-fluid">
+											<div id="giveBackItem" class="row item">
+												Give Back
+											</div>
+											<div class="row">
+												<img id="giveTraingle" class="menuTriangle center-block img-responsive" alt="" src="https://www.foriowa.org/images/menu-triangle.png">
+											</div>
+										</div>
+									</div>
+									<div class="col-sm-3 menuItem">
+										<div class="container-fluid">
+											<div id="storyItem" class="row item">
+												Iowa Stories
+											</div>
+											<div class="row">
+												<img id="storiesTraingle" class="menuTriangle center-block img-responsive" alt="" src="https://www.foriowa.org/images/menu-triangle.png">
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="aboutDropdown" class="row menuDropdown hideMenu">
+		<div class="col-sm-8 col-sm-offset-2">
+			<div class="row">
+				<div class="col-sm-6 dropdownItems">
+					<div class="container-fluid">
+						<div class="row dropdownItem">
+							<a id="desktop-about-menu-item" href="/about" onclick="dataLayer.push({'event': 'desktop-about-click'});">
+								About
+							</a>
+						</div>
+						<div class="row dropdownItem">
+							<a id="desktop-leadership-menu-item" href="/leadership" onclick="dataLayer.push({'event': 'desktop-leadership-click'});">
+								Leadership
+							</a>
+						</div>
+						
+						<div class="row dropdownItem">
+							<a id="desktop-accountability-menu-item" href="/accountability" onclick="dataLayer.push({'event': 'desktop-accountability-click'});">
+								Accountability
+							</a>
+						</div>
+						<div class="row dropdownItem">
+							<a id="desktop-annualReports-menu-item" href="/annual-reports" onclick="dataLayer.push({'event': 'desktop-annual-reports-click'});">
+								Annual Reports
+							</a>
+						</div>
+						<div class="row dropdownItem">
+							<a id="desktop-staffDirectory-menu-item" href="/staff" onclick="dataLayer.push({'event': 'desktop-staff-directory-click'});">
+								Staff Directory
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-3 dropdownSummary">
+					<div class="container-fluid">	
+						<div class="row aboutSummary">
+							The University of Iowa Center for Advancement helps UI friends and alumni stay connected, get involved, and give back. 
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="getInvolvedDropdown" class="row menuDropdown hideMenu">
+		<div class="col-sm-8 col-sm-offset-2">
+			<div class="row">
+				<div class="col-sm-6 dropdownItems">
+					<div class="container-fluid">
+						<div class="row dropdownItem">
+							<a id="desktop-upcomingEvents-menu-item" href="/events" onclick="dataLayer.push({'event': 'desktop-upcomingEvents-click'});">
+								Upcoming Events
+							</a>
+						</div>
+						<div class="row dropdownItem" onclick="dataLayer.push({'event': 'desktop-travelOpportunities-click'});">
+							<a id="desktop-travelOpportunities-menu-item" href="/travel">
+								Travel Opportunities
+							</a>
+						</div>
+						<div class="row dropdownItem">
+							<a id="desktop-regionalIowaClubs-menu-item" href="/clubs" onclick="dataLayer.push({'event': 'desktop-regionalIowaClubs-click'});">
+								Regional IOWA Clubs
+							</a>
+						</div>
+						<div class="row dropdownItem">
+							<a id="desktop-alumniAffinityGroups-menu-item" href="/groups" onclick="dataLayer.push({'event': 'desktop-alumniAffinityGroups-click'});">
+								Alumni Affinity Groups
+							</a>
+						</div>
+						<div class="row dropdownItem">
+							<a id="desktop-seniorCollege-menu-item" href="/senior-college" onclick="dataLayer.push({'event': 'desktop-seniorCollege-click'});">
+								Senior College
+							</a>
+						</div>
+						<div class="row dropdownItem">
+							<a id="desktop-studentOpportunities-menu-item" href="/student-opportunities" onclick="dataLayer.push({'event': 'desktop-studentOpportunities-click'});">
+								Student Opportunities
+							</a>
+						</div>
+						<div class="row dropdownItem">
+							<a id="desktop-iClub-menu-item" href="http://jointheiclub.com/" onclick="dataLayer.push({'event': 'desktop-iClub-click'});">
+								I-Club
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-3 dropdownSummary">
+					<div class="container-fluid">	
+						<div class="row getInvolvedSummary">
+							Get involved and join the UI community. Choose from a variety of programs, events, and groups—on campus and off—to fit your UI experience. 
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="givingBackDropdown" class="row menuDropdown hideMenu">
+		<div class="col-sm-8 col-sm-offset-2">
+			<div class="row">
+				<div class="col-sm-6 dropdownItems">
+					<div class="container-fluid">
+						<div class="row dropdownItem">
+							<a id="desktop-giveNow-menu-item" href="https://www.givetoiowa.org" onclick="dataLayer.push({'event': 'desktop-giveNow-click'});">
+								Give Now
+							</a>
+						</div>
+						<div class="row dropdownItem">
+							<a id="desktop-waysToGive-menu-item" href="/ways-to-give" onclick="dataLayer.push({'event': 'desktop-waysToGive-click'});">
+								Ways to Give
+							</a>
+						</div>
+						<div class="row dropdownItem">
+							<a id="desktop-recognitionSocieties-menu-item" href="/recognition-societies" onclick="dataLayer.push({'event': 'desktop-recognitionSocieties-click'});">
+								Recognition Societies
+							</a>
+						</div>
+						<div class="row dropdownItem">
+							<a id="desktop-touchdownsForKids-menu-item" href="http://www.foriowa.org/uichildren/" onclick="dataLayer.push({'event': 'desktop-touchdownsForKids-click'});">
+								Iowa Touchdowns for Kids
+							</a>
+						</div>
+						<div class="row dropdownItem">
+							<a id="desktop-ladiesFootballAcademy-menu-item" href="http://iowaladiesfootballacademy.com/" onclick="dataLayer.push({'event': 'desktop-ladiesFootballAcademy-click'});">
+								Ladies Football Academy
+							</a>
+						</div>
+						<div class="row dropdownItem">
+							<a id="desktop-lifeWithPhilArchives-menu-item" href="http://wp.foriowa.org/philwashere/phil-archive/" onclick="dataLayer.push({'event': 'desktop-lifeWithPhilArchives-click'});">
+								Life with Phil Archives 
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-3 dropdownSummary">
+					<div class="container-fluid">	
+						<div class="row givingBackSummary">
+							Your gift to the University of Iowa makes a difference. By giving to your Iowa passion, you help change the lives of our students, our community, and the world. 
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="iowaStoriesDropdown" class="row menuDropdown hideMenu">
+		<div class="col-sm-8 col-sm-offset-2">
+			<div class="row">
+				<div class="col-sm-6 dropdownItems">
+					<div class="container-fluid">
+						<div class="row dropdownItem">
+							<a id="desktop-alumniMagazine-menu-item" href="http://magazine.foriowa.org/" onclick="dataLayer.push({'event': 'desktop-alumniMagazine-click'});">
+								Iowa Alumni Magazine
+							</a>
+						</div>
+						<!--
+						<div class="row dropdownItem">
+							<a id="desktop-newsletter-menu-item" href="/newsletters" onclick="dataLayer.push({'event': 'desktop-newsletter-click'});">
+								Newsletters
+							</a>
+						</div>
+						-->
+						<div class="row dropdownItem">
+							<a id="desktop-distinguishedAlumniAwards-menu-item" href="/daa" onclick="dataLayer.push({'event': 'desktop-distinguishedAlumniAwards-click'});">
+								Distinguished Alumni Awards
+							</a>
+						</div>
+						<div class="row dropdownItem">
+							<a id="desktop-pressReleases-menu-item" href="/press" onclick="dataLayer.push({'event': 'desktop-pressReleases-click'});">
+								Press Releases
+							</a>
+						</div>
+						<div class="row dropdownItem">
+							<a id="desktop-gridironGlory-menu-item" href="http://magazine.foriowa.org/gridironGlory/" onclick="dataLayer.push({'event': 'desktop-gridironGlory-click'});">
+								Gridiron Glory
+							</a>
+						</div>
+						<div class="row dropdownItem">
+							<a id="desktop-hawkeyesOnHardwood-menu-item" href="http://magazine.foriowa.org/hardwood/" onclick="dataLayer.push({'event': 'desktop-hawkeyesOnHardwood-click'});">
+								Hawkeyes on the Hardwood
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-3 dropdownSummary">
+					<div class="container-fluid">	
+						<div class="row iowaStoriesSummary">
+							Read stories of Hawkeyes making a difference in Iowa and around the world.
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="searchPop" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	<div class="modal-dialog modal-lg" role="document">
+		<div class="modal-content searchPopModal">
+			<div class="modal-header searchPopHeader">
+				<button type="button" class="closeEx close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+			</div>
+			<div class="modal-body">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-sm-12">
+							<!--<input type="text" class="searchPopInput" placeholder="Search">-->
+							<script>
+							(function(){
+								var cx = '004292187385298253618:8u7ntr5qegi';
+								var gcse = document.createElement('script');
+								gcse.type = 'text/javascript';
+								gcse.async = true;
+								gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+								var s = document.getElementsByTagName('script')[0];
+								s.parentNode.insertBefore(gcse, s);
+							})();
+							window.onload = function(){
+								document.getElementById('gsc-i-id1').placeholder = 'Search';
+							};
+							</script>
+							<gcse:search></gcse:search>
+						</div>
+						<!--
+						<div class="col-sm-2">
+							<a class="searchButt" href="">
+								<img class="img-responsive center-block" src="https://www.foriowa.org/images/search-lg.png">
+							</a>
+						</div>
+						-->
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- End Modal -->
+
+<div class="row mobile-header">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-xs-6 mobileLogo">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-xs-2 mobileLogoContainer">
+							<a id="mobile-homeLogo" href="https://www.foriowa.org" onclick="dataLayer.push({'event': 'mobile-home-logo-click'});">
+								<img class="img-responsive logo-mobile" src="https://www.foriowa.org/images/logo-top-mobile.png">
+							</a>
+						</div>
+						<div class="col-xs-10 mobileWordmarkContainer">
+							<div class="container-fluid">
+								<div class="row uicaWordmark topWord">
+									Center for
+								</div>
+								<div class="row uicaWordmark">
+									<span>
+										Advancement
+									</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xs-6 mobileMenu">
+				<span class="glyphicon glyphicon-menu-hamburger mobileHam pull-right" aria-hidden="true"></span>
+			</div>
+		</div>
+		<div class="row mobileDropdown">
+			<div class="col-sm-12">
+				<div class="row mobileDropdownButtons">
+					<div class="col-xs-6 dropdownButts magazineButt">
+						<a id="mobile-magazine" href="http://magazine.foriowa.org" onclick="dataLayer.push({'event': 'mobile-magazine-click'});">
+							Magazine
+						</a>
+					</div>
+					<div class="col-xs-6 dropdownButts giveNowButt">
+						<a id="mobile-giveNow" href="https://www.givetoiowa.org" onclick="dataLayer.push({'event': 'mobile-giveNow-click'});">
+							Give Now
+						</a>
+					</div>
+				</div>
+				<!-- about menu item -->
+				<div id="aboutDropdownItem" class="row mobileDropdownItems" data-toggle="collapse" data-target="#mobileAboutDropdown" aria-expanded="false" aria-controls="mobileAboutDropdown">
+					About <span id="aboutPlus" class="glyphicon glyphicon-plus pull-right plusSign" aria-hidden="true"></span>
+				</div>
+				<div class="row collapse" id="mobileAboutDropdown">
+					<div class="container-fluid">
+						<div class="row mobileMenuItem">
+							<a id="mobile-about-menu-item" href="/about" onclick="dataLayer.push({'event': 'mobile-about-click'});">
+								About
+							</a>
+						</div>
+						<div class="row mobileMenuItem">
+							<a id="mobile-leadership-menu-item" href="/leadership" onclick="dataLayer.push({'event': 'mobile-leadership-click'});">
+								Leadership
+							</a>
+						</div>
+						<div class="row mobileMenuItem">
+							<a id="mobile-annualReports-menu-item" href="/annual-reports" onclick="dataLayer.push({'event': 'mobile-annualReports-click'});">
+								Annual Reports
+							</a>
+						</div>
+						<div class="row mobileMenuItem">
+							<a id="mobile-accountability-menu-item" href="/accountability" onclick="dataLayer.push({'event': 'mobile-accountability-click'});">
+								Accountability
+							</a>
+						</div>
+						<div class="row mobileMenuItem">
+							<a id="mobile-staffDirectory-menu-item" href="/staff" onclick="dataLayer.push({'event': 'mobile-staffDirectory-click'});">
+								Staff Directory
+							</a>
+						</div>
+					</div>
+				</div>
+				<!-- get involved menu item -->
+				<div id="getInvolvedDropdownItem" class="row mobileDropdownItems" data-toggle="collapse" data-target="#mobileGetInvolvedDropdown" aria-expanded="false" aria-controls="mobileGetInvolvedDropdown">
+					Get Involved <span id="giPlus" class="glyphicon glyphicon-plus pull-right plusSign" aria-hidden="true"></span>
+				</div>
+				<div class="row collapse" id="mobileGetInvolvedDropdown">
+					<div class="container-fluid">
+						<div class="row mobileMenuItem">
+							<a id="mobile-upcomingEvents-menu-item" href="/events" onclick="dataLayer.push({'event': 'mobile-upcomingEvents-click'});">
+								Upcoming Events
+							</a>
+						</div>
+						<div class="row mobileMenuItem">
+							<a id="mobile-travelOpportunities-menu-item" href="/travel" onclick="dataLayer.push({'event': 'mobile-travelOpportunities-click'});">
+								Travel Opportunities
+							</a>
+						</div>
+						<div class="row mobileMenuItem">
+							<a id="mobile-iowaClubs-menu-item" href="/clubs" onclick="dataLayer.push({'event': 'mobile-iowaClubs-click'});">
+								IOWA Clubs
+							</a>
+						</div>
+						<div class="row mobileMenuItem">
+							<a id="mobile-alumniGroups-menu-item" href="/groups" onclick="dataLayer.push({'event': 'mobile-alumniGroups-click'});">
+								Alumni Groups
+							</a>
+						</div>
+						<div class="row mobileMenuItem">
+							<a id="mobile-seniorCollege-menu-item" href="/senior-college" onclick="dataLayer.push({'event': 'mobile-seniorCollege-click'});">
+								Senior College
+							</a>
+						</div>
+						<div class="row mobileMenuItem">
+							<a id="mobile-studentOpportunities-menu-item" href="/student-opportunities" onclick="dataLayer.push({'event': 'mobile-studentOpportunities-click'});">
+								Student Opportunities
+							</a>
+						</div>
+						<div class="row mobileMenuItem">
+							<a id="mobile-iClub-menu-item" href="http://jointheiclub.com/" onclick="dataLayer.push({'event': 'mobile-iClub-click'});">
+								I-Club
+							</a>
+						</div>
+					</div>
+				</div>
+				<!-- give back menu item -->
+				<div id="giveBackDropdownItem" class="row mobileDropdownItems" data-toggle="collapse" data-target="#mobileGiveBackDropdown" aria-expanded="false" aria-controls="mobileGiveBackDropdown">
+					Give Back <span id="gbPlus" class="glyphicon glyphicon-plus pull-right plusSign" aria-hidden="true"></span>
+				</div>
+				<div class="row collapse" id="mobileGiveBackDropdown">
+					<div class="container-fluid">
+						<div class="row mobileMenuItem">
+							<a id="mobile-giveNow-menu-item" href="https://www.givetoiowa.org" onclick="dataLayer.push({'event': 'mobile-giveNow-click'});">
+								Give Now
+							</a>
+						</div>
+						<div class="row mobileMenuItem">
+							<a id="mobile-waysToGive-menu-item" href="/ways-to-give" onclick="dataLayer.push({'event': 'mobile-waysToGive-click'});">
+								Ways to Give
+							</a>
+						</div>
+						<div class="row mobileMenuItem">
+							<a id="mobile-recognitionSocieties-menu-item" href="/recognition-societies" onclick="dataLayer.push({'event': 'mobile-recognitionSocieties-click'});">
+								Recognition Societies
+							</a>
+						</div>
+						<div class="row mobileMenuItem">
+							<a id="mobile-touchdownsForKids-menu-item" href="http://wp.foriowa.org/touchdownsforkids/" onclick="dataLayer.push({'event': 'mobile-touchdownsForKids-click'});">
+								Iowa Touchdowns for Kids
+							</a>
+						</div>
+						<div class="row mobileMenuItem">
+							<a id="mobile-ladiesFootballAcademy-menu-item" href="http://www.iowaladiesfootballacademy.com" onclick="dataLayer.push({'event': 'mobile-ladiesFootballAcademy-click'});">
+								Ladies Football Academy
+							</a>
+						</div>
+						<div class="row mobileMenuItem">
+							<a id="mobile-lifeWithPhilArchives-menu-item" href="http://www.foriowa.org/philwashere/phil-archive/" onclick="dataLayer.push({'event': 'mobile-lifeWithPhilArchives-click'});">
+								Life with Phil Archives 
+							</a>
+						</div>
+					</div>
+				</div>
+				<!-- iowa stories menu item -->
+				<div id="iowaStoriesDropdownItem" class="row mobileDropdownItems" data-toggle="collapse" data-target="#mobileIowaStoriesDropdown" aria-expanded="false" aria-controls="mobileIowaStoriesDropdown">
+					Iowa Stories <span id="isPlus" class="glyphicon glyphicon-plus pull-right plusSign" aria-hidden="true"></span>
+				</div>
+				<div class="row collapse" id="mobileIowaStoriesDropdown">
+					<div class="container-fluid">
+						<div class="row mobileMenuItem">
+							<a id="mobile-iowaMagazine-menu-item" href="http://magazine.foriowa.org/" onclick="dataLayer.push({'event': 'mobile-iowaMagazine-click'});">
+								Iowa Magazine
+							</a>
+						</div>
+						<!--
+						<div class="row mobileMenuItem">
+							<a id="mobile-newsletters-menu-item" href="/newsletters" onclick="dataLayer.push({'event': 'mobile-newsletters-click'});">
+								Newsletters
+							</a>
+						</div>
+						-->
+						<div class="row mobileMenuItem">
+							<a id="mobile-distinguishedAlumniAwards-menu-item" href="/daa" onclick="dataLayer.push({'event': 'mobile-distinguishedAlumniAwards-click'});">
+								Distinguished Alumni Awards
+							</a>
+						</div>
+						<div class="row mobileMenuItem">
+							<a id="mobile-pressReleases-menu-item" href="/press" onclick="dataLayer.push({'event': 'mobile-pressReleases-click'});">
+								Press Releases
+							</a>
+						</div>
+						<div class="row mobileMenuItem">
+							<a id="mobile-gridironGlory-menu-item" href="http://magazine.foriowa.org/gridironglory/" onclick="dataLayer.push({'event': 'mobile-gridironGlory-click'});">
+								Gridiron Glory
+							</a>
+						</div>
+						<div class="row mobileMenuItem">
+							<a id="mobile-hawkeyeOnHardwood-menu-item" href="http://magazine.foriowa.org/hardwood/" onclick="dataLayer.push({'event': 'mobile-hawkeyeOnHardwood-click'});">
+								Hawkeyes on the Hardwood
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>		
+		<div class="row header-image">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="forIowaText titleText">
+						<div class="row">
+							<div class="col-sm-8 col-sm-offset-1">
+								<span class="fiSpan">FOR</span> IOWA
+							</div>
+						</div>
+					</div>
+					<img class="forIowa headerSlider" alt="" src="images/banner-for-iowa.jpg">
+					<img class="forStudents headerSlider" alt="" src="images/banner-for-students.jpg">
+					<img class="forArt headerSlider" alt="" src="images/banner-for-art-lovers.jpg">
+				</div>
+			</div>
+		</div>
+				
+		<div class="row iowa-stories">
+			<div class="col-sm-10 col-sm-offset-1">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-sm-4 col-sm-offset-4 iowaStoriesLabel">
+							<div class="container-fluid">
+								<div class="row iowaStories">
+									IOWA STORIES
+								</div>
+								<div class="row">
+									<div class="labelBottomBorder center-block"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="mainStory">
+							<div class="container-fluid">
+								<div class="row">
+									<div class="col-sm-12">
+										<div class="story-image main-story-image" style="background-image:url(/uploads/2018/02/stories-banner-dm.jpg)"></div>
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-sm-12">
+										<div class="container-fluid">
+											<div class="row story-detail">
+												<div class="col-sm-8">
+													<div class="row detailTop">
+														<div class="storyTag">
+															Dance Marathon
+														</div>
+														<!--<div class="storyDate"></div>-->
+													</div>
+													<div class="row detailBottom">
+														<div class="col-sm-12 storyTitle">
+															DM 24 raises $3,011,015.24 to help fund pediatric cancer
+														</div>
+													</div>
+												</div>
+												<div class="col-sm-4">
+													<div class="readStoryContainer">
+														<div class="row">
+															<div class="col-sm-12">
+																<div class="readStory readMainStory">
+																	<a id="readMainStory" href="http://daily-iowan.com/2018/02/03/dance-marathon-24-shatters-fundraising-records-raising-more-than-3-million/" onclick="dataLayer.push({'event': 'mainStory-readmore-click'});">
+																		Read Story <i class="fa fa-lg fa-angle-right readMOreArrow" aria-hidden="true"></i>
+																	</a>
+																</div>
+															</div>
+														</div>
+														<div class="row">
+															<div class="col-sm-12">
+																<div id="readMainStoryUnderscore" class="labelBottomBorder readMoreBottomBorder pull-right"></div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-6 minorStory">
+							<div class="container-fluid">
+								<div class="row">
+									<div class="story-image" style="background-image:url(/uploads/2018/02/memphis-iowa-club.jpg)"></div>
+								</div>
+								<div class="row story-detail">
+									<div class="col-lg-9">
+										<div class="row detailTop">
+											<div class="storyTag">
+												Memphis IOWA Club Profile
+											</div>
+										</div>
+										<div class="row detailBottom">
+											<div class="col-sm-12 storyTitle">
+												Tom Halupnik (70BBA)
+											</div>
+										</div>
+									</div>
+									<div class="col-lg-3">
+										<div class="readStoryContainer">
+											<div class="row">
+												<div class="col-sm-12">
+													<div class="readStory">
+														<a id="readMinorStoryOne" href="http://www.foriowa.org/clubs/memphis-iowa-club.php" onclick="dataLayer.push({'event': 'minorStoryOne-readmore-click'});">
+															Read Story <i class="fa fa-lg fa-angle-right readMOreArrow" aria-hidden="true"></i>
+														</a>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col-sm-12">
+													<div id="readMinorStoryOneUnderscore" class="labelBottomBorder readMoreMinorBottomBorder pull-right"></div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-6 minorStory">
+							<div class="container-fluid">
+								<div class="row">
+									<div class="story-image" style="background-image:url(/uploads/2018/02/0118Bookshelf.jpg)"></div>
+								</div>
+								<div class="row story-detail">
+									<div class="col-lg-8">
+										<div class="row detailTop">
+											<div class="storyTag">
+												Iowa Alumni Magazine 
+											</div>
+											<!--<div class="storyDate"></div>-->
+										</div>
+										<div class="row detailBottom">
+											<div class="col-sm-12 storyTitle">
+												A Q&A with author Doug Stanton
+											</div>
+										</div>
+									</div>
+									<div class="col-lg-4">
+										<div class="readStoryContainer">
+											<div class="row">
+												<div class="col-sm-12">
+													<div class="readStory">
+														<a id="readMinorStoryTwo" href="http://magazine.foriowa.org/news/story.cfm?article_id=1704" onclick="dataLayer.push({'event': 'minorStoryTwo-readmore-click'});">
+															Read News <i class="fa fa-lg fa-angle-right readMOreArrow" aria-hidden="true"></i>
+														</a>
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col-sm-12">
+													<div id="readMinorStoryTwoUnderscore" class="labelBottomBorder readMoreMinorBottomBorder pull-right"></div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+				
+		<div class="row get-involved">
+			<div class="col-sm-10 col-sm-offset-1">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-sm-4 col-sm-offset-4">
+							<div class="col-sm-12 getInvolvedLabel">
+								<div class="container-fluid">
+									<div class="row">
+										PROGRAMMING HIGHLIGHTS
+									</div>
+									<div class="row">
+										<div class="labelBottomBorder center-block"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-4">
+							<div class="col-sm-12 involvedBody">
+								<div class="involvedItem">
+									<div class="row">
+										<a id="programmingHighlightPictureOne" href="/travel/voyagers.php" onclick="dataLayer.push({'event': 'programming-highlight-one-click'});">
+											<div class="itemPicture item-bg" style="background-image:url(uploads/2017/12/Voyagers_Home.jpg"></div>
+										</a>
+										<div class="tagLine">
+											2018 Trips
+										</div>
+									</div>
+									<div class="row itemTitle">
+										<a id="programmingHighlightTitleOne" href="/travel/voyagers.php" onclick="dataLayer.push({'event': 'programming-highlight-one-click'});">
+											Iowa Voyagers <i class="fa fa-lg fa-angle-right involvedArrow pull-right" aria-hidden="true"></i>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-4">
+							<div class="col-sm-12 involvedBody">
+								<div class="involvedItem">
+									<div class="row">
+										<a id="programmingHighlightPictureTwo" href="/senior-college/" onclick="dataLayer.push({'event': 'programming-highlight-two-click'});">
+											<div class="itemPicture item-bg" style="background-image:url(uploads/2017/12/SeniorCollege_Home.jpg)"></div>
+										</a>
+										<div class="tagLine">
+											Register Now
+										</div>
+									</div>
+									<div class="row itemTitle">
+										<a id="programmingHighlightTitleTwo" href="/senior-college/" onclick="dataLayer.push({'event': 'programming-highlight-two-click'});">
+											Senior College 2018 <i class="fa fa-lg fa-angle-right involvedArrow pull-right" aria-hidden="true"></i>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-4">
+							<div class="col-sm-12 involvedBody">
+								<div class="involvedItem">
+									<div class="row">
+										<a id="programmingHighlightPictureThree" href="http://wp.foriowa.org/philwashere/student-advancement-network/" onclick="dataLayer.push({'event': 'programming-highlight-three-click'});">
+											<div class="itemPicture item-bg" style="background-image:url(uploads/2018/01/get-involved-banner-spg.jpg)"></div>
+										</a>
+										<div class="tagLine">
+											Apply Now
+										</div>
+									</div>
+									<div class="row itemTitle">
+										<a id="programmingHighlightTitleThree" href="http://wp.foriowa.org/philwashere/student-advancement-network/" onclick="dataLayer.push({'event': 'programming-highlight-three-click'});">
+											Student Advancement Network <i class="fa fa-lg fa-angle-right involvedArrow pull-right" aria-hidden="true"></i>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-4 col-sm-offset-4 moreOpportunities">
+							<div class="container-fluid">
+								<!--<div class="row oppWords">
+									<a href="">
+										<span>More Opportunities</span> <i class="fa fa-lg fa-angle-right involvedArrow" aria-hidden="true"></i>
+									</a>
+								</div>
+								<div class="row">
+									<div class="labelBottomBorder center-block"></div>
+								</div>-->
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+				
+		<div class="row events">
+			<div class="col-sm-10 col-sm-offset-1">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-sm-4 col-sm-offset-4">
+							<div class="col-sm-12 eventsLabel">
+								<div class="container-fluid">
+									<div class="row">
+										UPCOMING EVENTS
+									</div>
+									<div class="row">
+										<div class="labelBottomBorder center-block"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-4">
+							<div class="row">
+								<div class="col-sm-10 col-sm-offset-1">
+									<div class="row">
+										<div class="col-sm-6 calendar">
+											<div class="row">
+												<div class="col-sm-12">
+													<div class="calendarMonth center-block">
+														FEB
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col-sm-12">
+													<div class="calendarDay center-block">
+														4
+													</div>
+												</div>
+											</div>
+										</div>
+										<div class="col-sm-6">
+											<div class="row eventTitle">
+												Alumnus and Opera Star Simon Estes in Concert
+											</div>
+											<div class="row eventDateTime">
+												1:00 PM – 3:00 PM
+											</div>
+											<div class="row eventRsvp">
+												Visit <a id="eventTwoRsvp" href="https://m.bpt.me/event/3193940" onclick="dataLayer.push({'event': 'event-two-click'});">here</a> to RSVP or for more information.
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-4 middleEvent">
+							<div class="row">
+								<div class="col-sm-10 col-sm-offset-1">
+									<div class="row">
+										<div class="col-sm-6 calendar">
+											<div class="row">
+												<div class="col-sm-12">
+													<div class="calendarMonth center-block">
+														FEB
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col-sm-12">
+													<div class="calendarDay center-block">
+														6
+													</div>
+												</div>
+											</div>
+										</div>
+										<div class="col-sm-6">
+											<div class="row eventTitle">
+												2018 UI Carver College of Medicine Mini Medical School Series
+											</div>
+											<div class="row eventDateTime">
+												6:30 PM – 8:30 PM
+											</div>
+											<div class="row eventRsvp">
+												Visit <a id="eventThreeRsvp" href="https://www.eventbrite.com/e/2018-ui-carver-college-of-medicine-mini-medical-school-series-tickets-38784909709" onclick="dataLayer.push({'event': 'event-three-click'});">here</a> to RSVP or for more information.
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-4">
+							<div class="row">
+								<div class="col-sm-10 col-sm-offset-1">
+									<div class="row">
+										<div class="col-sm-6 calendar">
+											<div class="row">
+												<div class="col-sm-12">
+													<div class="calendarMonth center-block">
+														FEB
+													</div>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col-sm-12">
+													<div class="calendarDay center-block">
+														18
+													</div>
+												</div>
+											</div>
+										</div>
+										<div class="col-sm-6">
+											<div class="row eventTitle">
+												35th Annual UI Presidential Lecture
+											</div>
+											<div class="row eventDateTime">
+												3:30 PM – 4:30 PM
+											</div>
+											<div class="row eventRsvp">
+												Visit <a id="eventThreeRsvp" href="https://events.uiowa.edu/event/overfeeding_the_heart_diabetes_and_cardiovascular_complications_the_35th_annual_ui_presidential_lecture#.Wm8x4DdG2Um" onclick="dataLayer.push({'event': 'event-three-click'});">here</a> to RSVP or for more information.
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-4 col-sm-offset-4 moreEvents">
+							<div class="container-fluid">
+								<div class="row eventsWords">
+									<a id="moreEvents" href="/events" onclick="dataLayer.push({'event': 'more-events-click'});">
+										<span>More Events</span> <i class="fa fa-lg fa-angle-right involvedArrow" aria-hidden="true"></i>
+									</a>
+								</div>
+								<div class="row">
+									<div class="labelBottomBorder eventBottomBorder center-block"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="row footer">
+	<div class="container-fluid">
+		<div class="row topFooter">
+			<div class="col-sm-10 col-sm-offset-1">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-sm-4 footerLinksOne">
+							<div class="container-fluid">
+								<div class="row footerItem">
+									<div class="col-xs-1 footerItemIcon">
+										<a id="footer-careers-icon" href="http://www.foriowa.org/careers/" onclick="dataLayer.push({'event': 'footer-careers-icon-click'});">
+											<img id="careersFooter" class="footerIcon img-responsive center-block" alt="" src="">
+										</a>
+									</div>
+									<div class="col-xs-11 footerItemText">
+										<a id="footer-careers-text" href="http://www.foriowa.org/careers/" onclick="dataLayer.push({'event': 'footer-careers-text-click'});">
+											Careers
+										</a>
+									</div>
+								</div>
+								<div class="row footerItem">
+									<div class="col-xs-1 footerItemIcon">
+										<a id="footer-updateInfo-icon" href="/update-information" onclick="dataLayer.push({'event': 'footer-updateInfo-icon-click'});">
+											<img id="updateFooter" class="footerIcon img-responsive center-block" alt="" src="">
+										</a>
+									</div>
+									<div class="col-xs-11 footerItemText">
+										<a id="footer-updateInfo-text" href="/update-information" onclick="dataLayer.push({'event': 'footer-updateInfo-text-click'});">
+											Update Your Information
+										</a>
+									</div>
+								</div>
+								<div class="row footerItem">
+									<div class="col-xs-1 footerItemIcon">
+										<a id="footer-contactUs-icon" href="/contact" onclick="dataLayer.push({'event': 'footer-contactUs-icon-click'});">
+											<img id="contactFooter" class="footerIcon img-responsive center-block" alt="" src="">
+										</a>
+									</div>
+									<div class="col-xs-11 footerItemText">
+										<a id="footer-contactUs-text" href="/contact" onclick="dataLayer.push({'event': 'footer-contactUs-text-click'});">
+											Contact Us
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-6 footerLinksTwo">
+							<div class="container-fluid">
+								<div class="row footerItem">
+									<div class="col-xs-1 footerItemIcon">
+										<a id="footer-privacyPolicy-icon" href="/about/privacy" onclick="dataLayer.push({'event': 'footer-privacyPolicy-icon-click'});">
+											<img id="privacyFooter" class="footerIcon img-responsive center-block" alt="" src="">
+										</a>
+									</div>
+									<div class="col-xs-11 footerItemText">
+										<a id="footer-privacyPolicy-text" href="/about/privacy" onclick="dataLayer.push({'event': 'footer-privacyPolicy-text-click'});">
+											Privacy Policy
+										</a>
+									</div>
+								</div>
+								<div class="row footerItem">
+									<div class="col-xs-1 footerItemIcon">
+										<a id="footer-address-icon" href="https://www.google.com/maps/place/Levitt+Center+for+University+Advancement,+1+Park+Rd,+Iowa+City,+IA+52242/@41.670996,-91.5412953,17z/data=!3m1!4b1!4m5!3m4!1s0x87e4421fe73170c9:0x82391f601c59f524!8m2!3d41.6709204!4d-91.5390983?hl=en" onclick="dataLayer.push({'event': 'footer-address-icon-click'});">
+											<img id="addressFooter" class="footerIcon img-responsive center-block" alt="" src="">
+										</a>
+									</div>
+									<div class="col-xs-11 footerItemText">
+										<a id="footer-address-text" href="https://www.google.com/maps/place/Levitt+Center+for+University+Advancement,+1+Park+Rd,+Iowa+City,+IA+52242/@41.670996,-91.5412953,17z/data=!3m1!4b1!4m5!3m4!1s0x87e4421fe73170c9:0x82391f601c59f524!8m2!3d41.6709204!4d-91.5390983?hl=en" onclick="dataLayer.push({'event': 'footer-address-text-click'});">
+											One West Park Road, Iowa City, IA 52242
+										</a>
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-sm-8 footerSocialLinks">
+										<div class="row">
+											<div class="col-xs-3 socialIcon">
+												<a id="footer-twitter" href="https://twitter.com/UIAdvancement" onclick="dataLayer.push({'event': 'footer-twitter'});">
+													<img id="twitterFooter" class="img-responsive social-icon twitter-icon" alt="" src="">
+												</a>
+											</div>
+											<div class="col-xs-3 socialIcon">
+												<a id="footer-facebook" href="https://www.facebook.com/UIAdvancement" onclick="dataLayer.push({'event': 'footer-facebook'});">
+													<img id="facebookFooter" class="img-responsive social-icon facebook-icon" alt="" src="">
+												</a>
+											</div>
+											<div class="col-xs-3 socialIcon">
+												<a id="footer-instagram" href="https://www.instagram.com/uiadvancement" onclick="dataLayer.push({'event': 'footer-instagram'});">
+													<img id="instagramFooter" class="img-responsive social-icon instagram-icon" alt="" src="">
+												</a>
+											</div>
+											<div class="col-xs-3 socialIcon">
+												<a id="footer-linkedin" href="https://www.linkedin.com/company/11402346/" onclick="dataLayer.push({'event': 'footer-linkedin'});">
+													<img id="linkedinFooter" class="img-responsive social-icon linkedin-icon" alt="" src="">
+												</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row bottomFooter">
+			<div class="col-sm-10 col-sm-offset-1">
+				<div class="container-fluid">
+					<div class="row">
+						© The University of Iowa Center for Advancement
+					</div>
+					<div class="row disclosureStatement">
+						NOTICE: The University of Iowa Center for Advancement is an operational name for the State University of Iowa Foundation, an independent, Iowa nonprofit corporation organized as a 501(c)(3) tax-exempt, publicly supported charitable entity working to advance the University of Iowa. Please review its <a id="footer-discolureStatement" href="/about/disclosures/" onclick="dataLayer.push({'event': 'footer-discolureStatement'});">full disclosure statement</a>.
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>		
+	</div>
+</body>
+</html>

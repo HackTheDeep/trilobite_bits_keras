@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="/static/css/style.min.css?v=1.2.14" />
+	
+	<link rel="shortcut icon" type="image/ico" href="/static/icons/opendns.ico" />
+	
+	
+	
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', "UA-1163522-16"]);
+		
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+		</script>
+	
+	<title>Site Blocked</title>
+</head>
+<body>
+	<div class="container">
+		<div class="logo-area">
+			
+			<img id="logo" class="logo" src="https://d36u8deuxga9bo.cloudfront.net/branding-logo/41046d9befcd9df79d0a7a9445e23d46d2ca8f29"></img>
+			
+		</div>
+		<div class="content-area">
+
+			<div class="blocked-page">
+				<h3>
+					<i class="fa fa-exclamation-triangle alert-icon"></i>
+					This site is blocked.
+				</h3>
+				<div class="url-area">
+					<input readonly class="url" id="inputUrl" type="text" value="www.membres.lycos.fr" />
+				</div>
+
+				
+				<div class="bypass-area">
+					<p class="admin-link bpb-togglee">
+						<i class="bypass-toggle-icon fa fa-angle-right" id="bypassLoginToggle"></i>
+						<a href="#" class="bpb-login-toggle" id="bpbLoginToggle">Administrative Bypass</a>
+					</p>
+
+					<div class="bypass-login-form " id="bpbLoginForm">
+
+						<div class="cookie-warning error" id="cookieWarning">
+							<h2>
+								<i class="fa fa-exclamation-triangle"></i>
+								Cookies are disabled in your browser.
+							</h2>
+							<p>
+								Block Page Bypass requires that your browser have cookies enabled. Please enable cookies in your privacy preferences before continuing.
+							</p>
+						</div>
+
+						<p class="bypass-explanation">
+							Block Page Bypass is a feature that allows authorized users to bypass this block page. If you&#39;re authorized, you can log in with your Cisco Umbrella credentials. Otherwise, you can use a temporary code provided by your network administrator.
+						</p>
+
+						
+
+						<div class="bypass-login-option-user">
+							<form method="POST" name="bypassFormUser" id="bypass-form-user">
+								<label for="input-bypass-username">Email Address (or Username)</label>
+								<p>
+									<input type="text" name="username" id="input-bypass-username" />
+								</p>
+
+								<label for="input-bypass-password">Password</label>
+								<p>
+									<input type="password" name="password" id="input-bypass-password" /><br />
+									<small>
+										<a target='_blank' href='https://login.opendns.com/umbrella/reset'>
+											Forgot Your Password?
+										</a>
+									</small>
+								</p>
+
+								<p>
+									<button class="bypassBtn" name="bypass-user" id="bypassUserSubmit" value="1" type="submit">
+										Bypass
+									</button>
+								</p>
+							</form>
+						</div>
+
+						<div class="bypass-login-option-code">
+							<form method="POST" name="bypassFormCode">
+								<div id="credentials-code">
+									<label for="input-bypass-code">Bypass Code</label>
+									<p>
+										<input type="password" name="code" id="input-bypass-code" />
+									</p>
+
+								</div>
+
+								<p>
+									<button class="bypassBtn" name="bypass-code" id="bypassCodeSubmit" value="1" type="submit">
+										Bypass
+									</button>
+								</p>
+
+							</form>
+						</div>
+						<div style="clear: both"></div>
+						<p>
+							<small>Your IP address is 38.125.78.245</small>
+						</p>
+
+					</div>
+				</div>
+				
+			</div>
+			<div class="explanation-area">
+				
+
+				
+				<p class="custom-message" id="customMessage">
+					Sorry, www.membres.lycos.fr has been blocked by your network administrator.
+				</p>
+
+				
+				<div class="contact-form-area">
+					<p>
+						<i class="fa fa-angle-right" id="contactToggleCaret"></i>
+						<a href="#" id="contactFormToggle">Report an incorrect block</a>
+					</p>
+
+					<div class="contact-form-container" id="contactFormContainer">
+						<iframe class="contact-form" frameborder="0" scrolling="no" id="contactFormFrame"></iframe>
+					</div>
+				</div>
+				
+
+				
+
+				
+				
+				<div class="proxy-area">
+					
+
+					
+					
+						<div class="diagnostic-info-area" id="diagnosticInfoArea">
+							<i class="fa fa-angle-right" id="diagnosticToggleCaret"></i>
+							<a href="#" id="diagnosticToggle">Diagnostic Info</a>
+							<div class="diagnostic-info">
+								<dl>
+								
+									<dt>ACType</dt>
+									<dd>0</dd>
+								
+									<dt>Block Type</dt>
+									<dd>domainlist</dd>
+								
+									<dt>Bundle ID</dt>
+									<dd>24736</dd>
+								
+									<dt>Domain Tagging</dt>
+									<dd>-</dd>
+								
+									<dt>Host</dt>
+									<dd>bpb.opendns.com</dd>
+								
+									<dt>IP Address</dt>
+									<dd>38.125.78.245</dd>
+								
+									<dt>Org ID</dt>
+									<dd>39281</dd>
+								
+									<dt>Origin ID</dt>
+									<dd>42956336</dd>
+								
+									<dt>Prefs</dt>
+									<dd>-</dd>
+								
+									<dt>Query</dt>
+									<dd>url=http%3A%2F%2Fwww.membres.lycos.fr%2Fvillagesperches%2Fimage%2Ftrilobitepetit.jpg%3F</dd>
+								
+									<dt>Server</dt>
+									<dd>-</dd>
+								
+									<dt>Time</dt>
+									<dd>2018-02-11 00:49:58.634827328 &#43;0000 UTC m=&#43;1570997.805702632</dd>
+								
+								</dl>
+							</div>
+						</div>
+					
+					
+
+				</div>
+				
+				
+			</div>
+
+			<script type="text/javascript">
+				var cfOptions = {
+					baseUrl: "https://tools.opendns.com/contact-netadmin/",
+					enabled:  true ,
+					domain: "www.membres.lycos.fr",
+					blockType: "domainlist",
+					oid:  42956336 ,
+					oidhash: "8d6fb7fb37c7b6e1d42f81ff072b62af4f8fe6dbf1d3d57811a9be267bc48d59",
+					preview:  false ,
+					requestId: "b9vp6dk0ffugvrk7c3cg"
+				}
+			</script>
+			
+		</div>
+	</div>
+	<script type="text/javascript" src="/static/js/scripts.min.js?v=1.2.14"></script>
+</body>
+</html>
+
