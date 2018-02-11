@@ -1,0 +1,730 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" >
+<head>    	<link rel="shortcut icon" href="http://www.fireandice.com/wp-content/themes/jupiter-child/favicon.png" />
+    	
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="format-detection" content="telephone=no">
+<title>Page not found - Fire &amp; Ice</title>
+<script type="text/javascript">var ajaxurl = "https://www.fireandice.com/wp-admin/admin-ajax.php"</script>
+		<style id="critical-path-css" type="text/css">
+			body,html{width:100%;height:100%;margin:0;padding:0}.page-preloader{top:0;left:0;z-index:999;position:fixed;height:100%;width:100%;text-align:center}.preloader-preview-area{-webkit-animation-delay:-.2s;animation-delay:-.2s;top:50%;-webkit-transform:translateY(100%);-ms-transform:translateY(100%);transform:translateY(100%);margin-top:10px;max-height:calc(50% - 20px);opacity:1;width:100%;text-align:center;position:absolute}.preloader-logo{max-width:90%;top:50%;-webkit-transform:translateY(-100%);-ms-transform:translateY(-100%);transform:translateY(-100%);margin:-10px auto 0 auto;max-height:calc(50% - 20px);opacity:1;position:relative}.ball-pulse>div{width:15px;height:15px;border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block;-webkit-animation:ball-pulse .75s infinite cubic-bezier(.2,.68,.18,1.08);animation:ball-pulse .75s infinite cubic-bezier(.2,.68,.18,1.08)}.ball-pulse>div:nth-child(1){-webkit-animation-delay:-.36s;animation-delay:-.36s}.ball-pulse>div:nth-child(2){-webkit-animation-delay:-.24s;animation-delay:-.24s}.ball-pulse>div:nth-child(3){-webkit-animation-delay:-.12s;animation-delay:-.12s}@-webkit-keyframes ball-pulse{0%{-webkit-transform:scale(1);transform:scale(1);opacity:1}45%{-webkit-transform:scale(.1);transform:scale(.1);opacity:.7}80%{-webkit-transform:scale(1);transform:scale(1);opacity:1}}@keyframes ball-pulse{0%{-webkit-transform:scale(1);transform:scale(1);opacity:1}45%{-webkit-transform:scale(.1);transform:scale(.1);opacity:.7}80%{-webkit-transform:scale(1);transform:scale(1);opacity:1}}.ball-clip-rotate-pulse{position:relative;-webkit-transform:translateY(-15px) translateX(-10px);-ms-transform:translateY(-15px) translateX(-10px);transform:translateY(-15px) translateX(-10px);display:inline-block}.ball-clip-rotate-pulse>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;position:absolute;top:0;left:0;border-radius:100%}.ball-clip-rotate-pulse>div:first-child{height:36px;width:36px;top:7px;left:-7px;-webkit-animation:ball-clip-rotate-pulse-scale 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:ball-clip-rotate-pulse-scale 1s 0s cubic-bezier(.09,.57,.49,.9) infinite}.ball-clip-rotate-pulse>div:last-child{position:absolute;width:50px;height:50px;left:-16px;top:-2px;background:0 0;border:2px solid;-webkit-animation:ball-clip-rotate-pulse-rotate 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:ball-clip-rotate-pulse-rotate 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;-webkit-animation-duration:1s;animation-duration:1s}@-webkit-keyframes ball-clip-rotate-pulse-rotate{0%{-webkit-transform:rotate(0) scale(1);transform:rotate(0) scale(1)}50%{-webkit-transform:rotate(180deg) scale(.6);transform:rotate(180deg) scale(.6)}100%{-webkit-transform:rotate(360deg) scale(1);transform:rotate(360deg) scale(1)}}@keyframes ball-clip-rotate-pulse-rotate{0%{-webkit-transform:rotate(0) scale(1);transform:rotate(0) scale(1)}50%{-webkit-transform:rotate(180deg) scale(.6);transform:rotate(180deg) scale(.6)}100%{-webkit-transform:rotate(360deg) scale(1);transform:rotate(360deg) scale(1)}}@-webkit-keyframes ball-clip-rotate-pulse-scale{30%{-webkit-transform:scale(.3);transform:scale(.3)}100%{-webkit-transform:scale(1);transform:scale(1)}}@keyframes ball-clip-rotate-pulse-scale{30%{-webkit-transform:scale(.3);transform:scale(.3)}100%{-webkit-transform:scale(1);transform:scale(1)}}@-webkit-keyframes square-spin{25%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(0);transform:perspective(100px) rotateX(180deg) rotateY(0)}50%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(180deg);transform:perspective(100px) rotateX(180deg) rotateY(180deg)}75%{-webkit-transform:perspective(100px) rotateX(0) rotateY(180deg);transform:perspective(100px) rotateX(0) rotateY(180deg)}100%{-webkit-transform:perspective(100px) rotateX(0) rotateY(0);transform:perspective(100px) rotateX(0) rotateY(0)}}@keyframes square-spin{25%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(0);transform:perspective(100px) rotateX(180deg) rotateY(0)}50%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(180deg);transform:perspective(100px) rotateX(180deg) rotateY(180deg)}75%{-webkit-transform:perspective(100px) rotateX(0) rotateY(180deg);transform:perspective(100px) rotateX(0) rotateY(180deg)}100%{-webkit-transform:perspective(100px) rotateX(0) rotateY(0);transform:perspective(100px) rotateX(0) rotateY(0)}}.square-spin{display:inline-block}.square-spin>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;width:50px;height:50px;-webkit-animation:square-spin 3s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:square-spin 3s 0s cubic-bezier(.09,.57,.49,.9) infinite}.cube-transition{position:relative;-webkit-transform:translate(-25px,-25px);-ms-transform:translate(-25px,-25px);transform:translate(-25px,-25px);display:inline-block}.cube-transition>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;width:15px;height:15px;position:absolute;top:-5px;left:-5px;-webkit-animation:cube-transition 1.6s 0s infinite ease-in-out;animation:cube-transition 1.6s 0s infinite ease-in-out}.cube-transition>div:last-child{-webkit-animation-delay:-.8s;animation-delay:-.8s}@-webkit-keyframes cube-transition{25%{-webkit-transform:translateX(50px) scale(.5) rotate(-90deg);transform:translateX(50px) scale(.5) rotate(-90deg)}50%{-webkit-transform:translate(50px,50px) rotate(-180deg);transform:translate(50px,50px) rotate(-180deg)}75%{-webkit-transform:translateY(50px) scale(.5) rotate(-270deg);transform:translateY(50px) scale(.5) rotate(-270deg)}100%{-webkit-transform:rotate(-360deg);transform:rotate(-360deg)}}@keyframes cube-transition{25%{-webkit-transform:translateX(50px) scale(.5) rotate(-90deg);transform:translateX(50px) scale(.5) rotate(-90deg)}50%{-webkit-transform:translate(50px,50px) rotate(-180deg);transform:translate(50px,50px) rotate(-180deg)}75%{-webkit-transform:translateY(50px) scale(.5) rotate(-270deg);transform:translateY(50px) scale(.5) rotate(-270deg)}100%{-webkit-transform:rotate(-360deg);transform:rotate(-360deg)}}.ball-scale>div{border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block;height:60px;width:60px;-webkit-animation:ball-scale 1s 0s ease-in-out infinite;animation:ball-scale 1s 0s ease-in-out infinite}@-webkit-keyframes ball-scale{0%{-webkit-transform:scale(0);transform:scale(0)}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}@keyframes ball-scale{0%{-webkit-transform:scale(0);transform:scale(0)}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}.line-scale>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block;width:5px;height:50px;border-radius:2px;margin:2px}.line-scale>div:nth-child(1){-webkit-animation:line-scale 1s -.5s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.5s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(2){-webkit-animation:line-scale 1s -.4s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.4s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(3){-webkit-animation:line-scale 1s -.3s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.3s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(4){-webkit-animation:line-scale 1s -.2s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.2s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(5){-webkit-animation:line-scale 1s -.1s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.1s infinite cubic-bezier(.2,.68,.18,1.08)}@-webkit-keyframes line-scale{0%{-webkit-transform:scaley(1);transform:scaley(1)}50%{-webkit-transform:scaley(.4);transform:scaley(.4)}100%{-webkit-transform:scaley(1);transform:scaley(1)}}@keyframes line-scale{0%{-webkit-transform:scaley(1);transform:scaley(1)}50%{-webkit-transform:scaley(.4);transform:scaley(.4)}100%{-webkit-transform:scaley(1);transform:scaley(1)}}.ball-scale-multiple{position:relative;-webkit-transform:translateY(30px);-ms-transform:translateY(30px);transform:translateY(30px);display:inline-block}.ball-scale-multiple>div{border-radius:100%;-webkit-animation-fill-mode:both;animation-fill-mode:both;margin:2px;position:absolute;left:-30px;top:0;opacity:0;margin:0;width:50px;height:50px;-webkit-animation:ball-scale-multiple 1s 0s linear infinite;animation:ball-scale-multiple 1s 0s linear infinite}.ball-scale-multiple>div:nth-child(2){-webkit-animation-delay:-.2s;animation-delay:-.2s}.ball-scale-multiple>div:nth-child(3){-webkit-animation-delay:-.2s;animation-delay:-.2s}@-webkit-keyframes ball-scale-multiple{0%{-webkit-transform:scale(0);transform:scale(0);opacity:0}5%{opacity:1}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}@keyframes ball-scale-multiple{0%{-webkit-transform:scale(0);transform:scale(0);opacity:0}5%{opacity:1}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}.ball-pulse-sync{display:inline-block}.ball-pulse-sync>div{width:15px;height:15px;border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block}.ball-pulse-sync>div:nth-child(1){-webkit-animation:ball-pulse-sync .6s -.21s infinite ease-in-out;animation:ball-pulse-sync .6s -.21s infinite ease-in-out}.ball-pulse-sync>div:nth-child(2){-webkit-animation:ball-pulse-sync .6s -.14s infinite ease-in-out;animation:ball-pulse-sync .6s -.14s infinite ease-in-out}.ball-pulse-sync>div:nth-child(3){-webkit-animation:ball-pulse-sync .6s -70ms infinite ease-in-out;animation:ball-pulse-sync .6s -70ms infinite ease-in-out}@-webkit-keyframes ball-pulse-sync{33%{-webkit-transform:translateY(10px);transform:translateY(10px)}66%{-webkit-transform:translateY(-10px);transform:translateY(-10px)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes ball-pulse-sync{33%{-webkit-transform:translateY(10px);transform:translateY(10px)}66%{-webkit-transform:translateY(-10px);transform:translateY(-10px)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}.transparent-circle{display:inline-block;border-top:.5em solid rgba(255,255,255,.2);border-right:.5em solid rgba(255,255,255,.2);border-bottom:.5em solid rgba(255,255,255,.2);border-left:.5em solid #fff;-webkit-transform:translateZ(0);transform:translateZ(0);-webkit-animation:transparent-circle 1.1s infinite linear;animation:transparent-circle 1.1s infinite linear;width:50px;height:50px;border-radius:50%}.transparent-circle:after{border-radius:50%;width:10em;height:10em}@-webkit-keyframes transparent-circle{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes transparent-circle{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.ball-spin-fade-loader{position:relative;top:-10px;left:-10px;display:inline-block}.ball-spin-fade-loader>div{width:15px;height:15px;border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;position:absolute;-webkit-animation:ball-spin-fade-loader 1s infinite linear;animation:ball-spin-fade-loader 1s infinite linear}.ball-spin-fade-loader>div:nth-child(1){top:25px;left:0;animation-delay:-.84s;-webkit-animation-delay:-.84s}.ball-spin-fade-loader>div:nth-child(2){top:17.05px;left:17.05px;animation-delay:-.72s;-webkit-animation-delay:-.72s}.ball-spin-fade-loader>div:nth-child(3){top:0;left:25px;animation-delay:-.6s;-webkit-animation-delay:-.6s}.ball-spin-fade-loader>div:nth-child(4){top:-17.05px;left:17.05px;animation-delay:-.48s;-webkit-animation-delay:-.48s}.ball-spin-fade-loader>div:nth-child(5){top:-25px;left:0;animation-delay:-.36s;-webkit-animation-delay:-.36s}.ball-spin-fade-loader>div:nth-child(6){top:-17.05px;left:-17.05px;animation-delay:-.24s;-webkit-animation-delay:-.24s}.ball-spin-fade-loader>div:nth-child(7){top:0;left:-25px;animation-delay:-.12s;-webkit-animation-delay:-.12s}.ball-spin-fade-loader>div:nth-child(8){top:17.05px;left:-17.05px;animation-delay:0s;-webkit-animation-delay:0s}@-webkit-keyframes ball-spin-fade-loader{50%{opacity:.3;-webkit-transform:scale(.4);transform:scale(.4)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}@keyframes ball-spin-fade-loader{50%{opacity:.3;-webkit-transform:scale(.4);transform:scale(.4)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}		</style>
+
+		
+<!-- This site is optimized with the Yoast SEO plugin v6.2 - https://yoa.st/1yg?utm_content=6.2 -->
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page not found - Fire &amp; Ice" />
+<meta property="og:site_name" content="Fire &amp; Ice" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Page not found - Fire &amp; Ice" />
+<meta name="twitter:site" content="@fireandice" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.fireandice.com\/","name":"Fire and Ice","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.fireandice.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":false,"sameAs":["https:\/\/www.facebook.com\/inspiredelight\/","https:\/\/www.instagram.com\/fireandicestores\/","https:\/\/www.pinterest.com\/inspiredelight\/","https:\/\/twitter.com\/fireandice"],"@id":"#organization","name":"Fire & Ice","logo":"https:\/\/www.fireandice.com\/wp-content\/uploads\/2017\/01\/cropped-cropped-logo-no-web-no-fcu-e1483701688329-1-e1484161271274.jpg"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//js.authorize.net' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Fire &amp; Ice &raquo; Feed" href="https://www.fireandice.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Fire &amp; Ice &raquo; Comments Feed" href="https://www.fireandice.com/comments/feed/" />
+
+<link rel="shortcut icon" href="https://www.fireandice.com/wp-content/uploads/2017/01/ampersand-black.png"  />
+<script type="text/javascript">
+window.abb = {};
+php = {};
+window.PHP = {};
+PHP.ajax = "https://www.fireandice.com/wp-admin/admin-ajax.php";PHP.wp_p_id = "";var mk_header_parallax, mk_banner_parallax, mk_page_parallax, mk_footer_parallax, mk_body_parallax;
+var mk_images_dir = "http://www.fireandice.com/wp-content/themes/jupiter/assets/images",
+mk_theme_js_path = "http://www.fireandice.com/wp-content/themes/jupiter/assets/js",
+mk_theme_dir = "http://www.fireandice.com/wp-content/themes/jupiter",
+mk_captcha_placeholder = "Enter Captcha",
+mk_captcha_invalid_txt = "Invalid. Try again.",
+mk_captcha_correct_txt = "Captcha correct.",
+mk_responsive_nav_width = 1140,
+mk_vertical_header_back = "Back",
+mk_vertical_header_anim = "1",
+mk_check_rtl = true,
+mk_grid_width = 1140,
+mk_ajax_search_option = "beside_nav",
+mk_preloader_bg_color = "#ffffff",
+mk_accent_color = "#e6a14e",
+mk_go_to_top =  "true",
+mk_smooth_scroll =  "true",
+mk_preloader_bar_color = "#e6a14e",
+mk_preloader_logo = "";
+mk_typekit_id   = "",
+mk_google_fonts = ["Lato:100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic,100,200,300,400,500,600,700,800,900"],
+mk_global_lazyload = true;
+</script>
+<link rel='stylesheet' id='smart-coupon-css'  href='http://www.fireandice.com/wp-content/plugins/woocommerce-smart-coupons/assets/css/smart-coupon.min.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='http://www.fireandice.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='http://www.fireandice.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.3.1' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='http://www.fireandice.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-styles-css'  href='http://www.fireandice.com/wp-content/themes/jupiter/assets/stylesheet/min/full-styles.6.1.1.css?ver=1517925060' type='text/css' media='all' />
+<style id='theme-styles-inline-css' type='text/css'>
+body { background-color:#fff; } .hb-custom-header #mk-page-introduce, #mk-page-introduce { background-color:#ffffff;background-repeat:repeat;background-position:center bottom;background-attachment:scroll;background-size:cover;-webkit-background-size:cover;-moz-background-size:cover; } .hb-custom-header > div, .mk-header-bg { background-color:#fff;background-repeat:no-repeat;background-position:right center;background-attachment:scroll; } .mk-classic-nav-bg { background-color:#fff;background-repeat:no-repeat;background-position:right center;background-attachment:scroll; } .master-holder-bg { background-color:#f9f9f9;background-repeat:no-repeat;background-position:center center;background-attachment:scroll; } #mk-footer { background-color:#595959; } #mk-boxed-layout { -webkit-box-shadow:0 0 0px rgba(0, 0, 0, 0); -moz-box-shadow:0 0 0px rgba(0, 0, 0, 0); box-shadow:0 0 0px rgba(0, 0, 0, 0); } .mk-news-tab .mk-tabs-tabs .is-active a, .mk-fancy-title.pattern-style span, .mk-fancy-title.pattern-style.color-gradient span:after, .page-bg-color { background-color:#f9f9f9; } .page-title { font-size:20px; color:#4d4d4d; text-transform:uppercase; font-weight:400; letter-spacing:2px; } .page-subtitle { font-size:14px; line-height:100%; color:#a3a3a3; font-size:14px; text-transform:none; } .mk-header { border-bottom:1px solid #ededed; } .header-style-1 .mk-header-padding-wrapper, .header-style-2 .mk-header-padding-wrapper, .header-style-3 .mk-header-padding-wrapper { padding-top:116px; } body { font-family:Lato } @font-face { font-family:'star'; src:url('http://www.fireandice.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.eot'); src:url('http://www.fireandice.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.eot?#iefix') format('embedded-opentype'), url('http://www.fireandice.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.woff') format('woff'), url('http://www.fireandice.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.ttf') format('truetype'), url('http://www.fireandice.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.svg#star') format('svg'); font-weight:normal; font-style:normal; } @font-face { font-family:'WooCommerce'; src:url('http://www.fireandice.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.eot'); src:url('http://www.fireandice.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.eot?#iefix') format('embedded-opentype'), url('http://www.fireandice.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.woff') format('woff'), url('http://www.fireandice.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.ttf') format('truetype'), url('http://www.fireandice.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.svg#WooCommerce') format('svg'); font-weight:normal; font-style:normal; }@media handheld, only screen and (max-width:640px) { body .mk-product-loop .mk--col--1-2, body .mk-product-loop .mk--col--3-12, body .mk-product-loop .mk--col--4-12 { width:50%!important; } } .term-description { display:none; } .search-result-item .search-loop-meta { display:none !important; } .mk-product-holder .product-title { height:110px; overflow:hidden; } .search-result-item img { width:200px; height:200px; } .mk-product.style-default .meta { font-size:14px; font-weight:bold; } .woocommerce.tax-product_cat .page-subtitle { display:none; } form.gift-card-balance { max-width:340px; padding:10px; margin-top:30px; margin-bottom:50px; border:1px solid #ddd; text-align:center; } form.gift-card-balance #gID { margin-bottom:15px; } .tax-product_cat #theme-page .theme-page-wrapper.right-layout .theme-content { float:right; } .tax-product_cat #theme-page .theme-page-wrapper.right-layout #mk-sidebar { float:left; } .woocommerce .product-category h4 .count { display:none !important; } h4.mk-woocommerce-shop-loop__title { display:none; }
+</style>
+<link rel='stylesheet' id='mkhb-render-css'  href='http://www.fireandice.com/wp-content/themes/jupiter/header-builder/includes/assets/css/mkhb-render.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mkhb-row-css'  href='http://www.fireandice.com/wp-content/themes/jupiter/header-builder/includes/assets/css/mkhb-row.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mkhb-column-css'  href='http://www.fireandice.com/wp-content/themes/jupiter/header-builder/includes/assets/css/mkhb-column.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mk-woocommerce-common-css'  href='http://www.fireandice.com/wp-content/themes/jupiter/assets/stylesheet/plugins/min/woocommerce-common.6.1.1.css?ver=1517925931' type='text/css' media='all' />
+<link rel='stylesheet' id='mk-cz-woocommerce-css'  href='http://www.fireandice.com/wp-content/themes/jupiter/framework/admin/customizer/woocommerce/assets/css/woocommerce.6.1.1.css?ver=1517926334' type='text/css' media='all' />
+<link rel='stylesheet' id='sv-wc-payment-gateway-payment-form-css'  href='http://www.fireandice.com/wp-content/plugins/woocommerce-gateway-authorize-net-cim/lib/skyverge/woocommerce/payment-gateway/assets/css/frontend/sv-wc-payment-gateway-payment-form.min.css?ver=4.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-options-css'  href='https://www.fireandice.com/wp-content/uploads/mk_assets/theme-options-production-1518197121.css?ver=1518197119' type='text/css' media='all' />
+<link rel='stylesheet' id='mk-style-css'  href='http://www.fireandice.com/wp-content/themes/jupiter-child/style.css?ver=4.9.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.fireandice.com/wp-content/themes/jupiter/assets/js/plugins/wp-enqueue/webfontloader.js?ver=4.9.4'></script>
+<script type='text/javascript'>
+WebFontConfig = {
+	timeout: 2000
+}
+
+if ( mk_typekit_id.length > 0 ) {
+	WebFontConfig.typekit = {
+		id: mk_typekit_id
+	}
+}
+
+if ( mk_google_fonts.length > 0 ) {
+	WebFontConfig.google = {
+		families:  mk_google_fonts
+	}
+}
+
+if ( (mk_google_fonts.length > 0 || mk_typekit_id.length > 0) && navigator.userAgent.indexOf("Speed Insights") == -1) {
+	WebFont.load( WebFontConfig );
+}
+		
+</script>
+<script type='text/javascript' src='http://www.fireandice.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.fireandice.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"https:\/\/www.fireandice.com\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/www.fireandice.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.fireandice.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.3.1'></script>
+<script type='text/javascript' src='http://www.fireandice.com/wp-content/plugins/js_composer_theme/assets/js/vendors/woocommerce-add-to-cart.js?ver=5.4.5'></script>
+<script type='text/javascript' src='https://js.authorize.net/v1/Accept.js'></script>
+<link rel='https://api.w.org/' href='https://www.fireandice.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.fireandice.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.fireandice.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.4" />
+<meta name="generator" content="WooCommerce 3.3.1" />
+<script> var isTest = false; </script>
+<meta itemprop="author" content="fnidev-admin" /><meta itemprop="datePublished" content="January 12, 2016" /><meta itemprop="dateModified" content="January 30, 2017" /><meta itemprop="publisher" content="Fire &amp; Ice" />	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.fireandice.com/wp-content/plugins/js_composer_theme/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="icon" href="https://www.fireandice.com/wp-content/uploads/2017/01/cropped-ampersand-black-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.fireandice.com/wp-content/uploads/2017/01/cropped-ampersand-black-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.fireandice.com/wp-content/uploads/2017/01/cropped-ampersand-black-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.fireandice.com/wp-content/uploads/2017/01/cropped-ampersand-black-1-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			
+/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+li.product .woocommerce-loop-product__title {
+    height: 70px;
+    overflow: hidden;
+}
+
+
+.mk-product-holder .product-title {
+    height: 110px;
+    overflow: hidden;
+}
+		</style>
+	<meta name="generator" content="Jupiter Child Theme 1.0" />
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><!-- WooCommerce Google Analytics Integration -->
+		<script type='text/javascript'>
+			var gaProperty = 'UA-930328-2';
+			var disableStr = 'ga-disable-' + gaProperty;
+			if ( document.cookie.indexOf( disableStr + '=true' ) > -1 ) {
+				window[disableStr] = true;
+			}
+			function gaOptout() {
+				document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+				window[disableStr] = true;
+			}
+		</script>
+		<script type='text/javascript'>var _gaq = _gaq || [];
+		_gaq.push(
+			['_setAccount', 'UA-930328-2'], ['_setDomainName', 'https://www.fireandice.com/'],['_gat._anonymizeIp'],['_trackEvent', 'Error', '404 Not Found', 'page: ' + document.location.pathname + document.location.search + ' referrer: ' + document.referrer ],
+			['_setCustomVar', 1, 'logged-in', 'no', 1],
+			['_trackPageview']);</script>
+		<!-- /WooCommerce Google Analytics Integration --></head>
+
+<body class="error404 mk-boxed-enabled mk-customizer wpb-js-composer js-comp-ver-5.4.5 vc_responsive" itemscope="itemscope" itemtype="https://schema.org/WebPage"  data-adminbar="">
+
+	
+	<!-- Target for scroll anchors to achieve native browser bahaviour + possible enhancements like smooth scrolling -->
+	<div id="top-of-page"></div>
+		<div id="top_ad"></div>
+		<div id="mk-boxed-layout">
+
+			<div id="mk-theme-container" >
+
+				 
+    <header data-height='80'
+                data-sticky-height='55'
+                data-responsive-height='100'
+                data-transparent-skin=''
+                data-header-style='1'
+                data-sticky-style='fixed'
+                data-sticky-offset='header' id="mk-header-1" class="mk-header header-style-1 header-align-left  toolbar-true menu-hover-5 sticky-style-fixed mk-background-stretch boxed-header " role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+                    <div class="mk-header-holder">
+                
+<div class="mk-header-toolbar">
+
+			<div class="mk-grid header-grid">
+	
+		<div class="mk-header-toolbar-holder">
+
+		<nav class="mk-toolbar-navigation"><ul id="menu-top-header" class="menu"><li id="menu-item-90016" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.fireandice.com/my-account/"><span class="meni-item-text">Login / Register</span></a></li>
+<li id="menu-item-89928" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.fireandice.com/treasures-rewards/"><span class="meni-item-text">Treasures Rewards</span></a></li>
+</ul></nav>
+	<span class="header-toolbar-contact">
+		<svg  class="mk-svg-icon" data-name="mk-moon-phone-3" data-cacheid="icon-5a7f8dce39a01" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M457.153 103.648c53.267 30.284 54.847 62.709 54.849 85.349v3.397c0 5.182-4.469 9.418-9.928 9.418h-120.146c-5.459 0-9.928-4.236-9.928-9.418v-11.453c0-28.605-27.355-33.175-42.449-35.605-15.096-2.426-52.617-4.777-73.48-4.777h-.14300000000000002c-20.862 0-58.387 2.35-73.48 4.777-15.093 2.427-42.449 6.998-42.449 35.605v11.453c0 5.182-4.469 9.418-9.926 9.418h-120.146c-5.457 0-9.926-4.236-9.926-9.418v-3.397c0-22.64 1.58-55.065 54.847-85.349 63.35-36.01 153.929-39.648 201.08-39.648l.077.078.066-.078c47.152 0 137.732 3.634 201.082 39.648zm-201.152 88.352c-28.374 0-87.443 2.126-117.456 38.519-30.022 36.383-105.09 217.481-38.147 217.481h311.201c66.945 0-8.125-181.098-38.137-217.481-30.018-36.393-89.1-38.519-117.461-38.519zm-.001 192c-35.346 0-64-28.653-64-64s28.654-64 64-64c35.347 0 64 28.653 64 64s-28.653 64-64 64z"/></svg>		<a href="tel:844-427-1010x125">844-427-1010 x125</a>
+	</span>
+
+<span class="mk-header-tagline">Questions? Call toll free</span><div class="mk-header-social toolbar-section"><ul><li><a class="facebook-hover " target="_blank" href="https://www.facebook.com/inspiredelight/"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-square-facebook" data-cacheid="icon-5a7f8dce39ede" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M444-6.4h-376c-37.555 0-68 30.445-68 68v376c0 37.555 30.445 68 68 68h376c37.555 0 68-30.445 68-68v-376c0-37.555-30.445-68-68-68zm-123.943 159.299h-49.041c-7.42 0-14.918 7.452-14.918 12.99v19.487h63.723c-2.081 28.41-6.407 64.679-6.407 64.679h-57.565v159.545h-63.929v-159.545h-32.756v-64.474h32.756v-33.53c0-8.098-1.706-62.336 70.46-62.336h57.678v63.183z"/></svg></i></a></li><li><a class="twitter-hover " target="_blank" href="https://twitter.com/fireandice"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-square-twitter" data-cacheid="icon-5a7f8dce3a176" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M444-6.4h-376c-37.555 0-68 30.445-68 68v376c0 37.555 30.445 68 68 68h376c37.555 0 68-30.445 68-68v-376c0-37.555-30.445-68-68-68zm-41.733 263.6c-31.342 122.024-241.534 173.781-338.231 47.108 37.04 33.978 101.537 36.954 142.439-3.669-23.987 3.373-41.436-19.233-11.968-31.465-26.501 2.808-41.236-10.76-47.279-22.26 6.213-6.255 13.068-9.157 26.322-9.998-29.017-6.581-39.719-20.227-43.011-36.776 8.059-1.844 18.135-3.436 23.637-2.724-25.411-12.772-34.247-31.98-32.848-46.422 45.402 16.202 74.336 29.216 98.534 41.7 8.619 4.41 18.237 12.38 29.084 22.471 13.825-35.095 30.888-71.268 60.12-89.215-.493 4.07-2.757 7.856-5.76 10.956 8.291-7.239 19.06-12.218 30.004-13.656-1.255 7.896-13.094 12.341-20.233 14.927 5.41-1.621 34.18-13.957 37.317-6.932 3.702 8-19.851 11.669-23.853 13.058-2.983.965-5.986 2.023-8.928 3.17 36.463-3.49 71.26 25.413 81.423 61.295.721 2.581 1.44 5.448 2.099 8.454 13.331 4.782 37.492-.222 45.279-4.825-5.626 12.792-20.253 22.21-41.833 23.93 10.399 4.154 29.994 6.427 43.51 4.222-8.558 8.83-22.363 16.836-45.823 16.648z"/></svg></i></a></li><li><a class="pinterest-hover " target="_blank" href="https://www.pinterest.com/inspiredelight/"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-square-pinterest" data-cacheid="icon-5a7f8dce3a451" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M444-6.4h-376c-37.555 0-68 30.445-68 68v376c0 37.555 30.445 68 68 68h376c37.555 0 68-30.445 68-68v-376c0-37.555-30.445-68-68-68zm-162.492 327.119c-20.463 0-39.703-10.759-46.285-22.973 0 0-11.014 42.454-13.332 50.654-8.206 28.956-32.336 57.931-34.204 60.3-1.31 1.665-4.206 1.132-4.509-1.046-.518-3.692-6.671-40.229.567-70.031 3.638-14.973 24.374-100.423 24.374-100.423s-6.043-11.758-6.043-29.166c0-27.301 16.275-47.695 36.541-47.695 17.236 0 25.559 12.585 25.559 27.661 0 16.856-11.034 42.045-16.726 65.388-4.754 19.568 10.085 35.51 29.901 35.51 35.895 0 60.076-44.851 60.076-97.988 0-40.37-27.955-70.62-78.837-70.62-57.474 0-93.302 41.693-93.302 88.276 0 16.037 4.881 27.376 12.511 36.129 3.501 4.032 4 5.65 2.728 10.264-.929 3.396-2.993 11.566-3.874 14.802-1.261 4.669-5.144 6.335-9.488 4.613-26.458-10.512-38.802-38.716-38.802-70.411 0-52.337 45.394-115.119 135.43-115.119 72.351 0 119.955 50.911 119.955 105.569 0 72.294-41.325 126.306-102.241 126.306z"/></svg></i></a></li><li><a class="instagram-hover " target="_blank" href="https://www.instagram.com/fireandicestores/"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-square-instagram" data-cacheid="icon-5a7f8dce3a6e1" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><ellipse transform="matrix(0.9732 -0.2298 0.2298 0.9732 -51.9685 65.665)" cx="256" cy="256" rx="48.4" ry="48.4"/><path d="M374.3,197.2c-0.7-14-2.9-21.9-5-26.9c-2.5-6.8-5.7-11.8-10.8-16.8c-5.4-5-10-8.2-16.8-10.8c-5-2.2-12.5-4.3-26.9-5 c-15.4-0.7-20.1-0.7-58.8-0.7c-38.7,0-43.4,0-58.8,0.7c-14,0.7-21.9,2.9-26.9,5c-6.8,2.5-11.8,5.7-16.8,10.8 c-5,5.4-8.2,10-10.8,16.8c-2.2,5-4.3,12.5-5,26.9c-0.7,15.4-0.7,20.1-0.7,58.8c0,38.7,0,43.4,0.7,58.8c0.4,14.3,2.9,21.9,5,26.9 c2.5,6.8,5.7,11.8,10.8,16.8c5.4,5,10,8.2,16.8,10.8c5,2.2,12.5,4.3,26.9,5c15.4,0.7,20.1,0.7,58.8,0.7c38.7,0,43.4,0,58.8-0.7 c14-0.7,21.9-2.9,26.9-5c6.8-2.5,11.8-5.7,16.8-10.8c5-5.4,8.2-10,10.8-16.8c2.2-5,4.3-12.5,5-26.9c0.7-15.4,1.1-20.1,0.7-58.8 C375,217.3,375,212.6,374.3,197.2z M256,330.6c-41.2,0-74.6-33.3-74.6-74.6c0-41.2,33.3-74.6,74.6-74.6c41.2,0,74.6,33.3,74.6,74.6 C330.6,297.2,297.2,330.6,256,330.6z M333.8,195.8c-9.7,0-17.6-7.9-17.6-17.6c0-9.7,7.9-17.6,17.6-17.6s17.6,7.9,17.6,17.6 C351.3,187.9,343.5,195.8,333.8,195.8z"/><path d="M446.7,0H65.3C29.2,0,0,29.2,0,65.3v381.5c0,36,29.2,65.3,65.3,65.3h381.5c36,0,65.3-29.2,65.3-65.3V65.3 C512,29.2,482.8,0,446.7,0z M400.8,315.9c-0.7,15.8-3.2,26.2-6.8,35.5c-3.9,9.7-8.6,17.6-16.8,25.8c-8.2,8.2-16.1,13.3-25.8,16.8 c-9.3,3.6-20.1,6.1-35.5,6.8s-20.4,0.7-59.9,0.7s-44.4,0-59.9-0.7c-15.8-0.7-26.2-3.2-35.5-6.8c-9.7-3.9-17.6-8.6-25.8-16.8 c-8.2-8.2-13.3-16.1-16.8-25.8c-3.6-9.3-6.1-20.1-6.8-35.5s-0.7-20.4-0.7-59.9s0-44.4,0.7-59.9c0.7-15.8,3.2-26.2,6.8-35.5 c3.9-9.7,9-17.6,16.8-25.8c8.2-8.2,16.1-13.3,25.8-16.8c9.3-3.6,20.1-6.1,35.5-6.8c15.4-0.7,20.4-0.7,59.9-0.7s44.4,0,59.9,0.7 c15.8,0.7,26.2,3.2,35.5,6.8c9.7,3.9,17.6,8.6,25.8,16.8c8.2,8.2,13.3,16.1,16.8,25.8c3.6,9.3,6.1,20.1,6.8,35.5 c0.7,15.4,0.7,20.4,0.7,59.9C401.5,295.4,401.5,300.4,400.8,315.9z"/></svg></i></a></li></ul><div class="clearboth"></div></div>	<div class="mk-header-login">
+    <a href="#" id="mk-header-login-button" class="mk-login-link mk-toggle-trigger"><svg  class="mk-svg-icon" data-name="mk-moon-user-8" data-cacheid="icon-5a7f8dce3ad38" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M160 352a96 96 12780 1 0 192 0 96 96 12780 1 0-192 0zm96-128c-106.039 0-192-100.289-192-224h64c0 88.365 57.307 160 128 160 70.691 0 128-71.635 128-160h64c0 123.711-85.962 224-192 224z" transform="scale(1 -1) translate(0 -480)"/></svg>Login</a>
+	<div class="mk-login-register mk-box-to-trigger">
+
+		<div id="mk-login-panel">
+				<form id="mk_login_form" name="mk_login_form" method="post" class="mk-login-form" action="https://www.fireandice.com/wp-login.php?itsec-hb-token=admin-login">
+					<span class="form-section">
+					<label for="log">Username</label>
+					<input type="text" id="username" name="log" class="text-input">
+					</span>
+					<span class="form-section">
+						<label for="pwd">Password</label>
+						<input type="password" id="password" name="pwd" class="text-input">
+					</span>
+					<label class="mk-login-remember">
+						<input type="checkbox" name="rememberme" id="rememberme" value="forever"> Remember Me					</label>
+
+					<input type="submit" id="login" name="submit_button" class="accent-bg-color button" value="LOG IN">
+<input type="hidden" id="security" name="security" value="125b8f929b" /><input type="hidden" name="_wp_http_referer" value="/images/D/3695406_c-trilobite-morocco-fossil.jpg" />
+					<div class="register-login-links">
+							<a href="#" class="mk-forget-password">Forgot?</a>
+</div>
+					<div class="clearboth"></div>
+					<p class="mk-login-status"></p>
+				</form>
+		</div>
+
+
+		<div class="mk-forget-panel">
+				<span class="mk-login-title">Forget your password?</span>
+				<form id="forgot_form" name="login_form" method="post" class="mk-forget-password-form" action="https://www.fireandice.com/wp-login.php?action=lostpassword&itsec-hb-token=admin-login">
+					<span class="form-section">
+							<label for="user_login">Username or E-mail</label>
+						<input type="text" id="forgot-email" name="user_login" class="text-input">
+					</span>
+					<span class="form-section">
+						<input type="submit" id="recover" name="submit" class="accent-bg-color button" value="Get New Password">
+					</span>
+					<div class="register-login-links">
+						<a class="mk-return-login" href="#">Remembered Password?</a>
+					</div>
+				</form>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+
+			</div>
+	
+</div>
+                <div class="mk-header-inner add-header-height">
+
+                    <div class="mk-header-bg "></div>
+
+                                            <div class="mk-toolbar-resposnive-icon"><svg  class="mk-svg-icon" data-name="mk-icon-chevron-down" data-cacheid="icon-5a7f8dce3b2a4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"><path d="M1683 808l-742 741q-19 19-45 19t-45-19l-742-741q-19-19-19-45.5t19-45.5l166-165q19-19 45-19t45 19l531 531 531-531q19-19 45-19t45 19l166 165q19 19 19 45.5t-19 45.5z"/></svg></div>
+                    
+                                                <div class="mk-grid header-grid">
+                    
+                            <div class="mk-header-nav-container one-row-style menu-hover-style-5" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" >
+                                <nav class="mk-main-navigation js-main-nav"><ul id="menu-main-menu" class="main-navigation-ul"><li id="menu-item-175422" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/shop/">New at F&#038;I</a>
+<ul style="" class="sub-menu ">
+	<li id="menu-item-175628" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll"  href="http://www.fireandice.com/shop">New Arrivals</a></li>
+	<li id="menu-item-175816" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-tag/valentines-day/">Valentine&#8217;s</a></li>
+	<li id="menu-item-175222" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/amethyst/">10 % Off February&#8217;s Birthstone</a><i class="menu-sub-level-arrow"><svg  class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-5a7f8dce54018" style=" height:16px; width: 5.71428571429px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"/></svg></i>
+	<ul style="" class="sub-menu ">
+		<li id="menu-item-176111" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/amethyst/">Amethyst</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-172217" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children has-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/">Jewelry</a>
+<ul style="" class="sub-menu mega_col_5">
+	<li id="menu-item-173612" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children mega_col_5 mk_mega_first"><div class="megamenu-title">Gemstone Jewelry</div>
+	<ul style="" class="sub-menu mega_col_5">
+		<li id="menu-item-175340" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/amber-1/">Amber</a></li>
+		<li id="menu-item-175341" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/amethyst/">Amethyst</a></li>
+		<li id="menu-item-175349" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/collectors/fossils/ammonite/">Ammonite</a></li>
+		<li id="menu-item-175344" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/aquamarine/">Aquamarine</a></li>
+		<li id="menu-item-175224" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/cubic-zirconia/">Cubic Zirconia</a></li>
+		<li id="menu-item-175346" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/diamond/">Diamond</a></li>
+		<li id="menu-item-175345" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/ruby/">Ruby</a></li>
+		<li id="menu-item-175347" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/emerald/">Emerald</a></li>
+		<li id="menu-item-175452" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/jasper/">Jasper</a></li>
+	</ul>
+</li>
+	<li id="menu-item-175588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children mega_col_5"><div class="megamenu-title">More&#8230;</div>
+	<ul style="" class="sub-menu mega_col_5">
+		<li id="menu-item-175228" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/labradorite/">Labradorite</a></li>
+		<li id="menu-item-175226" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/lapis-lazuli/">Lapis Lazuli</a></li>
+		<li id="menu-item-175348" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/larimar/">Larimar</a></li>
+		<li id="menu-item-175342" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/onyx/">Onyx</a></li>
+		<li id="menu-item-175343" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/opal/">Opal</a></li>
+		<li id="menu-item-175352" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/sapphire/">Sapphire</a></li>
+		<li id="menu-item-175227" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/tanzanite/">Tanzanite</a></li>
+		<li id="menu-item-175225" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/turquoise/">Turquoise</a></li>
+	</ul>
+</li>
+	<li id="menu-item-175248" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children mega_col_5"><div class="megamenu-title">By Design</div>
+	<ul style="" class="sub-menu mega_col_5">
+		<li id="menu-item-171448" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/bridal-jewelry/">Bridal</a></li>
+		<li id="menu-item-175639" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/art-glass-jewelry/dichroic-glass/">Dichroic Glass</a></li>
+		<li id="menu-item-175453" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/collectors/fossils/marine/">Marine</a></li>
+		<li id="menu-item-175638" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shop-by-metal/">Shop By Metal</a></li>
+	</ul>
+</li>
+	<li id="menu-item-175250" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children mega_col_5"><div class="megamenu-title">Handmade</div>
+	<ul style="" class="sub-menu mega_col_5">
+		<li id="menu-item-171445" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/art-glass-jewelry/">Art Glass Jewelry</a></li>
+		<li id="menu-item-171450" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/southwestern-jewelry/">Southwestern Jewelry</a></li>
+		<li id="menu-item-175230" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry-designers/tessoro/">Tessoro</a></li>
+		<li id="menu-item-175229" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry-designers/whitney-designs/">Whitney Designs</a></li>
+		<li id="menu-item-175231" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry-designers/zealandia/">Zealandia</a></li>
+	</ul>
+</li>
+	<li id="menu-item-175252" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children mega_col_5"><div class="megamenu-title">Gifts</div>
+	<ul style="" class="sub-menu mega_col_5">
+		<li id="menu-item-173613" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/jewelry-sets/">Jewelry Sets</a></li>
+		<li id="menu-item-173614" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/jewelry-care/">Jewelry Care</a></li>
+		<li id="menu-item-175257" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/gift-card/">Gift Card</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-175318" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/mens/">Men&#8217;s</a>
+<ul style="" class="sub-menu ">
+	<li id="menu-item-175235" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/mens/mens-rings/">Rings</a></li>
+	<li id="menu-item-173623" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/mens/mens-bracelets/">Bracelets</a></li>
+	<li id="menu-item-175254" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll"  href="#">Styled by F&#038;I</a></li>
+	<li id="menu-item-173620" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/mens/bowties/">Bowties</a></li>
+	<li id="menu-item-173625" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/mens/mens-watches-and-cufflinks/">Watches &#038; Cufflinks</a></li>
+</ul>
+</li>
+<li id="menu-item-175438" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/for-the-home-office/">Home Décor</a>
+<ul style="" class="sub-menu ">
+	<li id="menu-item-172721" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/art-glass/">Art Glass</a></li>
+	<li id="menu-item-172941" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/sculpures-home/metal-sculpture/">Metal Sculpture</a></li>
+	<li id="menu-item-175633" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/art-glass/ornaments/">Ornaments</a></li>
+	<li id="menu-item-172946" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/art-glass/paperweights/">Paperweights</a></li>
+	<li id="menu-item-172947" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/art-glass/perfume-bottles/">Perfume Bottles</a></li>
+	<li id="menu-item-172945" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/art-glass/stemware/">Stemware</a></li>
+</ul>
+</li>
+<li id="menu-item-172948" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat has-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/art-glass/vases/">Vases</a></li>
+<li id="menu-item-174562" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/world-arts/">World Arts</a>
+<ul style="" class="sub-menu ">
+	<li id="menu-item-173619" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/world-arts/african-art/">African Art</a></li>
+	<li id="menu-item-175450" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/collectors/fossils/geology/">Geology</a></li>
+	<li id="menu-item-173634" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/world-arts/peruvian-art/">Peruvian Art</a></li>
+</ul>
+</li>
+<li id="menu-item-174561" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/collectors/">Collectors</a>
+<ul style="" class="sub-menu ">
+	<li id="menu-item-175449" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/for-the-home-office/enamel-boxes/">Enamel Boxes</a></li>
+	<li id="menu-item-175448" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/collectors/russian-dolls-boxes/">Russian Dolls &#038; Boxes</a></li>
+	<li id="menu-item-171439" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/collectors/fossils/">Fossils</a></li>
+	<li id="menu-item-172944" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/sculpures-home/fiore-sculptures/">Fioré Sculptures</a></li>
+	<li id="menu-item-172940" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/world-arts/oaxacan-sculptures/">Oaxacan Sculptures</a></li>
+	<li id="menu-item-171494" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/gemstone-carvings/">Carvings</a></li>
+</ul>
+</li>
+</ul></nav>
+<div class="main-nav-side-search">
+	
+	<a class="mk-search-trigger add-header-height mk-toggle-trigger" href="#"><i class="mk-svg-icon-wrapper"><svg  class="mk-svg-icon" data-name="mk-icon-search" data-cacheid="icon-5a7f8dce5903d" style=" height:16px; width: 14.8571428571px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1664 1792"><path d="M1152 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z"/></svg></i></a>
+
+	<div id="mk-nav-search-wrapper" class="mk-box-to-trigger">
+		<form method="get" id="mk-header-navside-searchform" action="https://www.fireandice.com/">
+			<input type="text" name="s" id="mk-ajax-search-input" autocomplete="off" />
+			<input type="hidden" id="security" name="security" value="45ea8ab718" /><input type="hidden" name="_wp_http_referer" value="/images/D/3695406_c-trilobite-morocco-fossil.jpg" />			<i class="nav-side-search-icon"><input type="submit" value=""/><svg  class="mk-svg-icon" data-name="mk-moon-search-3" data-cacheid="icon-5a7f8dce59641" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M496.131 435.698l-121.276-103.147c-12.537-11.283-25.945-16.463-36.776-15.963 28.628-33.534 45.921-77.039 45.921-124.588 0-106.039-85.961-192-192-192-106.038 0-192 85.961-192 192s85.961 192 192 192c47.549 0 91.054-17.293 124.588-45.922-.5 10.831 4.68 24.239 15.963 36.776l103.147 121.276c17.661 19.623 46.511 21.277 64.11 3.678s15.946-46.449-3.677-64.11zm-304.131-115.698c-70.692 0-128-57.308-128-128s57.308-128 128-128 128 57.308 128 128-57.307 128-128 128z"/></svg></i>
+		</form>
+		<ul id="mk-nav-search-result" class="ui-autocomplete"></ul>
+	</div>
+
+</div>
+
+
+<div class="shopping-cart-header add-header-height">
+	
+	<a class="mk-shoping-cart-link" href="https://www.fireandice.com/cart/">
+		<svg  class="mk-svg-icon" data-name="mk-moon-cart-2" data-cacheid="icon-5a7f8dce59db1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M423.609 288c17.6 0 35.956-13.846 40.791-30.769l46.418-162.463c4.835-16.922-5.609-30.768-23.209-30.768h-327.609c0-35.346-28.654-64-64-64h-96v64h96v272c0 26.51 21.49 48 48 48h304c17.673 0 32-14.327 32-32s-14.327-32-32-32h-288v-32h263.609zm-263.609-160h289.403l-27.429 96h-261.974v-96zm32 344c0 22-18 40-40 40h-16c-22 0-40-18-40-40v-16c0-22 18-40 40-40h16c22 0 40 18 40 40v16zm288 0c0 22-18 40-40 40h-16c-22 0-40-18-40-40v-16c0-22 18-40 40-40h16c22 0 40 18 40 40v16z"/></svg>		<span class="mk-header-cart-count">0</span>
+	</a>
+
+	<div class="mk-shopping-cart-box">
+		<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div>		<div class="clearboth"></div>
+	</div>
+
+</div>
+                            </div>
+                            
+<div class="mk-nav-responsive-link">
+    <div class="mk-css-icon-menu">
+        <div class="mk-css-icon-menu-line-1"></div>
+        <div class="mk-css-icon-menu-line-2"></div>
+        <div class="mk-css-icon-menu-line-3"></div>
+    </div>
+</div>	<div class=" header-logo fit-logo-img add-header-height  ">
+		<a href="https://www.fireandice.com/" title="Fire &amp; Ice">
+
+			<img class="mk-desktop-logo dark-logo "
+				title="inspiring delight in the lives we touch"
+				alt="inspiring delight in the lives we touch"
+				src="https://www.fireandice.com/wp-content/uploads/2018/01/header_logo_larger.png" />
+
+							<img class="mk-desktop-logo light-logo "
+					title="inspiring delight in the lives we touch"
+					alt="inspiring delight in the lives we touch"
+					src="https://www.fireandice.com/wp-content/uploads/2018/01/header_logo_larger.png" />
+			
+			
+					</a>
+	</div>
+
+                                            </div>
+                    
+                    <div class="mk-header-right">
+                                            </div>
+
+                </div>
+                
+<div class="mk-responsive-wrap">
+
+	<nav class="menu-main-menu-container"><ul id="menu-main-menu-1" class="mk-responsive-nav"><li id="responsive-menu-item-175422" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/shop/">New at F&#038;I</a><span class="mk-nav-arrow mk-nav-sub-closed"><svg  class="mk-svg-icon" data-name="mk-moon-arrow-down" data-cacheid="icon-5a7f8dce69265" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 192l-96-96-160 160-160-160-96 96 256 255.999z"/></svg></span>
+<ul class="sub-menu ">
+	<li id="responsive-menu-item-175628" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll"  href="http://www.fireandice.com/shop">New Arrivals</a></li>
+	<li id="responsive-menu-item-175816" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-tag/valentines-day/">Valentine&#8217;s</a></li>
+	<li id="responsive-menu-item-175222" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/amethyst/">10 % Off February&#8217;s Birthstone</a>
+	<ul class="sub-menu ">
+		<li id="responsive-menu-item-176111" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/amethyst/">Amethyst</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="responsive-menu-item-172217" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/">Jewelry</a><span class="mk-nav-arrow mk-nav-sub-closed"><svg  class="mk-svg-icon" data-name="mk-moon-arrow-down" data-cacheid="icon-5a7f8dce6a0af" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 192l-96-96-160 160-160-160-96 96 256 255.999z"/></svg></span>
+<ul class="sub-menu ">
+	<li id="responsive-menu-item-173612" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/">Gemstone Jewelry</a>
+	<ul class="sub-menu ">
+		<li id="responsive-menu-item-175340" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/amber-1/">Amber</a></li>
+		<li id="responsive-menu-item-175341" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/amethyst/">Amethyst</a></li>
+		<li id="responsive-menu-item-175349" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/collectors/fossils/ammonite/">Ammonite</a></li>
+		<li id="responsive-menu-item-175344" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/aquamarine/">Aquamarine</a></li>
+		<li id="responsive-menu-item-175224" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/cubic-zirconia/">Cubic Zirconia</a></li>
+		<li id="responsive-menu-item-175346" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/diamond/">Diamond</a></li>
+		<li id="responsive-menu-item-175345" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/ruby/">Ruby</a></li>
+		<li id="responsive-menu-item-175347" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/emerald/">Emerald</a></li>
+		<li id="responsive-menu-item-175452" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/jasper/">Jasper</a></li>
+	</ul>
+</li>
+	<li id="responsive-menu-item-175588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a class="menu-item-link js-smooth-scroll"  href="#">More&#8230;</a>
+	<ul class="sub-menu ">
+		<li id="responsive-menu-item-175228" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/labradorite/">Labradorite</a></li>
+		<li id="responsive-menu-item-175226" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/lapis-lazuli/">Lapis Lazuli</a></li>
+		<li id="responsive-menu-item-175348" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/larimar/">Larimar</a></li>
+		<li id="responsive-menu-item-175342" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/onyx/">Onyx</a></li>
+		<li id="responsive-menu-item-175343" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/opal/">Opal</a></li>
+		<li id="responsive-menu-item-175352" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/sapphire/">Sapphire</a></li>
+		<li id="responsive-menu-item-175227" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/tanzanite/">Tanzanite</a></li>
+		<li id="responsive-menu-item-175225" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/gemstone-jewelry/turquoise/">Turquoise</a></li>
+	</ul>
+</li>
+	<li id="responsive-menu-item-175248" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a class="menu-item-link js-smooth-scroll"  href="#">By Design</a>
+	<ul class="sub-menu ">
+		<li id="responsive-menu-item-171448" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/bridal-jewelry/">Bridal</a></li>
+		<li id="responsive-menu-item-175639" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/art-glass-jewelry/dichroic-glass/">Dichroic Glass</a></li>
+		<li id="responsive-menu-item-175453" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/collectors/fossils/marine/">Marine</a></li>
+		<li id="responsive-menu-item-175638" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shop-by-metal/">Shop By Metal</a></li>
+	</ul>
+</li>
+	<li id="responsive-menu-item-175250" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a class="menu-item-link js-smooth-scroll"  href="#">Handmade</a>
+	<ul class="sub-menu ">
+		<li id="responsive-menu-item-171445" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/art-glass-jewelry/">Art Glass Jewelry</a></li>
+		<li id="responsive-menu-item-171450" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/southwestern-jewelry/">Southwestern Jewelry</a></li>
+		<li id="responsive-menu-item-175230" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry-designers/tessoro/">Tessoro</a></li>
+		<li id="responsive-menu-item-175229" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry-designers/whitney-designs/">Whitney Designs</a></li>
+		<li id="responsive-menu-item-175231" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry-designers/zealandia/">Zealandia</a></li>
+	</ul>
+</li>
+	<li id="responsive-menu-item-175252" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/jewelry-care/">Gifts</a>
+	<ul class="sub-menu ">
+		<li id="responsive-menu-item-173613" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/jewelry-sets/">Jewelry Sets</a></li>
+		<li id="responsive-menu-item-173614" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/jewelry/jewelry-care/">Jewelry Care</a></li>
+		<li id="responsive-menu-item-175257" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/gift-card/">Gift Card</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="responsive-menu-item-175318" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/mens/">Men&#8217;s</a><span class="mk-nav-arrow mk-nav-sub-closed"><svg  class="mk-svg-icon" data-name="mk-moon-arrow-down" data-cacheid="icon-5a7f8dce6e228" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 192l-96-96-160 160-160-160-96 96 256 255.999z"/></svg></span>
+<ul class="sub-menu ">
+	<li id="responsive-menu-item-175235" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/mens/mens-rings/">Rings</a></li>
+	<li id="responsive-menu-item-173623" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/mens/mens-bracelets/">Bracelets</a></li>
+	<li id="responsive-menu-item-175254" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll"  href="#">Styled by F&#038;I</a></li>
+	<li id="responsive-menu-item-173620" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/mens/bowties/">Bowties</a></li>
+	<li id="responsive-menu-item-173625" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/mens/mens-watches-and-cufflinks/">Watches &#038; Cufflinks</a></li>
+</ul>
+</li>
+<li id="responsive-menu-item-175438" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/for-the-home-office/">Home Décor</a><span class="mk-nav-arrow mk-nav-sub-closed"><svg  class="mk-svg-icon" data-name="mk-moon-arrow-down" data-cacheid="icon-5a7f8dce6f2da" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 192l-96-96-160 160-160-160-96 96 256 255.999z"/></svg></span>
+<ul class="sub-menu ">
+	<li id="responsive-menu-item-172721" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/art-glass/">Art Glass</a></li>
+	<li id="responsive-menu-item-172941" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/sculpures-home/metal-sculpture/">Metal Sculpture</a></li>
+	<li id="responsive-menu-item-175633" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/art-glass/ornaments/">Ornaments</a></li>
+	<li id="responsive-menu-item-172946" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/art-glass/paperweights/">Paperweights</a></li>
+	<li id="responsive-menu-item-172947" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/art-glass/perfume-bottles/">Perfume Bottles</a></li>
+	<li id="responsive-menu-item-172945" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/art-glass/stemware/">Stemware</a></li>
+</ul>
+</li>
+<li id="responsive-menu-item-172948" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/art-glass/vases/">Vases</a></li>
+<li id="responsive-menu-item-174562" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/world-arts/">World Arts</a><span class="mk-nav-arrow mk-nav-sub-closed"><svg  class="mk-svg-icon" data-name="mk-moon-arrow-down" data-cacheid="icon-5a7f8dce70678" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 192l-96-96-160 160-160-160-96 96 256 255.999z"/></svg></span>
+<ul class="sub-menu ">
+	<li id="responsive-menu-item-173619" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/world-arts/african-art/">African Art</a></li>
+	<li id="responsive-menu-item-175450" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/collectors/fossils/geology/">Geology</a></li>
+	<li id="responsive-menu-item-173634" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/world-arts/peruvian-art/">Peruvian Art</a></li>
+</ul>
+</li>
+<li id="responsive-menu-item-174561" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/collectors/">Collectors</a><span class="mk-nav-arrow mk-nav-sub-closed"><svg  class="mk-svg-icon" data-name="mk-moon-arrow-down" data-cacheid="icon-5a7f8dce71254" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 192l-96-96-160 160-160-160-96 96 256 255.999z"/></svg></span>
+<ul class="sub-menu ">
+	<li id="responsive-menu-item-175449" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/for-the-home-office/enamel-boxes/">Enamel Boxes</a></li>
+	<li id="responsive-menu-item-175448" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/collectors/russian-dolls-boxes/">Russian Dolls &#038; Boxes</a></li>
+	<li id="responsive-menu-item-171439" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/collectors/fossils/">Fossils</a></li>
+	<li id="responsive-menu-item-172944" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/sculpures-home/fiore-sculptures/">Fioré Sculptures</a></li>
+	<li id="responsive-menu-item-172940" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/shopnew/world-arts/oaxacan-sculptures/">Oaxacan Sculptures</a></li>
+	<li id="responsive-menu-item-171494" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a class="menu-item-link js-smooth-scroll"  href="https://www.fireandice.com/product-category/gemstone-carvings/">Carvings</a></li>
+</ul>
+</li>
+</ul></nav>
+			<form class="responsive-searchform" method="get" action="https://www.fireandice.com/">
+		    <input type="text" class="text-input" value="" name="s" id="s" placeholder="Search.." />
+		    <i><input value="" type="submit" /><svg  class="mk-svg-icon" data-name="mk-icon-search" data-cacheid="icon-5a7f8dce7246f" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1664 1792"><path d="M1152 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z"/></svg></i>
+		</form>
+		
+
+</div>
+        
+            </div>
+        
+        <div class="mk-header-padding-wrapper"></div>
+                 
+    </header>
+
+		<div id="theme-page" class="master-holder  clearfix" role="main" itemprop="mainContentOfPage" >
+			<div class="master-holder-bg-holder">
+				<div id="theme-page-bg" class="master-holder-bg js-el"  ></div>
+			</div>
+			<div class="mk-main-wrapper-holder">
+				<div  class="theme-page-wrapper mk-main-wrapper mk-grid full-layout ">
+					<div class="theme-content " itemprop="mainContentOfPage">
+							<div class="not-found-wrapper">
+    <span class="not-found-title">WHOOPS!</span>
+    <span class="not-found-subtitle">404</span>
+    <section class="widget widget_search"><p>It looks like you are lost! Try searching here</p>
+        <form class="mk-searchform" method="get" id="searchform" action="https://www.fireandice.com/">
+            <input type="text" class="text-input" placeholder="Search site" value="" name="s" id="s" />
+            <i class="mk-searchform-icon"><svg  class="mk-svg-icon" data-name="mk-icon-search" data-cacheid="icon-5a7f8dce72db0" style=" height:16px; width: 14.8571428571px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1664 1792"><path d="M1152 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z"/></svg><input value="" type="submit" class="search-button" type="submit" /></i>
+        </form>
+    </section>
+    <div class="clearboth"></div>
+</div>							<div class="clearboth"></div>
+											</div>
+										<div class="clearboth"></div>
+				</div>
+			</div>
+					</div>
+
+
+<section id="mk-footer-unfold-spacer"></section>
+
+<section id="mk-footer" class="" role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" >
+		<div class="footer-wrapper mk-grid">
+		<div class="mk-padding-wrapper">
+				<div class="mk-col-1-3"><section id="social-2" class="widget widget_social_networks"><div class="widgettitle">Find us also here:</div><div id="social-5a7f8dce735fa" class="align-left"><a href="https://www.facebook.com/inspiredelight/" rel="nofollow" class="builtin-icons mk-square-rounded light small facebook-hover" target="_blank" alt="Follow Us on facebook" title="Follow Us on facebook"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-simple-facebook" data-cacheid="icon-5a7f8dce738af" style=" height:10px; width: 10px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M192.191 92.743v60.485h-63.638v96.181h63.637v256.135h97.069v-256.135h84.168s6.674-51.322 9.885-96.508h-93.666v-42.921c0-8.807 11.565-20.661 23.01-20.661h71.791v-95.719h-83.57c-111.317 0-108.686 86.262-108.686 99.142z"/></svg></a><a href="https://www.instagram.com/fireandicestores/" rel="nofollow" class="builtin-icons mk-square-rounded light small instagram-hover" target="_blank" alt="Follow Us on instagram" title="Follow Us on instagram"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-simple-instagram" data-cacheid="icon-5a7f8dce73b50" style=" height:10px; width: 10px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 81.2 81.2"><path d="M81,23.9c-0.2-4.3-0.9-7.3-1.9-9.9c-1-2.7-2.4-4.9-4.7-7.2c-2.3-2.3-4.5-3.6-7.2-4.7c-2.6-1-5.5-1.7-9.9-1.9 C53,0,51.6,0,40.6,0c-11,0-12.4,0-16.7,0.2c-4.3,0.2-7.3,0.9-9.9,1.9c-2.7,1-4.9,2.4-7.2,4.7C4.6,9.1,3.2,11.3,2.1,14 c-1,2.6-1.7,5.5-1.9,9.9C0,28.2,0,29.6,0,40.6c0,11,0,12.4,0.2,16.7c0.2,4.3,0.9,7.3,1.9,9.9c1,2.7,2.4,4.9,4.7,7.2 c2.3,2.3,4.5,3.6,7.2,4.7c2.6,1,5.5,1.7,9.9,1.9c4.3,0.2,5.7,0.2,16.7,0.2c11,0,12.4,0,16.7-0.2c4.3-0.2,7.3-0.9,9.9-1.9 c2.7-1,4.9-2.4,7.2-4.7c2.3-2.3,3.6-4.5,4.7-7.2c1-2.6,1.7-5.5,1.9-9.9c0.2-4.3,0.2-5.7,0.2-16.7C81.2,29.6,81.2,28.2,81,23.9z  M73.6,57c-0.2,4-0.8,6.1-1.4,7.5c-0.7,1.9-1.6,3.2-3,4.7c-1.4,1.4-2.8,2.3-4.7,3c-1.4,0.6-3.6,1.2-7.5,1.4 c-4.3,0.2-5.6,0.2-16.4,0.2c-10.8,0-12.1,0-16.4-0.2c-4-0.2-6.1-0.8-7.5-1.4c-1.9-0.7-3.2-1.6-4.7-3c-1.4-1.4-2.3-2.8-3-4.7 C8.4,63.1,7.7,61,7.6,57c-0.2-4.3-0.2-5.6-0.2-16.4c0-10.8,0-12.1,0.2-16.4c0.2-4,0.8-6.1,1.4-7.5c0.7-1.9,1.6-3.2,3-4.7 c1.4-1.4,2.8-2.3,4.7-3c1.4-0.6,3.6-1.2,7.5-1.4c4.3-0.2,5.6-0.2,16.4-0.2c10.8,0,12.1,0,16.4,0.2c4,0.2,6.1,0.8,7.5,1.4 c1.9,0.7,3.2,1.6,4.7,3c1.4,1.4,2.3,2.8,3,4.7c0.6,1.4,1.2,3.6,1.4,7.5c0.2,4.3,0.2,5.6,0.2,16.4C73.9,51.4,73.8,52.7,73.6,57z"/><path d="M40.6,19.8c-11.5,0-20.8,9.3-20.8,20.8c0,11.5,9.3,20.8,20.8,20.8c11.5,0,20.8-9.3,20.8-20.8 C61.4,29.1,52.1,19.8,40.6,19.8z M40.6,54.1c-7.5,0-13.5-6.1-13.5-13.5c0-7.5,6.1-13.5,13.5-13.5c7.5,0,13.5,6.1,13.5,13.5 C54.1,48.1,48.1,54.1,40.6,54.1z"/><circle cx="62.3" cy="18.9" r="4.9"/></svg></a><a href="https://www.pinterest.com/inspiredelight/" rel="nofollow" class="builtin-icons mk-square-rounded light small pinterest-hover" target="_blank" alt="Follow Us on pinterest" title="Follow Us on pinterest"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-simple-pinterest" data-cacheid="icon-5a7f8dce73e1d" style=" height:10px; width: 10px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M267.702-6.4c-135.514 0-203.839 100.197-203.839 183.724 0 50.583 18.579 95.597 58.402 112.372 6.536 2.749 12.381.091 14.279-7.361 1.325-5.164 4.431-18.204 5.83-23.624 1.913-7.363 1.162-9.944-4.107-16.38-11.483-13.968-18.829-32.064-18.829-57.659 0-74.344 53.927-140.883 140.431-140.883 76.583 0 118.657 48.276 118.657 112.707 0 84.802-36.392 156.383-90.42 156.383-29.827 0-52.161-25.445-45.006-56.672 8.569-37.255 25.175-77.456 25.175-104.356 0-24.062-12.529-44.147-38.469-44.147-30.504 0-55 32.548-55 76.119 0 27.782 9.097 46.546 9.097 46.546s-31.209 136.374-36.686 160.269c-10.894 47.563-1.635 105.874-.853 111.765.456 3.476 4.814 4.327 6.786 1.67 2.813-3.781 39.131-50.022 51.483-96.234 3.489-13.087 20.066-80.841 20.066-80.841 9.906 19.492 38.866 36.663 69.664 36.663 91.686 0 153.886-86.2 153.886-201.577 0-87.232-71.651-168.483-180.547-168.483z"/></svg></a><a href="https://twitter.com/fireandice" rel="nofollow" class="builtin-icons mk-square-rounded light small twitter-hover" target="_blank" alt="Follow Us on twitter" title="Follow Us on twitter"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-simple-twitter" data-cacheid="icon-5a7f8dce7414a" style=" height:10px; width: 10px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M454.058 213.822c28.724-2.382 48.193-15.423 55.683-33.132-10.365 6.373-42.524 13.301-60.269 6.681-.877-4.162-1.835-8.132-2.792-11.706-13.527-49.679-59.846-89.698-108.382-84.865 3.916-1.589 7.914-3.053 11.885-4.388 5.325-1.923 36.678-7.003 31.749-18.079-4.176-9.728-42.471 7.352-49.672 9.597 9.501-3.581 25.26-9.735 26.93-20.667-14.569 1.991-28.901 8.885-39.937 18.908 3.998-4.293 7.01-9.536 7.666-15.171-38.91 24.85-61.624 74.932-80.025 123.523-14.438-13.972-27.239-25.008-38.712-31.114-32.209-17.285-70.722-35.303-131.156-57.736-1.862 19.996 9.899 46.591 43.723 64.273-7.325-.986-20.736 1.219-31.462 3.773 4.382 22.912 18.627 41.805 57.251 50.918-17.642 1.163-26.767 5.182-35.036 13.841 8.043 15.923 27.656 34.709 62.931 30.82-39.225 16.935-15.998 48.234 15.93 43.565-54.444 56.244-140.294 52.123-189.596 5.08 128.712 175.385 408.493 103.724 450.21-65.225 31.23.261 49.605-10.823 60.994-23.05-17.99 3.053-44.072-.095-57.914-5.846z"/></svg></a></div></section></div>
+	<div class="mk-col-2-3">
+	    <div class="mk-col-1-3"><section id="nav_menu-4" class="widget widget_nav_menu"><div class="widgettitle">Customer Care</div>
+<div class="menu-customer-care-container"><ul id="menu-customer-care" class="menu">
+<li id="menu-item-89902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89902"><a href="https://www.fireandice.com/contact-us/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-5a7f8dce79859" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewbox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Contact Us</a></li>
+<li id="menu-item-171791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171791"><a href="https://www.fireandice.com/storelocator/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-5a7f8dce79859" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewbox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Store Locations</a></li>
+<li id="menu-item-89866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89866"><a href="https://www.fireandice.com/shipping_info/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-5a7f8dce79859" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewbox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Shipping</a></li>
+<li id="menu-item-89864" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89864"><a href="https://www.fireandice.com/faq/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-5a7f8dce79859" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewbox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>FAQ</a></li>
+<li id="menu-item-89865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89865"><a href="https://www.fireandice.com/return-policy/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-5a7f8dce79859" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewbox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Returns Policy</a></li>
+<li id="menu-item-89863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89863"><a href="https://www.fireandice.com/company-policies/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-5a7f8dce79859" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewbox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Company Policies</a></li>
+</ul></div></section></div>
+	    <div class="mk-col-1-3"><section id="nav_menu-5" class="widget widget_nav_menu"><div class="widgettitle">Treasures Program</div>
+<div class="menu-treasures-program-container"><ul id="menu-treasures-program" class="menu">
+<li id="menu-item-89967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89967"><a href="https://www.fireandice.com/treasures-rewards/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-5a7f8dce7d72d" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewbox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Treasures Rewards</a></li>
+<li id="menu-item-89904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89904"><a href="https://www.fireandice.com/membership-benefits/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-5a7f8dce7d72d" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewbox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Membership Benefits</a></li>
+<li id="menu-item-89903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89903"><a href="https://www.fireandice.com/terms-and-conditions/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-5a7f8dce7d72d" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewbox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Terms and Conditions</a></li>
+</ul></div></section></div>
+	    <div class="mk-col-1-3"><section id="nav_menu-6" class="widget widget_nav_menu"><div class="widgettitle">Education</div>
+<div class="menu-education-container"><ul id="menu-education" class="menu">
+<li id="menu-item-89906" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89906"><a href="https://www.fireandice.com/product-information/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-5a7f8dce804a2" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewbox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Product Information</a></li>
+<li id="menu-item-89905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89905"><a href="https://www.fireandice.com/ring-sizer/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-5a7f8dce804a2" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewbox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>What is My Ring Size?</a></li>
+</ul></div></section><section id="nav_menu-7" class="widget widget_nav_menu"><div class="widgettitle">More from Fire &amp; Ice</div>
+<div class="menu-more-from-fire-ice-container"><ul id="menu-more-from-fire-ice" class="menu">
+<li id="menu-item-172312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-172312"><a href="https://www.fireandice.com/about-us/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-5a7f8dce832a9" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewbox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>History</a></li>
+<li id="menu-item-172311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-172311"><a href="https://www.fireandice.com/donations/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-5a7f8dce832a9" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewbox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Donations</a></li>
+<li id="menu-item-172310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-172310"><a href="https://www.fireandice.com/careers/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-5a7f8dce832a9" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewbox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Careers</a></li>
+</ul></div></section></div>
+	</div>
+				<div class="clearboth"></div>
+		</div>
+	</div>
+		
+<div id="sub-footer">
+	<div class=" mk-grid">
+					<div class="mk-footer-logo ">
+				<a href="https://www.fireandice.com/" title="Fire &amp; Ice">
+					<img alt="Fire &amp; Ice"
+						src="https://www.fireandice.com/wp-content/uploads/2017/01/footer_logo.png" />
+				</a>
+			</div>
+		
+		<span class="mk-footer-copyright"><p>              © 2018 Fire & Ice. All Rights Reserved.</p></span>
+			</div>
+	<div class="clearboth"></div>
+</div>
+</section>
+</div>
+</div>
+
+<div class="bottom-corner-btns js-bottom-corner-btns">
+
+<a href="#top-of-page" class="mk-go-top  js-smooth-scroll js-bottom-corner-btn js-bottom-corner-btn--back">
+	<svg  class="mk-svg-icon" data-name="mk-icon-chevron-up" data-cacheid="icon-5a7f8dce83fef" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"><path d="M1683 1331l-166 165q-19 19-45 19t-45-19l-531-531-531 531q-19 19-45 19t-45-19l-166-165q-19-19-19-45.5t19-45.5l742-741q19-19 45-19t45 19l742 741q19 19 19 45.5t-19 45.5z"/></svg></a>
+	<div class="mk-quick-contact-wrapper  js-bottom-corner-btn js-bottom-corner-btn--contact">
+			
+		<a href="#" class="mk-quick-contact-link"><svg  class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-5a7f8dce8447e" style=" height:20px; width: 20px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a>
+		<div id="mk-quick-contact">
+			<div class="mk-quick-contact-title">Contact Us</div>
+			<p>Thank you for reaching out to us! We will respond to your message within 48 business hours!</p>
+			<form class="mk-contact-form" method="post" novalidate="novalidate">
+				<input type="text" placeholder="Name*" required="required" id="name" name="name" class="text-input" value="" tabindex="730" />
+				<input type="email" data-type="email" required="required" placeholder="Email*" id="email" name="email" class="text-input" value="" tabindex="731"  />
+				<textarea placeholder="Message*" required="required" id="content" name="content" class="textarea" tabindex="732"></textarea>
+								<input placeholder="Enter Captcha" type="text" data-type="captcha" name="captcha" class="captcha-form text-input full" required="required" autocomplete="off" />
+		        <a href="#" class="captcha-change-image">Not readable? Change text.</a>
+	            <span class="captcha-image-holder">
+					<img src="http://www.fireandice.com/wp-content/plugins/artbees-captcha/generate-captcha.php" class="captcha-image" alt="captcha txt"/>
+				</span>
+				<br/>
+				
+				<div class="btn-cont">
+                    <button tabindex="733" class="mk-progress-button mk-contact-button accent-bg-color button" data-style="move-up">
+                        <span class="mk-progress-button-content">Send</span>
+                        <span class="mk-progress">
+                            <span class="mk-progress-inner"></span>
+                        </span>
+                        <span class="state-success"><svg  class="mk-svg-icon" data-name="mk-moon-checkmark" data-cacheid="icon-5a7f8dce84a8c" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M432 64l-240 240-112-112-80 80 192 192 320-320z"/></svg></span>
+                        <span class="state-error"><svg  class="mk-svg-icon" data-name="mk-moon-close" data-cacheid="icon-5a7f8dce84fd0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M507.331 411.33l-.006-.005-155.322-155.325 155.322-155.325.006-.005c1.672-1.673 2.881-3.627 3.656-5.708 2.123-5.688.912-12.341-3.662-16.915l-73.373-73.373c-4.574-4.573-11.225-5.783-16.914-3.66-2.08.775-4.035 1.984-5.709 3.655l-.004.005-155.324 155.326-155.324-155.325-.005-.005c-1.673-1.671-3.627-2.88-5.707-3.655-5.69-2.124-12.341-.913-16.915 3.66l-73.374 73.374c-4.574 4.574-5.784 11.226-3.661 16.914.776 2.08 1.985 4.036 3.656 5.708l.005.005 155.325 155.324-155.325 155.326-.004.005c-1.671 1.673-2.88 3.627-3.657 5.707-2.124 5.688-.913 12.341 3.661 16.915l73.374 73.373c4.575 4.574 11.226 5.784 16.915 3.661 2.08-.776 4.035-1.985 5.708-3.656l.005-.005 155.324-155.325 155.324 155.325.006.004c1.674 1.672 3.627 2.881 5.707 3.657 5.689 2.123 12.342.913 16.914-3.661l73.373-73.374c4.574-4.574 5.785-11.227 3.662-16.915-.776-2.08-1.985-4.034-3.657-5.707z"/></svg></span>
+                    </button>
+                </div>
+				<input type="hidden" id="security" name="security" value="190a0681a1" /><input type="hidden" name="_wp_http_referer" value="/images/D/3695406_c-trilobite-morocco-fossil.jpg" />				<input type="hidden" id="sh_id" name="sh_id" value="15"><input type="hidden" id="p_id" name="p_id" value="2342">				<div class="contact-form-message clearfix"></div>  
+			</form>
+			<div class="bottom-arrow"></div>
+		</div>
+	</div>		<div class="add-cart-responsive-state">
+			<a class="mk-shoping-cart-link" href="https://www.fireandice.com/cart/">
+				<svg  class="mk-svg-icon" data-name="mk-moon-cart-2" data-cacheid="icon-5a7f8dce85782" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M423.609 288c17.6 0 35.956-13.846 40.791-30.769l46.418-162.463c4.835-16.922-5.609-30.768-23.209-30.768h-327.609c0-35.346-28.654-64-64-64h-96v64h96v272c0 26.51 21.49 48 48 48h304c17.673 0 32-14.327 32-32s-14.327-32-32-32h-288v-32h263.609zm-263.609-160h289.403l-27.429 96h-261.974v-96zm32 344c0 22-18 40-40 40h-16c-22 0-40-18-40-40v-16c0-22 18-40 40-40h16c22 0 40 18 40 40v16zm288 0c0 22-18 40-40 40h-16c-22 0-40-18-40-40v-16c0-22 18-40 40-40h16c22 0 40 18 40 40v16z"/></svg>				<span class="mk-header-cart-count">0</span>
+			</a>
+		</div>
+		</div>
+
+
+
+
+	<style type='text/css'></style><script type="text/javascript">
+    php = {
+        hasAdminbar: false,
+        json: (null != null) ? null : "",
+        jsPath: 'http://www.fireandice.com/wp-content/themes/jupiter/assets/js'
+      };
+    </script><script type='text/javascript'>(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();</script><script type='text/javascript' src='http://www.fireandice.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript' src='http://www.fireandice.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"https:\/\/www.fireandice.com\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.fireandice.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"https:\/\/www.fireandice.com\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_b3190669541805bdb9ce61bbc4d15ea8","fragment_name":"wc_fragments_b3190669541805bdb9ce61bbc4d15ea8"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.fireandice.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.3.1'></script>
+<script type='text/javascript' src='http://www.fireandice.com/wp-content/themes/jupiter/assets/js/core-scripts.6.1.1.js?ver=1517924951'></script>
+<script type='text/javascript' src='http://www.fireandice.com/wp-content/themes/jupiter/assets/js/components-full.6.1.1.js?ver=1517924951'></script>
+<script type='text/javascript' src='http://www.fireandice.com/wp-content/themes/jupiter/assets/js/plugins/wp-enqueue/smoothscroll.js?ver=1517925921'></script>
+<script type='text/javascript' src='http://www.fireandice.com/wp-content/themes/jupiter/header-builder/includes/assets/js/mkhb-render.js?ver=6.1.1'></script>
+<script type='text/javascript' src='http://www.fireandice.com/wp-content/themes/jupiter/header-builder/includes/assets/js/mkhb-column.js?ver=6.1.1'></script>
+<script type='text/javascript' src='http://www.fireandice.com/wp-content/themes/jupiter/framework/admin/customizer/woocommerce/assets/js/woocommerce.6.1.1.js?ver=1517926335'></script>
+<script type='text/javascript' src='http://www.fireandice.com/wp-content/plugins/woocommerce/assets/js/jquery-payment/jquery.payment.min.js?ver=3.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sv_wc_payment_gateway_payment_form_params = {"card_number_missing":"Card number is missing","card_number_invalid":"Card number is invalid","card_number_digits_invalid":"Card number is invalid (only digits allowed)","card_number_length_invalid":"Card number is invalid (wrong length)","cvv_missing":"Card security code is missing","cvv_digits_invalid":"Card security code is invalid (only digits are allowed)","cvv_length_invalid":"Card security code is invalid (must be 3 or 4 digits)","card_exp_date_invalid":"Card expiration date is invalid","check_number_digits_invalid":"Check Number is invalid (only digits are allowed)","check_number_missing":"Check Number is missing","drivers_license_state_missing":"Drivers license state is missing","drivers_license_number_missing":"Drivers license number is missing","drivers_license_number_invalid":"Drivers license number is invalid","account_number_missing":"Account Number is missing","account_number_invalid":"Account Number is invalid (only digits are allowed)","account_number_length_invalid":"Account number is invalid (must be between 5 and 17 digits)","routing_number_missing":"Routing Number is missing","routing_number_digits_invalid":"Routing Number is invalid (only digits are allowed)","routing_number_length_invalid":"Routing number is invalid (must be 9 digits)"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.fireandice.com/wp-content/plugins/woocommerce-gateway-authorize-net-cim/lib/skyverge/woocommerce/payment-gateway/assets/js/frontend/sv-wc-payment-gateway-payment-form.min.js?ver=4.9.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_authorize_net_cim_params = {"accept_js_enabled":"1","login_id":"99LxaJ2G42","client_key":"549ZBD3bs89F4R56q2BmQ934ydggy2w8CgCZs7L3r2Tr6Lp9YRsFzJRCf4X2CryB","general_error":"An error occurred, please try again or try an alternate form of payment.","ajax_url":"https:\/\/www.fireandice.com\/wp-admin\/admin-ajax.php","ajax_log":"1","ajax_log_nonce":"6af9e78852"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.fireandice.com/wp-content/plugins/woocommerce-gateway-authorize-net-cim/assets/js/frontend/wc-authorize-net-cim.min.js?ver=2.9.0'></script>
+<script type='text/javascript' src='http://www.fireandice.com/wp-includes/js/wp-embed.min.js?ver=4.9.4'></script>
+<!-- WooCommerce JavaScript -->
+<script type="text/javascript">
+jQuery(function($) { 
+
+			$( '.add_to_cart_button:not(.product_type_variable, .product_type_grouped)' ).click( function() {
+				_gaq.push(['_trackEvent', 'Products', 'Add to Cart', ($(this).data('product_sku')) ? ($(this).data('product_sku')) : ('#' + $(this).data('product_id'))]);
+			});
+		
+ });
+</script>
+		<script type="text/javascript">
+		var ga_fired = false;
+		window.addEventListener("scroll", function(){
+			if ((document.documentElement.scrollTop != 0 && ga_fired === false) || (document.body.scrollTop != 0 && ga_fired === false)) {
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+				ga('create', 'UA-930328-2', 'auto');
+				ga('send', 'pageview');
+				ga_fired = true;
+			}
+		}, true);
+		</script> 
+		<script type="text/javascript">	window.get = {};	window.get.captcha = function(enteredCaptcha) {
+                  return jQuery.get(ajaxurl, { action : "mk_validate_captcha_input", captcha: enteredCaptcha });
+              	};</script>	
+</body>
+</html>

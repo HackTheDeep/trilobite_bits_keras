@@ -1,0 +1,51 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"> 
+<head> 
+	<title>404 - Error: 404 Page not found</title> 
+	<link rel="shortcut icon" href="/error/uab/uabfavicon.ico" /> 
+	<link rel="stylesheet" href="/error/uab/error.css" type="text/css" /> 
+</head> 
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+<body> 
+
+<div>
+  <div align="center">
+    <div id="outline">
+      <div id="errorboxoutline">
+        <div id="errorboxheader">404 - The page you requested does not exist</div>
+        <div id="errorboxlogo"><img src="/error/uab/sitelogo.jpg" alt="site logo"></div>
+        <div id="errorboxbody">
+        <div id="errorboxbodycopy">
+          <strong>The error may be due to:</strong>
+          <ol>
+            <li>an out-of-date bookmark or favorite</li>
+            <li>a search engine that has an out-of-date listing for this page</li>
+            <li>a mistyped address</li>
+            <li>a page access restriction</li>
+            <li>the requested resource was not found</li>
+            <li>an error has occurred while processing your request.</li>
+          </ol>
+          <br />
+          <p><strong>You may try a Search of ALL UAB websites</strong></p>
+              <div id="searchbox">
+              <form action="http://www.uab.edu/search?" method="get">
+                <input name="searchword" size="24" maxlength="128" alt="Search" value="Search UAB" onfocus="if(this.value=='Search UAB') this.value='';" id="q" onblur="if(this.value=='') this.value='Search UAB';" type="text">
+                
+                <input type="submit" >
+              </form>
+              </div>
+            </li>
+          </ul>
+          <br />
+          <p> If you continue to experience issues, contact <a href="mailto:webcenter@uab.edu?subject=WWW Error Message">WebCenter@UAB.edu</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body> 
+</html> 

@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"> 
+<head>
+<title>Fossils, Rocks, Minerals, and Teaching Materials for Earth Science | Fossilicious.com</title>
+<base href="http://www.fossilicious.com/"/>
+<script type="text/javascript" language="javascript">
+var site_https_url = "https://www.fossilicious.com/index.php?";
+var site_http_url = "http://www.fossilicious.com/index.php?";
+var site_base_url = "http://www.fossilicious.com/";
+var site_dinamic_url = "http://www.fossilicious.com/index.php?";
+var global_https_url = "https://www.fossilicious.com";
+var site_admin_url = "https://www.fossilicious.com";
+var site_ajax_url = "http://www.fossilicious.com/index.php?pcsid=de748a3c983161c54ed8f7fb988e1d14";
+var site_ajax_url_admin = "https://www.fossilicious.com";
+var skin_images = "content/cache/skins/RDS/images/";
+var skin_themes = "content/cache/skins/RDS/styles/";
+var skin_name = "RDS";
+var CartDeleteItemUrl = 'http://www.fossilicious.com/index.php?oa=RemoveItem';
+var CartEmptyUrl = 'http://www.fossilicious.com/index.php?oa=ClearItems';
+var orderItemsCount = 0;
+var ClearCartOnLogout = false;
+var urlLogout = "https://www.fossilicious.com/index.php?ua=user_logout";
+var USER_DELETE_ADDRESS = "DeleteShippingAddress";
+var USER_DELETE_PAYMENT_PROFILE = "DeletePaymentProfile";
+var product_may_be_added = true;
+var topMenu = 'YES';
+var topMenuStyle = 'drop-down';
+var sideMenuStyle = 'tree';
+var cartVersion = '3714r4';
+var facebookAccountLogin = false;
+var facebookAppId = null;
+var auth_ok = false;
+var login_ok = false;
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="fossils" />
+<meta name="description" content="An online fossil, rock, and mineral store for collectors, teachers, and value minded individuals" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta name="ddm-page" content="404" />
+<meta name="ddm-lang" content="english" />
+<link href="content/vendors/jquery/ui/themes/smoothness/smoothness.css?3714r4=1" rel="stylesheet" type="text/css" />
+<link href="content/vendors/jquery/smartsuggest/css/jquery.smartsuggest.css?3714r4=1" rel="stylesheet" type="text/css" />
+<link href="content/vendors/jquery/treeview/jquery.treeview.css?3714r4=1" rel="stylesheet" type="text/css" />
+<link href="content/vendors/jquery/rater/rater.css?3714r4=1" rel="stylesheet" type="text/css" />
+<link href="content/cache/skins/RDS/styles/all.css?3714r4=1" rel="stylesheet" type="text/css" id="css-all" />
+<link rel="canonical" href="http://www.fossilicious.com/index.php?p=404"/>
+<script type="text/javascript" src="content/vendors/jquery/jquery-1.9.1.min.js?3714r4=1"></script>
+<script type="text/javascript" src="content/vendors/jquery/jquery-migrate/jquery-migrate-1.2.1.min.js?3714r4=1"></script>
+<script type="text/javascript" src="content/vendors/jquery/ui/jquery-ui-1.10.3.custom.min.js?3714r4=1"></script>
+<script type="text/javascript" src="content/vendors/jquery/treeview/jquery.treeview.js?3714r4=1"></script>
+<script type="text/javascript" src="content/vendors/jquery/smartsuggest/jquery.smartsuggest-min.js?3714r4=1"></script>
+<script type="text/javascript" src="content/vendors/jquery/corner/jquery.corner.js?3714r4=1"></script>
+<script type="text/javascript" src="content/vendors/jquery/cookies/cookies.js?3714r4=1"></script>
+<script type="text/javascript" src="content/vendors/jquery/autoresize/autoresize.jquery.min.js?3714r4=1"></script>
+<script type="text/javascript" src="content/vendors/md5/md5-min.js?3714r4=1"></script>
+<script type="text/javascript" src="content/vendors/json/json2-min.js?3714r4=1"></script>
+<script type="text/javascript" src="content/cache/skins/RDS/javascript/menu.js?3714r4=1"></script>
+<script type="text/javascript" src="content/cache/skins/RDS/javascript/global.js?3714r4=1"></script>
+<script type="text/javascript" src="content/cache/skins/RDS/javascript/common.js?3714r4=1"></script>
+<script type="text/javascript" src="content/cache/skins/RDS/javascript/validators.js?3714r4=1"></script>
+<script type="text/javascript" src="content/cache/skins/RDS/javascript/base.js?3714r4=1"></script>
+<script type="text/javascript" src="content/cache/skins/RDS/javascript/skin.js?3714r4=1"></script>
+<script type="text/javascript" src="content/cache/languages/english.js?8ee9c0c4f3386bc593aa8875190fe1cf"></script>
+<script type="text/javascript" src="content/vendors/jquery/rater/jquery.rater-custom.js?3714r4=1"></script>
+<script type="text/javascript" src="content/cache/skins/RDS/javascript/products_reviews.js?3714r4=1"></script>
+<!--[if gte IE 7]>
+<link type="text/css" rel="stylesheet" href="content/cache/skins/RDS/styles/ie7plus.css" />
+<script type="text/javascript" src="content/cache/skins/RDS/javascript/ie7plus.js"></script>
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="content/cache/skins/RDS/styles/ie7base.css" />
+<link rel="stylesheet" type="text/css" href="content/cache/skins/RDS/styles/ie7.css" />
+<script type="text/javascript" src="content/cache/skins/RDS/javascript/ie7base.js"></script>
+<script type="text/javascript">
+$(function() {
+var zIndexNumber = 5000;
+$('.ui-dialog, .drop-down-menu li,.drop-down-menu div').each(function() {
+//$(this).css('zIndex', zIndexNumber);
+zIndexNumber -= 10;
+});
+//$('.ui-dialog').css('zIndex', 6000);
+});
+</script>
+<![endif]-->
+<!--[if lte IE 6]>
+<script type="text/javascript" src="content/vendors/jquery/pngFix/jquery.pngFix.pack.js"></script>
+<link type="text/css" rel="stylesheet" href="content/cache/skins/RDS/styles/ie6base.css" />
+<script type="text/javascript" src="content/cache/skins/RDS/javascript/ie6base.js"></script>
+<link type="text/css" rel="stylesheet" href="content/cache/skins/RDS/styles/ie6.css" />
+<script type="text/javascript" src="content/cache/skins/RDS/javascript/ie6.js"></script>
+<![endif]-->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-545190-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<meta name="google-site-verification" content="xPb8RUFMJsCcngZn-evcw5__7-XkawtdyFirdYq3eSQ" /></head>
+<body id="page-404" class="page page-404">
+<div id="site-container" class="site-container">
+<div class="fossil">
+<div class="container-header clearfix">
+<div class="container-wrap doc1024x768C clearfix">
+<div id="header" class="layout-zone-header layout-zone ">
+<div class="col-wrap">
+<div class="col-40">
+<a href="/"><img class="image-logo " src="content/cache/skins/RDS/images/image-logo.png" alt="Logo"/></a>
+&nbsp;
+</div>
+<div class="col-30 tagline">
+<div style="font-size: 16px; margin-bottom: 5px;">Discovery~Wonder~Inspiration:</div>
+Dynamic Learning for Young Minds 
+</div>
+<div class="col-30 col-right">
+<div style="padding: 5px 0 15px 0; text-align: right;">
+<a href="about-us.html">About Us</a> | 
+<a href="https://www.fossilicious.com/index.php?p=login">Login</a> | <a href="https://www.fossilicious.com/index.php?p=signup">Register</a>
+<!-- | <a href="#">Order Status</a> -->| <a href="contact-us.html">Contact Us</a>
+</div>
+<div style="text-align: right; margin-bottom: 15px;">
+<a href="http://www.fossilicious.com/index.php?p=cart"><img class="image-cart " src="content/cache/skins/RDS/images/image-cart.png" alt="Cart"/></a>
+<a href="http://www.fossilicious.com/index.php?p=cart">My Cart</a> 
+: 0 item(s) /
+<span class="order-total-amount">$0.00</span>
+</div>
+<div class="search"><form action="http://www.fossilicious.com/index.php?" method="get">
+<input type="hidden" name="p" value="catalog"/>
+<input type="hidden" name="mode" value="search"/>
+<input type="hidden" name="search_in" value="all"/>
+<div style="float: right;"><input type="image" value="submit" src="images/search-button.png" /></div>
+<div style="float: right;"><input maxlength="256" type="text" name="search_str" value="enter keywords..." onFocus="this.value=''" style="padding: 10px; background: #fff; border-radius: 7px; margin: 3px 5px 0 0; width: 150px; border: 0;" /></div>
+<div style="clear: both;"></div>
+</form></div></div>
+</div>
+</div></div>
+</div>
+<div class="container-menu clearfix">
+<div class="doc1024x768C container-wrap clearfix">
+<div class="layout-zone-menu layout-zone col-wrap clearfix ">
+<ul id="menu" style="margin-left: 70px;">
+<li><a href="/" class="drop">Home</a></li>
+<li><img src="images/menu-divider.png" alt=""  class="menu-divider"   /></li>
+    <li><a href="fossils/" class="drop">Fossils</a>
+<div class="dropdown_5columns">
+    <div class="col_2">
+<a href="ammonites/">&raquo; <strong>Ammonites</strong></a>
+<a href="trilobites/"><strong>&raquo; Trilobites</strong></a>
+<a href="orthoceras/"><strong>&raquo; Orthoceras</strong></a>
+<a href="megalodon-teeth/"><strong>&raquo; Megalodon Teeth</strong></a>
+<a href="mosasaur-teeth/"><strong>&raquo; Mosasaur Teeth</strong></a>
+<a href="spinosaurus-teeth/"><strong>&raquo; Spinosaurus Teeth</strong></a>
+<a href="raptor-teeth/"><strong>&raquo; Raptor Teeth</strong></a>
+<a href="carcharodontosaurus-teeth/"><strong>&raquo; Carcharodontosaurus Teeth</strong></a>
+</div>
+<div class="col_2">
+<a href="rebbachisaurus-teeth/"><strong>&raquo; Rebbachisaurus Teeth</strong></a>
+<a href="pterosaur-teeth/"><strong>&raquo; Pterosaur Teeth</strong></a>
+<a href="plesiosaursus-teeth/"><strong>&raquo; Plesiosaursus Teeth</strong></a>
+<a href="dinosaur-egg-shells/"><strong>&raquo; Dinosaur Egg Shells</strong></a>
+<a href="dinosaur-bone/"><strong>&raquo; Dinosaur Bones</strong></a>
+<a href="dinosaur-coprolite/"><strong>&raquo; Dinosaur Coprolite</strong></a>
+<a href="fish-fossils/"><strong>&raquo; Fish Fossils</strong></a>
+</div>
+<div class="col_3">
+<a href="dinosaur-fossils/"><strong>&raquo; Dinosaur Fossils</strong></a>
+<a href="crinoid-fossils/"><strong>&raquo; Crinoid Fossils</strong></a>
+<a href="fossil-clam/"><strong>&raquo; Fossil Clams</strong></a>
+<a href="plant-fossils/"><strong>&raquo; Plant Fossils</strong></a>
+<a href="fossil-collections/"><strong>&raquo; Fossil Collections</strong></a>
+<a href="wholesale-fossils/"><strong>&raquo; Wholesale Fossils</strong></a>
+<a href="miscellaneous-fossils/"><strong>&raquo; Miscellaneous Fossils</strong></a>
+</div>
+        </div>
+    </li>
+<li><img src="images/menu-divider.png" alt=""  class="menu-divider"   /></li>
+<li><a href="rocks-minerals/" class="drop">Rocks & Minerals</a>
+<div class="dropdown_1column">
+    <div class="col_2">
+<a href="mineral-collections/"><strong>&raquo; Mineral Collections</strong></a>
+<a href="mineral-specimens/"><strong>&raquo; Mineral Specimens</strong></a>
+<a href="wholesale-minerals/"><strong>&raquo; Wholesale Minerals</strong></a>
+<a href="agate/"><strong>&raquo; Agate</strong></a>
+<a href="amazonite/"><strong>&raquo; Amazonite</strong></a>
+<a href="amethyst/"><strong>&raquo; Amethyst</strong></a>
+<a href="calcite/"><strong>&raquo; Calcite</strong></a>
+</div>
+    <div class="col_2">
+    <a href="fluorite/"><strong>&raquo; Fluorite</strong></a>
+<a href="meterorites/"><strong>&raquo; Meterorites</strong></a>
+<a href="pyrite/"><strong>&raquo; Pyrite</strong></a>
+<a href="quartz/"><strong>&raquo; Quartz</strong></a>
+<a href="rose-quartz/"><strong>&raquo; Rose Quartz</strong></a>
+<a href="selenite-gypsum/"><strong>&raquo; Selenite</strong></a>
+<a href="tumbled-stones/"><strong>&raquo; Tumbled Stones</strong></a>
+</div>
+</div>
+</li>
+<li><img src="images/menu-divider.png" alt=""  class="menu-divider"   /></li>
+<li><a href="educational-materials/" class="drop">Educational Materials</a>
+<div class="dropdown_3columns">
+    <div class="col_1">
+<a href="childrens-books/"><strong>&raquo; Children&#039;s Books</strong></a>
+<a href="curriculum/"><strong>&raquo; Curriculum</strong></a>
+<a href="fossil-collections/"><strong>&raquo; Fossil Collections</strong></a>
+<a href="mineral-collections/"><strong>&raquo; Mineral Collections</strong></a>
+<a href="test-kits/"><strong>&raquo; Test Kits</strong></a>
+</div>
+</div>
+</li>
+<li><img src="images/menu-divider.png" alt="" class="menu-divider"    /></li>
+<li><a href="clearance/" class="drop">Clearance</a></li>
+<li><img src="images/menu-divider.png" alt="" class="menu-divider"    /></li>
+<li><a href="blog/"  class="drop">Blog</a></li>
+</ul>
+</div></div>
+</div>
+<div class="container-main clearfix">
+<div class="doc1024x768C container-wrap clearfix">
+<div id="main" class="clearfix">
+<div id="content" class="layout-zone-content layout-zone clearfix ">
+<div class="page-404 white wrap ">
+<h1>The Page Cannot Be Found</h1>
+<div class="spacer">
+<div class="msg-error">
+<p>The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.</p>
+</div>
+<ul class="list">
+<li>
+<a href="http://www.fossilicious.com/fossils/" class="parent"><span>Fossils</span></a>
+<ul>
+<li>
+<a href="http://www.fossilicious.com/dinosaur-fossils/"><span>Dinosaur Fossils</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/ammonites/" class="parent"><span>Ammonites</span></a>
+<ul>
+<li>
+<a href="http://www.fossilicious.com/moroccan-ammonites/"><span>Moroccan Ammonites</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/madagascar-ammonites/"><span>Madagascar Ammonites</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/pyritized-ammonites/"><span>Pyritized Ammonites</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/goniatites/"><span>Goniatites</span></a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.fossilicious.com/trilobites/" class="parent"><span>Trilobites</span></a>
+<ul>
+<li>
+<a href="http://www.fossilicious.com/trilobites-of-morocco/"><span>Trilobites of Morocco</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/trilobites-of-the-wheeler-shale-formation/"><span>Trilobites of the Wheeler Shale Formation</span></a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.fossilicious.com/orthoceras/" class="parent"><span>Orthoceras</span></a>
+<ul>
+<li>
+<a href="http://www.fossilicious.com/orthoceras-specimens-and-pendants/"><span>Orthoceras Specimens and Pendants</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/orthoceras-display-plaques-and-sculptures/"><span>Orthoceras Display Plaques and Sculptures</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/fossil-stoneware-bowls-dishes-serving-platters-and-bookends/"><span>Fossil Stoneware, Bowls, Dishes, Serving Platters, and Bookends</span></a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.fossilicious.com/megalodon-teeth/" class="parent"><span>Megalodon Teeth</span></a>
+<ul>
+<li>
+<a href="http://www.fossilicious.com/megalodon-teeth-50-complete/"><span>Megalodon Teeth 50% complete</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/megalodon-teeth-75-complete/"><span>Megalodon teeth 75 % Complete</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/megalodon-teeth-complete/"><span>Megalodon Teeth complete</span></a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.fossilicious.com/mosasaur-teeth/"><span>Mosasaur Teeth</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/spinosaurus-teeth/"><span>Spinosaurus Teeth</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/raptor-teeth/"><span>Raptor teeth</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/carcharodontosaurus-teeth/"><span>Carcharodontosaurus Teeth</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/rebbachisaurus-teeth/"><span>Rebbachisaurus Teeth</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/pterosaur-teeth/"><span>Pterosaur Teeth</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/plesiosaursus-teeth/"><span>Plesiosaursus Teeth</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/dinosaur-egg-shells/"><span>Dinosaur Egg Shells</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/dinosaur-bone/"><span>Dinosaur Bone</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/dinosaur-coprolite/"><span>Dinosaur Coprolite</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/fish-fossils/"><span>Fish Fossils</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/plant-fossils/" class="parent"><span>Plant Fossils</span></a>
+<ul>
+<li>
+<a href="http://www.fossilicious.com/fern-fossils-mazon-creek/"><span>Fern Fossils Mazon Creek</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/leaf-fossils-green-river-formation/"><span>Leaf Fossils-Green River Formation</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/leaf-fossils-paleocene/"><span>Leaf fossils Paleocene</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/metasequoia/"><span>Metasequoia</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/fern-fossils-from-pennsylvania/"><span>Fern Fossils From Pennsylvania</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/primitive-plant-fossils-carboniferous/"><span>Primitive Plant Fossils Carboniferous</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/petrified-wood/"><span>Petrified Wood</span></a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.fossilicious.com/fossil-collections/"><span>Fossil Collections</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/wholesale-fossils/" class="parent"><span>Wholesale Fossils</span></a>
+<ul>
+<li>
+<a href="http://www.fossilicious.com/fossil-classroom-packs/"><span>Fossil Classroom Packs</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/fossils-by-the-pound/"><span>Fossils By The Pound</span></a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.fossilicious.com/miscellaneous-fossils/" class="parent"><span>Miscellaneous Fossils</span></a>
+<ul>
+<li>
+<a href="http://www.fossilicious.com/fossil-shark-teeth/"><span>Fossil Shark Teeth</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/fossil-horse-teeth/"><span>Fossil Horse Teeth</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/fossil-sea-urchins/"><span>Fossil Sea Urchins</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/horn-coral/"><span>Horn Coral</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/crinoid-fossils/"><span>Crinoid Fossils</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/brachiopods/"><span>Brachiopods</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/fossil-clam/"><span>Fossil Clam</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/belemnites/"><span>Belemnites</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/gastropod-fossils/"><span>Gastropod Fossils</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/fossil-sponges/"><span>Fossil Sponges</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/fossilized-coral/"><span>Fossilized Coral</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/stromatolites/" class="parent"><span>Stromatolites</span></a>
+<ul>
+<li>
+<a href="http://www.fossilicious.com/butterstone/"><span>Butterstone</span></a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.fossilicious.com/reptile-coprolite/"><span>Reptile Coprolite</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/bryozoan-fossils/"><span>Bryozoan Fossils</span></a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.fossilicious.com/clearance/"><span>Clearance</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/rocks-minerals/" class="parent"><span>Rocks &amp; Minerals</span></a>
+<ul>
+<li>
+<a href="http://www.fossilicious.com/apatite/"><span>Apatite</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/gem-stones/"><span>Gem Stones</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/agate/"><span>Agate</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/amazonite/"><span>Amazonite</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/amethyst/"><span>Amethyst</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/bismuth/"><span>Bismuth</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/calcite/"><span>Calcite</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/celestite/"><span>Celestite</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/chrysocolla/"><span>Chrysocolla</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/crystal-balls-hearts-and-eggs/"><span>Crystal Balls, Hearts, and eggs</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/fluorite/"><span>Fluorite</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/limb-casts/"><span>Limb Casts</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/mineral-collections/"><span>Mineral Collections</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/mineral-specimens/"><span>Mineral Specimens</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/hematite/"><span>Hematite</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/native-copper/"><span>Native Copper</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/pyrite/"><span>Pyrite</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/quartz/"><span>Quartz</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/rose-quartz/"><span>Rose Quartz</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/smokey-quartz/"><span>Smokey Quartz</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/rhodochrosite/"><span>Rhodochrosite</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/selenite-gypsum/"><span>Selenite-gypsum</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/meterorites/"><span>Meterorites</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/tumbled-stones/"><span>Tumbled Stones</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/wholesale-minerals/"><span>wholesale Minerals</span></a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.fossilicious.com/educational-materials/" class="parent"><span>Educational Materials</span></a>
+<ul>
+<li>
+<a href="http://www.fossilicious.com/childrens-books/"><span>Children&#039;s Books</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/curriculum/"><span>Curriculum</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/fossil-collections/"><span>Fossil Collections</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/mineral-collections/"><span>Mineral Collections</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/test-kits/"><span>Test Kits</span></a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.fossilicious.com/home-decor/" class="parent"><span>Home Decor</span></a>
+<ul>
+<li>
+<a href="http://www.fossilicious.com/book-ends/"><span>Book Ends</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/display-geodes/"><span>Display Geodes</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/display-quality-crystals-and-mineral-specimens/"><span>Display Quality Crystals and Mineral Specimens</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/fossil-display-plaques-sculptures/"><span>Fossil Display, Plaques Sculptures</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/fossil-stoneware-bowls-dishes-serving-platters/"><span>Fossil Stoneware, Bowls, Dishes, Serving Platters</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/lamps-and-candle-holders/"><span>Lamps and Candle Holders</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/display-stands/"><span>Display Stands</span></a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.fossilicious.com/jewelry/" class="parent"><span>Jewelry</span></a>
+<ul>
+<li>
+<a href="http://www.fossilicious.com/earth-jewelry/"><span>Earth Jewelry</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/crystal-jewelry/"><span>crystal jewelry</span></a>
+</li>
+<li>
+<a href="http://www.fossilicious.com/fossil-jewelry/"><span>Fossil Jewelry</span></a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="list">
+<li><a href="/">Home</a></li>
+<li><a href="http://www.fossilicious.com/index.php?p=testimonials">Testimonials</a></li><li><a href="http://www.fossilicious.com/about-us.html">About Us</a></li><li><a href="http://www.fossilicious.com/terms-and-conditions.html">Terms and Conditions</a></li><li><a href="http://www.fossilicious.com/about-fossils-2.html">About Fossils</a></li><li><a href="http://www.fossilicious.com/about-minerals.html">About Minerals</a></li><li><a href="http://www.fossilicious.com/ammonites.html">Ammonites - Index To The Past</a></li><li><a href="http://www.fossilicious.com/belemnites.html">Belemnites</a></li><li><a href="http://www.fossilicious.com/brachiopods.html">Brachiopods</a></li><li><a href="http://www.fossilicious.com/carcharodontosaurus.html">Carcharodontosaurus</a></li><li><a href="http://www.fossilicious.com/crinoids.html">Crinoids: A Fossil Favorite for Collectors</a></li><li><a href="http://www.fossilicious.com/earth-science.html">Earth Science</a></li><li><a href="http://www.fossilicious.com/featured-products.html">Featured Products</a></li><li><a href="http://www.fossilicious.com/fossilandbookset-poster.html">Fossil and Book Set Poster</a></li><li><a href="http://www.fossilicious.com/fossil-clues.html">Fossil Clues</a></li><li><a href="http://www.fossilicious.com/fossil-collection.html">Fossil Collection</a></li><li><a href="http://www.fossilicious.com/fossil-collection-activities.html">Fossil Collection Activities</a></li><li><a href="http://www.fossilicious.com/fossil-collection-ammonites.html">Fossil Collection Ammonites</a></li><li><a href="http://www.fossilicious.com/fossil-collection-activities-backup.html">Fossil Collection Back up</a></li><li><a href="http://www.fossilicious.com/fossil-collection-basalt.html">Fossil Collection Basalt</a></li><li><a href="http://www.fossilicious.com/fossil-collection-brachiopods.html">Fossil Collection Brachiopods</a></li><li><a href="http://www.fossilicious.com/fossil-collection-bryozoans.html">Fossil Collection Bryozoans</a></li><li><a href="http://www.fossilicious.com/fossil-collection-butterstone.html">Fossil Collection Butterstone</a></li><li><a href="http://www.fossilicious.com/fossil-collection-clams.html">Fossil Collection Clams</a></li><li><a href="http://www.fossilicious.com/fossil-collection-coral.html">Fossil Collection Coral</a></li><li><a href="http://www.fossilicious.com/fossil-collection-crinoids.html">Fossil Collection Crinoids</a></li><li><a href="http://www.fossilicious.com/fossil-collection-dinosaur-bone.html">Fossil Collection Dinosaur Bone</a></li><li><a href="http://www.fossilicious.com/fossil-collection-fern-fossil.html">Fossil Collection Fern Fossil</a></li><li><a href="http://www.fossilicious.com/fossil-collection-fossil-algae.html">Fossil Collection Fossil Algae</a></li><li><a href="http://www.fossilicious.com/fossil-collection-fossil-wood.html">Fossil Collection Fossil Wood</a></li><li><a href="http://www.fossilicious.com/fossil-collection-gastropods.html">Fossil Collection Gastropods</a></li><li><a href="http://www.fossilicious.com/fossil-collection-labels.html">Fossil Collection Labels</a></li><li><a href="http://www.fossilicious.com/fossil-collection-orthoceras.html">Fossil Collection Orthoceras</a></li><li><a href="http://www.fossilicious.com/fossil-collection-sea-urchins.html">Fossil Collection Sea Urchins</a></li><li><a href="http://www.fossilicious.com/fossil-collection-shark-teeth.html">Fossil Collection Shark Teeth</a></li><li><a href="http://www.fossilicious.com/fossil-collection-sponge.html">Fossil Collection Sponges</a></li><li><a href="http://www.fossilicious.com/fossil-collection-stromatolites.html">Fossil Collection Stromatolites</a></li><li><a href="http://www.fossilicious.com/fossil-collection-trilobites.html">Fossil Collection Trilobites</a></li><li><a href="http://www.fossilicious.com/fossil-collection-who1.html">Fossil Collection Who Am I #1</a></li><li><a href="http://www.fossilicious.com/fossil-collection-who10.html">Fossil Collection Who Am I #10</a></li><li><a href="http://www.fossilicious.com/fossil-collection-who11.html">Fossil Collection Who Am I #11</a></li><li><a href="http://www.fossilicious.com/fossil-collection-who12.html">Fossil Collection Who Am I #12</a></li><li><a href="http://www.fossilicious.com/fossil-collection-who13.html">Fossil Collection Who Am I #13</a></li><li><a href="http://www.fossilicious.com/fossil-collection-who14.html">Fossil Collection Who Am I #14</a></li><li><a href="http://www.fossilicious.com/fossil-collection-who15.html">Fossil Collection Who Am I #15</a></li><li><a href="http://www.fossilicious.com/fossil-collection-who16.html">Fossil Collection Who Am I #16</a></li><li><a href="http://www.fossilicious.com/fossil-collection-who17.html">Fossil Collection Who Am I #17</a></li><li><a href="http://www.fossilicious.com/fossil-collection-who18.html">Fossil Collection Who Am I #18</a></li><li><a href="http://www.fossilicious.com/fossil-collection-who19.html">Fossil Collection Who Am I #19</a></li><li><a href="http://www.fossilicious.com/fossil-collection-who20.html">Fossil Collection Who Am I #20</a></li><li><a href="http://www.fossilicious.com/fossil-collection-who3.html">Fossil Collection Who Am I #3</a></li><li><a href="http://www.fossilicious.com/fossil-collection-who4.html">Fossil Collection Who Am I #4</a></li><li><a href="http://www.fossilicious.com/fossil-collection-who5.html">Fossil Collection Who Am I #5</a></li><li><a href="http://www.fossilicious.com/fossil-collection-who6.html">Fossil Collection Who Am I #6</a></li><li><a href="http://www.fossilicious.com/fossil-collection-who7.html">Fossil Collection Who Am I #7</a></li><li><a href="http://www.fossilicious.com/fossil-collection-who8.html">Fossil Collection Who Am I #8</a></li><li><a href="http://www.fossilicious.com/fossil-collection-who9.html">Fossil Collection Who Am I #9</a></li><li><a href="http://www.fossilicious.com/fossil-collection-who2.html">Fossil Collection-who2</a></li><li><a href="http://www.fossilicious.com/fossil-pie.html">Fossil Pie</a></li><li><a href="http://www.fossilicious.com/ezines.html">Fossilicious Ezines</a></li><li><a href="http://www.fossilicious.com/free-fossils.html">Free Fossils</a></li><li><a href="http://www.fossilicious.com/geologic-time.html">Geologic Time</a></li><li><a href="http://www.fossilicious.com/graduation-specials.html">Graduation Specials</a></li><li><a href="http://www.fossilicious.com/holiday-discounts.html">Holiday Discounts</a></li><li><a href="http://www.fossilicious.com/horn-coral.html">Horn Coral Paleozoic Reef Builder</a></li><li><a href="http://www.fossilicious.com/megalodon-teeth.html">Megalodon Teeth</a></li><li><a href="http://www.fossilicious.com/merry-christmas.html">Merry Christmas</a></li><li><a href="http://www.fossilicious.com/mini-environment-info.html">Miniature Environment Sets Info</a></li><li><a href="http://www.fossilicious.com/montessori-support-materials.html">Montessori Support Materials</a></li><li><a href="http://www.fossilicious.com/mosasaur.html">Mosasaur-King of The Marine Reptiles</a></li><li><a href="http://www.fossilicious.com/moving-sale.html">Moving Sale</a></li><li><a href="http://www.fossilicious.com/my-fossil-collection.html">My Fossil Collection</a></li><li><a href="http://www.fossilicious.com/nl-moving-sale.html">NL Moving Sale</a></li><li><a href="http://www.fossilicious.com/no-sales-today.html">No Sales Today</a></li><li><a href="http://www.fossilicious.com/orthoceras.html">Orthoceras-Straight Shelled Nautiloid</a></li><li><a href="http://www.fossilicious.com/plesiosaur.html">Plesiosaur</a></li><li><a href="http://www.fossilicious.com/privacy-policy.html">Privacy Policy</a></li><li><a href="http://www.fossilicious.com/sale.html">Sale</a></li><li><a href="http://www.fossilicious.com/spinosaurus-teeth.html">Spinosaurus Teeth Buyers Guide</a></li><li><a href="http://www.fossilicious.com/thanksgiving-discounts.html">Thanksgiving Discounts</a></li><li><a href="http://www.fossilicious.com/youngpaleontologist.html">The Young Paleontologist Club</a></li><li><a href="http://www.fossilicious.com/trilobites.html">Trilobites-Paleozoic Arthropods</a></li><li><a href="http://www.fossilicious.com/velociraptor.html">Velociraptor</a></li><li><a href="http://www.fossilicious.com/new-products.html">What&#039;s New?</a></li><li><a href="http://www.fossilicious.com/fc-who-am-i-clues.html">Who Am I Clues</a></li><li><a href="http://www.fossilicious.com/yp-glossaryandmore.html">Y.P. Glossary and More</a></li><li><a href="http://www.fossilicious.com/young-paleontologist-features.html">Young Paleontologist Features</a></li><li><a href="https://www.fossilicious.com/index.php?p=login">Login</a></li>
+<li><a href="https://www.fossilicious.com/index.php?p=signup">Register</a></li>
+<li><a href="http://www.fossilicious.com/index.php?p=cart">My Cart</a></li>
+</ul>
+</div>
+</div></div></div>
+</div>
+</div>
+<div class="container-news clearfix">
+<div class="doc1024x768C container-wrap clearfix">
+<div class="layout-zone-news layout-zone ">
+<div class="newsbar-1">
+<form action="index.php?p=subscribe" method="post" onsubmit="return CheckNewsletters(this)">
+<div class="newsletter-text"><div class="news-header">Register For Our Ezine</div>
+For LESSON PLANS, SALES, DISCOUNTS and more!
+</div>
+<div class="newsletter-box">
+<div class="newsletter-input"><input maxlength="64" type="text" id="subscribe_email" name="email" class="news-input" value="enter email address" onFocus="this.value=''"/></div>
+<div class="newsletter-go"><input type="image" src="content/skins/RDS/images/news-go.png" value="submit"/></div>
+<div style="clear: both;"></div>
+</div>
+</form>
+</div>
+<div class="newsbar-2">
+<a href="http://www.facebook.com/pages/Fossilicious/243678909057340" target="_blank"><img src="content/skins/RDS/images/fb.png" alt="" /></a>
+<a href="http://www.fossilicious.com/#" target="_blank" rel="publisher"><img src="content/skins/RDS/images/google.png" alt="" /></a>
+<a href="http://www.pinterest.com/fossilicious/boards/" target="_blank"><img src="content/skins/RDS/images/pinterest.png" alt="" /></a>
+</div>
+<div class="clr"></div>
+</div></div>
+</div>
+<div class="container-footer clearfix">
+<div class="doc1024x768C container-wrap  clearfix">
+<div id="footer" class="layout-zone-footer layout-zone ">
+<div class="footer1">
+<div class="footer-title">ABOUT VERTIBRATE FOSSILS</div>
+<a href="http://www.fossilicious.com/carcharodontosaurus.html">&raquo; Carcharodontosaurus</a><br/>
+<a href="http://www.fossilicious.com/megalodon-teeth.html">&raquo; Megalodon Teeth</a><br/>
+<a href="http://www.fossilicious.com/mosasaur.html">&raquo; Mosasaur</a><br/>
+<a href="http://www.fossilicious.com/plesiosaur.html">&raquo; Plesiosaur</a><br/>
+<a href="http://www.fossilicious.com/spinosaurus-teeth.html">&raquo; Spinosaurus Teeth Buyers Guide</a><br/>
+<a href="http://www.fossilicious.com/velociraptor.html">&raquo; Velociraptor</a><br/>
+</div>
+<div class="footer2">
+<div class="footer-title">ABOUT INVERTIBRATE FOSSILS</div>
+<a href="http://www.fossilicious.com/ammonites.html">&raquo; Ammonites</a><br/>
+<a href="http://www.fossilicious.com/belemnites.html">&raquo; Belemnites</a><br/>
+<a href="http://www.fossilicious.com/brachiopods.html">&raquo; Brachiopods</a><br/>
+<a href="http://www.fossilicious.com/crinoids.html">&raquo; Crinoids</a><br/>
+<a href="http://www.fossilicious.com/horn-coral.html">&raquo; Horn Coral</a><br/>
+<a href="http://www.fossilicious.com/orthoceras.html">&raquo; Orthoceras</a><br/>
+<a href="http://www.fossilicious.com/trilobites.html">&raquo; Trilobites</a><br/>
+</div>
+<div class="footer3">
+<div class="footer-title">MORE INFORMATION</div>
+<a href="http://www.fossilicious.com/about-minerals.html">&raquo; About Minerals</a><br/>
+<a href="http://www.fossilicious.com/earth-science.html">&raquo; Earth Science</a><br/>
+<a href="http://www.fossilicious.com/youngpaleontologist.html">&raquo; The Young Paleontologist</a><br/>
+<a href="http://www.fossilicious.com/about-us.html">&raquo; About Us</a><br/>
+<a href="ezines.html">&raquo; Newsletter Archives</a><br/>
+</div>
+<div class="clr"></div>
+<div class="subfooter">
+<div class="subfooter-1"><img src="content/skins/RDS/images/comodo.jpg" alt="" /></a></div>
+<div class="subfooter-2">
+Copyright &copy; 2005-2018 Fossilicious.com.  All Rights Reserved. <a href="site-map.html">Site Map</a><br/>
+<a href="http://www.ryandesignstudio.com" target="_blank">E-Commerce Development by Ryan Design Studio</a><br/><br/>
+<img src="content/skins/RDS/images/ccs.jpg" alt="" /></div>
+<div class="subfooter-3">
+<!-- (c) 2005, 2014. Authorize.Net is a registered trademark of CyberSource Corporation --> <div class="AuthorizeNetSeal" style="margin: 10px auto;"> <script type="text/javascript" language="javascript">var ANS_customer_id="9bf79828-02ce-4eb6-a2f4-989cffde5812";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script> </div>
+</div>
+<div class="clr"></div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+</body>
+</html>

@@ -1,0 +1,813 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="">
+
+<title>Geoclassics | 404</title>
+<!-- Speed of this site is optimised by WP Performance Score Booster plugin v1.9 - https://dipakgajjar.com/wp-performance-score-booster/ -->
+
+<!-- Start The SEO Framework by Sybre Waaijer -->
+<meta name="robots" content="noindex,noydir" />
+<meta name="google-site-verification" content="kUcrmw8jw9AANuyhbrXoOUX7WUYSiy9fo_vp12naTVE" />
+<meta name="msvalidate.01" content="B098AF78D5382A4CDD7EAB7996D53014" />
+<!-- End The SEO Framework by Sybre Waaijer | 0.00018s -->
+
+<link rel='stylesheet' id='contact-form-7-css'  href='https://geoclassics.com/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='storefront-style-css'  href='https://geoclassics.com/wp-content/themes/storefront/style.css' type='text/css' media='all' />
+<style id='storefront-style-inline-css' type='text/css'>
+
+			.main-navigation ul li a,
+			.site-title a,
+			ul.menu li a,
+			.site-branding h1 a,
+			.site-footer .storefront-handheld-footer-bar a:not(.button),
+			button.menu-toggle,
+			button.menu-toggle:hover {
+				color: #000000;
+			}
+
+			button.menu-toggle,
+			button.menu-toggle:hover {
+				border-color: #000000;
+			}
+
+			.main-navigation ul li a:hover,
+			.main-navigation ul li:hover > a,
+			.site-title a:hover,
+			a.cart-contents:hover,
+			.site-header-cart .widget_shopping_cart a:hover,
+			.site-header-cart:hover > li > a,
+			.site-header ul.menu li.current-menu-item > a {
+				color: #505050;
+			}
+
+			table th {
+				background-color: #f8f8f8;
+			}
+
+			table tbody td {
+				background-color: #fdfdfd;
+			}
+
+			table tbody tr:nth-child(2n) td,
+			fieldset,
+			fieldset legend {
+				background-color: #fbfbfb;
+			}
+
+			.site-header,
+			.secondary-navigation ul ul,
+			.main-navigation ul.menu > li.menu-item-has-children:after,
+			.secondary-navigation ul.menu ul,
+			.storefront-handheld-footer-bar,
+			.storefront-handheld-footer-bar ul li > a,
+			.storefront-handheld-footer-bar ul li.search .site-search,
+			button.menu-toggle,
+			button.menu-toggle:hover {
+				background-color: #ffffff;
+			}
+
+			p.site-description,
+			.site-header,
+			.storefront-handheld-footer-bar {
+				color: #9099a5;
+			}
+
+			.storefront-handheld-footer-bar ul li.cart .count,
+			button.menu-toggle:after,
+			button.menu-toggle:before,
+			button.menu-toggle span:before {
+				background-color: #000000;
+			}
+
+			.storefront-handheld-footer-bar ul li.cart .count {
+				color: #ffffff;
+			}
+
+			.storefront-handheld-footer-bar ul li.cart .count {
+				border-color: #ffffff;
+			}
+
+			h1, h2, h3, h4, h5, h6 {
+				color: #000000;
+			}
+
+			.widget h1 {
+				border-bottom-color: #000000;
+			}
+
+			body,
+			.secondary-navigation a,
+			.onsale,
+			.pagination .page-numbers li .page-numbers:not(.current), .woocommerce-pagination .page-numbers li .page-numbers:not(.current) {
+				color: #5e5e5e;
+			}
+
+			.widget-area .widget a,
+			.hentry .entry-header .posted-on a,
+			.hentry .entry-header .byline a {
+				color: #909090;
+			}
+
+			a  {
+				color: #1e73be;
+			}
+
+			a:focus,
+			.button:focus,
+			.button.alt:focus,
+			.button.added_to_cart:focus,
+			.button.wc-forward:focus,
+			button:focus,
+			input[type="button"]:focus,
+			input[type="reset"]:focus,
+			input[type="submit"]:focus {
+				outline-color: #1e73be;
+			}
+
+			button, input[type="button"], input[type="reset"], input[type="submit"], .button, .added_to_cart, .widget a.button, .site-header-cart .widget_shopping_cart a.button {
+				background-color: #c0c0c0;
+				border-color: #c0c0c0;
+				color: #333333;
+			}
+
+			button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, .button:hover, .added_to_cart:hover, .widget a.button:hover, .site-header-cart .widget_shopping_cart a.button:hover {
+				background-color: #a7a7a7;
+				border-color: #a7a7a7;
+				color: #333333;
+			}
+
+			button.alt, input[type="button"].alt, input[type="reset"].alt, input[type="submit"].alt, .button.alt, .added_to_cart.alt, .widget-area .widget a.button.alt, .added_to_cart, .widget a.button.checkout {
+				background-color: #333333;
+				border-color: #333333;
+				color: #ffffff;
+			}
+
+			button.alt:hover, input[type="button"].alt:hover, input[type="reset"].alt:hover, input[type="submit"].alt:hover, .button.alt:hover, .added_to_cart.alt:hover, .widget-area .widget a.button.alt:hover, .added_to_cart:hover, .widget a.button.checkout:hover {
+				background-color: #1a1a1a;
+				border-color: #1a1a1a;
+				color: #ffffff;
+			}
+
+			.pagination .page-numbers li .page-numbers.current, .woocommerce-pagination .page-numbers li .page-numbers.current {
+				background-color: #e6e6e6;
+				color: #5e5e5e;
+			}
+
+			#comments .comment-list .comment-content .comment-text {
+				background-color: #f8f8f8;
+			}
+
+			.site-footer {
+				background-color: #ffffff;
+				color: #000000;
+			}
+
+			.site-footer a:not(.button) {
+				color: #8c8c8c;
+			}
+
+			.site-footer h1, .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5, .site-footer h6 {
+				color: #ffffff;
+			}
+
+			#order_review {
+				background-color: #ffffff;
+			}
+
+			#payment .payment_methods > li .payment_box,
+			#payment .place-order {
+				background-color: #fafafa;
+			}
+
+			#payment .payment_methods > li:not(.woocommerce-notice) {
+				background-color: #f5f5f5;
+			}
+
+			#payment .payment_methods > li:not(.woocommerce-notice):hover {
+				background-color: #f0f0f0;
+			}
+
+			@media screen and ( min-width: 768px ) {
+				.secondary-navigation ul.menu a:hover {
+					color: #a9b2be;
+				}
+
+				.secondary-navigation ul.menu a {
+					color: #9099a5;
+				}
+
+				.site-header-cart .widget_shopping_cart,
+				.main-navigation ul.menu ul.sub-menu,
+				.main-navigation ul.nav-menu ul.children {
+					background-color: #f0f0f0;
+				}
+
+				.site-header-cart .widget_shopping_cart .buttons,
+				.site-header-cart .widget_shopping_cart .total {
+					background-color: #f5f5f5;
+				}
+
+				.site-header {
+					border-bottom-color: #f0f0f0;
+				}
+			}
+
+				.sp-fixed-width .site {
+					background-color:#ffffff;
+				}
+			
+
+				.checkout-slides .sp-checkout-control-nav li a:after {
+					background-color:#ffffff;
+					border: 4px solid #d7d7d7;
+				}
+
+				.checkout-slides .sp-checkout-control-nav li:nth-child(2) a.flex-active:after {
+					border: 4px solid #d7d7d7;
+				}
+
+				.checkout-slides .sp-checkout-control-nav li a:before,
+				.checkout-slides .sp-checkout-control-nav li:nth-child(2) a.flex-active:before  {
+					background-color:#d7d7d7;
+				}
+
+				.checkout-slides .sp-checkout-control-nav li:nth-child(2) a:before {
+					background-color:#ebebeb;
+				}
+
+				.checkout-slides .sp-checkout-control-nav li:nth-child(2) a:after {
+					border: 4px solid #ebebeb;
+				}
+			
+</style>
+<link rel='stylesheet' id='storefront-icons-css'  href='https://geoclassics.com/wp-content/themes/storefront/assets/sass/base/icons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='storefront-fonts-css'  href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,300italic,400italic,600,700,900&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='storefront-woocommerce-style-css'  href='https://geoclassics.com/wp-content/themes/storefront/assets/sass/woocommerce/woocommerce.css' type='text/css' media='all' />
+<style id='storefront-woocommerce-style-inline-css' type='text/css'>
+
+			a.cart-contents,
+			.site-header-cart .widget_shopping_cart a {
+				color: #000000;
+			}
+
+			table.cart td.product-remove,
+			table.cart td.actions {
+				border-top-color: #ffffff;
+			}
+
+			.woocommerce-tabs ul.tabs li.active a,
+			ul.products li.product .price,
+			.onsale,
+			.widget_search form:before,
+			.widget_product_search form:before {
+				color: #5e5e5e;
+			}
+
+			.woocommerce-breadcrumb a,
+			a.woocommerce-review-link,
+			.product_meta a {
+				color: #909090;
+			}
+
+			.onsale {
+				border-color: #5e5e5e;
+			}
+
+			.star-rating span:before,
+			.quantity .plus, .quantity .minus,
+			p.stars a:hover:after,
+			p.stars a:after,
+			.star-rating span:before,
+			#payment .payment_methods li input[type=radio]:first-child:checked+label:before {
+				color: #1e73be;
+			}
+
+			.widget_price_filter .ui-slider .ui-slider-range,
+			.widget_price_filter .ui-slider .ui-slider-handle {
+				background-color: #1e73be;
+			}
+
+			.order_details {
+				background-color: #f8f8f8;
+			}
+
+			.order_details > li {
+				border-bottom: 1px dotted #e3e3e3;
+			}
+
+			.order_details:before,
+			.order_details:after {
+				background: -webkit-linear-gradient(transparent 0,transparent 0),-webkit-linear-gradient(135deg,#f8f8f8 33.33%,transparent 33.33%),-webkit-linear-gradient(45deg,#f8f8f8 33.33%,transparent 33.33%)
+			}
+
+			p.stars a:before,
+			p.stars a:hover~a:before,
+			p.stars.selected a.active~a:before {
+				color: #5e5e5e;
+			}
+
+			p.stars.selected a.active:before,
+			p.stars:hover a:before,
+			p.stars.selected a:not(.active):before,
+			p.stars.selected a.active:before {
+				color: #1e73be;
+			}
+
+			.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger {
+				background-color: #c0c0c0;
+				color: #333333;
+			}
+
+			.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger:hover {
+				background-color: #a7a7a7;
+				border-color: #a7a7a7;
+				color: #333333;
+			}
+
+			.button.loading {
+				color: #c0c0c0;
+			}
+
+			.button.loading:hover {
+				background-color: #c0c0c0;
+			}
+
+			.button.loading:after {
+				color: #333333;
+			}
+
+			@media screen and ( min-width: 768px ) {
+				.site-header-cart .widget_shopping_cart,
+				.site-header .product_list_widget li .quantity {
+					color: #9099a5;
+				}
+			}
+
+				.woocommerce-message {
+					background-color: #0f834d !important;
+					color: #ffffff !important;
+				}
+
+				.woocommerce-message a,
+				.woocommerce-message a:hover,
+				.woocommerce-message .button,
+				.woocommerce-message .button:hover {
+					color: #ffffff !important;
+				}
+
+				.woocommerce-info {
+					background-color: #3D9CD2 !important;
+					color: #ffffff !important;
+				}
+
+				.woocommerce-info a,
+				.woocommerce-info a:hover,
+				.woocommerce-info .button,
+				.woocommerce-info .button:hover {
+					color: #ffffff !important;
+				}
+
+				.woocommerce-error {
+					background-color: #e2401c !important;
+					color: #ffffff !important;
+				}
+
+				.woocommerce-error a,
+				.woocommerce-error a:hover,
+				.woocommerce-error .button,
+				.woocommerce-error .button:hover {
+					color: #ffffff !important;
+				}
+
+			
+
+				.star-rating span:before,
+				.star-rating:before {
+					color: #FFA200;
+				}
+
+				.star-rating:before {
+					opacity: 0.25;
+				}
+			
+</style>
+<link rel='stylesheet' id='storefront-child-style-css'  href='https://geoclassics.com/wp-content/themes/storefront-child/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sp-header-frontend-css'  href='https://geoclassics.com/wp-content/plugins/storefront-powerpack/includes/customizer/header/assets/css/sp-header-frontend.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sp-styles-css'  href='https://geoclassics.com/wp-content/plugins/storefront-powerpack/includes/customizer/shop/../../../assets/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='guaven_woos-css'  href='https://geoclassics.com/wp-content/plugins/woo-search-box/public/assets/guaven_woos.css' type='text/css' media='all' />
+<link rel='stylesheet' id='woa-shp-header-style-css'  href='https://geoclassics.com/wp-content/plugins/storefront-header-picker/css/style.css' type='text/css' media='all' />
+<!--n2css--><script type='text/javascript' src='https://geoclassics.com/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://geoclassics.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='https://geoclassics.com/wp-content/plugins/css-hero/assets/js/prefixfree.min.js'></script>
+<link rel='https://api.w.org/' href='https://geoclassics.com/wp-json/' />
+<!-- Start CSSHero.org Dynamic CSS & Fonts Loading -->
+	 <link rel="stylesheet" type="text/css" media="all" href="http://geoclassics.com/wp-content/uploads/csshero-style.css" data-apply-prefixfree />
+	 <link href='//fonts.googleapis.com/css?family=Comfortaa%7CSpecial+Elite%7C' rel='stylesheet' type='text/css'> 	 <!-- End CSSHero.org Dynamic CSS & Fonts Loading -->    
+	<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//geoclassics.com/?wordfence_lh=1&hid=020A209EC47BE09A2F7E635C89B06AF3');
+</script><script type="text/javascript" src="//geoclassics.com/?wordfence_syncAttackData=1518308748.9961" async></script>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="icon" href="https://geoclassics.com/wp-content/uploads/cropped-favicon-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://geoclassics.com/wp-content/uploads/cropped-favicon-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://geoclassics.com/wp-content/uploads/cropped-favicon-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://geoclassics.com/wp-content/uploads/cropped-favicon-270x270.jpg" />
+
+<script type='text/javascript' src='https://geoclassics.com/wp-content/plugins/wp-spamshield/js/jscripts.php'></script> 
+</head>
+
+<body class="error404 wp-custom-logo left-sidebar woocommerce-active sp-shop-alignment-center storefront-header-picker-active">
+
+
+<div id="page" class="hfeed site">
+	
+	<header id="masthead" class="site-header" role="banner" style="">
+		<div class="col-full">
+
+					<a class="skip-link screen-reader-text" href="#site-navigation">Skip to navigation</a>
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+		<section class="wooassist-compact-layout">		<div class="site-branding">
+			<a href="https://geoclassics.com/" class="custom-logo-link" rel="home" itemprop="url"><img width="454" height="100" src="https://geoclassics.com/wp-content/uploads/logoFHM-100px.jpg" class="custom-logo" alt="Geoclassics" itemprop="logo" srcset="https://geoclassics.com/wp-content/uploads/logoFHM-100px.jpg 454w, https://geoclassics.com/wp-content/uploads/logoFHM-100px-150x33.jpg 150w, https://geoclassics.com/wp-content/uploads/logoFHM-100px-300x66.jpg 300w, https://geoclassics.com/wp-content/uploads/logoFHM-100px-180x40.jpg 180w" sizes="(max-width: 454px) 100vw, 454px" /></a>		</div>
+				<ul id="site-header-cart" class="site-header-cart menu">
+			<li class="">
+							<a class="cart-contents" href="https://geoclassics.com/cart/" title="View your shopping cart">
+				<span class="amount">&#036;0.00</span> <span class="count">0 items</span>
+			</a>
+					</li>
+			<li>
+				<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div>			</li>
+		</ul>
+		<div class="storefront-primary-navigation">		<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Primary Navigation">
+		<button class="menu-toggle" aria-controls="site-navigation" aria-expanded="false"><span>Menu</span></button>
+			<div class="primary-navigation"><ul id="menu-main-menu" class="menu"><li id="menu-item-1276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1276"><a href="https://geoclassics.com/">Homepage</a></li>
+<li id="menu-item-1274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1274"><a href="https://geoclassics.com/about-us/">About Us</a></li>
+<li id="menu-item-1272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1272"><a href="https://geoclassics.com/contact-us/">Contact Us</a></li>
+</ul></div><div class="menu"><ul>
+<li ><a href="https://geoclassics.com/">Home</a></li><li class="page_item page-item-2"><a href="https://geoclassics.com/about-us/">About Us</a></li>
+<li class="page_item page-item-7"><a href="https://geoclassics.com/cart/">Cart</a></li>
+<li class="page_item page-item-8"><a href="https://geoclassics.com/checkout/">Checkout</a></li>
+<li class="page_item page-item-32"><a href="https://geoclassics.com/contact-us/">Contact Us</a></li>
+<li class="page_item page-item-9"><a href="https://geoclassics.com/my-account/">My Account</a></li>
+<li class="page_item page-item-1579"><a href="https://geoclassics.com/privacy-security/">Privacy &#038; Security</a></li>
+<li class="page_item page-item-1304"><a href="https://geoclassics.com/return-exchange-policy/">Return and Exchange Policy</a></li>
+<li class="page_item page-item-1277"><a href="https://geoclassics.com/shipping-information/">Shipping Information</a></li>
+<li class="page_item page-item-1268"><a href="https://geoclassics.com/terms-and-conditions/">Terms &#038; Conditions</a></li>
+<li class="page_item page-item-1312"><a href="https://geoclassics.com/visit-our-store/">Visit Our Store</a></li>
+</ul></div>
+		</nav><!-- #site-navigation -->
+		</section></div>
+		</div>
+	</header><!-- #masthead -->
+
+	
+	<div id="content" class="site-content" tabindex="-1">
+		<div class="col-full">
+
+		<nav class="woocommerce-breadcrumb"><a href="https://geoclassics.com">Home</a><span class="breadcrumb-separator"> / </span>Error 404</nav><div class="woocommerce"></div>
+	<div id="primary" class="content-area">
+
+		<main id="main" class="site-main" role="main">
+
+			<div class="error-404 not-found">
+
+				<div class="page-content">
+
+					<header class="page-header">
+						<h1 class="page-title">Oops! That page can&rsquo;t be found.</h1>
+					</header><!-- .page-header -->
+
+					<p>Nothing was found at this location. Try searching, or check out the links below.</p>
+
+					<section aria-label="Search"><div class="widget woocommerce widget_product_search"><form role="search" method="get" class="woocommerce-product-search" action="https://geoclassics.com/">
+	<label class="screen-reader-text" for="woocommerce-product-search-field-0">Search for:</label>
+	<input type="search" id="woocommerce-product-search-field-0" class="search-field" placeholder="Search products&hellip;" value="" name="s" />
+	<button type="submit" value="Search">Search</button>
+	<input type="hidden" name="post_type" value="product" />
+</form>
+</div></section><div class="fourohfour-columns-2"><section class="col-1" aria-label="Promoted Products"><h2>Featured Products</h2><div class="woocommerce columns-2 "><ul class="products columns-2">
+<li class="post-3644 product type-product status-publish has-post-thumbnail product_cat-pendants product_shipping_class-usps-small-box-flat-rate-insured first instock sale featured taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://geoclassics.com/product/amethyst-stalactite-slice-pendant/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" src="//geoclassics.com/wp-content/uploads/pale-am-qtz-gr-or-bl-agate-cen-stalactite-slice-ss-prong-pen-155-140-15.5g-M-CS-d-300x200.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" /><h2 class="woocommerce-loop-product__title">Amethyst Stalactite Slice Pendant</h2>
+	<span class="onsale">Sale!</span>
+
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>175.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>160.00</span></ins></span>
+</a></li>
+</ul>
+</div></section><nav class="col-2" aria-label="Product Categories"><h2>Product Categories</h2><div class="widget woocommerce widget_product_categories"><ul class="product-categories"><li class="cat-item cat-item-6 cat-parent"><a href="https://geoclassics.com/product-category/artifacts/">ARTIFACTS</a> <span class="count">(197)</span><ul class='children'>
+<li class="cat-item cat-item-129"><a href="https://geoclassics.com/product-category/artifacts/animal-carvings/">Animal Carvings</a> <span class="count">(86)</span></li>
+<li class="cat-item cat-item-200"><a href="https://geoclassics.com/product-category/artifacts/bird-carvings/">Bird Carvings</a> <span class="count">(25)</span></li>
+<li class="cat-item cat-item-299"><a href="https://geoclassics.com/product-category/artifacts/bowls/">Bowls</a> <span class="count">(1)</span></li>
+<li class="cat-item cat-item-273"><a href="https://geoclassics.com/product-category/artifacts/boxes/">Boxes</a> <span class="count">(2)</span></li>
+<li class="cat-item cat-item-138"><a href="https://geoclassics.com/product-category/artifacts/buddha/">Buddha Carvings</a> <span class="count">(6)</span></li>
+<li class="cat-item cat-item-201"><a href="https://geoclassics.com/product-category/artifacts/insect-carvings/">Butterfly Carvings</a> <span class="count">(1)</span></li>
+<li class="cat-item cat-item-135"><a href="https://geoclassics.com/product-category/artifacts/eggs/">Eggs</a> <span class="count">(11)</span></li>
+<li class="cat-item cat-item-244"><a href="https://geoclassics.com/product-category/artifacts/other-carvings-artifacts/">Other Carvings</a> <span class="count">(4)</span></li>
+<li class="cat-item cat-item-128"><a href="https://geoclassics.com/product-category/artifacts/peter-muller-carvings/">Peter Muller Carvings</a> <span class="count">(17)</span></li>
+<li class="cat-item cat-item-130"><a href="https://geoclassics.com/product-category/artifacts/other-carvings/">Polished Generators, Points, Pyramids, and Wands</a> <span class="count">(5)</span></li>
+<li class="cat-item cat-item-172"><a href="https://geoclassics.com/product-category/artifacts/skeleton-carvings/">Skeleton Carvings</a> <span class="count">(22)</span></li>
+<li class="cat-item cat-item-127"><a href="https://geoclassics.com/product-category/artifacts/skull-carvings/">Skull Carvings</a> <span class="count">(35)</span></li>
+<li class="cat-item cat-item-136"><a href="https://geoclassics.com/product-category/artifacts/spheres/">Spheres</a> <span class="count">(25)</span></li>
+</ul>
+</li>
+<li class="cat-item cat-item-7 cat-parent"><a href="https://geoclassics.com/product-category/fossils/">FOSSILS</a> <span class="count">(43)</span><ul class='children'>
+<li class="cat-item cat-item-203"><a href="https://geoclassics.com/product-category/fossils/amber-fossils/">Amber</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-118"><a href="https://geoclassics.com/product-category/fossils/ammonites/">Ammonites</a> <span class="count">(10)</span></li>
+<li class="cat-item cat-item-187"><a href="https://geoclassics.com/product-category/fossils/bat/">Bat</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-119"><a href="https://geoclassics.com/product-category/fossils/bivalves-clams/">Bivalves (Clams)</a> <span class="count">(2)</span></li>
+<li class="cat-item cat-item-116"><a href="https://geoclassics.com/product-category/fossils/crinoids/">Crinoids</a> <span class="count">(13)</span></li>
+<li class="cat-item cat-item-204"><a href="https://geoclassics.com/product-category/fossils/fossil-fish-lebanon/">Fossil Fish -Lebanon-</a> <span class="count">(2)</span></li>
+<li class="cat-item cat-item-126"><a href="https://geoclassics.com/product-category/fossils/fish/">Fossil Fish -Wyoming-</a> <span class="count">(7)</span></li>
+<li class="cat-item cat-item-124"><a href="https://geoclassics.com/product-category/fossils/horseshoe-crabs/">Horseshoe Crabs</a> <span class="count">(1)</span></li>
+<li class="cat-item cat-item-117"><a href="https://geoclassics.com/product-category/fossils/keichousaurus/">Keichousaurus</a> <span class="count">(1)</span></li>
+<li class="cat-item cat-item-274"><a href="https://geoclassics.com/product-category/fossils/oreodont-merycoidodon/">Oreodont (Merycoidodon)</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-122"><a href="https://geoclassics.com/product-category/fossils/shark/">Shark</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-123"><a href="https://geoclassics.com/product-category/fossils/shrimp/">Shrimp</a> <span class="count">(1)</span></li>
+<li class="cat-item cat-item-121"><a href="https://geoclassics.com/product-category/fossils/starfish-brittle-stars/">Starfish &amp; Brittle Stars</a> <span class="count">(3)</span></li>
+<li class="cat-item cat-item-194"><a href="https://geoclassics.com/product-category/fossils/trilobites-fossils/">Trilobites</a> <span class="count">(2)</span></li>
+<li class="cat-item cat-item-125"><a href="https://geoclassics.com/product-category/fossils/turtles/">Turtles</a> <span class="count">(1)</span></li>
+</ul>
+</li>
+<li class="cat-item cat-item-8 cat-parent"><a href="https://geoclassics.com/product-category/jewelry/">JEWELRY</a> <span class="count">(104)</span><ul class='children'>
+<li class="cat-item cat-item-343"><a href="https://geoclassics.com/product-category/jewelry/beads/">Beads</a> <span class="count">(2)</span></li>
+<li class="cat-item cat-item-113"><a href="https://geoclassics.com/product-category/jewelry/bracelets/">Bracelets</a> <span class="count">(21)</span></li>
+<li class="cat-item cat-item-115"><a href="https://geoclassics.com/product-category/jewelry/earrings/">Earrings</a> <span class="count">(3)</span></li>
+<li class="cat-item cat-item-12"><a href="https://geoclassics.com/product-category/jewelry/necklaces/">Necklaces</a> <span class="count">(18)</span></li>
+<li class="cat-item cat-item-114"><a href="https://geoclassics.com/product-category/jewelry/pendants/">Pendants</a> <span class="count">(55)</span></li>
+<li class="cat-item cat-item-112"><a href="https://geoclassics.com/product-category/jewelry/rings/">Rings</a> <span class="count">(14)</span></li>
+<li class="cat-item cat-item-281"><a href="https://geoclassics.com/product-category/jewelry/sets/">Sets</a> <span class="count">(1)</span></li>
+<li class="cat-item cat-item-328"><a href="https://geoclassics.com/product-category/jewelry/watches/">Watches</a> <span class="count">(1)</span></li>
+</ul>
+</li>
+<li class="cat-item cat-item-9 cat-parent"><a href="https://geoclassics.com/product-category/meteorites/">METEORITES</a> <span class="count">(62)</span><ul class='children'>
+<li class="cat-item cat-item-234"><a href="https://geoclassics.com/product-category/meteorites/brahin-belorus/">BRAHIN -BELARUS-</a> <span class="count">(4)</span></li>
+<li class="cat-item cat-item-237"><a href="https://geoclassics.com/product-category/meteorites/campo-del-cielo-argentina/">CAMPO DEL CIELO -ARGENTINA-</a> <span class="count">(3)</span></li>
+<li class="cat-item cat-item-236"><a href="https://geoclassics.com/product-category/meteorites/esquel-argentina/">ESQUEL - ARGENTINA-</a> <span class="count">(5)</span></li>
+<li class="cat-item cat-item-235"><a href="https://geoclassics.com/product-category/meteorites/fukang-china/">FUKANG -CHINA-</a> <span class="count">(4)</span></li>
+<li class="cat-item cat-item-230"><a href="https://geoclassics.com/product-category/meteorites/gibeon-namibia/">GIBEON -NAMIBIA-</a> <span class="count">(16)</span></li>
+<li class="cat-item cat-item-233"><a href="https://geoclassics.com/product-category/meteorites/imilac-chile/">IMILAC -CHILE-</a> <span class="count">(6)</span></li>
+<li class="cat-item cat-item-229"><a href="https://geoclassics.com/product-category/meteorites/muonionalusta-sweden/">MUONIONALUSTA -SWEDEN-</a> <span class="count">(12)</span></li>
+<li class="cat-item cat-item-232"><a href="https://geoclassics.com/product-category/meteorites/seymchan-russia/">SEYMCHAN -RUSSIA-</a> <span class="count">(10)</span></li>
+<li class="cat-item cat-item-231"><a href="https://geoclassics.com/product-category/meteorites/sikhote-alin-russia/">SIKHOTE-ALIN -RUSSIA-</a> <span class="count">(1)</span></li>
+</ul>
+</li>
+<li class="cat-item cat-item-10 cat-parent"><a href="https://geoclassics.com/product-category/rocks-minerals/">ROCKS &amp; MINERALS</a> <span class="count">(50)</span><ul class='children'>
+<li class="cat-item cat-item-259"><a href="https://geoclassics.com/product-category/rocks-minerals/arizona-pietersite-arizona-tigers-eye/">" Arizona Pietersite" / "Arizona Tiger's Eye"</a> <span class="count">(1)</span></li>
+<li class="cat-item cat-item-165"><a href="https://geoclassics.com/product-category/rocks-minerals/agate/">Agate / Jasper</a> <span class="count">(1)</span></li>
+<li class="cat-item cat-item-304"><a href="https://geoclassics.com/product-category/rocks-minerals/agate-dendritic/">Agate-Dendritic</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-221"><a href="https://geoclassics.com/product-category/rocks-minerals/amethyst/">Amethyst</a> <span class="count">(11)</span></li>
+<li class="cat-item cat-item-262"><a href="https://geoclassics.com/product-category/rocks-minerals/ametrine/">Ametrine</a> <span class="count">(4)</span></li>
+<li class="cat-item cat-item-294"><a href="https://geoclassics.com/product-category/rocks-minerals/apatite/">Apatite</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-206"><a href="https://geoclassics.com/product-category/rocks-minerals/aquamarine/">Aquamarine</a> <span class="count">(1)</span></li>
+<li class="cat-item cat-item-239"><a href="https://geoclassics.com/product-category/rocks-minerals/astrophyllite/">Astrophyllite</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-266"><a href="https://geoclassics.com/product-category/rocks-minerals/calcite/">Calcite</a> <span class="count">(1)</span></li>
+<li class="cat-item cat-item-208"><a href="https://geoclassics.com/product-category/rocks-minerals/charoite/">Charoite</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-305"><a href="https://geoclassics.com/product-category/rocks-minerals/chrysocolla/">Chrysocolla</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-310"><a href="https://geoclassics.com/product-category/rocks-minerals/chrysoprase/">Chrysoprase</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-226"><a href="https://geoclassics.com/product-category/rocks-minerals/citrine/">Citrine</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-248"><a href="https://geoclassics.com/product-category/rocks-minerals/clinochlore-see-seraphinite/">Clinochlore (See Seraphinite)</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-308"><a href="https://geoclassics.com/product-category/rocks-minerals/dugway-geode/">Dugway Geode</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-209"><a href="https://geoclassics.com/product-category/rocks-minerals/emerald/">Emerald</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-228"><a href="https://geoclassics.com/product-category/rocks-minerals/fluorite/">Fluorite</a> <span class="count">(4)</span></li>
+<li class="cat-item cat-item-303"><a href="https://geoclassics.com/product-category/rocks-minerals/fuchsite/">Fuchsite</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-210"><a href="https://geoclassics.com/product-category/rocks-minerals/garnet/">Garnet</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-211"><a href="https://geoclassics.com/product-category/rocks-minerals/herkimer-diamonds/">Herkimer "Diamonds"</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-309"><a href="https://geoclassics.com/product-category/rocks-minerals/iolite/">Iolite</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-306"><a href="https://geoclassics.com/product-category/rocks-minerals/jade/">Jade</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-213"><a href="https://geoclassics.com/product-category/rocks-minerals/kyanite/">Kyanite</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-212"><a href="https://geoclassics.com/product-category/rocks-minerals/labradorite/">Labradorite</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-214"><a href="https://geoclassics.com/product-category/rocks-minerals/lapis-lazuli/">Lapis Lazuli</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-215"><a href="https://geoclassics.com/product-category/rocks-minerals/larimar/">Larimar</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-195"><a href="https://geoclassics.com/product-category/rocks-minerals/malachite/">Malachite</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-342"><a href="https://geoclassics.com/product-category/rocks-minerals/moldavite/">Moldavite</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-216"><a href="https://geoclassics.com/product-category/rocks-minerals/rainbow-moonstone/">Moonstone / Rainbow Moonstone</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-120 cat-parent"><a href="https://geoclassics.com/product-category/rocks-minerals/opal/">Opal</a> <span class="count">(8)</span>	<ul class='children'>
+<li class="cat-item cat-item-332"><a href="https://geoclassics.com/product-category/rocks-minerals/opal/australia/">Australia</a> <span class="count">(3)</span></li>
+<li class="cat-item cat-item-330"><a href="https://geoclassics.com/product-category/rocks-minerals/opal/ethiopia/">Ethiopia</a> <span class="count">(3)</span></li>
+<li class="cat-item cat-item-331"><a href="https://geoclassics.com/product-category/rocks-minerals/opal/mexico/">Mexico</a> <span class="count">(2)</span></li>
+	</ul>
+</li>
+<li class="cat-item cat-item-298"><a href="https://geoclassics.com/product-category/rocks-minerals/ocean-orbicular-jasper/">Orbicular (Ocean) Jasper</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-217"><a href="https://geoclassics.com/product-category/rocks-minerals/pietersite/">Pietersite</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-220"><a href="https://geoclassics.com/product-category/rocks-minerals/quartz/">Quartz</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-227"><a href="https://geoclassics.com/product-category/rocks-minerals/rhodochrosite/">Rhodochrosite</a> <span class="count">(4)</span></li>
+<li class="cat-item cat-item-302"><a href="https://geoclassics.com/product-category/rocks-minerals/rhodonite/">Rhodonite</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-207"><a href="https://geoclassics.com/product-category/rocks-minerals/rose-quartz/">Rose Quartz</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-218"><a href="https://geoclassics.com/product-category/rocks-minerals/ruby/">Ruby</a> <span class="count">(7)</span></li>
+<li class="cat-item cat-item-268"><a href="https://geoclassics.com/product-category/rocks-minerals/ruby-in-fuchsite/">Ruby in Fuchsite</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-223"><a href="https://geoclassics.com/product-category/rocks-minerals/rutilated-quartz/">Rutilated Quartz</a> <span class="count">(1)</span></li>
+<li class="cat-item cat-item-311"><a href="https://geoclassics.com/product-category/rocks-minerals/septarian-geode/">Septarian Geode</a> <span class="count">(3)</span></li>
+<li class="cat-item cat-item-186"><a href="https://geoclassics.com/product-category/rocks-minerals/seraphinite/">Seraphinite (Clinochlore)</a> <span class="count">(5)</span></li>
+<li class="cat-item cat-item-260"><a href="https://geoclassics.com/product-category/rocks-minerals/serpentine/">Serpentine</a> <span class="count">(1)</span></li>
+<li class="cat-item cat-item-277"><a href="https://geoclassics.com/product-category/rocks-minerals/simbircite/">Simbircite</a> <span class="count">(1)</span></li>
+<li class="cat-item cat-item-257"><a href="https://geoclassics.com/product-category/rocks-minerals/star-sapphire-corundum/">Star Sapphire / Corundum</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-321"><a href="https://geoclassics.com/product-category/rocks-minerals/sugilite/">Sugilite</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-307"><a href="https://geoclassics.com/product-category/rocks-minerals/tanzanite/">Tanzanite</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-205"><a href="https://geoclassics.com/product-category/rocks-minerals/tigers-eye/">Tiger's Eye</a> <span class="count">(2)</span></li>
+<li class="cat-item cat-item-225"><a href="https://geoclassics.com/product-category/rocks-minerals/tourmalinated-quartz/">Tourmalinated Quartz</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-222"><a href="https://geoclassics.com/product-category/rocks-minerals/tourmaline/">Tourmaline</a> <span class="count">(0)</span></li>
+<li class="cat-item cat-item-219"><a href="https://geoclassics.com/product-category/rocks-minerals/variscite/">Variscite</a> <span class="count">(0)</span></li>
+</ul>
+</li>
+<li class="cat-item cat-item-344"><a href="https://geoclassics.com/product-category/uncategorized/">Uncategorized</a> <span class="count">(0)</span></li>
+</ul></div></nav></div><section aria-label="Popular Products"><h2>Popular Products</h2><div class="woocommerce columns-4 "><ul class="products columns-4">
+<li class="post-90 product type-product status-publish has-post-thumbnail product_cat-necklaces first instock taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://geoclassics.com/product/czech-glass-necklace-2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" src="//geoclassics.com/wp-content/uploads/Czech-glass-necklace-129B-KC-300x479.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" /><h2 class="woocommerce-loop-product__title">Czech Glass Necklace 2</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>72.00</span></span>
+</a></li>
+<li class="post-112 product type-product status-publish has-post-thumbnail product_cat-necklaces product_shipping_class-usps-medium-box-flat-rate-insured  instock taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://geoclassics.com/product/blue-dichroic-glass-cleopatra-necklace-earrings/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" src="//geoclassics.com/wp-content/uploads/dichroic-glass-Cleopatra-necklace-blue-comet-earrings-300x430.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" /><h2 class="woocommerce-loop-product__title">Blue Dichroic Glass Cleopatra Necklace &amp; Earrings</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>148.00</span></span>
+</a></li>
+<li class="post-3732 product type-product status-publish has-post-thumbnail product_cat-rhodochrosite product_cat-spheres product_shipping_class-usps-small-box-flat-rate-insured  outofstock sale taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://geoclassics.com/product/rhodochrosite-sphere-2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" src="//geoclassics.com/wp-content/uploads/rhodochrosite-sphere-small-argentina-437g-195-75-CS-a-300x199.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" /><h2 class="woocommerce-loop-product__title">Rhodochrosite Sphere</h2>
+	<span class="onsale">Sale!</span>
+
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>195.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>175.00</span></ins></span>
+</a></li>
+<li class="post-114 product type-product status-publish has-post-thumbnail product_cat-necklaces product_shipping_class-usps-medium-box-flat-rate-insured last outofstock taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://geoclassics.com/product/red-dichroic-glass-cleopatra-necklace-earrings/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" src="//geoclassics.com/wp-content/uploads/dichroic-glass-Cleopatra-necklace-red-comet-earrings-300x428.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" /><h2 class="woocommerce-loop-product__title">Red Dichroic Glass Cleopatra Necklace &amp; Earrings</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>148.00</span></span>
+</a></li>
+</ul>
+</div></section>
+				</div><!-- .page-content -->
+			</div><!-- .error-404 -->
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+		</div><!-- .col-full -->
+	</div><!-- #content -->
+
+	
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="col-full">
+
+							<div class="footer-widgets row-1 col-2 fix">
+							<div class="block footer-widget-1">
+								<div id="pages-5" class="widget widget_pages"><span class="gamma widget-title">Quick Links</span>		<ul>
+			<li class="page_item page-item-2"><a href="https://geoclassics.com/about-us/">About Us</a></li>
+<li class="page_item page-item-32"><a href="https://geoclassics.com/contact-us/">Contact Us</a></li>
+<li class="page_item page-item-9"><a href="https://geoclassics.com/my-account/">My Account</a></li>
+<li class="page_item page-item-1579"><a href="https://geoclassics.com/privacy-security/">Privacy &#038; Security</a></li>
+<li class="page_item page-item-1304"><a href="https://geoclassics.com/return-exchange-policy/">Return and Exchange Policy</a></li>
+<li class="page_item page-item-1277"><a href="https://geoclassics.com/shipping-information/">Shipping Information</a></li>
+<li class="page_item page-item-1268"><a href="https://geoclassics.com/terms-and-conditions/">Terms &#038; Conditions</a></li>
+		</ul>
+		</div>							</div>
+							<div class="block footer-widget-2">
+								<div id="text-4" class="widget widget_text"><span class="gamma widget-title">Store Information</span>			<div class="textwidget"><p>Geoclassics<br />
+Faneuil Hall Marketplace<br />
+7 North Market<br />
+Boston, MA 02109<br />
+617-523-6112</p>
+<p>» <a href="/visit-our-store/">Visit Our Store</a></p>
+<p>» <a href="http://www.faneuilhallmarketplace.com/store/36744" target="_blank">Visit Faneuil Hall Marketplace</a></p>
+</div>
+		</div>							</div>
+				</div><!-- .footer-widgets.row-1 -->		<div class="site-info">
+			&copy; 2018 Geoclassics		</div><!-- .site-info -->
+				<div class="storefront-handheld-footer-bar">
+			<ul class="columns-3">
+									<li class="my-account">
+						<a href="https://geoclassics.com/my-account/">My Account</a>					</li>
+									<li class="search">
+						<a href="">Search</a>			<div class="site-search">
+				<div class="widget woocommerce widget_product_search"><form role="search" method="get" class="woocommerce-product-search" action="https://geoclassics.com/">
+	<label class="screen-reader-text" for="woocommerce-product-search-field-1">Search for:</label>
+	<input type="search" id="woocommerce-product-search-field-1" class="search-field" placeholder="Search products&hellip;" value="" name="s" />
+	<button type="submit" value="Search">Search</button>
+	<input type="hidden" name="post_type" value="product" />
+</form>
+</div>			</div>
+							</li>
+									<li class="cart">
+									<a class="footer-cart-contents" href="https://geoclassics.com/cart/" title="View your shopping cart">
+				<span class="count">0</span>
+			</a>
+							</li>
+							</ul>
+		</div>
+		
+		</div><!-- .col-full -->
+	</footer><!-- #colophon -->
+
+	
+</div><!-- #page -->
+
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+r3f5x9JS=escape(document['referrer']);
+hf4N='f84f1d094bedda9e17a3b42e026d5107';
+hf4V='c49b4f65a90b77f3d3679e691f4bca2a';
+jQuery(document).ready(function($){var e="#commentform, .comment-respond form, .comment-form, #lostpasswordform, #registerform, #loginform, #login_form, #wpss_contact_form, .wpcf7-form";$(e).submit(function(){$("<input>").attr("type","hidden").attr("name","r3f5x9JS").attr("value",r3f5x9JS).appendTo(e);$("<input>").attr("type","hidden").attr("name",hf4N).attr("value",hf4V).appendTo(e);return true;});$("#comment").attr({minlength:"15",maxlength:"15360"})});
+/* ]]> */
+</script> 
+<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":"1","item":{"name":"Home","@id":"https:\/\/geoclassics.com"}},{"@type":"ListItem","position":"2","item":{"name":"Error 404"}}]}</script><script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/geoclassics.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://geoclassics.com/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"https:\/\/geoclassics.com\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/geoclassics.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://geoclassics.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js'></script>
+<script type='text/javascript' src='https://geoclassics.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js'></script>
+<script type='text/javascript' src='https://geoclassics.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"https:\/\/geoclassics.com\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://geoclassics.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"https:\/\/geoclassics.com\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_04d3c7b55a71fdad81e91f810d464096","fragment_name":"wc_fragments_04d3c7b55a71fdad81e91f810d464096"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://geoclassics.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js'></script>
+<script type='text/javascript' src='https://geoclassics.com/wp-content/themes/storefront/assets/js/navigation.min.js'></script>
+<script type='text/javascript' src='https://geoclassics.com/wp-content/themes/storefront/assets/js/skip-link-focus-fix.min.js'></script>
+<script type='text/javascript' src='https://geoclassics.com/wp-content/themes/storefront/assets/js/woocommerce/header-cart.min.js'></script>
+<script type='text/javascript' src='https://geoclassics.com/wp-content/plugins/woo-search-box/public/assets/guaven_woos.js'></script>
+<script type='text/javascript' src='https://geoclassics.com/wp-content/plugins/wp-spamshield/js/jscripts-ftr-min.js'></script>
+<script type='text/javascript' src='https://geoclassics.com/wp-includes/js/wp-embed.min.js'></script>
+<script>
+var focused=0;
+guaven_data_path='https://geoclassics.com/wp-content/plugins/woo-search-box/public/assets/guaven_woos_data.js?v=407.54';
+guaven_woos_idb_version=407;
+guaven_engine_start_delay=500;
+guaven_woos_disable_focusout=0;
+guaven_show_all_text="";
+guaven_woos_showinit="";
+guaven_woos_shownotfound="No products found";
+guaven_woos_populars_enabled=0;
+guaven_woos_categories_enabled=0;
+cmaxcount=5;
+guaven_woos_correction_enabled=1;
+guaven_woos_pinnedtitle="";
+guaven_woos_sugbarwidth=1;
+minkeycount=3;
+maxcount=10;
+maxtypocount=10;
+guaven_woos_large_data=0;
+guaven_woos_updir="http://geoclassics.com/wp-content/uploads";
+guaven_woos_exactmatch=0;
+guaven_woos_backend=0;
+guaven_woos_perst="";
+guaven_woos_persprod="";
+guaven_woos_mobilesearch=0;
+guaven_woos_ignorelist=["",];
+guaven_woos_dttrr=1;
+if (typeof(Storage) !== "undefined") {
+guaven_woos_data = {
+  "action": "guaven_woos_tracker",
+  "ajnonce": "6c935b2a06",
+  "addcontrol": "1518308749",
+};
+guaven_woos_ajaxurl="https://geoclassics.com/wp-admin/admin-ajax.php";
+}
+  guaven_woos_wpml="";
+guaven_woos_homeurl="https://geoclassics.com";
+  </script>
+
+  <div class="guaven_woos_suggestion"> </div>
+
+</body>
+</html>
